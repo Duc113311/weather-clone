@@ -1,0 +1,84 @@
+@font-face {
+  font-family: "Roboto-Black";
+  src: url("../fonts/Roboto-Black.ttf") format("woff2");
+  font-weight: 900; /* Corresponds to Black */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Roboto-Bold";
+  src: url("../fonts/Roboto-Bold.ttf") format("woff2");
+  font-weight: 700; /* Corresponds to Bold */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Roboto-Regular";
+  src: url("../fonts/Roboto-Regular.ttf") format("woff2");
+  font-weight: 200; /* Corresponds to Medium */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Roboto-Medium";
+  src: url("../fonts/Roboto-Medium.ttf") format("woff2");
+  font-weight: 400; /* Corresponds to Medium */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Roboto-Light";
+  src: url("../fonts/Roboto-Light.ttf") format("woff2");
+  font-style: normal;
+}
+
+/*  HelveticaNeue */
+
+@font-face {
+  font-family: "Helvetica Neue", sans-serif;
+  src: url("../fonts/HelveticaNeueBold.ttf") format("woff2");
+  font-weight: 700; /* Corresponds to Bold */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Helvetica Neue", sans-serif;
+  src: url("../fonts/HelveticaNeueMedium.ttf") format("woff2");
+  font-weight: 500; /* Corresponds to Medium */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Helvetica Neue", sans-serif;
+  src: url("../fonts/HelveticaNeueRegular.ttf") format('truetype');
+  font-weight: 400; /* Corresponds to Regular */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Helvetica Neue", sans-serif;
+  src: url("../fonts/HelveticaNeueLight.ttf") format('truetype');
+  font-weight: 300; /* Corresponds to Medium */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Helvetica Neue", sans-serif;
+  src: url("../fonts/HelveticaNeueMedium.ttf") format('truetype');
+  font-weight: 500; /* Corresponds to Medium */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: url("../fonts/Poppins-Medium.ttf") format("woff2");
+  font-weight: 300; /* Corresponds to Medium */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: url("../fonts/Poppins-Regular.ttf") format("woff2");
+  font-weight: 300; /* Corresponds to Medium */
+  font-style: normal;
+}

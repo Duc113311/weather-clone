@@ -1,0 +1,2686 @@
+[
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 38.7432412,
+      "lng": -120.7303632
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rabil",
+        "location": {
+          "lat": 16.083,
+          "lng": -22.88
+        },
+        "keyAccentLanguage": "rabil"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bofareira",
+        "location": {
+          "lat": 16.185,
+          "lng": -22.823
+        },
+        "keyAccentLanguage": "bofareira"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pai Amaro",
+        "location": {
+          "lat": 16.033,
+          "lng": -22.733
+        },
+        "keyAccentLanguage": "pai_amaro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Prazeres",
+        "location": {
+          "lat": 16,
+          "lng": -22.817
+        },
+        "keyAccentLanguage": "prazeres"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Joao Galego",
+        "location": {
+          "lat": 16.15,
+          "lng": -22.75
+        },
+        "keyAccentLanguage": "joao_galego"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cabecadas",
+        "location": {
+          "lat": 16.129,
+          "lng": -22.887
+        },
+        "keyAccentLanguage": "cabecadas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Curral Branco",
+        "location": {
+          "lat": 16.033,
+          "lng": -22.8
+        },
+        "keyAccentLanguage": "curral_branco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fogao",
+        "location": {
+          "lat": 16.083,
+          "lng": -22.85
+        },
+        "keyAccentLanguage": "fogao"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Derrubado",
+        "location": {
+          "lat": 16.233,
+          "lng": -22.8
+        },
+        "keyAccentLanguage": "derrubado"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Curral Velho",
+        "location": {
+          "lat": 15.993,
+          "lng": -22.796
+        },
+        "keyAccentLanguage": "curral_velho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Espingueira",
+        "location": {
+          "lat": 16.217,
+          "lng": -22.8
+        },
+        "keyAccentLanguage": "espingueira"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Povoacao Velha",
+        "location": {
+          "lat": 16.038,
+          "lng": -22.917
+        },
+        "keyAccentLanguage": "povoacao_velha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Joao Barrosa",
+        "location": {
+          "lat": 16.025,
+          "lng": -22.746
+        },
+        "keyAccentLanguage": "joao_barrosa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cabeco dos Tarafes",
+        "location": {
+          "lat": 16.124,
+          "lng": -22.724
+        },
+        "keyAccentLanguage": "cabeco_dos_tarafes"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gata",
+        "location": {
+          "lat": 16.193,
+          "lng": -22.719
+        },
+        "keyAccentLanguage": "gata"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fundo das Figueiras",
+        "location": {
+          "lat": 16.139,
+          "lng": -22.724
+        },
+        "keyAccentLanguage": "fundo_das_figueiras"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Adiante",
+        "location": {
+          "lat": 16.183,
+          "lng": -22.85
+        },
+        "keyAccentLanguage": "ponta_adiante"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sal Rei",
+        "location": {
+          "lat": 16.176,
+          "lng": -22.917
+        },
+        "keyAccentLanguage": "sal_rei"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Boa Ventura",
+        "location": {
+          "lat": 16.132,
+          "lng": -22.884
+        },
+        "keyAccentLanguage": "boa_ventura"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amador",
+        "location": {
+          "lat": 16.117,
+          "lng": -22.833
+        },
+        "keyAccentLanguage": "amador"
+      }
+    ],
+    "enNameLanguage": "Boa Vista",
+    "keyAccentLanguage": "boa_vista"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 42.3577989,
+      "lng": -73.28313779999999
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Faja",
+        "location": {
+          "lat": 14.871,
+          "lng": -24.731
+        },
+        "keyAccentLanguage": "faja"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cachaco",
+        "location": {
+          "lat": 14.837,
+          "lng": -24.696
+        },
+        "keyAccentLanguage": "cachaco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Vinagre",
+        "location": {
+          "lat": 14.872,
+          "lng": -24.683
+        },
+        "keyAccentLanguage": "vinagre"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nossa Senhora do Monte",
+        "location": {
+          "lat": 14.85,
+          "lng": -24.717
+        },
+        "keyAccentLanguage": "nossa_senhora_do_monte"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nova Sintra",
+        "location": {
+          "lat": 14.872,
+          "lng": -24.695
+        },
+        "keyAccentLanguage": "nova_sintra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Santa Barbara",
+        "location": {
+          "lat": 14.877,
+          "lng": -24.688
+        },
+        "keyAccentLanguage": "santa_barbara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Garca",
+        "location": {
+          "lat": 14.859,
+          "lng": -24.687
+        },
+        "keyAccentLanguage": "garca"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baleia",
+        "location": {
+          "lat": 14.855,
+          "lng": -24.69
+        },
+        "keyAccentLanguage": "baleia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Furna",
+        "location": {
+          "lat": 14.883,
+          "lng": -24.683
+        },
+        "keyAccentLanguage": "furna"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pau",
+        "location": {
+          "lat": 14.857,
+          "lng": -24.728
+        },
+        "keyAccentLanguage": "pau"
+      }
+    ],
+    "enNameLanguage": "Brava",
+    "keyAccentLanguage": "brava"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 45.3481439,
+      "lng": -75.6267927
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pai Joana",
+        "location": {
+          "lat": 15.267,
+          "lng": -23.117
+        },
+        "keyAccentLanguage": "pai_joana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alcatraz",
+        "location": {
+          "lat": 15.217,
+          "lng": -23.104
+        },
+        "keyAccentLanguage": "alcatraz"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pedro Vaz",
+        "location": {
+          "lat": 15.25,
+          "lng": -23.133
+        },
+        "keyAccentLanguage": "pedro_vaz"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Figueira Seca",
+        "location": {
+          "lat": 15.156,
+          "lng": -23.145
+        },
+        "keyAccentLanguage": "figueira_seca"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Morrinho",
+        "location": {
+          "lat": 15.266,
+          "lng": -23.205
+        },
+        "keyAccentLanguage": "morrinho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Maio",
+        "location": {
+          "lat": 15.139,
+          "lng": -23.211
+        },
+        "keyAccentLanguage": "maio"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Figueira da Horta",
+        "location": {
+          "lat": 15.161,
+          "lng": -23.152
+        },
+        "keyAccentLanguage": "figueira_da_horta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Morro",
+        "location": {
+          "lat": 15.183,
+          "lng": -23.233
+        },
+        "keyAccentLanguage": "morro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Santo Antonio",
+        "location": {
+          "lat": 15.275,
+          "lng": -23.123
+        },
+        "keyAccentLanguage": "santo_antonio"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barreiro",
+        "location": {
+          "lat": 15.133,
+          "lng": -23.167
+        },
+        "keyAccentLanguage": "barreiro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lagoa",
+        "location": {
+          "lat": 15.128,
+          "lng": -23.146
+        },
+        "keyAccentLanguage": "lagoa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cascabulho",
+        "location": {
+          "lat": 15.27,
+          "lng": -23.173
+        },
+        "keyAccentLanguage": "cascabulho"
+      }
+    ],
+    "enNameLanguage": "Maio",
+    "keyAccentLanguage": "maio"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 37.8904348,
+      "lng": -25.8207556
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ribeira Ilheu",
+        "location": {
+          "lat": 15.036,
+          "lng": -24.375
+        },
+        "keyAccentLanguage": "ribeira_ilheu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Achada Grande",
+        "location": {
+          "lat": 14.988,
+          "lng": -24.304
+        },
+        "keyAccentLanguage": "achada_grande"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Corvo",
+        "location": {
+          "lat": 15,
+          "lng": -24.305
+        },
+        "keyAccentLanguage": "corvo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fajazinha",
+        "location": {
+          "lat": 15.047,
+          "lng": -24.35
+        },
+        "keyAccentLanguage": "fajazinha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lagoa Atras",
+        "location": {
+          "lat": 15.017,
+          "lng": -24.333
+        },
+        "keyAccentLanguage": "lagoa_atras"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Igreja",
+        "location": {
+          "lat": 15.034,
+          "lng": -24.324
+        },
+        "keyAccentLanguage": "igreja"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Atalaia",
+        "location": {
+          "lat": 15.025,
+          "lng": -24.387
+        },
+        "keyAccentLanguage": "atalaia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sambango",
+        "location": {
+          "lat": 15.05,
+          "lng": -24.35
+        },
+        "keyAccentLanguage": "sambango"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Relva",
+        "location": {
+          "lat": 14.983,
+          "lng": -24.317
+        },
+        "keyAccentLanguage": "relva"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Porto dos Mosteiros",
+        "location": {
+          "lat": 15.033,
+          "lng": -24.333
+        },
+        "keyAccentLanguage": "porto_dos_mosteiros"
+      }
+    ],
+    "enNameLanguage": "Mosteiros",
+    "keyAccentLanguage": "mosteiros"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 38.8941842,
+      "lng": -77.0236578
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pombas",
+        "location": {
+          "lat": 17.149,
+          "lng": -25.015
+        },
+        "keyAccentLanguage": "pombas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Janela",
+        "location": {
+          "lat": 17.117,
+          "lng": -25
+        },
+        "keyAccentLanguage": "janela"
+      }
+    ],
+    "enNameLanguage": "Paul",
+    "keyAccentLanguage": "paul"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 6.4968574,
+      "lng": 2.6288523
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tabuga",
+        "location": {
+          "lat": 17.015,
+          "lng": -25.2
+        },
+        "keyAccentLanguage": "tabuga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ribeira da Cruz",
+        "location": {
+          "lat": 17.113,
+          "lng": -25.242
+        },
+        "keyAccentLanguage": "ribeira_da_cruz"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lombo da Torre",
+        "location": {
+          "lat": 17,
+          "lng": -25.217
+        },
+        "keyAccentLanguage": "lombo_da_torre"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Leiro",
+        "location": {
+          "lat": 17.001,
+          "lng": -25.198
+        },
+        "keyAccentLanguage": "leiro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Selada",
+        "location": {
+          "lat": 17.069,
+          "lng": -25.205
+        },
+        "keyAccentLanguage": "selada"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Joao Daninha",
+        "location": {
+          "lat": 16.967,
+          "lng": -25.233
+        },
+        "keyAccentLanguage": "joao_daninha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ribeira Vermelha",
+        "location": {
+          "lat": 17.072,
+          "lng": -25.285
+        },
+        "keyAccentLanguage": "ribeira_vermelha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Urzeleiro",
+        "location": {
+          "lat": 17.083,
+          "lng": -25.2
+        },
+        "keyAccentLanguage": "urzeleiro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chao Queimado",
+        "location": {
+          "lat": 17.086,
+          "lng": -25.194
+        },
+        "keyAccentLanguage": "chao_queimado"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Curral das Vacas",
+        "location": {
+          "lat": 17.043,
+          "lng": -25.219
+        },
+        "keyAccentLanguage": "curral_das_vacas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Perdia",
+        "location": {
+          "lat": 17.1,
+          "lng": -25.033
+        },
+        "keyAccentLanguage": "perdia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baboso",
+        "location": {
+          "lat": 17.004,
+          "lng": -25.213
+        },
+        "keyAccentLanguage": "baboso"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cha da Ribeira",
+        "location": {
+          "lat": 17.117,
+          "lng": -25.267
+        },
+        "keyAccentLanguage": "cha_da_ribeira"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Queimado",
+        "location": {
+          "lat": 16.988,
+          "lng": -25.234
+        },
+        "keyAccentLanguage": "queimado"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bonita",
+        "location": {
+          "lat": 17.083,
+          "lng": -25.317
+        },
+        "keyAccentLanguage": "bonita"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Miguel Pires",
+        "location": {
+          "lat": 17.086,
+          "lng": -25.229
+        },
+        "keyAccentLanguage": "miguel_pires"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agua das Fortes",
+        "location": {
+          "lat": 16.967,
+          "lng": -25.217
+        },
+        "keyAccentLanguage": "agua_das_fortes"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cirio",
+        "location": {
+          "lat": 17.067,
+          "lng": -25.233
+        },
+        "keyAccentLanguage": "cirio"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lombo de Figueira",
+        "location": {
+          "lat": 17.1,
+          "lng": -25.067
+        },
+        "keyAccentLanguage": "lombo_de_figueira"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Monte Trigo",
+        "location": {
+          "lat": 17.021,
+          "lng": -25.331
+        },
+        "keyAccentLanguage": "monte_trigo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Martiana",
+        "location": {
+          "lat": 17.1,
+          "lng": -25.25
+        },
+        "keyAccentLanguage": "martiana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Botija",
+        "location": {
+          "lat": 17.039,
+          "lng": -25.322
+        },
+        "keyAccentLanguage": "botija"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ribeira Fria",
+        "location": {
+          "lat": 17.05,
+          "lng": -25.167
+        },
+        "keyAccentLanguage": "ribeira_fria"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lombo das Dancas",
+        "location": {
+          "lat": 16.983,
+          "lng": -25.217
+        },
+        "keyAccentLanguage": "lombo_das_dancas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Seladinha",
+        "location": {
+          "lat": 16.967,
+          "lng": -25.317
+        },
+        "keyAccentLanguage": "seladinha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pedrinha",
+        "location": {
+          "lat": 16.967,
+          "lng": -25.15
+        },
+        "keyAccentLanguage": "pedrinha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tabuadinha",
+        "location": {
+          "lat": 17.081,
+          "lng": -25.158
+        },
+        "keyAccentLanguage": "tabuadinha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cha de Morte",
+        "location": {
+          "lat": 17.044,
+          "lng": -25.208
+        },
+        "keyAccentLanguage": "cha_de_morte"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Morrinho d' Egua",
+        "location": {
+          "lat": 17.1,
+          "lng": -25.267
+        },
+        "keyAccentLanguage": "morrinho_d'_egua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tarrafal",
+        "location": {
+          "lat": 16.959,
+          "lng": -25.304
+        },
+        "keyAccentLanguage": "tarrafal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cha do Norte",
+        "location": {
+          "lat": 17.117,
+          "lng": -25.267
+        },
+        "keyAccentLanguage": "cha_do_norte"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pinto",
+        "location": {
+          "lat": 17.083,
+          "lng": -25.167
+        },
+        "keyAccentLanguage": "pinto"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Porto Novo",
+        "location": {
+          "lat": 17.022,
+          "lng": -25.066
+        },
+        "keyAccentLanguage": "porto_novo"
+      }
+    ],
+    "enNameLanguage": "Porto Novo",
+    "keyAccentLanguage": "porto_novo"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 14.917,
+      "lng": -23.511
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Praia",
+        "location": {
+          "lat": 14.917,
+          "lng": -23.511
+        },
+        "keyAccentLanguage": "praia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Montagarro",
+        "location": {
+          "lat": 14.95,
+          "lng": -23.517
+        },
+        "keyAccentLanguage": "montagarro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Trindade",
+        "location": {
+          "lat": 14.958,
+          "lng": -23.557
+        },
+        "keyAccentLanguage": "trindade"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Vila Nova",
+        "location": {
+          "lat": 14.933,
+          "lng": -23.517
+        },
+        "keyAccentLanguage": "vila_nova"
+      }
+    ],
+    "enNameLanguage": "Praia",
+    "keyAccentLanguage": "praia"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 32.67,
+      "lng": -17.063
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cabecalinho",
+        "location": {
+          "lat": 16.6,
+          "lng": -24.317
+        },
+        "keyAccentLanguage": "cabecalinho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Preguica",
+        "location": {
+          "lat": 16.563,
+          "lng": -24.281
+        },
+        "keyAccentLanguage": "preguica"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Camaroes",
+        "location": {
+          "lat": 16.665,
+          "lng": -24.334
+        },
+        "keyAccentLanguage": "camaroes"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Juncalinho",
+        "location": {
+          "lat": 16.617,
+          "lng": -24.133
+        },
+        "keyAccentLanguage": "juncalinho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Covoada",
+        "location": {
+          "lat": 16.65,
+          "lng": -24.35
+        },
+        "keyAccentLanguage": "covoada"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Morro Alto",
+        "location": {
+          "lat": 16.617,
+          "lng": -24.183
+        },
+        "keyAccentLanguage": "morro_alto"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Castilhiano",
+        "location": {
+          "lat": 16.583,
+          "lng": -24.05
+        },
+        "keyAccentLanguage": "castilhiano"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Carrical",
+        "location": {
+          "lat": 16.554,
+          "lng": -24.081
+        },
+        "keyAccentLanguage": "carrical"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ribeira Funda",
+        "location": {
+          "lat": 16.683,
+          "lng": -24.35
+        },
+        "keyAccentLanguage": "ribeira_funda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Morre Braz",
+        "location": {
+          "lat": 16.633,
+          "lng": -24.2
+        },
+        "keyAccentLanguage": "morre_braz"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Estancia Bras",
+        "location": {
+          "lat": 16.668,
+          "lng": -24.319
+        },
+        "keyAccentLanguage": "estancia_bras"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Figueira de Coxe",
+        "location": {
+          "lat": 16.633,
+          "lng": -24.217
+        },
+        "keyAccentLanguage": "figueira_de_coxe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Calejao",
+        "location": {
+          "lat": 16.6,
+          "lng": -24.317
+        },
+        "keyAccentLanguage": "calejao"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Queimadas",
+        "location": {
+          "lat": 16.633,
+          "lng": -24.317
+        },
+        "keyAccentLanguage": "queimadas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ribeira Brava",
+        "location": {
+          "lat": 16.616,
+          "lng": -24.295
+        },
+        "keyAccentLanguage": "ribeira_brava"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Carvoeiros",
+        "location": {
+          "lat": 16.65,
+          "lng": -24.317
+        },
+        "keyAccentLanguage": "carvoeiros"
+      }
+    ],
+    "enNameLanguage": "Ribeira Brava",
+    "keyAccentLanguage": "ribeira_brava"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 37.8210369,
+      "lng": -25.5148137
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ribeira Grande",
+        "location": {
+          "lat": 17.183,
+          "lng": -25.065
+        },
+        "keyAccentLanguage": "ribeira_grande"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Esgamaleiro",
+        "location": {
+          "lat": 17.117,
+          "lng": -25.15
+        },
+        "keyAccentLanguage": "esgamaleiro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Espadana",
+        "location": {
+          "lat": 17.086,
+          "lng": -25.156
+        },
+        "keyAccentLanguage": "espadana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Monte Joana",
+        "location": {
+          "lat": 17.162,
+          "lng": -25.049
+        },
+        "keyAccentLanguage": "monte_joana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Penha de Franca",
+        "location": {
+          "lat": 17.183,
+          "lng": -25.067
+        },
+        "keyAccentLanguage": "penha_de_franca"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cha da Igreja",
+        "location": {
+          "lat": 17.158,
+          "lng": -25.163
+        },
+        "keyAccentLanguage": "cha_da_igreja"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Vila Maria Pia",
+        "location": {
+          "lat": 17.193,
+          "lng": -25.096
+        },
+        "keyAccentLanguage": "vila_maria_pia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sinagoga",
+        "location": {
+          "lat": 17.177,
+          "lng": -25.031
+        },
+        "keyAccentLanguage": "sinagoga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fanade",
+        "location": {
+          "lat": 17.133,
+          "lng": -25.167
+        },
+        "keyAccentLanguage": "fanade"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Coculi",
+        "location": {
+          "lat": 17.165,
+          "lng": -25.097
+        },
+        "keyAccentLanguage": "coculi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Figueiras de Baixo",
+        "location": {
+          "lat": 17.15,
+          "lng": -25.217
+        },
+        "keyAccentLanguage": "figueiras_de_baixo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tarrafal da Vila de Ribeira Grande",
+        "location": {
+          "lat": 17.183,
+          "lng": -25.067
+        },
+        "keyAccentLanguage": "tarrafal_da_vila_de_ribeira_grande"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Escabecada",
+        "location": {
+          "lat": 17.133,
+          "lng": -25.15
+        },
+        "keyAccentLanguage": "escabecada"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cha de Vazinha",
+        "location": {
+          "lat": 17.15,
+          "lng": -25.2
+        },
+        "keyAccentLanguage": "cha_de_vazinha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta do Sol",
+        "location": {
+          "lat": 17.201,
+          "lng": -25.092
+        },
+        "keyAccentLanguage": "ponta_do_sol"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cha de Paulo",
+        "location": {
+          "lat": 17.142,
+          "lng": -25.191
+        },
+        "keyAccentLanguage": "cha_de_paulo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cruzinha",
+        "location": {
+          "lat": 17.167,
+          "lng": -25.167
+        },
+        "keyAccentLanguage": "cruzinha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Selada do Mocho",
+        "location": {
+          "lat": 17.147,
+          "lng": -25.154
+        },
+        "keyAccentLanguage": "selada_do_mocho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lombo de Galinha",
+        "location": {
+          "lat": 17.137,
+          "lng": -25.21
+        },
+        "keyAccentLanguage": "lombo_de_galinha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barbasco",
+        "location": {
+          "lat": 17.183,
+          "lng": -25.05
+        },
+        "keyAccentLanguage": "barbasco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Escabecada de Baixo",
+        "location": {
+          "lat": 17.133,
+          "lng": -25.15
+        },
+        "keyAccentLanguage": "escabecada_de_baixo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Meio de Espanha",
+        "location": {
+          "lat": 17.124,
+          "lng": -25.202
+        },
+        "keyAccentLanguage": "meio_de_espanha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Endriano",
+        "location": {
+          "lat": 17.117,
+          "lng": -25.183
+        },
+        "keyAccentLanguage": "endriano"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Figueiras de Cimas",
+        "location": {
+          "lat": 17.119,
+          "lng": -25.201
+        },
+        "keyAccentLanguage": "figueiras_de_cimas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mao para Tras",
+        "location": {
+          "lat": 17.183,
+          "lng": -25.067
+        },
+        "keyAccentLanguage": "mao_para_tras"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Curral",
+        "location": {
+          "lat": 17.164,
+          "lng": -25.104
+        },
+        "keyAccentLanguage": "curral"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lombo do Mar",
+        "location": {
+          "lat": 17.117,
+          "lng": -25.167
+        },
+        "keyAccentLanguage": "lombo_do_mar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cha de Queimada",
+        "location": {
+          "lat": 17.15,
+          "lng": -25.2
+        },
+        "keyAccentLanguage": "cha_de_queimada"
+      }
+    ],
+    "enNameLanguage": "Ribeira Grande",
+    "keyAccentLanguage": "ribeira_grande"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sao Martinho",
+        "location": {
+          "lat": 14.917,
+          "lng": -23.583
+        },
+        "keyAccentLanguage": "sao_martinho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cidade Velha",
+        "location": {
+          "lat": 14.914,
+          "lng": -23.603
+        },
+        "keyAccentLanguage": "cidade_velha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sao Joao",
+        "location": {
+          "lat": 14.95,
+          "lng": -23.667
+        },
+        "keyAccentLanguage": "sao_joao"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Porto Gouveia",
+        "location": {
+          "lat": 14.939,
+          "lng": -23.672
+        },
+        "keyAccentLanguage": "porto_gouveia"
+      }
+    ],
+    "enNameLanguage": "Ribeira Grande de Santiago",
+    "keyAccentLanguage": "ribeira_grande_de_santiago"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 16.7266152,
+      "lng": -22.9297109
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Reguinho",
+        "location": {
+          "lat": 16.85,
+          "lng": -22.933
+        },
+        "keyAccentLanguage": "reguinho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fiura",
+        "location": {
+          "lat": 16.85,
+          "lng": -22.917
+        },
+        "keyAccentLanguage": "fiura"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beirona",
+        "location": {
+          "lat": 16.683,
+          "lng": -22.933
+        },
+        "keyAccentLanguage": "beirona"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Buracona",
+        "location": {
+          "lat": 16.799,
+          "lng": -22.991
+        },
+        "keyAccentLanguage": "buracona"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Feijoal",
+        "location": {
+          "lat": 16.75,
+          "lng": -22.9
+        },
+        "keyAccentLanguage": "feijoal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bomfim",
+        "location": {
+          "lat": 16.7,
+          "lng": -22.9
+        },
+        "keyAccentLanguage": "bomfim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pedra de Lume",
+        "location": {
+          "lat": 16.763,
+          "lng": -22.893
+        },
+        "keyAccentLanguage": "pedra_de_lume"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Palmeira",
+        "location": {
+          "lat": 16.762,
+          "lng": -22.982
+        },
+        "keyAccentLanguage": "palmeira"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Prainha",
+        "location": {
+          "lat": 16.6,
+          "lng": -22.917
+        },
+        "keyAccentLanguage": "prainha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Palha Verde",
+        "location": {
+          "lat": 16.667,
+          "lng": -22.933
+        },
+        "keyAccentLanguage": "palha_verde"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nha Marco",
+        "location": {
+          "lat": 16.7,
+          "lng": -22.95
+        },
+        "keyAccentLanguage": "nha_marco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bela Vista",
+        "location": {
+          "lat": 16.8,
+          "lng": -22.967
+        },
+        "keyAccentLanguage": "bela_vista"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Santa Maria",
+        "location": {
+          "lat": 16.6,
+          "lng": -22.908
+        },
+        "keyAccentLanguage": "santa_maria"
+      }
+    ],
+    "enNameLanguage": "Sal",
+    "keyAccentLanguage": "sal"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -27.2423392,
+      "lng": -50.2188556
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Figueira das Naus",
+        "location": {
+          "lat": 15.183,
+          "lng": -23.733
+        },
+        "keyAccentLanguage": "figueira_das_naus"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fundura",
+        "location": {
+          "lat": 15.239,
+          "lng": -23.687
+        },
+        "keyAccentLanguage": "fundura"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Malveira",
+        "location": {
+          "lat": 15.126,
+          "lng": -23.696
+        },
+        "keyAccentLanguage": "malveira"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Assomada",
+        "location": {
+          "lat": 15.096,
+          "lng": -23.667
+        },
+        "keyAccentLanguage": "assomada"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ribeira da Barca",
+        "location": {
+          "lat": 15.138,
+          "lng": -23.758
+        },
+        "keyAccentLanguage": "ribeira_da_barca"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Charco",
+        "location": {
+          "lat": 15.133,
+          "lng": -23.75
+        },
+        "keyAccentLanguage": "charco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Porto Rincao",
+        "location": {
+          "lat": 15.061,
+          "lng": -23.765
+        },
+        "keyAccentLanguage": "porto_rincao"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cha de Figueiras",
+        "location": {
+          "lat": 15.183,
+          "lng": -23.717
+        },
+        "keyAccentLanguage": "cha_de_figueiras"
+      }
+    ],
+    "enNameLanguage": "Santa Catarina",
+    "keyAccentLanguage": "santa_catarina"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 14.939,
+      "lng": -24.302
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dacabalaio",
+        "location": {
+          "lat": 14.857,
+          "lng": -24.325
+        },
+        "keyAccentLanguage": "dacabalaio"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fonte Aleixo",
+        "location": {
+          "lat": 14.849,
+          "lng": -24.355
+        },
+        "keyAccentLanguage": "fonte_aleixo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Santa Catarina do Fogo",
+        "location": {
+          "lat": 14.939,
+          "lng": -24.302
+        },
+        "keyAccentLanguage": "santa_catarina_do_fogo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Figueira Pavao",
+        "location": {
+          "lat": 14.871,
+          "lng": -24.311
+        },
+        "keyAccentLanguage": "figueira_pavao"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Monte Vermelho",
+        "location": {
+          "lat": 14.845,
+          "lng": -24.328
+        },
+        "keyAccentLanguage": "monte_vermelho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cova Figueira",
+        "location": {
+          "lat": 14.89,
+          "lng": -24.296
+        },
+        "keyAccentLanguage": "cova_figueira"
+      }
+    ],
+    "enNameLanguage": "Santa Catarina do Fogo",
+    "keyAccentLanguage": "santa_catarina_do_fogo"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 36.9741171,
+      "lng": -122.0307963
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Santa Cruz",
+        "location": {
+          "lat": 15.134,
+          "lng": -23.56
+        },
+        "keyAccentLanguage": "santa_cruz"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Santiago",
+        "location": {
+          "lat": 15.138,
+          "lng": -23.537
+        },
+        "keyAccentLanguage": "santiago"
+      }
+    ],
+    "enNameLanguage": "Santa Cruz",
+    "keyAccentLanguage": "santa_cruz"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -26.5605242,
+      "lng": -52.5327781
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Sao Francisco",
+        "location": {
+          "lat": 14.983,
+          "lng": -23.5
+        },
+        "keyAccentLanguage": "ponta_sao_francisco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sacramento",
+        "location": {
+          "lat": 15.05,
+          "lng": -23.567
+        },
+        "keyAccentLanguage": "sacramento"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Achada Baleia",
+        "location": {
+          "lat": 15.047,
+          "lng": -23.464
+        },
+        "keyAccentLanguage": "achada_baleia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ribeirao Chiqueiro",
+        "location": {
+          "lat": 15.006,
+          "lng": -23.525
+        },
+        "keyAccentLanguage": "ribeirao_chiqueiro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sao Domingos",
+        "location": {
+          "lat": 15.028,
+          "lng": -23.561
+        },
+        "keyAccentLanguage": "sao_domingos"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Milho Branco",
+        "location": {
+          "lat": 15.026,
+          "lng": -23.521
+        },
+        "keyAccentLanguage": "milho_branco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Praia Baixo",
+        "location": {
+          "lat": 15.06,
+          "lng": -23.472
+        },
+        "keyAccentLanguage": "praia_baixo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Vale da Gusta",
+        "location": {
+          "lat": 14.983,
+          "lng": -23.483
+        },
+        "keyAccentLanguage": "vale_da_gusta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nora",
+        "location": {
+          "lat": 15.02,
+          "lng": -23.546
+        },
+        "keyAccentLanguage": "nora"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Moia Moia",
+        "location": {
+          "lat": 15.021,
+          "lng": -23.448
+        },
+        "keyAccentLanguage": "moia_moia"
+      }
+    ],
+    "enNameLanguage": "São Domingos",
+    "keyAccentLanguage": "são_domingos"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 14.8951679,
+      "lng": -24.4945636
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Patim",
+        "location": {
+          "lat": 14.874,
+          "lng": -24.426
+        },
+        "keyAccentLanguage": "patim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tongon",
+        "location": {
+          "lat": 14.927,
+          "lng": -24.474
+        },
+        "keyAccentLanguage": "tongon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Galinheiro",
+        "location": {
+          "lat": 14.999,
+          "lng": -24.444
+        },
+        "keyAccentLanguage": "galinheiro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Inhuco",
+        "location": {
+          "lat": 14.949,
+          "lng": -24.425
+        },
+        "keyAccentLanguage": "inhuco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Forno",
+        "location": {
+          "lat": 14.881,
+          "lng": -24.442
+        },
+        "keyAccentLanguage": "forno"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Penteada",
+        "location": {
+          "lat": 14.884,
+          "lng": -24.45
+        },
+        "keyAccentLanguage": "penteada"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Italiano",
+        "location": {
+          "lat": 14.964,
+          "lng": -24.457
+        },
+        "keyAccentLanguage": "italiano"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sao Filipe",
+        "location": {
+          "lat": 14.895,
+          "lng": -24.498
+        },
+        "keyAccentLanguage": "sao_filipe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Vicente Dias",
+        "location": {
+          "lat": 14.888,
+          "lng": -24.453
+        },
+        "keyAccentLanguage": "vicente_dias"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sao Jorge",
+        "location": {
+          "lat": 15.014,
+          "lng": -24.429
+        },
+        "keyAccentLanguage": "sao_jorge"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lagarica",
+        "location": {
+          "lat": 14.919,
+          "lng": -24.451
+        },
+        "keyAccentLanguage": "lagarica"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lugar Novo",
+        "location": {
+          "lat": 14.942,
+          "lng": -24.473
+        },
+        "keyAccentLanguage": "lugar_novo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Luzia Nunes",
+        "location": {
+          "lat": 14.867,
+          "lng": -24.45
+        },
+        "keyAccentLanguage": "luzia_nunes"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mira-Mira",
+        "location": {
+          "lat": 14.975,
+          "lng": -24.447
+        },
+        "keyAccentLanguage": "mira-mira"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Serrado",
+        "location": {
+          "lat": 14.917,
+          "lng": -24.467
+        },
+        "keyAccentLanguage": "serrado"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baluarte",
+        "location": {
+          "lat": 15,
+          "lng": -24.383
+        },
+        "keyAccentLanguage": "baluarte"
+      }
+    ],
+    "enNameLanguage": "São Filipe",
+    "keyAccentLanguage": "são_filipe"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rui Vaz",
+        "location": {
+          "lat": 15.033,
+          "lng": -23.617
+        },
+        "keyAccentLanguage": "rui_vaz"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Joao Teves",
+        "location": {
+          "lat": 15.067,
+          "lng": -23.589
+        },
+        "keyAccentLanguage": "joao_teves"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Orgaos",
+        "location": {
+          "lat": 15.067,
+          "lng": -23.617
+        },
+        "keyAccentLanguage": "orgaos"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Montanha",
+        "location": {
+          "lat": 15.083,
+          "lng": -23.6
+        },
+        "keyAccentLanguage": "montanha"
+      }
+    ],
+    "enNameLanguage": "São Lourenço dos Órgãos",
+    "keyAccentLanguage": "são_lourenço_dos_órgãos"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 37.780411,
+      "lng": -25.4970466
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Achada Monte",
+        "location": {
+          "lat": 15.234,
+          "lng": -23.645
+        },
+        "keyAccentLanguage": "achada_monte"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Palha Carga",
+        "location": {
+          "lat": 15.134,
+          "lng": -23.667
+        },
+        "keyAccentLanguage": "palha_carga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mato Correia",
+        "location": {
+          "lat": 15.2,
+          "lng": -23.64
+        },
+        "keyAccentLanguage": "mato_correia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pinchossa",
+        "location": {
+          "lat": 15.154,
+          "lng": -23.589
+        },
+        "keyAccentLanguage": "pinchossa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ilheu",
+        "location": {
+          "lat": 15.121,
+          "lng": -23.674
+        },
+        "keyAccentLanguage": "ilheu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chacha",
+        "location": {
+          "lat": 15.2,
+          "lng": -23.667
+        },
+        "keyAccentLanguage": "chacha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Calheta",
+        "location": {
+          "lat": 15.185,
+          "lng": -23.591
+        },
+        "keyAccentLanguage": "calheta"
+      }
+    ],
+    "enNameLanguage": "São Miguel",
+    "keyAccentLanguage": "são_miguel"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Picos",
+        "location": {
+          "lat": 15.084,
+          "lng": -23.632
+        },
+        "keyAccentLanguage": "picos"
+      }
+    ],
+    "enNameLanguage": "São Salvador do Mundo",
+    "keyAccentLanguage": "são_salvador_do_mundo"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 16.8280067,
+      "lng": -24.9754175
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Madeiral",
+        "location": {
+          "lat": 16.8310052,
+          "lng": -24.9309213
+        },
+        "keyAccentLanguage": "madeiral"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lazareto",
+        "location": {
+          "lat": 16.8764462,
+          "lng": -25.0217614
+        },
+        "keyAccentLanguage": "lazareto"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Salamansa",
+        "location": {
+          "lat": 16.9,
+          "lng": -24.95
+        },
+        "keyAccentLanguage": "salamansa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mindelo",
+        "location": {
+          "lat": 16.879,
+          "lng": -24.991
+        },
+        "keyAccentLanguage": "mindelo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mateuzinho",
+        "location": {
+          "lat": 16.85,
+          "lng": -24.933
+        },
+        "keyAccentLanguage": "mateuzinho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fazenda Real",
+        "location": {
+          "lat": 16.862,
+          "lng": -24.95
+        },
+        "keyAccentLanguage": "fazenda_real"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Casa do Cabo Submarino",
+        "location": {
+          "lat": 16.817,
+          "lng": -25.067
+        },
+        "keyAccentLanguage": "casa_do_cabo_submarino"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cruz do Pe do Verde",
+        "location": {
+          "lat": 16.883,
+          "lng": -24.95
+        },
+        "keyAccentLanguage": "cruz_do_pe_do_verde"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Calhau",
+        "location": {
+          "lat": 16.853,
+          "lng": -24.866
+        },
+        "keyAccentLanguage": "calhau"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Areia Branca",
+        "location": {
+          "lat": 16.9,
+          "lng": -24.967
+        },
+        "keyAccentLanguage": "areia_branca"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sao Pedro",
+        "location": {
+          "lat": 16.824,
+          "lng": -25.06
+        },
+        "keyAccentLanguage": "sao_pedro"
+      }
+    ],
+    "enNameLanguage": "São Vicente",
+    "keyAccentLanguage": "são_vicente"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 15.2760578,
+      "lng": -23.7484077
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Toril",
+        "location": {
+          "lat": 15.2760578,
+          "lng": -23.7484077
+        },
+        "keyAccentLanguage": "toril"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cha de Dentro",
+        "location": {
+          "lat": 15.2760578,
+          "lng": -23.7484077
+        },
+        "keyAccentLanguage": "cha_de_dentro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ribeira da Prata",
+        "location": {
+          "lat": 15.2293222,
+          "lng": -23.7446888
+        },
+        "keyAccentLanguage": "ribeira_da_prata"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tras-os-Montes",
+        "location": {
+          "lat": 15.2949212,
+          "lng": -23.7141932
+        },
+        "keyAccentLanguage": "tras-os-montes"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ribeirao Sal",
+        "location": {
+          "lat": 15.226,
+          "lng": -23.669
+        },
+        "keyAccentLanguage": "ribeirao_sal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Montinho",
+        "location": {
+          "lat": 15.224,
+          "lng": -23.725
+        },
+        "keyAccentLanguage": "montinho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lapa Cachorro",
+        "location": {
+          "lat": 15.268,
+          "lng": -23.695
+        },
+        "keyAccentLanguage": "lapa_cachorro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Moerao",
+        "location": {
+          "lat": 15.25,
+          "lng": -23.717
+        },
+        "keyAccentLanguage": "moerao"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Montao",
+        "location": {
+          "lat": 15.25,
+          "lng": -23.717
+        },
+        "keyAccentLanguage": "montao"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Achadinha",
+        "location": {
+          "lat": 15.234,
+          "lng": -23.708
+        },
+        "keyAccentLanguage": "achadinha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Portal",
+        "location": {
+          "lat": 15.249,
+          "lng": -23.699
+        },
+        "keyAccentLanguage": "portal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Biscainhos",
+        "location": {
+          "lat": 15.25,
+          "lng": -23.7
+        },
+        "keyAccentLanguage": "biscainhos"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tarrafal",
+        "location": {
+          "lat": 15.276,
+          "lng": -23.753
+        },
+        "keyAccentLanguage": "tarrafal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Massape",
+        "location": {
+          "lat": 15.231,
+          "lng": -23.692
+        },
+        "keyAccentLanguage": "massape"
+      }
+    ],
+    "enNameLanguage": "Tarrafal",
+    "keyAccentLanguage": "tarrafal"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ribeira dos Calhaus",
+        "location": {
+          "lat": 16.633,
+          "lng": -24.367
+        },
+        "keyAccentLanguage": "ribeira_dos_calhaus"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cachacinho",
+        "location": {
+          "lat": 16.594,
+          "lng": -24.315
+        },
+        "keyAccentLanguage": "cachacinho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ortelao",
+        "location": {
+          "lat": 16.617,
+          "lng": -24.367
+        },
+        "keyAccentLanguage": "ortelao"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Praia Branca",
+        "location": {
+          "lat": 16.642,
+          "lng": -24.387
+        },
+        "keyAccentLanguage": "praia_branca"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta da Cruz",
+        "location": {
+          "lat": 16.75,
+          "lng": -24.75
+        },
+        "keyAccentLanguage": "ponta_da_cruz"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Escada",
+        "location": {
+          "lat": 16.583,
+          "lng": -24.367
+        },
+        "keyAccentLanguage": "escada"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Torno d'Agua",
+        "location": {
+          "lat": 16.616,
+          "lng": -24.366
+        },
+        "keyAccentLanguage": "torno_d'agua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fontainhas",
+        "location": {
+          "lat": 16.583,
+          "lng": -24.333
+        },
+        "keyAccentLanguage": "fontainhas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Palhal",
+        "location": {
+          "lat": 16.617,
+          "lng": -24.35
+        },
+        "keyAccentLanguage": "palhal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tarrafal",
+        "location": {
+          "lat": 16.566,
+          "lng": -24.356
+        },
+        "keyAccentLanguage": "tarrafal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ribeira Prata",
+        "location": {
+          "lat": 16.65,
+          "lng": -24.367
+        },
+        "keyAccentLanguage": "ribeira_prata"
+      }
+    ],
+    "enNameLanguage": "Tarrafal de São Nicolau",
+    "keyAccentLanguage": "tarrafal_de_são_nicolau"
+  }
+]

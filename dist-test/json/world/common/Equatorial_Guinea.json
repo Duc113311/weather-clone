@@ -1,0 +1,4686 @@
+[
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -1.405,
+      "lng": 5.632
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "San Juan",
+        "location": {
+          "lat": -1.417,
+          "lng": 5.633
+        },
+        "keyAccentLanguage": "san_juan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "San Antonio de Pale",
+        "location": {
+          "lat": -1.405,
+          "lng": 5.632
+        },
+        "keyAccentLanguage": "san_antonio_de_pale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "San Antonio del Sur",
+        "location": {
+          "lat": -1.459,
+          "lng": 5.637
+        },
+        "keyAccentLanguage": "san_antonio_del_sur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Santa Cruz",
+        "location": {
+          "lat": -1.446,
+          "lng": 5.627
+        },
+        "keyAccentLanguage": "santa_cruz"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anganchi",
+        "location": {
+          "lat": -1.431,
+          "lng": 5.651
+        },
+        "keyAccentLanguage": "anganchi"
+      }
+    ],
+    "enNameLanguage": "Annobón",
+    "keyAccentLanguage": "annobón"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Basupu",
+        "location": {
+          "lat": 3.716,
+          "lng": 8.684
+        },
+        "keyAccentLanguage": "basupu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Basile",
+        "location": {
+          "lat": 3.689,
+          "lng": 8.809
+        },
+        "keyAccentLanguage": "basile"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Botenos",
+        "location": {
+          "lat": 3.667,
+          "lng": 8.633
+        },
+        "keyAccentLanguage": "botenos"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rebola",
+        "location": {
+          "lat": 3.721,
+          "lng": 8.835
+        },
+        "keyAccentLanguage": "rebola"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bososo",
+        "location": {
+          "lat": 3.599,
+          "lng": 8.889
+        },
+        "keyAccentLanguage": "bososo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Shack-River",
+        "location": {
+          "lat": 3.709,
+          "lng": 8.716
+        },
+        "keyAccentLanguage": "shack-river"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baloeri de Cristo Rey",
+        "location": {
+          "lat": 3.672,
+          "lng": 8.637
+        },
+        "keyAccentLanguage": "baloeri_de_cristo_rey"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ciudad de Ela Nguema",
+        "location": {
+          "lat": 3.75,
+          "lng": 8.783
+        },
+        "keyAccentLanguage": "ciudad_de_ela_nguema"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Malabo",
+        "location": {
+          "lat": 3.752,
+          "lng": 8.782
+        },
+        "keyAccentLanguage": "malabo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bareso",
+        "location": {
+          "lat": 3.651,
+          "lng": 8.917
+        },
+        "keyAccentLanguage": "bareso"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bacake Pequeno",
+        "location": {
+          "lat": 3.566,
+          "lng": 8.864
+        },
+        "keyAccentLanguage": "bacake_pequeno"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tepe",
+        "location": {
+          "lat": 3.681,
+          "lng": 8.918
+        },
+        "keyAccentLanguage": "tepe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bacake Grande",
+        "location": {
+          "lat": 3.558,
+          "lng": 8.856
+        },
+        "keyAccentLanguage": "bacake_grande"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Basuala",
+        "location": {
+          "lat": 3.641,
+          "lng": 8.92
+        },
+        "keyAccentLanguage": "basuala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bao Basuala",
+        "location": {
+          "lat": 3.632,
+          "lng": 8.908
+        },
+        "keyAccentLanguage": "bao_basuala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bariobe",
+        "location": {
+          "lat": 3.583,
+          "lng": 8.868
+        },
+        "keyAccentLanguage": "bariobe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Basacato del Este",
+        "location": {
+          "lat": 3.619,
+          "lng": 8.901
+        },
+        "keyAccentLanguage": "basacato_del_este"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cupapa",
+        "location": {
+          "lat": 3.663,
+          "lng": 8.92
+        },
+        "keyAccentLanguage": "cupapa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Santiago de Baney",
+        "location": {
+          "lat": 3.702,
+          "lng": 8.912
+        },
+        "keyAccentLanguage": "santiago_de_baney"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zaragoza",
+        "location": {
+          "lat": 3.72,
+          "lng": 8.749
+        },
+        "keyAccentLanguage": "zaragoza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Basupu",
+        "location": {
+          "lat": 3.716,
+          "lng": 8.684
+        },
+        "keyAccentLanguage": "basupu"
+      }
+    ],
+    "enNameLanguage": "Bioko Norte",
+    "keyAccentLanguage": "bioko_norte"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Batete",
+        "location": {
+          "lat": 3.445,
+          "lng": 8.507
+        },
+        "keyAccentLanguage": "batete"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belebu Balacha",
+        "location": {
+          "lat": 3.4,
+          "lng": 8.583
+        },
+        "keyAccentLanguage": "belebu_balacha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bohe",
+        "location": {
+          "lat": 3.285,
+          "lng": 8.734
+        },
+        "keyAccentLanguage": "bohe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Basacato del Oeste",
+        "location": {
+          "lat": 3.59,
+          "lng": 8.625
+        },
+        "keyAccentLanguage": "basacato_del_oeste"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bombe",
+        "location": {
+          "lat": 3.455,
+          "lng": 8.623
+        },
+        "keyAccentLanguage": "bombe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eburu",
+        "location": {
+          "lat": 3.3,
+          "lng": 8.75
+        },
+        "keyAccentLanguage": "eburu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bao Pequeno",
+        "location": {
+          "lat": 3.522,
+          "lng": 8.825
+        },
+        "keyAccentLanguage": "bao_pequeno"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barrio Las Palmas",
+        "location": {
+          "lat": 3.444,
+          "lng": 8.557
+        },
+        "keyAccentLanguage": "barrio_las_palmas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bantabare",
+        "location": {
+          "lat": 3.45,
+          "lng": 8.764
+        },
+        "keyAccentLanguage": "bantabare"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ruiche",
+        "location": {
+          "lat": 3.411,
+          "lng": 8.549
+        },
+        "keyAccentLanguage": "ruiche"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Musola",
+        "location": {
+          "lat": 3.437,
+          "lng": 8.621
+        },
+        "keyAccentLanguage": "musola"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bocoricho Ombori",
+        "location": {
+          "lat": 3.43,
+          "lng": 8.577
+        },
+        "keyAccentLanguage": "bocoricho_ombori"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Boloco",
+        "location": {
+          "lat": 3.436,
+          "lng": 8.752
+        },
+        "keyAccentLanguage": "boloco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bococo",
+        "location": {
+          "lat": 3.417,
+          "lng": 8.483
+        },
+        "keyAccentLanguage": "bococo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Balombe",
+        "location": {
+          "lat": 3.433,
+          "lng": 8.533
+        },
+        "keyAccentLanguage": "balombe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Basapo",
+        "location": {
+          "lat": 3.633,
+          "lng": 8.65
+        },
+        "keyAccentLanguage": "basapo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Batoicopo",
+        "location": {
+          "lat": 3.633,
+          "lng": 8.65
+        },
+        "keyAccentLanguage": "batoicopo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "San Antonio De Ureca",
+        "location": {
+          "lat": 3.252,
+          "lng": 8.585
+        },
+        "keyAccentLanguage": "san_antonio_de_ureca"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bantabare Pequeno",
+        "location": {
+          "lat": 3.456,
+          "lng": 8.78
+        },
+        "keyAccentLanguage": "bantabare_pequeno"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Parador de Musola",
+        "location": {
+          "lat": 3.42,
+          "lng": 8.65
+        },
+        "keyAccentLanguage": "parador_de_musola"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Luba",
+        "location": {
+          "lat": 3.453,
+          "lng": 8.55
+        },
+        "keyAccentLanguage": "luba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Riaba",
+        "location": {
+          "lat": 3.381,
+          "lng": 8.763
+        },
+        "keyAccentLanguage": "riaba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bioco",
+        "location": {
+          "lat": 3.35,
+          "lng": 8.667
+        },
+        "keyAccentLanguage": "bioco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bocoricho Balacha",
+        "location": {
+          "lat": 3.4,
+          "lng": 8.567
+        },
+        "keyAccentLanguage": "bocoricho_balacha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eori",
+        "location": {
+          "lat": 3.273,
+          "lng": 8.705
+        },
+        "keyAccentLanguage": "eori"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Balacha de Concepcion",
+        "location": {
+          "lat": 3.398,
+          "lng": 8.717
+        },
+        "keyAccentLanguage": "balacha_de_concepcion"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bilelipa",
+        "location": {
+          "lat": 3.492,
+          "lng": 8.797
+        },
+        "keyAccentLanguage": "bilelipa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bao Grande",
+        "location": {
+          "lat": 3.517,
+          "lng": 8.821
+        },
+        "keyAccentLanguage": "bao_grande"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eoco",
+        "location": {
+          "lat": 3.317,
+          "lng": 8.743
+        },
+        "keyAccentLanguage": "eoco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Maule",
+        "location": {
+          "lat": 3.419,
+          "lng": 8.724
+        },
+        "keyAccentLanguage": "maule"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Maule de Gaesa",
+        "location": {
+          "lat": 3.416,
+          "lng": 8.719
+        },
+        "keyAccentLanguage": "maule_de_gaesa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Moca Malabo",
+        "location": {
+          "lat": 3.345,
+          "lng": 8.661
+        },
+        "keyAccentLanguage": "moca_malabo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rilaja",
+        "location": {
+          "lat": 3.439,
+          "lng": 8.635
+        },
+        "keyAccentLanguage": "rilaja"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Moeri",
+        "location": {
+          "lat": 3.466,
+          "lng": 8.669
+        },
+        "keyAccentLanguage": "moeri"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Boemeriba",
+        "location": {
+          "lat": 3.417,
+          "lng": 8.583
+        },
+        "keyAccentLanguage": "boemeriba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Moca",
+        "location": {
+          "lat": 3.335,
+          "lng": 8.667
+        },
+        "keyAccentLanguage": "moca"
+      }
+    ],
+    "enNameLanguage": "Bioko Sur",
+    "keyAccentLanguage": "bioko_sur"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 11.422,
+      "lng": 122.054
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aboransama",
+        "location": {
+          "lat": 1.55,
+          "lng": 10.65
+        },
+        "keyAccentLanguage": "aboransama"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acanabor",
+        "location": {
+          "lat": 1,
+          "lng": 10.083
+        },
+        "keyAccentLanguage": "acanabor"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Asogabo",
+        "location": {
+          "lat": 1.233,
+          "lng": 10.683
+        },
+        "keyAccentLanguage": "asogabo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aconcemento",
+        "location": {
+          "lat": 1.95,
+          "lng": 10.383
+        },
+        "keyAccentLanguage": "aconcemento"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Asoclon",
+        "location": {
+          "lat": 1.4,
+          "lng": 10.633
+        },
+        "keyAccentLanguage": "asoclon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aconekien",
+        "location": {
+          "lat": 1.4,
+          "lng": 10.233
+        },
+        "keyAccentLanguage": "aconekien"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aseng",
+        "location": {
+          "lat": 1.183,
+          "lng": 10.5
+        },
+        "keyAccentLanguage": "aseng"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acon",
+        "location": {
+          "lat": 1.417,
+          "lng": 10.533
+        },
+        "keyAccentLanguage": "acon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alarmintang",
+        "location": {
+          "lat": 1.083,
+          "lng": 10.5
+        },
+        "keyAccentLanguage": "alarmintang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alogoecog",
+        "location": {
+          "lat": 1.967,
+          "lng": 10.4
+        },
+        "keyAccentLanguage": "alogoecog"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acot",
+        "location": {
+          "lat": 2.167,
+          "lng": 10.317
+        },
+        "keyAccentLanguage": "acot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aboramban",
+        "location": {
+          "lat": 1.617,
+          "lng": 10.317
+        },
+        "keyAccentLanguage": "aboramban"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abeng-Nam",
+        "location": {
+          "lat": 1.75,
+          "lng": 10.45
+        },
+        "keyAccentLanguage": "abeng-nam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ayeguening",
+        "location": {
+          "lat": 1.367,
+          "lng": 10.667
+        },
+        "keyAccentLanguage": "ayeguening"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afaanam",
+        "location": {
+          "lat": 1.183,
+          "lng": 10.583
+        },
+        "keyAccentLanguage": "afaanam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aconangui",
+        "location": {
+          "lat": 1.7,
+          "lng": 10.483
+        },
+        "keyAccentLanguage": "aconangui"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ayeme",
+        "location": {
+          "lat": 1,
+          "lng": 10.283
+        },
+        "keyAccentLanguage": "ayeme"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abenilang",
+        "location": {
+          "lat": 1.083,
+          "lng": 10.467
+        },
+        "keyAccentLanguage": "abenilang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Binsan",
+        "location": {
+          "lat": 1.65,
+          "lng": 10.517
+        },
+        "keyAccentLanguage": "binsan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Asoguebenga",
+        "location": {
+          "lat": 1.017,
+          "lng": 10
+        },
+        "keyAccentLanguage": "asoguebenga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acurensoc",
+        "location": {
+          "lat": 1.083,
+          "lng": 10.367
+        },
+        "keyAccentLanguage": "acurensoc"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alar",
+        "location": {
+          "lat": 1.067,
+          "lng": 10.083
+        },
+        "keyAccentLanguage": "alar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Biguoba",
+        "location": {
+          "lat": 1.783,
+          "lng": 10.2
+        },
+        "keyAccentLanguage": "biguoba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bidyangobibere",
+        "location": {
+          "lat": 1.3,
+          "lng": 10.75
+        },
+        "keyAccentLanguage": "bidyangobibere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bocondo",
+        "location": {
+          "lat": 2.017,
+          "lng": 10.35
+        },
+        "keyAccentLanguage": "bocondo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Besongo",
+        "location": {
+          "lat": 1.883,
+          "lng": 10.417
+        },
+        "keyAccentLanguage": "besongo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amvangsi",
+        "location": {
+          "lat": 1.467,
+          "lng": 10.667
+        },
+        "keyAccentLanguage": "amvangsi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ebana",
+        "location": {
+          "lat": 1.15,
+          "lng": 10.783
+        },
+        "keyAccentLanguage": "ebana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aneng",
+        "location": {
+          "lat": 1.083,
+          "lng": 10.367
+        },
+        "keyAccentLanguage": "aneng"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abumnsoc",
+        "location": {
+          "lat": 1.583,
+          "lng": 10.017
+        },
+        "keyAccentLanguage": "abumnsoc"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bisega",
+        "location": {
+          "lat": 1.283,
+          "lng": 10.7
+        },
+        "keyAccentLanguage": "bisega"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dyeng",
+        "location": {
+          "lat": 1.085,
+          "lng": 10.11
+        },
+        "keyAccentLanguage": "dyeng"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alenasi",
+        "location": {
+          "lat": 1.033,
+          "lng": 10.3
+        },
+        "keyAccentLanguage": "alenasi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ebane",
+        "location": {
+          "lat": 1.067,
+          "lng": 10.5
+        },
+        "keyAccentLanguage": "ebane"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Avang",
+        "location": {
+          "lat": 1.9,
+          "lng": 10.367
+        },
+        "keyAccentLanguage": "avang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dumanduin",
+        "location": {
+          "lat": 1.317,
+          "lng": 10.75
+        },
+        "keyAccentLanguage": "dumanduin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Asoc",
+        "location": {
+          "lat": 1.433,
+          "lng": 10.6
+        },
+        "keyAccentLanguage": "asoc"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adyabasi",
+        "location": {
+          "lat": 1.5,
+          "lng": 10.483
+        },
+        "keyAccentLanguage": "adyabasi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dyaambem",
+        "location": {
+          "lat": 1.367,
+          "lng": 10.5
+        },
+        "keyAccentLanguage": "dyaambem"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bicurga",
+        "location": {
+          "lat": 1.583,
+          "lng": 10.467
+        },
+        "keyAccentLanguage": "bicurga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acoc",
+        "location": {
+          "lat": 1.05,
+          "lng": 10.717
+        },
+        "keyAccentLanguage": "acoc"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aconekie",
+        "location": {
+          "lat": 1.017,
+          "lng": 10.2
+        },
+        "keyAccentLanguage": "aconekie"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Asoo",
+        "location": {
+          "lat": 1,
+          "lng": 10.3
+        },
+        "keyAccentLanguage": "asoo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amvonga",
+        "location": {
+          "lat": 1.317,
+          "lng": 10.583
+        },
+        "keyAccentLanguage": "amvonga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Asocleme",
+        "location": {
+          "lat": 1.033,
+          "lng": 10.333
+        },
+        "keyAccentLanguage": "asocleme"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bisong",
+        "location": {
+          "lat": 1.367,
+          "lng": 10.317
+        },
+        "keyAccentLanguage": "bisong"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acombele",
+        "location": {
+          "lat": 1.817,
+          "lng": 10.55
+        },
+        "keyAccentLanguage": "acombele"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abongsu",
+        "location": {
+          "lat": 1.433,
+          "lng": 10.433
+        },
+        "keyAccentLanguage": "abongsu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Asocndoba",
+        "location": {
+          "lat": 1.267,
+          "lng": 10.467
+        },
+        "keyAccentLanguage": "asocndoba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acurnam",
+        "location": {
+          "lat": 1.083,
+          "lng": 10.35
+        },
+        "keyAccentLanguage": "acurnam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Angua",
+        "location": {
+          "lat": 1.133,
+          "lng": 10.483
+        },
+        "keyAccentLanguage": "angua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acuse",
+        "location": {
+          "lat": 1.917,
+          "lng": 10.317
+        },
+        "keyAccentLanguage": "acuse"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bedya",
+        "location": {
+          "lat": 1.333,
+          "lng": 10.583
+        },
+        "keyAccentLanguage": "bedya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Basile",
+        "location": {
+          "lat": 1.033,
+          "lng": 10.683
+        },
+        "keyAccentLanguage": "basile"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acas",
+        "location": {
+          "lat": 1.283,
+          "lng": 10.2
+        },
+        "keyAccentLanguage": "acas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abomdama",
+        "location": {
+          "lat": 1.967,
+          "lng": 10.35
+        },
+        "keyAccentLanguage": "abomdama"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ayacmbong",
+        "location": {
+          "lat": 1.733,
+          "lng": 10.067
+        },
+        "keyAccentLanguage": "ayacmbong"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bigueme",
+        "location": {
+          "lat": 1.45,
+          "lng": 10.4
+        },
+        "keyAccentLanguage": "bigueme"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amvamg",
+        "location": {
+          "lat": 1.75,
+          "lng": 10.483
+        },
+        "keyAccentLanguage": "amvamg"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adyebe",
+        "location": {
+          "lat": 1.167,
+          "lng": 10.433
+        },
+        "keyAccentLanguage": "adyebe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ayacntang",
+        "location": {
+          "lat": 1.567,
+          "lng": 10.417
+        },
+        "keyAccentLanguage": "ayacntang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bilon",
+        "location": {
+          "lat": 2.133,
+          "lng": 10.217
+        },
+        "keyAccentLanguage": "bilon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beyibe",
+        "location": {
+          "lat": 1.417,
+          "lng": 10.583
+        },
+        "keyAccentLanguage": "beyibe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bisobinbong",
+        "location": {
+          "lat": 1.967,
+          "lng": 10.283
+        },
+        "keyAccentLanguage": "bisobinbong"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abe",
+        "location": {
+          "lat": 1.833,
+          "lng": 10.467
+        },
+        "keyAccentLanguage": "abe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abumbem",
+        "location": {
+          "lat": 1.883,
+          "lng": 10.35
+        },
+        "keyAccentLanguage": "abumbem"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bidyigdyiga",
+        "location": {
+          "lat": 1.033,
+          "lng": 10.45
+        },
+        "keyAccentLanguage": "bidyigdyiga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Medouneau",
+        "location": {
+          "lat": 1.01,
+          "lng": 10.79
+        },
+        "keyAccentLanguage": "medouneau"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bibobindoc",
+        "location": {
+          "lat": 1.75,
+          "lng": 10.283
+        },
+        "keyAccentLanguage": "bibobindoc"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Atom",
+        "location": {
+          "lat": 1.033,
+          "lng": 10.667
+        },
+        "keyAccentLanguage": "atom"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acam",
+        "location": {
+          "lat": 1.017,
+          "lng": 10.883
+        },
+        "keyAccentLanguage": "acam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Avensoc",
+        "location": {
+          "lat": 1.083,
+          "lng": 10.45
+        },
+        "keyAccentLanguage": "avensoc"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Corro",
+        "location": {
+          "lat": 1.8,
+          "lng": 10.383
+        },
+        "keyAccentLanguage": "corro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abenye",
+        "location": {
+          "lat": 1.083,
+          "lng": 10.417
+        },
+        "keyAccentLanguage": "abenye"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bisobinam",
+        "location": {
+          "lat": 1.017,
+          "lng": 10.017
+        },
+        "keyAccentLanguage": "bisobinam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abomenvila",
+        "location": {
+          "lat": 1.7,
+          "lng": 10.083
+        },
+        "keyAccentLanguage": "abomenvila"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afansoc",
+        "location": {
+          "lat": 1.3,
+          "lng": 10.7
+        },
+        "keyAccentLanguage": "afansoc"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Evinayong",
+        "location": {
+          "lat": 1.438,
+          "lng": 10.552
+        },
+        "keyAccentLanguage": "evinayong"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bang",
+        "location": {
+          "lat": 1.617,
+          "lng": 10.55
+        },
+        "keyAccentLanguage": "bang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bison",
+        "location": {
+          "lat": 1.167,
+          "lng": 10.55
+        },
+        "keyAccentLanguage": "bison"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amvam",
+        "location": {
+          "lat": 1.4,
+          "lng": 10.25
+        },
+        "keyAccentLanguage": "amvam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ebain",
+        "location": {
+          "lat": 1.4,
+          "lng": 10.583
+        },
+        "keyAccentLanguage": "ebain"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adyelon",
+        "location": {
+          "lat": 1.367,
+          "lng": 10.633
+        },
+        "keyAccentLanguage": "adyelon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adyamibang",
+        "location": {
+          "lat": 1.267,
+          "lng": 10.517
+        },
+        "keyAccentLanguage": "adyamibang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bas",
+        "location": {
+          "lat": 1.133,
+          "lng": 10.783
+        },
+        "keyAccentLanguage": "bas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acurenam",
+        "location": {
+          "lat": 1.034,
+          "lng": 10.659
+        },
+        "keyAccentLanguage": "acurenam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nguelensoc",
+        "location": {
+          "lat": 1.157,
+          "lng": 10.565
+        },
+        "keyAccentLanguage": "nguelensoc"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ebamoyong",
+        "location": {
+          "lat": 1.1,
+          "lng": 10.383
+        },
+        "keyAccentLanguage": "ebamoyong"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sevilla De Niefang",
+        "location": {
+          "lat": 1.846,
+          "lng": 10.244
+        },
+        "keyAccentLanguage": "sevilla_de_niefang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Binguenguen",
+        "location": {
+          "lat": 1.7,
+          "lng": 10.083
+        },
+        "keyAccentLanguage": "binguenguen"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Caangan",
+        "location": {
+          "lat": 1.067,
+          "lng": 10.383
+        },
+        "keyAccentLanguage": "caangan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ayan",
+        "location": {
+          "lat": 1.333,
+          "lng": 10.733
+        },
+        "keyAccentLanguage": "ayan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Compania",
+        "location": {
+          "lat": 1.45,
+          "lng": 10.383
+        },
+        "keyAccentLanguage": "compania"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bicaba",
+        "location": {
+          "lat": 1.533,
+          "lng": 10.567
+        },
+        "keyAccentLanguage": "bicaba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Benito",
+        "location": {
+          "lat": 1.567,
+          "lng": 10.4
+        },
+        "keyAccentLanguage": "benito"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bisun",
+        "location": {
+          "lat": 1.717,
+          "lng": 10.3
+        },
+        "keyAccentLanguage": "bisun"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dumandui",
+        "location": {
+          "lat": 1.95,
+          "lng": 10.383
+        },
+        "keyAccentLanguage": "dumandui"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bidoa",
+        "location": {
+          "lat": 1.233,
+          "lng": 10.583
+        },
+        "keyAccentLanguage": "bidoa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Besabeba",
+        "location": {
+          "lat": 2.05,
+          "lng": 10.217
+        },
+        "keyAccentLanguage": "besabeba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dyio",
+        "location": {
+          "lat": 1.05,
+          "lng": 10.933
+        },
+        "keyAccentLanguage": "dyio"
+      }
+    ],
+    "enNameLanguage": "Centro Sur",
+    "keyAccentLanguage": "centro_sur"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eyina",
+        "location": {
+          "lat": 2.028093,
+          "lng": 11.0711758
+        },
+        "keyAccentLanguage": "eyina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abanengui",
+        "location": {
+          "lat": 2.028093,
+          "lng": 11.0711758
+        },
+        "keyAccentLanguage": "abanengui"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eteete",
+        "location": {
+          "lat": 2.028093,
+          "lng": 11.0711758
+        },
+        "keyAccentLanguage": "eteete"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mesia",
+        "location": {
+          "lat": 2.028093,
+          "lng": 11.0711758
+        },
+        "keyAccentLanguage": "mesia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afanebang",
+        "location": {
+          "lat": 2.133,
+          "lng": 10.85
+        },
+        "keyAccentLanguage": "afanebang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bebulu",
+        "location": {
+          "lat": 2.05,
+          "lng": 10.583
+        },
+        "keyAccentLanguage": "bebulu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acunse",
+        "location": {
+          "lat": 2.033,
+          "lng": 10.867
+        },
+        "keyAccentLanguage": "acunse"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Evansoc",
+        "location": {
+          "lat": 1.967,
+          "lng": 10.517
+        },
+        "keyAccentLanguage": "evansoc"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Evocuon",
+        "location": {
+          "lat": 2.05,
+          "lng": 10.483
+        },
+        "keyAccentLanguage": "evocuon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aseosi",
+        "location": {
+          "lat": 2.15,
+          "lng": 11.033
+        },
+        "keyAccentLanguage": "aseosi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ayaamvele",
+        "location": {
+          "lat": 2.05,
+          "lng": 10.85
+        },
+        "keyAccentLanguage": "ayaamvele"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ecoo",
+        "location": {
+          "lat": 2.083,
+          "lng": 11.317
+        },
+        "keyAccentLanguage": "ecoo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Micheng",
+        "location": {
+          "lat": 2.017,
+          "lng": 10.75
+        },
+        "keyAccentLanguage": "micheng"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abomendama",
+        "location": {
+          "lat": 2,
+          "lng": 10.783
+        },
+        "keyAccentLanguage": "abomendama"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ebebiyin",
+        "location": {
+          "lat": 2.152,
+          "lng": 11.33
+        },
+        "keyAccentLanguage": "ebebiyin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Matamasi",
+        "location": {
+          "lat": 1.817,
+          "lng": 11.233
+        },
+        "keyAccentLanguage": "matamasi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Banga",
+        "location": {
+          "lat": 2.15,
+          "lng": 10.817
+        },
+        "keyAccentLanguage": "banga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eguom",
+        "location": {
+          "lat": 2.017,
+          "lng": 10.967
+        },
+        "keyAccentLanguage": "eguom"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mabomo",
+        "location": {
+          "lat": 1.933,
+          "lng": 11.233
+        },
+        "keyAccentLanguage": "mabomo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mbarangun",
+        "location": {
+          "lat": 1.867,
+          "lng": 11.1
+        },
+        "keyAccentLanguage": "mbarangun"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mbum",
+        "location": {
+          "lat": 1.917,
+          "lng": 11.167
+        },
+        "keyAccentLanguage": "mbum"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bidobo",
+        "location": {
+          "lat": 2.05,
+          "lng": 11
+        },
+        "keyAccentLanguage": "bidobo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Charman",
+        "location": {
+          "lat": 2.083,
+          "lng": 10.7
+        },
+        "keyAccentLanguage": "charman"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Angomayop",
+        "location": {
+          "lat": 2.017,
+          "lng": 11.233
+        },
+        "keyAccentLanguage": "angomayop"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Macogu",
+        "location": {
+          "lat": 2.133,
+          "lng": 10.667
+        },
+        "keyAccentLanguage": "macogu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Manduma",
+        "location": {
+          "lat": 2.017,
+          "lng": 11.183
+        },
+        "keyAccentLanguage": "manduma"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ebemayong",
+        "location": {
+          "lat": 2.133,
+          "lng": 10.533
+        },
+        "keyAccentLanguage": "ebemayong"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fonete",
+        "location": {
+          "lat": 1.75,
+          "lng": 11.05
+        },
+        "keyAccentLanguage": "fonete"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mayos",
+        "location": {
+          "lat": 2.067,
+          "lng": 10.617
+        },
+        "keyAccentLanguage": "mayos"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Esalan",
+        "location": {
+          "lat": 2.133,
+          "lng": 10.933
+        },
+        "keyAccentLanguage": "esalan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beayop",
+        "location": {
+          "lat": 2.15,
+          "lng": 10.817
+        },
+        "keyAccentLanguage": "beayop"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afommanchim",
+        "location": {
+          "lat": 1.767,
+          "lng": 11.317
+        },
+        "keyAccentLanguage": "afommanchim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Biyabiyan",
+        "location": {
+          "lat": 2.167,
+          "lng": 11.15
+        },
+        "keyAccentLanguage": "biyabiyan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eyen",
+        "location": {
+          "lat": 2.033,
+          "lng": 11.067
+        },
+        "keyAccentLanguage": "eyen"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ecuon",
+        "location": {
+          "lat": 2.083,
+          "lng": 11.317
+        },
+        "keyAccentLanguage": "ecuon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ebe",
+        "location": {
+          "lat": 1.933,
+          "lng": 11.283
+        },
+        "keyAccentLanguage": "ebe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Menang",
+        "location": {
+          "lat": 2.167,
+          "lng": 11.3
+        },
+        "keyAccentLanguage": "menang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mbedumo",
+        "location": {
+          "lat": 2.067,
+          "lng": 11.117
+        },
+        "keyAccentLanguage": "mbedumo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Midyimiton",
+        "location": {
+          "lat": 2.133,
+          "lng": 10.833
+        },
+        "keyAccentLanguage": "midyimiton"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bibulubam",
+        "location": {
+          "lat": 2.083,
+          "lng": 10.7
+        },
+        "keyAccentLanguage": "bibulubam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Manung",
+        "location": {
+          "lat": 1.983,
+          "lng": 10.783
+        },
+        "keyAccentLanguage": "manung"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Angoc",
+        "location": {
+          "lat": 1.917,
+          "lng": 11.233
+        },
+        "keyAccentLanguage": "angoc"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mico",
+        "location": {
+          "lat": 1.917,
+          "lng": 11.033
+        },
+        "keyAccentLanguage": "mico"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eboamvam",
+        "location": {
+          "lat": 2.1,
+          "lng": 11.083
+        },
+        "keyAccentLanguage": "eboamvam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abebain",
+        "location": {
+          "lat": 2,
+          "lng": 11.333
+        },
+        "keyAccentLanguage": "abebain"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dalama",
+        "location": {
+          "lat": 2,
+          "lng": 11.317
+        },
+        "keyAccentLanguage": "dalama"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Be",
+        "location": {
+          "lat": 2.133,
+          "lng": 11.1
+        },
+        "keyAccentLanguage": "be"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Malem",
+        "location": {
+          "lat": 1.95,
+          "lng": 11.233
+        },
+        "keyAccentLanguage": "malem"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Atud",
+        "location": {
+          "lat": 1.817,
+          "lng": 11.033
+        },
+        "keyAccentLanguage": "atud"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mfulacon",
+        "location": {
+          "lat": 2.15,
+          "lng": 10.483
+        },
+        "keyAccentLanguage": "mfulacon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agua",
+        "location": {
+          "lat": 1.833,
+          "lng": 11.083
+        },
+        "keyAccentLanguage": "agua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mbun",
+        "location": {
+          "lat": 1.983,
+          "lng": 11.25
+        },
+        "keyAccentLanguage": "mbun"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afanengui",
+        "location": {
+          "lat": 2.15,
+          "lng": 10.95
+        },
+        "keyAccentLanguage": "afanengui"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anomo",
+        "location": {
+          "lat": 1.783,
+          "lng": 11.3
+        },
+        "keyAccentLanguage": "anomo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cono",
+        "location": {
+          "lat": 2.167,
+          "lng": 11.217
+        },
+        "keyAccentLanguage": "cono"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alun",
+        "location": {
+          "lat": 1.75,
+          "lng": 11.133
+        },
+        "keyAccentLanguage": "alun"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abon",
+        "location": {
+          "lat": 2.1,
+          "lng": 11.25
+        },
+        "keyAccentLanguage": "abon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andon",
+        "location": {
+          "lat": 2.033,
+          "lng": 10.967
+        },
+        "keyAccentLanguage": "andon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mengui",
+        "location": {
+          "lat": 2.1,
+          "lng": 11.3
+        },
+        "keyAccentLanguage": "mengui"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eton",
+        "location": {
+          "lat": 2.05,
+          "lng": 11.25
+        },
+        "keyAccentLanguage": "eton"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bifet",
+        "location": {
+          "lat": 2.067,
+          "lng": 11.267
+        },
+        "keyAccentLanguage": "bifet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bibe",
+        "location": {
+          "lat": 1.783,
+          "lng": 11.067
+        },
+        "keyAccentLanguage": "bibe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bilont",
+        "location": {
+          "lat": 2.05,
+          "lng": 10.483
+        },
+        "keyAccentLanguage": "bilont"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ayaamang",
+        "location": {
+          "lat": 2.083,
+          "lng": 10.433
+        },
+        "keyAccentLanguage": "ayaamang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Maboe",
+        "location": {
+          "lat": 2.167,
+          "lng": 11.233
+        },
+        "keyAccentLanguage": "maboe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mbaseng",
+        "location": {
+          "lat": 2.067,
+          "lng": 11.217
+        },
+        "keyAccentLanguage": "mbaseng"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Evaa",
+        "location": {
+          "lat": 2.05,
+          "lng": 11.117
+        },
+        "keyAccentLanguage": "evaa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bitet",
+        "location": {
+          "lat": 2,
+          "lng": 11.267
+        },
+        "keyAccentLanguage": "bitet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mfene",
+        "location": {
+          "lat": 1.867,
+          "lng": 11.05
+        },
+        "keyAccentLanguage": "mfene"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Masomo",
+        "location": {
+          "lat": 2.133,
+          "lng": 11.3
+        },
+        "keyAccentLanguage": "masomo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Atut",
+        "location": {
+          "lat": 1.883,
+          "lng": 11.317
+        },
+        "keyAccentLanguage": "atut"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cunoguono",
+        "location": {
+          "lat": 1.933,
+          "lng": 10.517
+        },
+        "keyAccentLanguage": "cunoguono"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bedumo",
+        "location": {
+          "lat": 2.15,
+          "lng": 11.083
+        },
+        "keyAccentLanguage": "bedumo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Elat",
+        "location": {
+          "lat": 2.05,
+          "lng": 10.483
+        },
+        "keyAccentLanguage": "elat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mibe",
+        "location": {
+          "lat": 2,
+          "lng": 10.517
+        },
+        "keyAccentLanguage": "mibe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mbeme",
+        "location": {
+          "lat": 2.067,
+          "lng": 10.467
+        },
+        "keyAccentLanguage": "mbeme"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mangui",
+        "location": {
+          "lat": 1.883,
+          "lng": 11.05
+        },
+        "keyAccentLanguage": "mangui"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dum",
+        "location": {
+          "lat": 2.017,
+          "lng": 10.917
+        },
+        "keyAccentLanguage": "dum"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Meyec",
+        "location": {
+          "lat": 2.05,
+          "lng": 10.967
+        },
+        "keyAccentLanguage": "meyec"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Micomeseng",
+        "location": {
+          "lat": 2.143,
+          "lng": 10.61
+        },
+        "keyAccentLanguage": "micomeseng"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mefeng",
+        "location": {
+          "lat": 2.117,
+          "lng": 11.3
+        },
+        "keyAccentLanguage": "mefeng"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Angonbibana",
+        "location": {
+          "lat": 1.8,
+          "lng": 11.017
+        },
+        "keyAccentLanguage": "angonbibana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mboma",
+        "location": {
+          "lat": 2.017,
+          "lng": 11.317
+        },
+        "keyAccentLanguage": "mboma"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bebein",
+        "location": {
+          "lat": 2.183,
+          "lng": 11.183
+        },
+        "keyAccentLanguage": "bebein"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Long",
+        "location": {
+          "lat": 1.917,
+          "lng": 11
+        },
+        "keyAccentLanguage": "long"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ebo",
+        "location": {
+          "lat": 1.883,
+          "lng": 11.15
+        },
+        "keyAccentLanguage": "ebo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eneng",
+        "location": {
+          "lat": 1.933,
+          "lng": 10.45
+        },
+        "keyAccentLanguage": "eneng"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bicuama",
+        "location": {
+          "lat": 1.867,
+          "lng": 11.2
+        },
+        "keyAccentLanguage": "bicuama"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Egon",
+        "location": {
+          "lat": 2.133,
+          "lng": 10.933
+        },
+        "keyAccentLanguage": "egon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mbangosi",
+        "location": {
+          "lat": 2.067,
+          "lng": 11.033
+        },
+        "keyAccentLanguage": "mbangosi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mangasi",
+        "location": {
+          "lat": 2.15,
+          "lng": 11.267
+        },
+        "keyAccentLanguage": "mangasi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bono",
+        "location": {
+          "lat": 1.967,
+          "lng": 10.5
+        },
+        "keyAccentLanguage": "bono"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cam",
+        "location": {
+          "lat": 1.817,
+          "lng": 11.117
+        },
+        "keyAccentLanguage": "cam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bingono",
+        "location": {
+          "lat": 1.783,
+          "lng": 11.15
+        },
+        "keyAccentLanguage": "bingono"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Biok",
+        "location": {
+          "lat": 1.967,
+          "lng": 11.233
+        },
+        "keyAccentLanguage": "biok"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eguong",
+        "location": {
+          "lat": 2,
+          "lng": 10.967
+        },
+        "keyAccentLanguage": "eguong"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eteguevein",
+        "location": {
+          "lat": 1.883,
+          "lng": 11.267
+        },
+        "keyAccentLanguage": "eteguevein"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mabain",
+        "location": {
+          "lat": 1.933,
+          "lng": 11.267
+        },
+        "keyAccentLanguage": "mabain"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bolonkiein",
+        "location": {
+          "lat": 1.783,
+          "lng": 11.2
+        },
+        "keyAccentLanguage": "bolonkiein"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bisabat",
+        "location": {
+          "lat": 2.1,
+          "lng": 10.8
+        },
+        "keyAccentLanguage": "bisabat"
+      }
+    ],
+    "enNameLanguage": "Kié-Ntem",
+    "keyAccentLanguage": "kié-ntem"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 1.5750244,
+      "lng": 9.8124935
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acalayong",
+        "location": {
+          "lat": 1.083,
+          "lng": 9.667
+        },
+        "keyAccentLanguage": "acalayong"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abet",
+        "location": {
+          "lat": 1.1,
+          "lng": 9.717
+        },
+        "keyAccentLanguage": "abet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acanabot",
+        "location": {
+          "lat": 1.75,
+          "lng": 9.783
+        },
+        "keyAccentLanguage": "acanabot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abogocola",
+        "location": {
+          "lat": 1.133,
+          "lng": 9.933
+        },
+        "keyAccentLanguage": "abogocola"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Atoasoc",
+        "location": {
+          "lat": 2.017,
+          "lng": 10.05
+        },
+        "keyAccentLanguage": "atoasoc"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acan",
+        "location": {
+          "lat": 1.25,
+          "lng": 10.15
+        },
+        "keyAccentLanguage": "acan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abennam",
+        "location": {
+          "lat": 1.083,
+          "lng": 9.65
+        },
+        "keyAccentLanguage": "abennam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bata",
+        "location": {
+          "lat": 1.861,
+          "lng": 9.768
+        },
+        "keyAccentLanguage": "bata"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afanabang",
+        "location": {
+          "lat": 2.017,
+          "lng": 9.883
+        },
+        "keyAccentLanguage": "afanabang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Biboco",
+        "location": {
+          "lat": 1.41,
+          "lng": 9.478
+        },
+        "keyAccentLanguage": "biboco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ekenikovi",
+        "location": {
+          "lat": 0.932,
+          "lng": 9.318
+        },
+        "keyAccentLanguage": "ekenikovi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ansem",
+        "location": {
+          "lat": 1.083,
+          "lng": 9.95
+        },
+        "keyAccentLanguage": "ansem"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Asen",
+        "location": {
+          "lat": 1.267,
+          "lng": 9.433
+        },
+        "keyAccentLanguage": "asen"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Angala",
+        "location": {
+          "lat": 1.8,
+          "lng": 9.867
+        },
+        "keyAccentLanguage": "angala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Asa",
+        "location": {
+          "lat": 1.483,
+          "lng": 9.683
+        },
+        "keyAccentLanguage": "asa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Behoke",
+        "location": {
+          "lat": 0.931,
+          "lng": 9.31
+        },
+        "keyAccentLanguage": "behoke"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ayamboga",
+        "location": {
+          "lat": 1.25,
+          "lng": 9.417
+        },
+        "keyAccentLanguage": "ayamboga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Avelenam",
+        "location": {
+          "lat": 1.017,
+          "lng": 9.933
+        },
+        "keyAccentLanguage": "avelenam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akelayong",
+        "location": {
+          "lat": 1.2,
+          "lng": 9.883
+        },
+        "keyAccentLanguage": "akelayong"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Behopue",
+        "location": {
+          "lat": 0.914,
+          "lng": 9.307
+        },
+        "keyAccentLanguage": "behopue"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ihoni-Yandonu",
+        "location": {
+          "lat": 0.891,
+          "lng": 9.319
+        },
+        "keyAccentLanguage": "ihoni-yandonu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Achimilang",
+        "location": {
+          "lat": 1.017,
+          "lng": 9.933
+        },
+        "keyAccentLanguage": "achimilang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acocnfang",
+        "location": {
+          "lat": 1.767,
+          "lng": 9.967
+        },
+        "keyAccentLanguage": "acocnfang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Avelengong",
+        "location": {
+          "lat": 1.417,
+          "lng": 10.033
+        },
+        "keyAccentLanguage": "avelengong"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akora",
+        "location": {
+          "lat": 1.85,
+          "lng": 9.9
+        },
+        "keyAccentLanguage": "akora"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ivinamaye",
+        "location": {
+          "lat": 0.905,
+          "lng": 9.307
+        },
+        "keyAccentLanguage": "ivinamaye"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ayacbenvila",
+        "location": {
+          "lat": 1.8,
+          "lng": 9.933
+        },
+        "keyAccentLanguage": "ayacbenvila"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bendanga",
+        "location": {
+          "lat": 0.976,
+          "lng": 9.5
+        },
+        "keyAccentLanguage": "bendanga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anguma",
+        "location": {
+          "lat": 2.031,
+          "lng": 10.16
+        },
+        "keyAccentLanguage": "anguma"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adyap",
+        "location": {
+          "lat": 1.167,
+          "lng": 9.617
+        },
+        "keyAccentLanguage": "adyap"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bebudu",
+        "location": {
+          "lat": 0.917,
+          "lng": 9.307
+        },
+        "keyAccentLanguage": "bebudu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Coes",
+        "location": {
+          "lat": 0.974,
+          "lng": 9.504
+        },
+        "keyAccentLanguage": "coes"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hoba-Capi",
+        "location": {
+          "lat": 0.892,
+          "lng": 9.318
+        },
+        "keyAccentLanguage": "hoba-capi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mbelobi",
+        "location": {
+          "lat": 0.992,
+          "lng": 9.506
+        },
+        "keyAccentLanguage": "mbelobi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ngueyogo",
+        "location": {
+          "lat": 0.896,
+          "lng": 9.315
+        },
+        "keyAccentLanguage": "ngueyogo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alep",
+        "location": {
+          "lat": 1.85,
+          "lng": 10.05
+        },
+        "keyAccentLanguage": "alep"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ulato",
+        "location": {
+          "lat": 0.894,
+          "lng": 9.319
+        },
+        "keyAccentLanguage": "ulato"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abenelang",
+        "location": {
+          "lat": 0.967,
+          "lng": 9.983
+        },
+        "keyAccentLanguage": "abenelang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kombo",
+        "location": {
+          "lat": 0.903,
+          "lng": 9.308
+        },
+        "keyAccentLanguage": "kombo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bidue",
+        "location": {
+          "lat": 0.974,
+          "lng": 9.509
+        },
+        "keyAccentLanguage": "bidue"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Metolo",
+        "location": {
+          "lat": 0.895,
+          "lng": 9.319
+        },
+        "keyAccentLanguage": "metolo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anongue",
+        "location": {
+          "lat": 1.267,
+          "lng": 9.4
+        },
+        "keyAccentLanguage": "anongue"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Etembue",
+        "location": {
+          "lat": 1.275,
+          "lng": 9.425
+        },
+        "keyAccentLanguage": "etembue"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Asem",
+        "location": {
+          "lat": 1.95,
+          "lng": 9.917
+        },
+        "keyAccentLanguage": "asem"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amanening",
+        "location": {
+          "lat": 1.117,
+          "lng": 9.917
+        },
+        "keyAccentLanguage": "amanening"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Covadonga",
+        "location": {
+          "lat": 0.898,
+          "lng": 9.312
+        },
+        "keyAccentLanguage": "covadonga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anguoc",
+        "location": {
+          "lat": 1.667,
+          "lng": 9.733
+        },
+        "keyAccentLanguage": "anguoc"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ayaelon",
+        "location": {
+          "lat": 1.8,
+          "lng": 9.85
+        },
+        "keyAccentLanguage": "ayaelon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Asuiabe",
+        "location": {
+          "lat": 1.117,
+          "lng": 10.217
+        },
+        "keyAccentLanguage": "asuiabe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aconngui",
+        "location": {
+          "lat": 1.25,
+          "lng": 9.433
+        },
+        "keyAccentLanguage": "aconngui"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Asamboa",
+        "location": {
+          "lat": 1.067,
+          "lng": 9.6
+        },
+        "keyAccentLanguage": "asamboa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tundulu",
+        "location": {
+          "lat": 0.904,
+          "lng": 9.307
+        },
+        "keyAccentLanguage": "tundulu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Culananda",
+        "location": {
+          "lat": 0.931,
+          "lng": 9.31
+        },
+        "keyAccentLanguage": "culananda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Asam",
+        "location": {
+          "lat": 2.067,
+          "lng": 9.817
+        },
+        "keyAccentLanguage": "asam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afan",
+        "location": {
+          "lat": 1.7,
+          "lng": 9.75
+        },
+        "keyAccentLanguage": "afan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ayamiken",
+        "location": {
+          "lat": 2.117,
+          "lng": 10.017
+        },
+        "keyAccentLanguage": "ayamiken"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Senye",
+        "location": {
+          "lat": 1.562,
+          "lng": 9.815
+        },
+        "keyAccentLanguage": "senye"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abanda",
+        "location": {
+          "lat": 1.45,
+          "lng": 9.633
+        },
+        "keyAccentLanguage": "abanda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rio Benito",
+        "location": {
+          "lat": 1.578,
+          "lng": 9.613
+        },
+        "keyAccentLanguage": "rio_benito"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nanda",
+        "location": {
+          "lat": 0.917,
+          "lng": 9.332
+        },
+        "keyAccentLanguage": "nanda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amyonga",
+        "location": {
+          "lat": 1.167,
+          "lng": 9.483
+        },
+        "keyAccentLanguage": "amyonga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Asobla",
+        "location": {
+          "lat": 0.967,
+          "lng": 9.967
+        },
+        "keyAccentLanguage": "asobla"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bevova",
+        "location": {
+          "lat": 0.986,
+          "lng": 9.507
+        },
+        "keyAccentLanguage": "bevova"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ayaantang",
+        "location": {
+          "lat": 1.75,
+          "lng": 9.683
+        },
+        "keyAccentLanguage": "ayaantang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ayacue",
+        "location": {
+          "lat": 1.8,
+          "lng": 9.967
+        },
+        "keyAccentLanguage": "ayacue"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acora",
+        "location": {
+          "lat": 1.9,
+          "lng": 10.017
+        },
+        "keyAccentLanguage": "acora"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alongntang",
+        "location": {
+          "lat": 1.117,
+          "lng": 9.75
+        },
+        "keyAccentLanguage": "alongntang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ayagfe",
+        "location": {
+          "lat": 1.5,
+          "lng": 9.667
+        },
+        "keyAccentLanguage": "ayagfe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Asesoc",
+        "location": {
+          "lat": 1.95,
+          "lng": 9.967
+        },
+        "keyAccentLanguage": "asesoc"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Achimelan",
+        "location": {
+          "lat": 1.7,
+          "lng": 9.817
+        },
+        "keyAccentLanguage": "achimelan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andum",
+        "location": {
+          "lat": 1.917,
+          "lng": 9.883
+        },
+        "keyAccentLanguage": "andum"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Elonguambani",
+        "location": {
+          "lat": 0.932,
+          "lng": 9.325
+        },
+        "keyAccentLanguage": "elonguambani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Elua",
+        "location": {
+          "lat": 0.902,
+          "lng": 9.336
+        },
+        "keyAccentLanguage": "elua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ulando",
+        "location": {
+          "lat": 0.986,
+          "lng": 9.505
+        },
+        "keyAccentLanguage": "ulando"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lambue",
+        "location": {
+          "lat": 0.892,
+          "lng": 9.322
+        },
+        "keyAccentLanguage": "lambue"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Evanguesimba",
+        "location": {
+          "lat": 0.899,
+          "lng": 9.305
+        },
+        "keyAccentLanguage": "evanguesimba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anguec",
+        "location": {
+          "lat": 1.917,
+          "lng": 9.983
+        },
+        "keyAccentLanguage": "anguec"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aman",
+        "location": {
+          "lat": 1.583,
+          "lng": 9.65
+        },
+        "keyAccentLanguage": "aman"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acoga",
+        "location": {
+          "lat": 1.1,
+          "lng": 9.633
+        },
+        "keyAccentLanguage": "acoga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Yengue",
+        "location": {
+          "lat": 0.933,
+          "lng": 9.319
+        },
+        "keyAccentLanguage": "yengue"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bandy",
+        "location": {
+          "lat": 0.974,
+          "lng": 9.501
+        },
+        "keyAccentLanguage": "bandy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alarmitang",
+        "location": {
+          "lat": 1.833,
+          "lng": 9.8
+        },
+        "keyAccentLanguage": "alarmitang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bia",
+        "location": {
+          "lat": 0.93,
+          "lng": 9.309
+        },
+        "keyAccentLanguage": "bia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Koto",
+        "location": {
+          "lat": 0.933,
+          "lng": 9.317
+        },
+        "keyAccentLanguage": "koto"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Puerto Iradier",
+        "location": {
+          "lat": 1.082,
+          "lng": 9.695
+        },
+        "keyAccentLanguage": "puerto_iradier"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Penta",
+        "location": {
+          "lat": 0.932,
+          "lng": 9.324
+        },
+        "keyAccentLanguage": "penta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ibengayukudi",
+        "location": {
+          "lat": 0.929,
+          "lng": 9.308
+        },
+        "keyAccentLanguage": "ibengayukudi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ngana",
+        "location": {
+          "lat": 0.933,
+          "lng": 9.322
+        },
+        "keyAccentLanguage": "ngana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Macora",
+        "location": {
+          "lat": 2.176,
+          "lng": 9.907
+        },
+        "keyAccentLanguage": "macora"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mindyiminve",
+        "location": {
+          "lat": 1.852,
+          "lng": 10.019
+        },
+        "keyAccentLanguage": "mindyiminve"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Evende",
+        "location": {
+          "lat": 0.897,
+          "lng": 9.313
+        },
+        "keyAccentLanguage": "evende"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Upe",
+        "location": {
+          "lat": 0.897,
+          "lng": 9.306
+        },
+        "keyAccentLanguage": "upe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Upaca",
+        "location": {
+          "lat": 0.895,
+          "lng": 9.316
+        },
+        "keyAccentLanguage": "upaca"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Esperanza",
+        "location": {
+          "lat": 0.898,
+          "lng": 9.311
+        },
+        "keyAccentLanguage": "esperanza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Buma",
+        "location": {
+          "lat": 0.924,
+          "lng": 9.308
+        },
+        "keyAccentLanguage": "buma"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mangane",
+        "location": {
+          "lat": 0.913,
+          "lng": 9.307
+        },
+        "keyAccentLanguage": "mangane"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Goobe",
+        "location": {
+          "lat": 0.889,
+          "lng": 9.322
+        },
+        "keyAccentLanguage": "goobe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ibonga",
+        "location": {
+          "lat": 0.932,
+          "lng": 9.327
+        },
+        "keyAccentLanguage": "ibonga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Domande",
+        "location": {
+          "lat": 0.89,
+          "lng": 9.322
+        },
+        "keyAccentLanguage": "domande"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Etongo",
+        "location": {
+          "lat": 0.932,
+          "lng": 9.312
+        },
+        "keyAccentLanguage": "etongo"
+      }
+    ],
+    "enNameLanguage": "Litoral",
+    "keyAccentLanguage": "litoral"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Elonesang",
+        "location": {
+          "lat": 1.4166162,
+          "lng": 11.0711758
+        },
+        "keyAccentLanguage": "elonesang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Embiert",
+        "location": {
+          "lat": 1.4166162,
+          "lng": 11.0711758
+        },
+        "keyAccentLanguage": "embiert"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Etom",
+        "location": {
+          "lat": 1.4166162,
+          "lng": 11.0711758
+        },
+        "keyAccentLanguage": "etom"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abengnam",
+        "location": {
+          "lat": 1.117,
+          "lng": 11
+        },
+        "keyAccentLanguage": "abengnam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Binguengueng",
+        "location": {
+          "lat": 1.8,
+          "lng": 10.667
+        },
+        "keyAccentLanguage": "binguengueng"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acaasi",
+        "location": {
+          "lat": 1.317,
+          "lng": 11.033
+        },
+        "keyAccentLanguage": "acaasi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Avam",
+        "location": {
+          "lat": 1.317,
+          "lng": 11.017
+        },
+        "keyAccentLanguage": "avam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afaansoc",
+        "location": {
+          "lat": 1.75,
+          "lng": 10.783
+        },
+        "keyAccentLanguage": "afaansoc"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abang",
+        "location": {
+          "lat": 1.183,
+          "lng": 11.017
+        },
+        "keyAccentLanguage": "abang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abama",
+        "location": {
+          "lat": 1.2,
+          "lng": 11.283
+        },
+        "keyAccentLanguage": "abama"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bileosi",
+        "location": {
+          "lat": 1.683,
+          "lng": 11.267
+        },
+        "keyAccentLanguage": "bileosi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alon",
+        "location": {
+          "lat": 1.6,
+          "lng": 10.85
+        },
+        "keyAccentLanguage": "alon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Angon",
+        "location": {
+          "lat": 1.283,
+          "lng": 10.9
+        },
+        "keyAccentLanguage": "angon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Asogabia",
+        "location": {
+          "lat": 1.25,
+          "lng": 10.867
+        },
+        "keyAccentLanguage": "asogabia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ebom",
+        "location": {
+          "lat": 1.567,
+          "lng": 11.167
+        },
+        "keyAccentLanguage": "ebom"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aconibe",
+        "location": {
+          "lat": 1.3,
+          "lng": 10.933
+        },
+        "keyAccentLanguage": "aconibe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mongomeyen",
+        "location": {
+          "lat": 1.69,
+          "lng": 11.019
+        },
+        "keyAccentLanguage": "mongomeyen"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ecuac",
+        "location": {
+          "lat": 1.65,
+          "lng": 11.283
+        },
+        "keyAccentLanguage": "ecuac"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ayabifara",
+        "location": {
+          "lat": 1.75,
+          "lng": 10.617
+        },
+        "keyAccentLanguage": "ayabifara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cucumancoc",
+        "location": {
+          "lat": 1.3,
+          "lng": 10.833
+        },
+        "keyAccentLanguage": "cucumancoc"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bicat",
+        "location": {
+          "lat": 1.933,
+          "lng": 10.733
+        },
+        "keyAccentLanguage": "bicat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acoaesakira",
+        "location": {
+          "lat": 1.117,
+          "lng": 11.267
+        },
+        "keyAccentLanguage": "acoaesakira"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andoc",
+        "location": {
+          "lat": 1.817,
+          "lng": 10.617
+        },
+        "keyAccentLanguage": "andoc"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adurelang",
+        "location": {
+          "lat": 1.933,
+          "lng": 10.883
+        },
+        "keyAccentLanguage": "adurelang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Esam",
+        "location": {
+          "lat": 1.567,
+          "lng": 11.183
+        },
+        "keyAccentLanguage": "esam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ebomicu",
+        "location": {
+          "lat": 1.3,
+          "lng": 11.267
+        },
+        "keyAccentLanguage": "ebomicu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bicon",
+        "location": {
+          "lat": 1.517,
+          "lng": 11.017
+        },
+        "keyAccentLanguage": "bicon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Foo",
+        "location": {
+          "lat": 1.267,
+          "lng": 10.933
+        },
+        "keyAccentLanguage": "foo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acom",
+        "location": {
+          "lat": 1.617,
+          "lng": 10.65
+        },
+        "keyAccentLanguage": "acom"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Engas",
+        "location": {
+          "lat": 1.4,
+          "lng": 11.333
+        },
+        "keyAccentLanguage": "engas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Esangui",
+        "location": {
+          "lat": 1.7,
+          "lng": 11.25
+        },
+        "keyAccentLanguage": "esangui"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bibain",
+        "location": {
+          "lat": 1.867,
+          "lng": 10.6
+        },
+        "keyAccentLanguage": "bibain"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bibara",
+        "location": {
+          "lat": 1.917,
+          "lng": 10.85
+        },
+        "keyAccentLanguage": "bibara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cnesis",
+        "location": {
+          "lat": 1.683,
+          "lng": 11.067
+        },
+        "keyAccentLanguage": "cnesis"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Elong",
+        "location": {
+          "lat": 1.35,
+          "lng": 11.167
+        },
+        "keyAccentLanguage": "elong"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Asasi",
+        "location": {
+          "lat": 1.133,
+          "lng": 11.267
+        },
+        "keyAccentLanguage": "asasi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andom",
+        "location": {
+          "lat": 1.317,
+          "lng": 10.867
+        },
+        "keyAccentLanguage": "andom"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Asogomansuein",
+        "location": {
+          "lat": 1.683,
+          "lng": 11.183
+        },
+        "keyAccentLanguage": "asogomansuein"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ebongo",
+        "location": {
+          "lat": 1.867,
+          "lng": 10.583
+        },
+        "keyAccentLanguage": "ebongo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ebebeng",
+        "location": {
+          "lat": 1.683,
+          "lng": 11.033
+        },
+        "keyAccentLanguage": "ebebeng"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akinebitom",
+        "location": {
+          "lat": 1.9,
+          "lng": 10.717
+        },
+        "keyAccentLanguage": "akinebitom"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Esong",
+        "location": {
+          "lat": 1.033,
+          "lng": 11.033
+        },
+        "keyAccentLanguage": "esong"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Angonuain",
+        "location": {
+          "lat": 1.817,
+          "lng": 10.75
+        },
+        "keyAccentLanguage": "angonuain"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aconikie",
+        "location": {
+          "lat": 1.55,
+          "lng": 11.3
+        },
+        "keyAccentLanguage": "aconikie"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mongomo",
+        "location": {
+          "lat": 1.623,
+          "lng": 11.311
+        },
+        "keyAccentLanguage": "mongomo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ayaaman",
+        "location": {
+          "lat": 1.933,
+          "lng": 10.833
+        },
+        "keyAccentLanguage": "ayaaman"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ayap",
+        "location": {
+          "lat": 1.683,
+          "lng": 11.033
+        },
+        "keyAccentLanguage": "ayap"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acocseng",
+        "location": {
+          "lat": 1.333,
+          "lng": 11
+        },
+        "keyAccentLanguage": "acocseng"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aguanam",
+        "location": {
+          "lat": 1.5,
+          "lng": 11.083
+        },
+        "keyAccentLanguage": "aguanam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abaamang",
+        "location": {
+          "lat": 1.667,
+          "lng": 10.633
+        },
+        "keyAccentLanguage": "abaamang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anunga",
+        "location": {
+          "lat": 1.333,
+          "lng": 11.283
+        },
+        "keyAccentLanguage": "anunga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afabitom",
+        "location": {
+          "lat": 1.717,
+          "lng": 11.05
+        },
+        "keyAccentLanguage": "afabitom"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ensalga",
+        "location": {
+          "lat": 1.917,
+          "lng": 10.533
+        },
+        "keyAccentLanguage": "ensalga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acueton",
+        "location": {
+          "lat": 1.833,
+          "lng": 10.733
+        },
+        "keyAccentLanguage": "acueton"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Elebelaba",
+        "location": {
+          "lat": 1.9,
+          "lng": 10.533
+        },
+        "keyAccentLanguage": "elebelaba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alen",
+        "location": {
+          "lat": 1.017,
+          "lng": 11
+        },
+        "keyAccentLanguage": "alen"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abanfang",
+        "location": {
+          "lat": 1.6,
+          "lng": 10.667
+        },
+        "keyAccentLanguage": "abanfang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abeayop",
+        "location": {
+          "lat": 1.917,
+          "lng": 10.833
+        },
+        "keyAccentLanguage": "abeayop"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bibas",
+        "location": {
+          "lat": 1.317,
+          "lng": 10.9
+        },
+        "keyAccentLanguage": "bibas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Edumzam",
+        "location": {
+          "lat": 1.85,
+          "lng": 10.7
+        },
+        "keyAccentLanguage": "edumzam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abumeyeme",
+        "location": {
+          "lat": 1.033,
+          "lng": 11
+        },
+        "keyAccentLanguage": "abumeyeme"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anisoc",
+        "location": {
+          "lat": 1.483,
+          "lng": 11.1
+        },
+        "keyAccentLanguage": "anisoc"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bigumo",
+        "location": {
+          "lat": 1.4,
+          "lng": 11.033
+        },
+        "keyAccentLanguage": "bigumo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Encoembe",
+        "location": {
+          "lat": 1.65,
+          "lng": 11.333
+        },
+        "keyAccentLanguage": "encoembe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Asoc-Ncama",
+        "location": {
+          "lat": 1.1,
+          "lng": 11.217
+        },
+        "keyAccentLanguage": "asoc-ncama"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acocsi",
+        "location": {
+          "lat": 1.35,
+          "lng": 11.15
+        },
+        "keyAccentLanguage": "acocsi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Avangnam",
+        "location": {
+          "lat": 1.317,
+          "lng": 10.883
+        },
+        "keyAccentLanguage": "avangnam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nsok",
+        "location": {
+          "lat": 1.132,
+          "lng": 11.266
+        },
+        "keyAccentLanguage": "nsok"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dumosi",
+        "location": {
+          "lat": 1.35,
+          "lng": 11.317
+        },
+        "keyAccentLanguage": "dumosi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ayana",
+        "location": {
+          "lat": 1.317,
+          "lng": 10.967
+        },
+        "keyAccentLanguage": "ayana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chimi",
+        "location": {
+          "lat": 1.717,
+          "lng": 10.65
+        },
+        "keyAccentLanguage": "chimi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ebesang",
+        "location": {
+          "lat": 1.733,
+          "lng": 10.717
+        },
+        "keyAccentLanguage": "ebesang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ecog",
+        "location": {
+          "lat": 1.317,
+          "lng": 11.05
+        },
+        "keyAccentLanguage": "ecog"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dibolo",
+        "location": {
+          "lat": 1.617,
+          "lng": 11.333
+        },
+        "keyAccentLanguage": "dibolo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aban",
+        "location": {
+          "lat": 1.833,
+          "lng": 10.867
+        },
+        "keyAccentLanguage": "aban"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eyom",
+        "location": {
+          "lat": 1.917,
+          "lng": 10.967
+        },
+        "keyAccentLanguage": "eyom"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abiara",
+        "location": {
+          "lat": 1.333,
+          "lng": 10.983
+        },
+        "keyAccentLanguage": "abiara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Biguogo",
+        "location": {
+          "lat": 1.367,
+          "lng": 11
+        },
+        "keyAccentLanguage": "biguogo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alum",
+        "location": {
+          "lat": 1,
+          "lng": 10.983
+        },
+        "keyAccentLanguage": "alum"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Asia",
+        "location": {
+          "lat": 1.1,
+          "lng": 11.25
+        },
+        "keyAccentLanguage": "asia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Enguez",
+        "location": {
+          "lat": 1.65,
+          "lng": 10.933
+        },
+        "keyAccentLanguage": "enguez"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Etong",
+        "location": {
+          "lat": 1.817,
+          "lng": 10.633
+        },
+        "keyAccentLanguage": "etong"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ebang",
+        "location": {
+          "lat": 1.567,
+          "lng": 11.15
+        },
+        "keyAccentLanguage": "ebang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Enoc",
+        "location": {
+          "lat": 1.717,
+          "lng": 11.25
+        },
+        "keyAccentLanguage": "enoc"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Encoengoon",
+        "location": {
+          "lat": 1.633,
+          "lng": 10.967
+        },
+        "keyAccentLanguage": "encoengoon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bon",
+        "location": {
+          "lat": 1.6,
+          "lng": 10.683
+        },
+        "keyAccentLanguage": "bon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Elosoc",
+        "location": {
+          "lat": 1.5,
+          "lng": 11.3
+        },
+        "keyAccentLanguage": "elosoc"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bisobinnam",
+        "location": {
+          "lat": 1.65,
+          "lng": 11.283
+        },
+        "keyAccentLanguage": "bisobinnam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acoacan",
+        "location": {
+          "lat": 1.617,
+          "lng": 11.317
+        },
+        "keyAccentLanguage": "acoacan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ngon",
+        "location": {
+          "lat": 1.308,
+          "lng": 11.095
+        },
+        "keyAccentLanguage": "ngon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dun",
+        "location": {
+          "lat": 1.8,
+          "lng": 10.683
+        },
+        "keyAccentLanguage": "dun"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eyamayong",
+        "location": {
+          "lat": 1.033,
+          "lng": 11.067
+        },
+        "keyAccentLanguage": "eyamayong"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ecoco",
+        "location": {
+          "lat": 1.333,
+          "lng": 11.317
+        },
+        "keyAccentLanguage": "ecoco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Com",
+        "location": {
+          "lat": 1.483,
+          "lng": 11.267
+        },
+        "keyAccentLanguage": "com"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bindoc",
+        "location": {
+          "lat": 1.75,
+          "lng": 10.833
+        },
+        "keyAccentLanguage": "bindoc"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bicugo",
+        "location": {
+          "lat": 1.85,
+          "lng": 10.833
+        },
+        "keyAccentLanguage": "bicugo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ecumdum",
+        "location": {
+          "lat": 1.867,
+          "lng": 10.817
+        },
+        "keyAccentLanguage": "ecumdum"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ecuamayene",
+        "location": {
+          "lat": 1.367,
+          "lng": 11.25
+        },
+        "keyAccentLanguage": "ecuamayene"
+      }
+    ],
+    "enNameLanguage": "Wele-Nzas",
+    "keyAccentLanguage": "wele-nzas"
+  }
+]

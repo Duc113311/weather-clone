@@ -1,0 +1,6118 @@
+{
+  "code": 0,
+  "city": "Tỉnh",
+  "category": null,
+  "postalCode": "90000",
+  "nameCategory": "Bắc Giang",
+  "keyLanguage": "Bắc_Giang",
+  "languages": {
+    "vi": "Bắc Giang",
+    "en": "Bắc Giang",
+    "ja": "バクザン",
+    "ko": "박장"
+  },
+  "districtList": [
+    {
+      "code": 1,
+      "city": "Thành Phố/Huyện/ Thị Xã",
+      "category": null,
+      "postalCode": "900001",
+      "nameCategory": "Thành phố Bắc Giang",
+      "keyLanguage": "Thành_phố_Bắc_Giang",
+      "languages": {
+        "vi": "Thành Phố Bắc Giang",
+        "en": "Thành phố Bắc Giang",
+        "ja": "タン・フォ・バクザン",
+        "ko": "탄포박장(Thành phố Bắc Giang)"
+      },
+      "districtList": [
+        {
+          "code": 2,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Thành phố Bắc Giang",
+          "keyLanguage": "Phường_Thọ_Xương",
+          "languages": {
+            "vi": "Phường Thọ Xương",
+            "en": "Phường Thọ Xương",
+            "ja": "Phường Thọ Xương",
+            "ko": "프엉 토 쑤옹"
+          }
+        },
+        {
+          "code": 3,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Thành phố Bắc Giang",
+          "keyLanguage": "Phường_Trần_Nguyên_Hãn",
+          "languages": {
+            "vi": "Phường Trần Nguyên Hãn",
+            "en": "Phường Trần Nguyên Hãn",
+            "ja": "フォン・トラン・グエン・ハン",
+            "ko": "프엉 쩐 응우옌 한(Phuờng Trần Nguyên Hãn)"
+          }
+        },
+        {
+          "code": 4,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Thành phố Bắc Giang",
+          "keyLanguage": "Phường_Ngô_Quyền",
+          "languages": {
+            "vi": "Phường Ngô Quyền",
+            "en": "Phường Ngô Quyền",
+            "ja": "フォン・ゴ・クイン",
+            "ko": "프엉 응오 꾸옌"
+          }
+        },
+        {
+          "code": 5,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Thành phố Bắc Giang",
+          "keyLanguage": "Phường_Hoàng_Văn_Thụ",
+          "languages": {
+            "vi": "Phường Hoàng Văn Thụ",
+            "en": "Phường Hoàng Văn Thụ",
+            "ja": "Phường Hoàng Văn Thụ",
+            "ko": "프엉 호앙 반 투(Phuờng Hoàng Văn Thụ)"
+          }
+        },
+        {
+          "code": 6,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Thành phố Bắc Giang",
+          "keyLanguage": "Phường_Trần_Phú",
+          "languages": {
+            "vi": "Phường Trần Phú",
+            "en": "Phường Trần Phú",
+            "ja": "フォン・トラン・フー",
+            "ko": "프엉 쩐 푸(Phuờng Trần Phú)"
+          }
+        },
+        {
+          "code": 7,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Thành phố Bắc Giang",
+          "keyLanguage": "Phường_Mỹ_Độ",
+          "languages": {
+            "vi": "Phường Mỹ Độ",
+            "en": "Phường Mỹ Độ",
+            "ja": "Phường Mỹ Độ",
+            "ko": "프엉미도"
+          }
+        },
+        {
+          "code": 8,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Thành phố Bắc Giang",
+          "keyLanguage": "Phường_Lê_Lợi",
+          "languages": {
+            "vi": "Phường Lê Lợi",
+            "en": "Phường Lê Lợi",
+            "ja": "フォン・レー・ルイ",
+            "ko": "프엉 레 로이"
+          }
+        },
+        {
+          "code": 9,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Thành phố Bắc Giang",
+          "keyLanguage": "Xã_Song_Mai",
+          "languages": {
+            "vi": "Xã Sông Mai",
+            "en": "Xã Song Mai",
+            "ja": "シャン・ソン・マイ",
+            "ko": "Xã 송 마이"
+          }
+        },
+        {
+          "code": 10,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Thành phố Bắc Giang",
+          "keyLanguage": "Phường_Xương_Giang",
+          "languages": {
+            "vi": "Phường Xương Giang",
+            "en": "Phường Xương Giang",
+            "ja": "Phường Xương Giang",
+            "ko": "프엉 쑤엉 지앙"
+          }
+        },
+        {
+          "code": 11,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Thành phố Bắc Giang",
+          "keyLanguage": "Phường_Đa_Mai",
+          "languages": {
+            "vi": "Phường Đa Mai",
+            "en": "Phường Đa Mai",
+            "ja": "プオン・ダ・マイ",
+            "ko": "프엉다마이"
+          }
+        },
+        {
+          "code": 12,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Thành phố Bắc Giang",
+          "keyLanguage": "Phường_Dĩnh_Kế",
+          "languages": {
+            "vi": "Phường Định Kế",
+            "en": "Phường Dĩnh Kế",
+            "ja": "フォン・ディン・ケー",
+            "ko": "프엉 딘 케(Phuờng Dĩnh Kế)"
+          }
+        },
+        {
+          "code": 13,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Thành phố Bắc Giang",
+          "keyLanguage": "Xã_Dĩnh_Trì",
+          "languages": {
+            "vi": "Xã Định Trì",
+            "en": "Xã Dĩnh Trì",
+            "ja": "シャンディン・トリ",
+            "ko": "사딘찌(Xã Dĩnh Trì)"
+          }
+        },
+        {
+          "code": 14,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Thành phố Bắc Giang",
+          "keyLanguage": "Xã_Tân_Mỹ",
+          "languages": {
+            "vi": "Xã Tân Mỹ",
+            "en": "Xã Tân Mỹ",
+            "ja": "サン・タン・ム",
+            "ko": "Xã Tân Mỹ"
+          }
+        },
+        {
+          "code": 15,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Thành phố Bắc Giang",
+          "keyLanguage": "Xã_Đồng_Sơn",
+          "languages": {
+            "vi": "Xã Đồng Sơn",
+            "en": "Xã Đồng Sơn",
+            "ja": "サン・ドン・ソン",
+            "ko": "사나동손"
+          }
+        },
+        {
+          "code": 16,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Thành phố Bắc Giang",
+          "keyLanguage": "Xã_Tân_Tiến",
+          "languages": {
+            "vi": "Xã Tân Tiến",
+            "en": "Xã Tân Tiến",
+            "ja": "シャン・タン・ティエン",
+            "ko": "Xã Tân Tiến"
+          }
+        },
+        {
+          "code": 17,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Thành phố Bắc Giang",
+          "keyLanguage": "Xã_Song_Khê",
+          "languages": {
+            "vi": "Xã Song Khe",
+            "en": "Xã Song Khê",
+            "ja": "シャーソンケー",
+            "ko": "Xã Song Khê"
+          }
+        }
+      ]
+    },
+    {
+      "code": 18,
+      "city": "Thành Phố/Huyện/ Thị Xã",
+      "category": null,
+      "postalCode": "9000018",
+      "nameCategory": "Huyện Yên Thế",
+      "keyLanguage": "Huyện_Yên_Thế",
+      "languages": {
+        "vi": "Huyện Yên Thế",
+        "en": "Huyện Yên Thế",
+        "ja": "フイン・イェン・タ",
+        "ko": "Huyên Yên Thế"
+      },
+      "districtList": [
+        {
+          "code": 19,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thế",
+          "keyLanguage": "Xã_Đồng_Tiến",
+          "languages": {
+            "vi": "Xã Đồng Tiến",
+            "en": "Xã Đồng Tiến",
+            "ja": "Xã Đồng Tiến",
+            "ko": "Xã dong Tiến"
+          }
+        },
+        {
+          "code": 20,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thế",
+          "keyLanguage": "Xã_Canh_Nậu",
+          "languages": {
+            "vi": "Xã Cánh Nậu",
+            "en": "Xã Canh Nậu",
+            "ja": "シャン・ナウ",
+            "ko": "Xã Canh Nậu"
+          }
+        },
+        {
+          "code": 21,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thế",
+          "keyLanguage": "Xã_Xuân_Lương",
+          "languages": {
+            "vi": "Xã Xuân Lương",
+            "en": "Xã Xuân Lương",
+            "ja": "Xã Xuân Lương",
+            "ko": "쑤언 르엉"
+          }
+        },
+        {
+          "code": 22,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thế",
+          "keyLanguage": "Xã_Tam_Tiến",
+          "languages": {
+            "vi": "Xã Tam Tiến",
+            "en": "Xã Tam Tiến",
+            "ja": "シャン・タム・ティエン",
+            "ko": "Xã Tam Tiến"
+          }
+        },
+        {
+          "code": 23,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thế",
+          "keyLanguage": "Xã_Đồng_Vương",
+          "languages": {
+            "vi": "Xã Đồng Vương",
+            "en": "Xã Đồng Vương",
+            "ja": "Xã Đồng Vương",
+            "ko": "사나동브엉"
+          }
+        },
+        {
+          "code": 24,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thế",
+          "keyLanguage": "Xã_Đồng_Hưu",
+          "languages": {
+            "vi": "Xã Đồng Hưu",
+            "en": "Xã Đồng Hưu",
+            "ja": "Xã Đồng Hưu",
+            "ko": "사나동흐우"
+          }
+        },
+        {
+          "code": 25,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thế",
+          "keyLanguage": "Xã_Đồng_Tâm",
+          "languages": {
+            "vi": "Xã Đồng Tâm",
+            "en": "Xã Đồng Tâm",
+            "ja": "サン・ドン・タム",
+            "ko": "Xã Dong Tâm"
+          }
+        },
+        {
+          "code": 26,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thế",
+          "keyLanguage": "Xã_Tam_Hiệp",
+          "languages": {
+            "vi": "Xã Tam Hiệp",
+            "en": "Xã Tam Hiệp",
+            "ja": "シャン・タム・ヒエプ",
+            "ko": "Xã Tam Hiep"
+          }
+        },
+        {
+          "code": 27,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thế",
+          "keyLanguage": "Xã_Tiến_Thắng",
+          "languages": {
+            "vi": "Xã Tiến Thắng",
+            "en": "Xã Tiến Thắng",
+            "ja": "サン・ティエン・タン",
+            "ko": "싸띠엔탕"
+          }
+        },
+        {
+          "code": 28,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thế",
+          "keyLanguage": "Xã_Hồng_Kỳ",
+          "languages": {
+            "vi": "Xã Hồng Kỳ",
+            "en": "Xã Hồng Kỳ",
+            "ja": "Xã Hồng Kỳ",
+            "ko": "Xã Hồng Kỳ"
+          }
+        },
+        {
+          "code": 29,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thế",
+          "keyLanguage": "Xã_Đồng_Lạc",
+          "languages": {
+            "vi": "Xã Đồng Lạc",
+            "en": "Xã Đồng Lạc",
+            "ja": "Xã Đồng Lạc",
+            "ko": "싸동락"
+          }
+        },
+        {
+          "code": 30,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thế",
+          "keyLanguage": "Xã_Đông_Sơn",
+          "languages": {
+            "vi": "Xã Đông Sơn",
+            "en": "Xã Đông Sơn",
+            "ja": "サン・ドン・ソン",
+            "ko": "사나 동선"
+          }
+        },
+        {
+          "code": 31,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thế",
+          "keyLanguage": "Xã_Tân_Hiệp",
+          "languages": {
+            "vi": "Xã Tân Hiệp",
+            "en": "Xã Tân Hiệp",
+            "ja": "シャン・タン・ヒエプ",
+            "ko": "Xã Tân Hiep"
+          }
+        },
+        {
+          "code": 32,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thế",
+          "keyLanguage": "Xã_Hương_Vĩ",
+          "languages": {
+            "vi": "Xã Hương Vĩ",
+            "en": "Xã Hương Vĩ",
+            "ja": "Xã Hương Vĩ",
+            "ko": "사나흐엉비"
+          }
+        },
+        {
+          "code": 33,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thế",
+          "keyLanguage": "Xã_Đồng_Kỳ",
+          "languages": {
+            "vi": "Xã Đồng Kỳ",
+            "en": "Xã Đồng Kỳ",
+            "ja": "Xã Đồng Kỳ",
+            "ko": "Xã Dong Kỳ"
+          }
+        },
+        {
+          "code": 34,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thế",
+          "keyLanguage": "Xã_An_Thượng",
+          "languages": {
+            "vi": "Xã An Thượng",
+            "en": "Xã An Thượng",
+            "ja": "サン・アン・トゥン",
+            "ko": "싸안트엉"
+          }
+        },
+        {
+          "code": 35,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thế",
+          "keyLanguage": "Thị_trấn_Phồn_Xương",
+          "languages": {
+            "vi": "Thị trấn Phồn Xương",
+            "en": "Thị trấn Phồn Xương",
+            "ja": "Thị trấn Phồn Xương",
+            "ko": "Thị trấn Phồn Xuan"
+          }
+        },
+        {
+          "code": 36,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thế",
+          "keyLanguage": "Xã_Tân_Sỏi",
+          "languages": {
+            "vi": "Xã Tân Sỏi",
+            "en": "Xã Tân Sỏi",
+            "ja": "サン・タン・セイ",
+            "ko": "Xã Tân Sỏi"
+          }
+        },
+        {
+          "code": 37,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thế",
+          "keyLanguage": "Thị_trấn_Bố_Hạ",
+          "languages": {
+            "vi": "Thị trấn Bố Hạ",
+            "en": "Thị trấn Bố Hạ",
+            "ja": "トゥン・トラン・ボー・ハ",
+            "ko": "Thị trấn Bố Hạ"
+          }
+        }
+      ]
+    },
+    {
+      "code": 38,
+      "city": "Thành Phố/Huyện/ Thị Xã",
+      "category": null,
+      "postalCode": "9000038",
+      "nameCategory": "Huyện Tân Yên",
+      "keyLanguage": "Huyện_Tân_Yên",
+      "languages": {
+        "vi": "Huyện Tân Yên",
+        "en": "Huyện Tân Yên",
+        "ja": "フエン・タン・イェン",
+        "ko": "후엔 탄 엔"
+      },
+      "districtList": [
+        {
+          "code": 39,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Tân Yên",
+          "keyLanguage": "Xã_Lan_Giới",
+          "languages": {
+            "vi": "Xã Lan Giới",
+            "en": "Xã Lan Giới",
+            "ja": "シャン・ラン・ギエ",
+            "ko": "Xã Lan Giới"
+          }
+        },
+        {
+          "code": 40,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Tân Yên",
+          "keyLanguage": "Thị_trấn_Nhã_Nam",
+          "languages": {
+            "vi": "Thị trấn Nhã Nam",
+            "en": "Thị trấn Nhã Nam",
+            "ja": "トゥン・ニャン・ナム",
+            "ko": "티 쩐 나남(Thị trấn Nhã Nam)"
+          }
+        },
+        {
+          "code": 41,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Tân Yên",
+          "keyLanguage": "Xã_Tân_Trung",
+          "languages": {
+            "vi": "Xã Tân Trung",
+            "en": "Xã Tân Trung",
+            "ja": "シャン・タン・チュン",
+            "ko": "Xã Tân Trung"
+          }
+        },
+        {
+          "code": 42,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Tân Yên",
+          "keyLanguage": "Xã_Đại_Hóa",
+          "languages": {
+            "vi": "Xã Đại Hóa",
+            "en": "Xã Đại Hóa",
+            "ja": "サン ダイ ホア",
+            "ko": "싸다이호아"
+          }
+        },
+        {
+          "code": 43,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Tân Yên",
+          "keyLanguage": "Xã_Quang_Tiến",
+          "languages": {
+            "vi": "Xã Quảng Tiến",
+            "en": "Xã Quang Tiến",
+            "ja": "サン・クアン・ティエン",
+            "ko": "Xã Quang Tiến"
+          }
+        },
+        {
+          "code": 44,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Tân Yên",
+          "keyLanguage": "Xã_Phúc_Sơn",
+          "languages": {
+            "vi": "Xã Phúc Sơn",
+            "en": "Xã Phúc Sơn",
+            "ja": "サンフックソン",
+            "ko": "싸푹손"
+          }
+        },
+        {
+          "code": 45,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Tân Yên",
+          "keyLanguage": "Xã_An_Dương",
+          "languages": {
+            "vi": "Xã An Dương",
+            "en": "Xã An Dương",
+            "ja": "サン・アン・ドゥオン",
+            "ko": "사나 안 즈엉"
+          }
+        },
+        {
+          "code": 46,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Tân Yên",
+          "keyLanguage": "Xã_Phúc_Hòa",
+          "languages": {
+            "vi": "Xã Phúc Hòa",
+            "en": "Xã Phúc Hòa",
+            "ja": "サン・フック・ホア",
+            "ko": "Xã Phúc Hòa"
+          }
+        },
+        {
+          "code": 47,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Tân Yên",
+          "keyLanguage": "Xã_Liên_Sơn",
+          "languages": {
+            "vi": "Xã Liên Sơn",
+            "en": "Xã Liên Sơn",
+            "ja": "サン・リエン・ソン",
+            "ko": "Xã Liên Sôn"
+          }
+        },
+        {
+          "code": 48,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Tân Yên",
+          "keyLanguage": "Xã_Hợp_Đức",
+          "languages": {
+            "vi": "Xã Hợp Đức",
+            "en": "Xã Hợp Đức",
+            "ja": "Xã Hợp Đức",
+            "ko": "싸홉득"
+          }
+        },
+        {
+          "code": 49,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Tân Yên",
+          "keyLanguage": "Xã_Lam_Cốt",
+          "languages": {
+            "vi": "Xã Lâm Cốt",
+            "en": "Xã Lam Cốt",
+            "ja": "シャン・ラム・コット",
+            "ko": "Xã Lam Cốt"
+          }
+        },
+        {
+          "code": 50,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Tân Yên",
+          "keyLanguage": "Xã_Cao_Xá",
+          "languages": {
+            "vi": "Xã Cao Xá",
+            "en": "Xã Cao Xá",
+            "ja": "サー・カオ・サー",
+            "ko": "싸까오싸"
+          }
+        },
+        {
+          "code": 51,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Tân Yên",
+          "keyLanguage": "Thị_trấn_Cao_Thượng",
+          "languages": {
+            "vi": "Thị trấn Cao Thượng",
+            "en": "Thị trấn Cao Thượng",
+            "ja": "Thị trấn Cao Thượng",
+            "ko": "티 쩐 카오 트엉"
+          }
+        },
+        {
+          "code": 52,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Tân Yên",
+          "keyLanguage": "Xã_Việt_Ngọc",
+          "languages": {
+            "vi": "Xã Việt Ngọc",
+            "en": "Xã Việt Ngọc",
+            "ja": "Xã Việt Ngọc",
+            "ko": "사 비엣 응옥"
+          }
+        },
+        {
+          "code": 53,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Tân Yên",
+          "keyLanguage": "Xã_Song_Vân",
+          "languages": {
+            "vi": "Xã Sông Vân",
+            "en": "Xã Song Vân",
+            "ja": "シャン・ソン・ヴァン",
+            "ko": "Xã Song Vân"
+          }
+        },
+        {
+          "code": 54,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Tân Yên",
+          "keyLanguage": "Xã_Ngọc_Châu",
+          "languages": {
+            "vi": "Xã Ngọc Châu",
+            "en": "Xã Ngọc Châu",
+            "ja": "ザン・ゴク・チャウ",
+            "ko": "Xã Ngọc Châu"
+          }
+        },
+        {
+          "code": 55,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Tân Yên",
+          "keyLanguage": "Xã_Ngọc_Vân",
+          "languages": {
+            "vi": "Xã Ngọc Vân",
+            "en": "Xã Ngọc Vân",
+            "ja": "サン・ゴク・ヴァン",
+            "ko": "Xã Ngọc Vân"
+          }
+        },
+        {
+          "code": 56,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Tân Yên",
+          "keyLanguage": "Xã_Việt_Lập",
+          "languages": {
+            "vi": "Xã Việt Lập",
+            "en": "Xã Việt Lập",
+            "ja": "Xã Việt Lập",
+            "ko": "Xã Viet Lập"
+          }
+        },
+        {
+          "code": 57,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Tân Yên",
+          "keyLanguage": "Xã_Liên_Chung",
+          "languages": {
+            "vi": "Xã Liên Chung",
+            "en": "Xã Liên Chung",
+            "ja": "チャン・リエン",
+            "ko": "Xã Liên Chung"
+          }
+        },
+        {
+          "code": 58,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Tân Yên",
+          "keyLanguage": "Xã_Ngọc_Thiện",
+          "languages": {
+            "vi": "Xã Ngọc Thiện",
+            "en": "Xã Ngọc Thiện",
+            "ja": "Xã Ngọc Thiện",
+            "ko": "Xã Ngọc Thiên"
+          }
+        },
+        {
+          "code": 59,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Tân Yên",
+          "keyLanguage": "Xã_Ngọc_Lý",
+          "languages": {
+            "vi": "Xã Ngọc Lý",
+            "en": "Xã Ngọc Lý",
+            "ja": "ザン・ゴク・リー",
+            "ko": "Xã Ngọc Lý"
+          }
+        },
+        {
+          "code": 60,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Tân Yên",
+          "keyLanguage": "Xã_Quế_Nham",
+          "languages": {
+            "vi": "Xã Quế Nhâm",
+            "en": "Xã Quế Nham",
+            "ja": "シャン・クエ・ナム",
+            "ko": "Xã Quế Nham"
+          }
+        }
+      ]
+    },
+    {
+      "code": 61,
+      "city": "Thành Phố/Huyện/ Thị Xã",
+      "category": null,
+      "postalCode": "9000061",
+      "nameCategory": "Huyện Lạng Giang",
+      "keyLanguage": "Huyện_Lạng_Giang",
+      "languages": {
+        "vi": "Huyện Lạng Giang",
+        "en": "Huyện Lạng Giang",
+        "ja": "フエン・ランザン",
+        "ko": "후옌랑장"
+      },
+      "districtList": [
+        {
+          "code": 62,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lạng Giang",
+          "keyLanguage": "Thị_trấn_Vôi",
+          "languages": {
+            "vi": "Thị trấn Vôi",
+            "en": "Thị trấn Vôi",
+            "ja": "トゥルン・ヴォイ",
+            "ko": "Thị trấn Vôi"
+          }
+        },
+        {
+          "code": 63,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lạng Giang",
+          "keyLanguage": "Xã_Nghĩa_Hòa",
+          "languages": {
+            "vi": "Xã Nghĩa Hòa",
+            "en": "Xã Nghĩa Hòa",
+            "ja": "サン・グア・ホア",
+            "ko": "Xã Nghĩa Hòa"
+          }
+        },
+        {
+          "code": 64,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lạng Giang",
+          "keyLanguage": "Xã_Nghĩa_Hưng",
+          "languages": {
+            "vi": "Xã Nghĩa Hưng",
+            "en": "Xã Nghĩa Hưng",
+            "ja": "シンア・グア・ホン",
+            "ko": "Xã Nghĩa Hong"
+          }
+        },
+        {
+          "code": 65,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lạng Giang",
+          "keyLanguage": "Xã_Quang_Thịnh",
+          "languages": {
+            "vi": "Xã Quang Thịnh",
+            "en": "Xã Quang Thịnh",
+            "ja": "シャン・クアン・ティン",
+            "ko": "Xã Quang Thịnh"
+          }
+        },
+        {
+          "code": 66,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lạng Giang",
+          "keyLanguage": "Xã_Hương_Sơn",
+          "languages": {
+            "vi": "Xã Hương Sơn",
+            "en": "Xã Hương Sơn",
+            "ja": "Xã Hương Sơn",
+            "ko": "사나흐엉손"
+          }
+        },
+        {
+          "code": 67,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lạng Giang",
+          "keyLanguage": "Xã_Đào_Mỹ",
+          "languages": {
+            "vi": "Xã Đào Mỹ",
+            "en": "Xã Đào Mỹ",
+            "ja": "サン・ダオ・ム",
+            "ko": "싸다오미"
+          }
+        },
+        {
+          "code": 68,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lạng Giang",
+          "keyLanguage": "Xã_Tiên_Lục",
+          "languages": {
+            "vi": "Xã Tiên Lục",
+            "en": "Xã Tiên Lục",
+            "ja": "サンティエンロック",
+            "ko": "Xã Tiên Lục"
+          }
+        },
+        {
+          "code": 69,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lạng Giang",
+          "keyLanguage": "Xã_An_Hà",
+          "languages": {
+            "vi": "Xã An Hà",
+            "en": "Xã An Hà",
+            "ja": "サンアンハ",
+            "ko": "싼안하(Xã An Hà)"
+          }
+        },
+        {
+          "code": 70,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lạng Giang",
+          "keyLanguage": "Thị_trấn_Kép",
+          "languages": {
+            "vi": "Thị trấn Kép",
+            "en": "Thị trấn Kép",
+            "ja": "トゥ・トラン・ケップ",
+            "ko": "티 쩐 켑(Thị trấn Kép)"
+          }
+        },
+        {
+          "code": 71,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lạng Giang",
+          "keyLanguage": "Xã_Mỹ_Hà",
+          "languages": {
+            "vi": "Xã Mỹ Hà",
+            "en": "Xã Mỹ Hà",
+            "ja": "サン・ム・ハ",
+            "ko": "Xã Mỹ Hà"
+          }
+        },
+        {
+          "code": 72,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lạng Giang",
+          "keyLanguage": "Xã_Hương_Lạc",
+          "languages": {
+            "vi": "Xã Hương Lạc",
+            "en": "Xã Hương Lạc",
+            "ja": "Xã Hương Lạc",
+            "ko": "싸흐엉락"
+          }
+        },
+        {
+          "code": 73,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lạng Giang",
+          "keyLanguage": "Xã_Dương_Đức",
+          "languages": {
+            "vi": "Xã Dương Đức",
+            "en": "Xã Dương Đức",
+            "ja": "Xã Dương Đức",
+            "ko": "사나즈엉득"
+          }
+        },
+        {
+          "code": 74,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lạng Giang",
+          "keyLanguage": "Xã_Tân_Thanh",
+          "languages": {
+            "vi": "Xã Tân Thành",
+            "en": "Xã Tân Thanh",
+            "ja": "シャンタンタン",
+            "ko": "Xã Tân Thanh"
+          }
+        },
+        {
+          "code": 75,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lạng Giang",
+          "keyLanguage": "Xã_Yên_Mỹ",
+          "languages": {
+            "vi": "Xã Yên Mỹ",
+            "en": "Xã Yên Mỹ",
+            "ja": "サン・イェン・ム",
+            "ko": "Xã Yên Mỹ"
+          }
+        },
+        {
+          "code": 76,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lạng Giang",
+          "keyLanguage": "Xã_Tân_Hưng",
+          "languages": {
+            "vi": "Xã Tân Hưng",
+            "en": "Xã Tân Hưng",
+            "ja": "シャン・タン・ホン",
+            "ko": "Xã Tân Hong"
+          }
+        },
+        {
+          "code": 77,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lạng Giang",
+          "keyLanguage": "Xã_Mỹ_Thái",
+          "languages": {
+            "vi": "Xã Mỹ Thái",
+            "en": "Xã Mỹ Thái",
+            "ja": "サーミータイ語",
+            "ko": "싸미타이"
+          }
+        },
+        {
+          "code": 78,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lạng Giang",
+          "keyLanguage": "Xã_Xương_Lâm",
+          "languages": {
+            "vi": "Xã Xương Lâm",
+            "en": "Xã Xương Lâm",
+            "ja": "Xã Xương Lâm",
+            "ko": "Xã Xuong Lâm"
+          }
+        },
+        {
+          "code": 79,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lạng Giang",
+          "keyLanguage": "Xã_Xuân_Hương",
+          "languages": {
+            "vi": "Xã Xuân Hương",
+            "en": "Xã Xuân Hương",
+            "ja": "Xã Xuân Hương",
+            "ko": "쑤언흐엉"
+          }
+        },
+        {
+          "code": 80,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lạng Giang",
+          "keyLanguage": "Xã_Tân_Dĩnh",
+          "languages": {
+            "vi": "Xã Tân Định",
+            "en": "Xã Tân Dĩnh",
+            "ja": "シャン・タン・ディン",
+            "ko": "Xã Tân Dĩnh"
+          }
+        },
+        {
+          "code": 81,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lạng Giang",
+          "keyLanguage": "Xã_Đại_Lâm",
+          "languages": {
+            "vi": "Xã Đại Lâm",
+            "en": "Xã Đại Lâm",
+            "ja": "シャン・ダイ・ラム",
+            "ko": "싸다이럼"
+          }
+        },
+        {
+          "code": 82,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lạng Giang",
+          "keyLanguage": "Xã_Thái_Đào",
+          "languages": {
+            "vi": "Xã Thái Đào",
+            "en": "Xã Thái Đào",
+            "ja": "サンタイダオ",
+            "ko": "싸타이다오"
+          }
+        }
+      ]
+    },
+    {
+      "code": 83,
+      "city": "Thành Phố/Huyện/ Thị Xã",
+      "category": null,
+      "postalCode": "9000083",
+      "nameCategory": "Huyện Lục Nam",
+      "keyLanguage": "Huyện_Lục_Nam",
+      "languages": {
+        "vi": "Huyện Lục Nam",
+        "en": "Huyện Lục Nam",
+        "ja": "フエン・ロック・ナム",
+        "ko": "후옌룩남"
+      },
+      "districtList": [
+        {
+          "code": 84,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Nam",
+          "keyLanguage": "Thị_trấn_Đồi_Ngô",
+          "languages": {
+            "vi": "Thị trấn Ngô",
+            "en": "Thị trấn Đồi Ngô",
+            "ja": "トゥルン・ダイ・ゴー",
+            "ko": "티 쩐 도이 응오"
+          }
+        },
+        {
+          "code": 85,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Nam",
+          "keyLanguage": "Xã_Đông_Hưng",
+          "languages": {
+            "vi": "Xã Đông Hưng",
+            "en": "Xã Đông Hưng",
+            "ja": "Xã Đông Hưng",
+            "ko": "사나동흥"
+          }
+        },
+        {
+          "code": 86,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Nam",
+          "keyLanguage": "Xã_Đông_Phú",
+          "languages": {
+            "vi": "Xã Đông Phú",
+            "en": "Xã Đông Phú",
+            "ja": "サンドンフー",
+            "ko": "싼동푸"
+          }
+        },
+        {
+          "code": 87,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Nam",
+          "keyLanguage": "Xã_Tam_Dị",
+          "languages": {
+            "vi": "Xã Tam Dị",
+            "en": "Xã Tam Dị",
+            "ja": "サン・タム・ドゥ",
+            "ko": "Xã Tam Dị"
+          }
+        },
+        {
+          "code": 88,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Nam",
+          "keyLanguage": "Xã_Bảo_Sơn",
+          "languages": {
+            "vi": "Xã Bảo Sơn",
+            "en": "Xã Bảo Sơn",
+            "ja": "サンバオソン",
+            "ko": "싸바오손"
+          }
+        },
+        {
+          "code": 89,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Nam",
+          "keyLanguage": "Xã_Bảo_Đài",
+          "languages": {
+            "vi": "Xã Bảo Đài",
+            "en": "Xã Bảo Đài",
+            "ja": "サンバオダイ",
+            "ko": "싸바오다이"
+          }
+        },
+        {
+          "code": 90,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Nam",
+          "keyLanguage": "Xã_Thanh_Lâm",
+          "languages": {
+            "vi": "Xã Thanh Lâm",
+            "en": "Xã Thanh Lâm",
+            "ja": "シャン・タン・ラム",
+            "ko": "Xã Thanh Lâm"
+          }
+        },
+        {
+          "code": 91,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Nam",
+          "keyLanguage": "Xã_Tiên_Nha",
+          "languages": {
+            "vi": "Xã Tiên Nha",
+            "en": "Xã Tiên Nha",
+            "ja": "シャン・ティエン・ニャ",
+            "ko": "Xã Tiên Nha"
+          }
+        },
+        {
+          "code": 92,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Nam",
+          "keyLanguage": "Xã_Trường_Giang",
+          "languages": {
+            "vi": "Xã Trường Giang",
+            "en": "Xã Trường Giang",
+            "ja": "サン・チュンザン・ザン",
+            "ko": "Xã Truong Giang"
+          }
+        },
+        {
+          "code": 93,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Nam",
+          "keyLanguage": "Xã_Phương_Sơn",
+          "languages": {
+            "vi": "Xã Phương Sơn",
+            "en": "Xã Phương Sơn",
+            "ja": "Xã Phương Sơn",
+            "ko": "사나 프엉 손"
+          }
+        },
+        {
+          "code": 94,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Nam",
+          "keyLanguage": "Xã_Chu_Điện",
+          "languages": {
+            "vi": "Xã Chu Điện",
+            "en": "Xã Chu Điện",
+            "ja": "Xã Chu Điện",
+            "ko": "싸추디엔"
+          }
+        },
+        {
+          "code": 95,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Nam",
+          "keyLanguage": "Xã_Cương_Sơn",
+          "languages": {
+            "vi": "Xã Cương Sơn",
+            "en": "Xã Cương Sơn",
+            "ja": "サン・クォン・ソン",
+            "ko": "사나 끄엉 손"
+          }
+        },
+        {
+          "code": 96,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Nam",
+          "keyLanguage": "Xã_Nghĩa_Phương",
+          "languages": {
+            "vi": "Xã Nghĩa Phương",
+            "en": "Xã Nghĩa Phương",
+            "ja": "Xã Nghĩa Phương",
+            "ko": "Xã Nghĩa 프엉"
+          }
+        },
+        {
+          "code": 97,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Nam",
+          "keyLanguage": "Xã_Vô_Tranh",
+          "languages": {
+            "vi": "Xã Vô Tranh",
+            "en": "Xã Vô Tranh",
+            "ja": "シャン・ヴォ・チャン",
+            "ko": "Xã Vô Tranh"
+          }
+        },
+        {
+          "code": 98,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Nam",
+          "keyLanguage": "Xã_Bình_Sơn",
+          "languages": {
+            "vi": "Xã Bình Sơn",
+            "en": "Xã Bình Sơn",
+            "ja": "サン・ビン・ソン",
+            "ko": "싸빈손"
+          }
+        },
+        {
+          "code": 99,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Nam",
+          "keyLanguage": "Xã_Lan_Mẫu",
+          "languages": {
+            "vi": "Xã Lan Mẫu",
+            "en": "Xã Lan Mẫu",
+            "ja": "シャン・ラン・マウ",
+            "ko": "Xã Lan Mẫu"
+          }
+        },
+        {
+          "code": 100,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Nam",
+          "keyLanguage": "Xã_Yên_Sơn",
+          "languages": {
+            "vi": "Xã Yên Sơn",
+            "en": "Xã Yên Sơn",
+            "ja": "サン・イェン・ソン",
+            "ko": "Xã Yên Sôn"
+          }
+        },
+        {
+          "code": 101,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Nam",
+          "keyLanguage": "Xã_Khám_Lạng",
+          "languages": {
+            "vi": "Xã Khám Lạng",
+            "en": "Xã Khám Lạng",
+            "ja": "サン・カム・ラン",
+            "ko": "Xã Khám Lạng"
+          }
+        },
+        {
+          "code": 102,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Nam",
+          "keyLanguage": "Xã_Huyền_Sơn",
+          "languages": {
+            "vi": "Xã Huyền Sơn",
+            "en": "Xã Huyền Sơn",
+            "ja": "サン・フエン・ソン",
+            "ko": "Xã Huyền Sôn"
+          }
+        },
+        {
+          "code": 103,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Nam",
+          "keyLanguage": "Xã_Trường_Sơn",
+          "languages": {
+            "vi": "Xã Trường Sơn",
+            "en": "Xã Trường Sơn",
+            "ja": "Xã Truường Sơn",
+            "ko": "사나 쯔엉 손"
+          }
+        },
+        {
+          "code": 104,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Nam",
+          "keyLanguage": "Xã_Lục_Sơn",
+          "languages": {
+            "vi": "Xã Lục Sơn",
+            "en": "Xã Lục Sơn",
+            "ja": "サンロックソン",
+            "ko": "Xã Lục Sôn"
+          }
+        },
+        {
+          "code": 105,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Nam",
+          "keyLanguage": "Xã_Bắc_Lũng",
+          "languages": {
+            "vi": "Xã Bắc Lũng",
+            "en": "Xã Bắc Lũng",
+            "ja": "サン・バクロン",
+            "ko": "Xã Bắc Lũng"
+          }
+        },
+        {
+          "code": 106,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Nam",
+          "keyLanguage": "Xã_Vũ_Xá",
+          "languages": {
+            "vi": "Xã Vũ Xá",
+            "en": "Xã Vũ Xá",
+            "ja": "シャーヴシャー",
+            "ko": "Xã Vũ Xá"
+          }
+        },
+        {
+          "code": 107,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Nam",
+          "keyLanguage": "Xã_Cẩm_Lý",
+          "languages": {
+            "vi": "Xã Cẩm Lý",
+            "en": "Xã Cẩm Lý",
+            "ja": "サン・カム・リー",
+            "ko": "Xã Cẩm Lý"
+          }
+        },
+        {
+          "code": 108,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Nam",
+          "keyLanguage": "Xã_Đan_Hội",
+          "languages": {
+            "vi": "Xã Đan Hội",
+            "en": "Xã Đan Hội",
+            "ja": "ザン・ホイ",
+            "ko": "사단호이"
+          }
+        }
+      ]
+    },
+    {
+      "code": 109,
+      "city": "Thành Phố/Huyện/ Thị Xã",
+      "category": null,
+      "postalCode": "90000109",
+      "nameCategory": "Huyện Lục Ngạn",
+      "keyLanguage": "Huyện_Lục_Ngạn",
+      "languages": {
+        "vi": "Huyện Lục Ngạn",
+        "en": "Huyện Lục Ngạn",
+        "ja": "フイン・ロックンガン",
+        "ko": "후옌 룩 응언"
+      },
+      "districtList": [
+        {
+          "code": 110,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Ngạn",
+          "keyLanguage": "Thị_trấn_Chũ",
+          "languages": {
+            "vi": "Thị trấn Old",
+            "en": "Thị trấn Chũ",
+            "ja": "トゥ・トラン・チュー",
+            "ko": "티 쩐 추(Thị trấn Chũ)"
+          }
+        },
+        {
+          "code": 111,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Ngạn",
+          "keyLanguage": "Xã_Cấm_Sơn",
+          "languages": {
+            "vi": "Xã Cấm Sơn",
+            "en": "Xã Cấm Sơn",
+            "ja": "サンカムソン",
+            "ko": "Xã Cấm Sôn"
+          }
+        },
+        {
+          "code": 112,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Ngạn",
+          "keyLanguage": "Xã_Tân_Sơn",
+          "languages": {
+            "vi": "Xã Tân Sơn",
+            "en": "Xã Tân Sơn",
+            "ja": "シャン・タン・ソン",
+            "ko": "Xã Tân Sôn"
+          }
+        },
+        {
+          "code": 113,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Ngạn",
+          "keyLanguage": "Xã_Phong_Minh",
+          "languages": {
+            "vi": "Xã Phong Minh",
+            "en": "Xã Phong Minh",
+            "ja": "シャー・フォン・ミン",
+            "ko": "사퐁 민"
+          }
+        },
+        {
+          "code": 114,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Ngạn",
+          "keyLanguage": "Xã_Phong_Vân",
+          "languages": {
+            "vi": "Xã Phong Vân",
+            "en": "Xã Phong Vân",
+            "ja": "シャン・フォン・ヴァン",
+            "ko": "Xã Phong Vân"
+          }
+        },
+        {
+          "code": 115,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Ngạn",
+          "keyLanguage": "Xã_Xa_Lý",
+          "languages": {
+            "vi": "Xã Xa Lý",
+            "en": "Xã Xa Lý",
+            "ja": "サー・サー・リー",
+            "ko": "Xã Xa Lý"
+          }
+        },
+        {
+          "code": 116,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Ngạn",
+          "keyLanguage": "Xã_Hộ_Đáp",
+          "languages": {
+            "vi": "Xã Hộ Tạm",
+            "en": "Xã Hộ Đáp",
+            "ja": "シャー・ホ・ジャップ",
+            "ko": "싸호답"
+          }
+        },
+        {
+          "code": 117,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Ngạn",
+          "keyLanguage": "Xã_Sơn_Hải",
+          "languages": {
+            "vi": "Xã Sơn Hải",
+            "en": "Xã Sơn Hải",
+            "ja": "サンソンハイ",
+            "ko": "싼손하이"
+          }
+        },
+        {
+          "code": 118,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Ngạn",
+          "keyLanguage": "Xã_Thanh_Hải",
+          "languages": {
+            "vi": "Xã Thanh Hải",
+            "en": "Xã Thanh Hải",
+            "ja": "シャン・タン・ハイ",
+            "ko": "Xã Thanh Hải"
+          }
+        },
+        {
+          "code": 119,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Ngạn",
+          "keyLanguage": "Xã_Kiên_Lao",
+          "languages": {
+            "vi": "Xã Kiên Lao",
+            "en": "Xã Kiên Lao",
+            "ja": "シャンキエンラオ語",
+            "ko": "싸 끼엔 라오"
+          }
+        },
+        {
+          "code": 120,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Ngạn",
+          "keyLanguage": "Xã_Biên_Sơn",
+          "languages": {
+            "vi": "Xã Biên Sơn",
+            "en": "Xã Biên Sơn",
+            "ja": "サン・ビエン・ソン",
+            "ko": "사비엔선"
+          }
+        },
+        {
+          "code": 121,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Ngạn",
+          "keyLanguage": "Xã_Kiên_Thành",
+          "languages": {
+            "vi": "Xã Kiên Thành",
+            "en": "Xã Kiên Thành",
+            "ja": "シャンキエンタン",
+            "ko": "Xã Kiên Thành"
+          }
+        },
+        {
+          "code": 122,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Ngạn",
+          "keyLanguage": "Xã_Hồng_Giang",
+          "languages": {
+            "vi": "Xã Hồng Giang",
+            "en": "Xã Hồng Giang",
+            "ja": "サン・ホンザン",
+            "ko": "Xã Hồng Giang"
+          }
+        },
+        {
+          "code": 123,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Ngạn",
+          "keyLanguage": "Xã_Kim_Sơn",
+          "languages": {
+            "vi": "Xã Kim Sơn",
+            "en": "Xã Kim Sơn",
+            "ja": "サン・キム・ソン",
+            "ko": "Xã 김선"
+          }
+        },
+        {
+          "code": 124,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Ngạn",
+          "keyLanguage": "Xã_Tân_Hoa",
+          "languages": {
+            "vi": "Xã Tân Hòa",
+            "en": "Xã Tân Hoa",
+            "ja": "シャン・タン・ホア",
+            "ko": "Xã Tân Hoa"
+          }
+        },
+        {
+          "code": 125,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Ngạn",
+          "keyLanguage": "Xã_Giáp_Sơn",
+          "languages": {
+            "vi": "Xã Giáp Sơn",
+            "en": "Xã Giáp Sơn",
+            "ja": "サン・ザップ・ソン",
+            "ko": "Xã Giáp Sôn"
+          }
+        },
+        {
+          "code": 126,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Ngạn",
+          "keyLanguage": "Xã_Biển_Động",
+          "languages": {
+            "vi": "Xã Biển Động",
+            "en": "Xã Biển Động",
+            "ja": "サン・ビン・ドン",
+            "ko": "싸비엔동"
+          }
+        },
+        {
+          "code": 127,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Ngạn",
+          "keyLanguage": "Xã_Quý_Sơn",
+          "languages": {
+            "vi": "Xã Quý Sơn",
+            "en": "Xã Quý Sơn",
+            "ja": "Xã Quý Sơn",
+            "ko": "사퀴손"
+          }
+        },
+        {
+          "code": 128,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Ngạn",
+          "keyLanguage": "Xã_Trù_Hựu",
+          "languages": {
+            "vi": "Xã Trù Hựu",
+            "en": "Xã Trù Hựu",
+            "ja": "ザン・トゥル・フー",
+            "ko": "Xã Trù Hựu"
+          }
+        },
+        {
+          "code": 129,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Ngạn",
+          "keyLanguage": "Xã_Phì_Điền",
+          "languages": {
+            "vi": "Xã Phì Điền",
+            "en": "Xã Phì Điền",
+            "ja": "サン・ピ・ディン",
+            "ko": "싸피디엔"
+          }
+        },
+        {
+          "code": 130,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Ngạn",
+          "keyLanguage": "Xã_Tân_Quang",
+          "languages": {
+            "vi": "Xã Tân Quang",
+            "en": "Xã Tân Quang",
+            "ja": "シャン・タン・クアン",
+            "ko": "Xã Tân Quang"
+          }
+        },
+        {
+          "code": 131,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Ngạn",
+          "keyLanguage": "Xã_Đồng_Cốc",
+          "languages": {
+            "vi": "Xã Đồng Cốc",
+            "en": "Xã Đồng Cốc",
+            "ja": "Xã Đồng Cốc",
+            "ko": "싸동꼭(Xã Dong Cốc)"
+          }
+        },
+        {
+          "code": 132,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Ngạn",
+          "keyLanguage": "Xã_Tân_Lập",
+          "languages": {
+            "vi": "Xã Tân Lập",
+            "en": "Xã Tân Lập",
+            "ja": "ザン・タン・ラップ",
+            "ko": "Xã Tân Lập"
+          }
+        },
+        {
+          "code": 133,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Ngạn",
+          "keyLanguage": "Xã_Phú_Nhuận",
+          "languages": {
+            "vi": "Xã Phú Nhuận",
+            "en": "Xã Phú Nhuận",
+            "ja": "Xã Phú Nhuận",
+            "ko": "Xã Phú Nhuận"
+          }
+        },
+        {
+          "code": 134,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Ngạn",
+          "keyLanguage": "Xã_Mỹ_An",
+          "languages": {
+            "vi": "Xã Mỹ An",
+            "en": "Xã Mỹ An",
+            "ja": "サンアン",
+            "ko": "Xã Mỹ An"
+          }
+        },
+        {
+          "code": 135,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Ngạn",
+          "keyLanguage": "Xã_Nam_Dương",
+          "languages": {
+            "vi": "Xã Nam Dương",
+            "en": "Xã Nam Dương",
+            "ja": "サン・ナム・ドゥン",
+            "ko": "사나 즈엉"
+          }
+        },
+        {
+          "code": 136,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Ngạn",
+          "keyLanguage": "Xã_Tân_Mộc",
+          "languages": {
+            "vi": "Xã Tân Mộc",
+            "en": "Xã Tân Mộc",
+            "ja": "サン・タン・マック",
+            "ko": "Xã Tân Mộc"
+          }
+        },
+        {
+          "code": 137,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Ngạn",
+          "keyLanguage": "Xã_Đèo_Gia",
+          "languages": {
+            "vi": "Xã Đèo Gia",
+            "en": "Xã Đèo Gia",
+            "ja": "サン・ジェオ・ギア",
+            "ko": "사 데오 지아"
+          }
+        },
+        {
+          "code": 138,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Lục Ngạn",
+          "keyLanguage": "Xã_Phượng_Sơn",
+          "languages": {
+            "vi": "Xã Phượng Sơn",
+            "en": "Xã Phượng Sơn",
+            "ja": "Xã Phượng Sơn",
+            "ko": "사나 프엉 손"
+          }
+        }
+      ]
+    },
+    {
+      "code": 139,
+      "city": "Thành Phố/Huyện/ Thị Xã",
+      "category": null,
+      "postalCode": "90000139",
+      "nameCategory": "Huyện Sơn Động",
+      "keyLanguage": "Huyện_Sơn_Động",
+      "languages": {
+        "vi": "Huyện Sơn Động",
+        "en": "Huyện Sơn Động",
+        "ja": "フイン・ソン・ドン",
+        "ko": "후옌선동"
+      },
+      "districtList": [
+        {
+          "code": 140,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Sơn Động",
+          "keyLanguage": "Thị_trấn_An_Châu",
+          "languages": {
+            "vi": "Thị trấn An Châu",
+            "en": "Thị trấn An Châu",
+            "ja": "トゥ・トラン・アン・チャウ",
+            "ko": "티 쩐 안 차우(Thị trấn An Châu)"
+          }
+        },
+        {
+          "code": 141,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Sơn Động",
+          "keyLanguage": "Thị_trấn_Tây_Yên_Tử",
+          "languages": {
+            "vi": "Thị trấn Tây Yên Tử",
+            "en": "Thị trấn Tây Yên Tử",
+            "ja": "Thị trấn Tây Yên Tử",
+            "ko": "Thị trấn Tây Yên Tử"
+          }
+        },
+        {
+          "code": 142,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Sơn Động",
+          "keyLanguage": "Xã_Vân_Sơn",
+          "languages": {
+            "vi": "Xã Vân Sơn",
+            "en": "Xã Vân Sơn",
+            "ja": "サン・ヴァン・ソン",
+            "ko": "사나반손"
+          }
+        },
+        {
+          "code": 143,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Sơn Động",
+          "keyLanguage": "Xã_Hữu_Sản",
+          "languages": {
+            "vi": "Xã Hữu Sản",
+            "en": "Xã Hữu Sản",
+            "ja": "サン・ホー・サン",
+            "ko": "Xã Hữu Sản"
+          }
+        },
+        {
+          "code": 144,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Sơn Động",
+          "keyLanguage": "Xã_Đại_Sơn",
+          "languages": {
+            "vi": "Xã Đại Sơn",
+            "en": "Xã Đại Sơn",
+            "ja": "Xã Đại Sơn",
+            "ko": "싸다이손"
+          }
+        },
+        {
+          "code": 145,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Sơn Động",
+          "keyLanguage": "Xã_Phúc_Sơn",
+          "languages": {
+            "vi": "Xã Phúc Sơn",
+            "en": "Xã Phúc Sơn",
+            "ja": "サンフックソン",
+            "ko": "싸푹손"
+          }
+        },
+        {
+          "code": 146,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Sơn Động",
+          "keyLanguage": "Xã_Giáo_Liêm",
+          "languages": {
+            "vi": "Xã Giáo Liêm",
+            "en": "Xã Giáo Liêm",
+            "ja": "サン・ジャオ・リエム",
+            "ko": "Xã Giáo Liêm"
+          }
+        },
+        {
+          "code": 147,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Sơn Động",
+          "keyLanguage": "Xã_Cẩm_Đàn",
+          "languages": {
+            "vi": "Xã Cẩm Đàn",
+            "en": "Xã Cẩm Đàn",
+            "ja": "サン・カム・ダン",
+            "ko": "싸캄단"
+          }
+        },
+        {
+          "code": 148,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Sơn Động",
+          "keyLanguage": "Xã_An_Lạc",
+          "languages": {
+            "vi": "Xã An Lạc",
+            "en": "Xã An Lạc",
+            "ja": "サンアンラック",
+            "ko": "싼락"
+          }
+        },
+        {
+          "code": 149,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Sơn Động",
+          "keyLanguage": "Xã_Vĩnh_An",
+          "languages": {
+            "vi": "Xã Vĩnh An",
+            "en": "Xã Vĩnh An",
+            "ja": "シャンヴィンアン",
+            "ko": "Xã Vĩnh An"
+          }
+        },
+        {
+          "code": 150,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Sơn Động",
+          "keyLanguage": "Xã_Yên_Định",
+          "languages": {
+            "vi": "Xã Yên Định",
+            "en": "Xã Yên Định",
+            "ja": "シャン・エン・ディン",
+            "ko": "싸옌딘"
+          }
+        },
+        {
+          "code": 151,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Sơn Động",
+          "keyLanguage": "Xã_Lệ_Viễn",
+          "languages": {
+            "vi": "Xã Lệ Viễn",
+            "en": "Xã Lệ Viễn",
+            "ja": "サンロンヴィーン",
+            "ko": "싸레비엔"
+          }
+        },
+        {
+          "code": 152,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Sơn Động",
+          "keyLanguage": "Xã_An_Bá",
+          "languages": {
+            "vi": "Xã An Bá",
+            "en": "Xã An Bá",
+            "ja": "サンアンバ",
+            "ko": "싼바"
+          }
+        },
+        {
+          "code": 153,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Sơn Động",
+          "keyLanguage": "Xã_Tuấn_Đạo",
+          "languages": {
+            "vi": "Xã Tuấn Đạo",
+            "en": "Xã Tuấn Đạo",
+            "ja": "サン・トゥアン・ダォ",
+            "ko": "싸뚜언다오"
+          }
+        },
+        {
+          "code": 154,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Sơn Động",
+          "keyLanguage": "Xã_Dương_Hưu",
+          "languages": {
+            "vi": "Xã Dương Hưu",
+            "en": "Xã Dương Hưu",
+            "ja": "Xã Dương Hưu",
+            "ko": "사나즈엉흐우"
+          }
+        },
+        {
+          "code": 155,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Sơn Động",
+          "keyLanguage": "Xã_Long_Sơn",
+          "languages": {
+            "vi": "Xã Long Sơn",
+            "en": "Xã Long Sơn",
+            "ja": "シャンロンソン",
+            "ko": "싼롱손"
+          }
+        },
+        {
+          "code": 156,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Sơn Động",
+          "keyLanguage": "Xã_Thanh_Luận",
+          "languages": {
+            "vi": "Xã Thành Luận",
+            "en": "Xã Thanh Luận",
+            "ja": "シャン・タン・ルアン",
+            "ko": "Xã Thanh Luận"
+          }
+        }
+      ]
+    },
+    {
+      "code": 157,
+      "city": "Thành Phố/Huyện/ Thị Xã",
+      "category": null,
+      "postalCode": "90000157",
+      "nameCategory": "Huyện Yên Dũng",
+      "keyLanguage": "Huyện_Yên_Dũng",
+      "languages": {
+        "vi": "Huyện Yên Dũng",
+        "en": "Huyện Yên Dũng",
+        "ja": "フエン・イェン・ズン",
+        "ko": "후옌옌둥"
+      },
+      "districtList": [
+        {
+          "code": 158,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Dũng",
+          "keyLanguage": "Thị_trấn_Nham_Biền",
+          "languages": {
+            "vi": "Thị trấn Nham Biên",
+            "en": "Thị trấn Nham Biền",
+            "ja": "トゥン・トラン・ナム・ビン",
+            "ko": "티 쩐 남 비엔(Thị trấn Nham Biền)"
+          }
+        },
+        {
+          "code": 159,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Dũng",
+          "keyLanguage": "Thị_trấn_Tân_An",
+          "languages": {
+            "vi": "Thị trấn Tân An",
+            "en": "Thị trấn Tân An",
+            "ja": "トゥン・タン・タン・アン",
+            "ko": "티 쩐 딴 안(Thị trấn Tân An)"
+          }
+        },
+        {
+          "code": 160,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Dũng",
+          "keyLanguage": "Xã_Lão_Hộ",
+          "languages": {
+            "vi": "Xã Lão Hộ",
+            "en": "Xã Lão Hộ",
+            "ja": "サンラオホー",
+            "ko": "Xã Lão Hộ"
+          }
+        },
+        {
+          "code": 161,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Dũng",
+          "keyLanguage": "Xã_Hương_Gián",
+          "languages": {
+            "vi": "Xã Hương Gián",
+            "en": "Xã Hương Gián",
+            "ja": "サン・フオン・ジアン",
+            "ko": "Xã Hong Gián"
+          }
+        },
+        {
+          "code": 162,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Dũng",
+          "keyLanguage": "Xã_Quỳnh_Sơn",
+          "languages": {
+            "vi": "Xã Quỳnh Sơn",
+            "en": "Xã Quỳnh Sơn",
+            "ja": "Xã Quỳnh Sơn",
+            "ko": "Xã Quỳnh Sôn"
+          }
+        },
+        {
+          "code": 163,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Dũng",
+          "keyLanguage": "Xã_Nội_Hoàng",
+          "languages": {
+            "vi": "Xã Nội Hoàng",
+            "en": "Xã Nội Hoàng",
+            "ja": "サン・ノイ・ホアン",
+            "ko": "Xã Nội Hoàng"
+          }
+        },
+        {
+          "code": 164,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Dũng",
+          "keyLanguage": "Xã_Tiền_Phong",
+          "languages": {
+            "vi": "Xã Tiền Phong",
+            "en": "Xã Tiền Phong",
+            "ja": "シャン・ティエン・フォン",
+            "ko": "Xã Tiền Phong"
+          }
+        },
+        {
+          "code": 165,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Dũng",
+          "keyLanguage": "Xã_Xuân_Phú",
+          "languages": {
+            "vi": "Xã Xuân Phú",
+            "en": "Xã Xuân Phú",
+            "ja": "サン・スアン・フー",
+            "ko": "Xã Xuân Phú"
+          }
+        },
+        {
+          "code": 166,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Dũng",
+          "keyLanguage": "Xã_Tân_Liễu",
+          "languages": {
+            "vi": "Xã Tân Liễu",
+            "en": "Xã Tân Liễu",
+            "ja": "シャン・タン・リウ",
+            "ko": "Xã Tân Liễu"
+          }
+        },
+        {
+          "code": 167,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Dũng",
+          "keyLanguage": "Xã_Trí_Yên",
+          "languages": {
+            "vi": "Xã Trí Yên",
+            "en": "Xã Trí Yên",
+            "ja": "サン・トリ・イェン",
+            "ko": "Xã Trí Yên"
+          }
+        },
+        {
+          "code": 168,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Dũng",
+          "keyLanguage": "Xã_Lãng_Sơn",
+          "languages": {
+            "vi": "Xã Lãng Sơn",
+            "en": "Xã Lãng Sơn",
+            "ja": "サンランソン",
+            "ko": "샹랑손"
+          }
+        },
+        {
+          "code": 169,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Dũng",
+          "keyLanguage": "Xã_Yên_Lư",
+          "languages": {
+            "vi": "Xã Yên Lư",
+            "en": "Xã Yên Lư",
+            "ja": "Xã Yên Lư",
+            "ko": "Xã Yên Lù"
+          }
+        },
+        {
+          "code": 170,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Dũng",
+          "keyLanguage": "Xã_Tiến_Dũng",
+          "languages": {
+            "vi": "Xã Tiến Dũng",
+            "en": "Xã Tiến Dũng",
+            "ja": "シャン・ティエン・ドゥン",
+            "ko": "Xã Tiến Dũng"
+          }
+        },
+        {
+          "code": 171,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Dũng",
+          "keyLanguage": "Xã_Đức_Giang",
+          "languages": {
+            "vi": "Xã Đức Giang",
+            "en": "Xã Đức Giang",
+            "ja": "シャン・ドゥク・ザン",
+            "ko": "싸득장"
+          }
+        },
+        {
+          "code": 172,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Dũng",
+          "keyLanguage": "Xã_Cảnh_Thụy",
+          "languages": {
+            "vi": "Xã Cảnh Thụy",
+            "en": "Xã Cảnh Thụy",
+            "ja": "ザン・カン・トゥイ",
+            "ko": "Xã Cảnh Tụy"
+          }
+        },
+        {
+          "code": 173,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Dũng",
+          "keyLanguage": "Xã_Tư_Mại",
+          "languages": {
+            "vi": "Xã Tư Thương mại",
+            "en": "Xã Tư Mại",
+            "ja": "サントゥマイ",
+            "ko": "Xã Tua Mại"
+          }
+        },
+        {
+          "code": 174,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Dũng",
+          "keyLanguage": "Xã_Đồng_Việt",
+          "languages": {
+            "vi": "Xã Đồng Việt",
+            "en": "Xã Đồng Việt",
+            "ja": "Xã Đồng Việt",
+            "ko": "사나동비엣"
+          }
+        },
+        {
+          "code": 175,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Dũng",
+          "keyLanguage": "Xã_Đồng_Phúc",
+          "languages": {
+            "vi": "Xã Đồng Phúc",
+            "en": "Xã Đồng Phúc",
+            "ja": "シャン・ドン・フック",
+            "ko": "사나동푹"
+          }
+        }
+      ]
+    },
+    {
+      "code": 176,
+      "city": "Thành Phố/Huyện/ Thị Xã",
+      "category": null,
+      "postalCode": "90000176",
+      "nameCategory": "Huyện Việt Yên",
+      "keyLanguage": "Huyện_Việt_Yên",
+      "languages": {
+        "vi": "Huyện Việt Yên",
+        "en": "Huyện Việt Yên",
+        "ja": "フエン・ヴィエット・イェン",
+        "ko": "후옌 비엣 옌"
+      },
+      "districtList": [
+        {
+          "code": 177,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Việt Yên",
+          "keyLanguage": "Xã_Thượng_Lan",
+          "languages": {
+            "vi": "Xã Thượng Lân",
+            "en": "Xã Thượng Lan",
+            "ja": "サン・トゥオン・ラン",
+            "ko": "사트엉란"
+          }
+        },
+        {
+          "code": 178,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Việt Yên",
+          "keyLanguage": "Xã_Việt_Tiến",
+          "languages": {
+            "vi": "Xã Việt Tiến",
+            "en": "Xã Việt Tiến",
+            "ja": "Xã Việt Tiến",
+            "ko": "Xã Viet Tiến"
+          }
+        },
+        {
+          "code": 179,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Việt Yên",
+          "keyLanguage": "Xã_Nghĩa_Trung",
+          "languages": {
+            "vi": "Xã Nghĩa Trung",
+            "en": "Xã Nghĩa Trung",
+            "ja": "シャン・グア・チュン",
+            "ko": "Xã Nghĩa Trung"
+          }
+        },
+        {
+          "code": 180,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Việt Yên",
+          "keyLanguage": "Xã_Minh_Đức",
+          "languages": {
+            "vi": "Xã Minh Đức",
+            "en": "Xã Minh Đức",
+            "ja": "シャン・ミン・ドゥク",
+            "ko": "싸민득"
+          }
+        },
+        {
+          "code": 181,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Việt Yên",
+          "keyLanguage": "Xã_Hương_Mai",
+          "languages": {
+            "vi": "Xã Hương Mai",
+            "en": "Xã Hương Mai",
+            "ja": "Xã Hương Mai",
+            "ko": "사나 흐엉 마이"
+          }
+        },
+        {
+          "code": 182,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Việt Yên",
+          "keyLanguage": "Xã_Tự_Lạn",
+          "languages": {
+            "vi": "Xã Tự Lan",
+            "en": "Xã Tự Lạn",
+            "ja": "Xã Tự Lạn",
+            "ko": "Xã Tự Lạn"
+          }
+        },
+        {
+          "code": 183,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Việt Yên",
+          "keyLanguage": "Thị_trấn_Bích_Động",
+          "languages": {
+            "vi": "Thị trấn Xích Động",
+            "en": "Thị trấn Bích Động",
+            "ja": "トゥン・トラン・ビッチ・ドン",
+            "ko": "티 쩐 빅 동(Thị trấn Bích dong)"
+          }
+        },
+        {
+          "code": 184,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Việt Yên",
+          "keyLanguage": "Xã_Trung_Sơn",
+          "languages": {
+            "vi": "Xã Trung Sơn",
+            "en": "Xã Trung Sơn",
+            "ja": "サン・チュン・ソン",
+            "ko": "Xã Trung Sôn"
+          }
+        },
+        {
+          "code": 185,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Việt Yên",
+          "keyLanguage": "Xã_Hồng_Thái",
+          "languages": {
+            "vi": "Xã Hồng Thái",
+            "en": "Xã Hồng Thái",
+            "ja": "サンフンタイ",
+            "ko": "싸홍타이"
+          }
+        },
+        {
+          "code": 186,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Việt Yên",
+          "keyLanguage": "Xã_Tiên_Sơn",
+          "languages": {
+            "vi": "Xã Tiên Sơn",
+            "en": "Xã Tiên Sơn",
+            "ja": "サン・ティエン・ソン",
+            "ko": "Xã Tiên Sôn"
+          }
+        },
+        {
+          "code": 187,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Việt Yên",
+          "keyLanguage": "Xã_Tăng_Tiến",
+          "languages": {
+            "vi": "Xã Tăng Tiến",
+            "en": "Xã Tăng Tiến",
+            "ja": "シャン・タン・ティエン",
+            "ko": "Xã Tăng Tiến"
+          }
+        },
+        {
+          "code": 188,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Việt Yên",
+          "keyLanguage": "Xã_Quảng_Minh",
+          "languages": {
+            "vi": "Xã Quảng Minh",
+            "en": "Xã Quảng Minh",
+            "ja": "サン・クアン・ミン",
+            "ko": "Xã Quảng Minh"
+          }
+        },
+        {
+          "code": 189,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Việt Yên",
+          "keyLanguage": "Thị_trấn_Nếnh",
+          "languages": {
+            "vi": "Thị trấn Nến",
+            "en": "Thị trấn Nếnh",
+            "ja": "トゥン・ナン・ネ",
+            "ko": "티 쩐 넨(Thị trấn Nếnh)"
+          }
+        },
+        {
+          "code": 190,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Việt Yên",
+          "keyLanguage": "Xã_Ninh_Sơn",
+          "languages": {
+            "vi": "Xã Ninh Sơn",
+            "en": "Xã Ninh Sơn",
+            "ja": "シャンニンソン",
+            "ko": "싸닌손"
+          }
+        },
+        {
+          "code": 191,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Việt Yên",
+          "keyLanguage": "Xã_Vân_Trung",
+          "languages": {
+            "vi": "Xã Vân Trung",
+            "en": "Xã Vân Trung",
+            "ja": "シャン・ヴァン・チュン",
+            "ko": "Xã Vân Trung"
+          }
+        },
+        {
+          "code": 192,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Việt Yên",
+          "keyLanguage": "Xã_Vân_Hà",
+          "languages": {
+            "vi": "Xã Vân Hà",
+            "en": "Xã Vân Hà",
+            "ja": "シャン・ヴァン・ハ",
+            "ko": "Xã Vân Hà"
+          }
+        },
+        {
+          "code": 193,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Việt Yên",
+          "keyLanguage": "Xã_Quang_Châu",
+          "languages": {
+            "vi": "Xã Quang Châu",
+            "en": "Xã Quang Châu",
+            "ja": "サン・クアン・チャウ",
+            "ko": "Xã Quang Châu"
+          }
+        }
+      ]
+    },
+    {
+      "code": 194,
+      "city": "Thành Phố/Huyện/ Thị Xã",
+      "category": null,
+      "postalCode": "90000194",
+      "nameCategory": "Huyện Hiệp Hòa",
+      "keyLanguage": "Huyện_Hiệp_Hòa",
+      "languages": {
+        "vi": "Huyện Hiệp Hòa",
+        "en": "Huyện Hiệp Hòa",
+        "ja": "フイン・ヒエップ・ホア",
+        "ko": "후엔 히엡 호아"
+      },
+      "districtList": [
+        {
+          "code": 195,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hiệp Hòa",
+          "keyLanguage": "Xã_Đồng_Tân",
+          "languages": {
+            "vi": "Xã Đồng Tân",
+            "en": "Xã Đồng Tân",
+            "ja": "サン・ドン・タン",
+            "ko": "Xã Dong Tân"
+          }
+        },
+        {
+          "code": 196,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hiệp Hòa",
+          "keyLanguage": "Xã_Thanh_Vân",
+          "languages": {
+            "vi": "Xã Thanh Vân",
+            "en": "Xã Thanh Vân",
+            "ja": "シャン・タン・ヴァン",
+            "ko": "Xã Thanh Vân"
+          }
+        },
+        {
+          "code": 197,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hiệp Hòa",
+          "keyLanguage": "Xã_Hoàng_Lương",
+          "languages": {
+            "vi": "Xã Hoàng Lương",
+            "en": "Xã Hoàng Lương",
+            "ja": "サン・ホアン・ロン",
+            "ko": "사나호앙르엉"
+          }
+        },
+        {
+          "code": 198,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hiệp Hòa",
+          "keyLanguage": "Xã_Hoàng_Vân",
+          "languages": {
+            "vi": "Xã Hoàng Vân",
+            "en": "Xã Hoàng Vân",
+            "ja": "サン・ホアン・ヴァン",
+            "ko": "Xã Hoàng Vân"
+          }
+        },
+        {
+          "code": 199,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hiệp Hòa",
+          "keyLanguage": "Xã_Hoàng_Thanh",
+          "languages": {
+            "vi": "Xã Hoàng Thành",
+            "en": "Xã Hoàng Thanh",
+            "ja": "シャン・ホアン・タン",
+            "ko": "싸호앙탄"
+          }
+        },
+        {
+          "code": 200,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hiệp Hòa",
+          "keyLanguage": "Xã_Hoàng_An",
+          "languages": {
+            "vi": "Xã Hoàng An",
+            "en": "Xã Hoàng An",
+            "ja": "サン・ホアン・アン",
+            "ko": "싸호앙안"
+          }
+        },
+        {
+          "code": 201,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hiệp Hòa",
+          "keyLanguage": "Xã_Ngọc_Sơn",
+          "languages": {
+            "vi": "Xã Ngọc Sơn",
+            "en": "Xã Ngọc Sơn",
+            "ja": "Xã Ngọc Sơn",
+            "ko": "Xã Ngọc Sôn"
+          }
+        },
+        {
+          "code": 202,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hiệp Hòa",
+          "keyLanguage": "Xã_Thái_Sơn",
+          "languages": {
+            "vi": "Xã Thái Sơn",
+            "en": "Xã Thái Sơn",
+            "ja": "サン・タイ・ソン",
+            "ko": "싸타이손"
+          }
+        },
+        {
+          "code": 203,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hiệp Hòa",
+          "keyLanguage": "Xã_Hòa_Sơn",
+          "languages": {
+            "vi": "Xã Hòa Sơn",
+            "en": "Xã Hòa Sơn",
+            "ja": "シャーホアソン",
+            "ko": "사호아손"
+          }
+        },
+        {
+          "code": 204,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hiệp Hòa",
+          "keyLanguage": "Thị_trấn_Thắng",
+          "languages": {
+            "vi": "Thị trấn Thắng",
+            "en": "Thị trấn Thắng",
+            "ja": "トゥン・トゥン・トゥン",
+            "ko": "티 쩐 탕"
+          }
+        },
+        {
+          "code": 205,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hiệp Hòa",
+          "keyLanguage": "Xã_Quang_Minh",
+          "languages": {
+            "vi": "Xã Quang Minh",
+            "en": "Xã Quang Minh",
+            "ja": "サン・クアン・ミン",
+            "ko": "사꽝민"
+          }
+        },
+        {
+          "code": 206,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hiệp Hòa",
+          "keyLanguage": "Xã_Lương_Phong",
+          "languages": {
+            "vi": "Xã Lương Phong",
+            "en": "Xã Lương Phong",
+            "ja": "シャン・ルン・フォン",
+            "ko": "사나 르엉 퐁"
+          }
+        },
+        {
+          "code": 207,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hiệp Hòa",
+          "keyLanguage": "Xã_Hùng_Sơn",
+          "languages": {
+            "vi": "Xã Hùng Sơn",
+            "en": "Xã Hùng Sơn",
+            "ja": "Xã Hùng Sơn",
+            "ko": "Xã Hùng Sôn"
+          }
+        },
+        {
+          "code": 208,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hiệp Hòa",
+          "keyLanguage": "Xã_Đại_Thành",
+          "languages": {
+            "vi": "Xã Đại Thành",
+            "en": "Xã Đại Thành",
+            "ja": "サン・ダイ・タン",
+            "ko": "싸다이탄"
+          }
+        },
+        {
+          "code": 209,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hiệp Hòa",
+          "keyLanguage": "Xã_Thường_Thắng",
+          "languages": {
+            "vi": "Xã Thường Thắng",
+            "en": "Xã Thường Thắng",
+            "ja": "Xã Thường Thắng",
+            "ko": "싸트엉탕"
+          }
+        },
+        {
+          "code": 210,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hiệp Hòa",
+          "keyLanguage": "Xã_Hợp_Thịnh",
+          "languages": {
+            "vi": "Xã Hợp Thịnh",
+            "en": "Xã Hợp Thịnh",
+            "ja": "ザン・ホプ・ティン",
+            "ko": "Xã Hợp Thịnh"
+          }
+        },
+        {
+          "code": 211,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hiệp Hòa",
+          "keyLanguage": "Xã_Danh_Thắng",
+          "languages": {
+            "vi": "Xã Danh Thắng",
+            "en": "Xã Danh Thắng",
+            "ja": "ザン・ダン・タン",
+            "ko": "싸단탕"
+          }
+        },
+        {
+          "code": 212,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hiệp Hòa",
+          "keyLanguage": "Xã_Mai_Trung",
+          "languages": {
+            "vi": "Xã Mai Trung",
+            "en": "Xã Mai Trung",
+            "ja": "シャン・マイ・チュン",
+            "ko": "Xã Mai Trung"
+          }
+        },
+        {
+          "code": 213,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hiệp Hòa",
+          "keyLanguage": "Xã_Đoan_Bái",
+          "languages": {
+            "vi": "Xã Đoàn Bái",
+            "en": "Xã Đoan Bái",
+            "ja": "シャン・ジョアン・バイ",
+            "ko": "Xã 도안 바이"
+          }
+        },
+        {
+          "code": 214,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hiệp Hòa",
+          "keyLanguage": "Xã_Bắc_Lý",
+          "languages": {
+            "vi": "Xã Bắc Lý",
+            "en": "Xã Bắc Lý",
+            "ja": "シャン・バク・リー",
+            "ko": "Xã Bắc Lý"
+          }
+        },
+        {
+          "code": 215,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hiệp Hòa",
+          "keyLanguage": "Xã_Xuân_Cẩm",
+          "languages": {
+            "vi": "Xã Xuân Cẩm",
+            "en": "Xã Xuân Cẩm",
+            "ja": "サン・スアン・カム",
+            "ko": "Xã Xuân Cẩm"
+          }
+        },
+        {
+          "code": 216,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hiệp Hòa",
+          "keyLanguage": "Xã_Hương_Lâm",
+          "languages": {
+            "vi": "Xã Hương Lâm",
+            "en": "Xã Hương Lâm",
+            "ja": "サン・ホン・ラム",
+            "ko": "사나흐엉럼"
+          }
+        },
+        {
+          "code": 217,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hiệp Hòa",
+          "keyLanguage": "Xã_Đông_Lỗ",
+          "languages": {
+            "vi": "Xã Đông Lỗ",
+            "en": "Xã Đông Lỗ",
+            "ja": "シャン・ドン・ロー",
+            "ko": "Xã Dong Lỗ"
+          }
+        },
+        {
+          "code": 218,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hiệp Hòa",
+          "keyLanguage": "Xã_Châu_Minh",
+          "languages": {
+            "vi": "Xã Châu Minh",
+            "en": "Xã Châu Minh",
+            "ja": "シャー・チャウ・ミン",
+            "ko": "Xã Châu Minh"
+          }
+        },
+        {
+          "code": 219,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hiệp Hòa",
+          "keyLanguage": "Xã_Mai_Đình",
+          "languages": {
+            "vi": "Xã Mai Đình",
+            "en": "Xã Mai Đình",
+            "ja": "シャン・マイ・ディン",
+            "ko": "사마이딘"
+          }
+        }
+      ]
+    },
+    {
+      "code": 225,
+      "city": "Thành Phố/Huyện/ Thị Xã",
+      "category": null,
+      "postalCode": "90000225",
+      "nameCategory": "Huyện Anh Sơn",
+      "keyLanguage": "Huyện_Anh_Sơn",
+      "languages": {
+        "vi": "Huyện Anh Sơn",
+        "en": "Huyện Anh Sơn",
+        "ja": "フエン・アン・ソン",
+        "ko": "후옌 안 손"
+      },
+      "districtList": [
+        {
+          "code": 226,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Anh Sơn",
+          "keyLanguage": "Xã_Thọ_Sơn",
+          "languages": {
+            "vi": "Xã Thọ Sơn",
+            "en": "Xã Thọ Sơn",
+            "ja": "Xã Thọ Sơn",
+            "ko": "싸토손"
+          }
+        },
+        {
+          "code": 227,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Anh Sơn",
+          "keyLanguage": "Xã_Thành_Sơn",
+          "languages": {
+            "vi": "Xã Thành Sơn",
+            "en": "Xã Thành Sơn",
+            "ja": "シャン・タン・ソン",
+            "ko": "싸탄손"
+          }
+        },
+        {
+          "code": 228,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Anh Sơn",
+          "keyLanguage": "Xã_Bình_Sơn",
+          "languages": {
+            "vi": "Xã Bình Sơn",
+            "en": "Xã Bình Sơn",
+            "ja": "サン・ビン・ソン",
+            "ko": "싸빈손"
+          }
+        },
+        {
+          "code": 229,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Anh Sơn",
+          "keyLanguage": "Xã_Tam_Sơn",
+          "languages": {
+            "vi": "Xã Tam Sơn",
+            "en": "Xã Tam Sơn",
+            "ja": "シャン・タム・ソン",
+            "ko": "싸땀손"
+          }
+        },
+        {
+          "code": 230,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Anh Sơn",
+          "keyLanguage": "Xã_Đỉnh_Sơn",
+          "languages": {
+            "vi": "Xã Đỉnh Sơn",
+            "en": "Xã Đỉnh Sơn",
+            "ja": "Xã Đỉnh Sơn",
+            "ko": "사돈손"
+          }
+        },
+        {
+          "code": 231,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Anh Sơn",
+          "keyLanguage": "Xã_Hùng_Sơn",
+          "languages": {
+            "vi": "Xã Hùng Sơn",
+            "en": "Xã Hùng Sơn",
+            "ja": "Xã Hùng Sơn",
+            "ko": "Xã Hùng Sôn"
+          }
+        },
+        {
+          "code": 232,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Anh Sơn",
+          "keyLanguage": "Xã_Cẩm_Sơn",
+          "languages": {
+            "vi": "Xã Cẩm Sơn",
+            "en": "Xã Cẩm Sơn",
+            "ja": "サンカムソン",
+            "ko": "Xã Cẩm Sôn"
+          }
+        },
+        {
+          "code": 233,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Anh Sơn",
+          "keyLanguage": "Xã_Đức_Sơn",
+          "languages": {
+            "vi": "Xã Đức Sơn",
+            "en": "Xã Đức Sơn",
+            "ja": "Xã Đức Sơn",
+            "ko": "싸득손"
+          }
+        },
+        {
+          "code": 234,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Anh Sơn",
+          "keyLanguage": "Xã_Tường_Sơn",
+          "languages": {
+            "vi": "Xã Tường Sơn",
+            "en": "Xã Tường Sơn",
+            "ja": "Xã Tường Sơn",
+            "ko": "사뜨엉손"
+          }
+        },
+        {
+          "code": 235,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Anh Sơn",
+          "keyLanguage": "Xã_Hoa_Sơn",
+          "languages": {
+            "vi": "Xã Hòa Sơn",
+            "en": "Xã Hoa Sơn",
+            "ja": "サン・ホア・ソン",
+            "ko": "사호아손"
+          }
+        },
+        {
+          "code": 236,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Anh Sơn",
+          "keyLanguage": "Xã_Tào_Sơn",
+          "languages": {
+            "vi": "Xã Tào Sơn",
+            "en": "Xã Tào Sơn",
+            "ja": "サンタオソン",
+            "ko": "싸타오손"
+          }
+        },
+        {
+          "code": 237,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Anh Sơn",
+          "keyLanguage": "Xã_Vĩnh_Sơn",
+          "languages": {
+            "vi": "Xã Vĩnh Sơn",
+            "en": "Xã Vĩnh Sơn",
+            "ja": "シャン・ヴィン・ソン",
+            "ko": "Xã Vĩnh Sôn"
+          }
+        },
+        {
+          "code": 238,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Anh Sơn",
+          "keyLanguage": "Xã_Lạng_Sơn",
+          "languages": {
+            "vi": "Xã Lạng Sơn",
+            "en": "Xã Lạng Sơn",
+            "ja": "サンランソン",
+            "ko": "샹랑손"
+          }
+        },
+        {
+          "code": 239,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Anh Sơn",
+          "keyLanguage": "Xã_Hội_Sơn",
+          "languages": {
+            "vi": "Xã Hội Sơn",
+            "en": "Xã Hội Sơn",
+            "ja": "サン・ホイ・ソン",
+            "ko": "사호이손"
+          }
+        },
+        {
+          "code": 240,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Anh Sơn",
+          "keyLanguage": "Xã_Thạch_Sơn",
+          "languages": {
+            "vi": "Xã Thạch Sơn",
+            "en": "Xã Thạch Sơn",
+            "ja": "ザン・トク・ソン",
+            "ko": "Xã Thạch Sôn"
+          }
+        },
+        {
+          "code": 241,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Anh Sơn",
+          "keyLanguage": "Xã_Phúc_Sơn",
+          "languages": {
+            "vi": "Xã Phúc Sơn",
+            "en": "Xã Phúc Sơn",
+            "ja": "サンフックソン",
+            "ko": "싸푹손"
+          }
+        },
+        {
+          "code": 242,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Anh Sơn",
+          "keyLanguage": "Xã_Long_Sơn",
+          "languages": {
+            "vi": "Xã Long Sơn",
+            "en": "Xã Long Sơn",
+            "ja": "シャンロンソン",
+            "ko": "싼롱손"
+          }
+        },
+        {
+          "code": 243,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Anh Sơn",
+          "keyLanguage": "Xã_Khai_Sơn",
+          "languages": {
+            "vi": "Xã Khải Sơn",
+            "en": "Xã Khai Sơn",
+            "ja": "シャン・カイ・ソン",
+            "ko": "Xã Khai Sôn"
+          }
+        },
+        {
+          "code": 244,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Anh Sơn",
+          "keyLanguage": "Xã_Lĩnh_Sơn",
+          "languages": {
+            "vi": "Xã Lĩnh Sơn",
+            "en": "Xã Lĩnh Sơn",
+            "ja": "シン・リン・ソン",
+            "ko": "Xã Lĩnh Sôn"
+          }
+        },
+        {
+          "code": 245,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Anh Sơn",
+          "keyLanguage": "Xã_Cao_Sơn",
+          "languages": {
+            "vi": "Xã Cao Sơn",
+            "en": "Xã Cao Sơn",
+            "ja": "サン・カオ・ソン",
+            "ko": "싸까오손"
+          }
+        }
+      ]
+    },
+    {
+      "code": 246,
+      "city": "Thành Phố/Huyện/ Thị Xã",
+      "category": null,
+      "postalCode": "90000246",
+      "nameCategory": "Huyện Diễn Châu",
+      "keyLanguage": "Huyện_Diễn_Châu",
+      "languages": {
+        "vi": "Huyện Diễn Châu",
+        "en": "Huyện Diễn Châu",
+        "ja": "フエン・ディエン・チャウ",
+        "ko": "후옌 디엔 차우"
+      },
+      "districtList": [
+        {
+          "code": 247,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Diễn_Lâm",
+          "languages": {
+            "vi": "Xã Diễn Lâm",
+            "en": "Xã Diễn Lâm",
+            "ja": "シャン・ディアン・ラム",
+            "ko": "Xã Diễn Lâm"
+          }
+        },
+        {
+          "code": 248,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Diễn_Đoài",
+          "languages": {
+            "vi": "Xã Diễn Đoài",
+            "en": "Xã Diễn Đoài",
+            "ja": "サン・ディアン・ジョアイ",
+            "ko": "싸디엔도이"
+          }
+        },
+        {
+          "code": 249,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Diễn_Trường",
+          "languages": {
+            "vi": "Xã Diễn Trường",
+            "en": "Xã Diễn Trường",
+            "ja": "Xã Diễn Truường",
+            "ko": "Xã Diễn Truong"
+          }
+        },
+        {
+          "code": 250,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Diễn_Yên",
+          "languages": {
+            "vi": "Xã Diễn Yên",
+            "en": "Xã Diễn Yên",
+            "ja": "サン・ディエン・イェン",
+            "ko": "Xã Diễn Yên"
+          }
+        },
+        {
+          "code": 251,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Diễn_Hoàng",
+          "languages": {
+            "vi": "Xã Diễn Hoàng",
+            "en": "Xã Diễn Hoàng",
+            "ja": "サン・ディアン・ホアン",
+            "ko": "싸디엔호앙"
+          }
+        },
+        {
+          "code": 252,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Diễn_Hùng",
+          "languages": {
+            "vi": "Xã Diễn Hùng",
+            "en": "Xã Diễn Hùng",
+            "ja": "サン・ディエン・フン",
+            "ko": "Xã Diễn Hùng"
+          }
+        },
+        {
+          "code": 253,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Diễn_Mỹ",
+          "languages": {
+            "vi": "Xã Diễn Mỹ",
+            "en": "Xã Diễn Mỹ",
+            "ja": "サンディアン・ム",
+            "ko": "Xã Diễn Mỹ"
+          }
+        },
+        {
+          "code": 254,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Diễn_Hồng",
+          "languages": {
+            "vi": "Xã Diễn Hồng",
+            "en": "Xã Diễn Hồng",
+            "ja": "Xã Diễn Hồng",
+            "ko": "Xã Diễn Hồng"
+          }
+        },
+        {
+          "code": 255,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Diễn_Phong",
+          "languages": {
+            "vi": "Xã Diễn Phong",
+            "en": "Xã Diễn Phong",
+            "ja": "サンディアンフォン",
+            "ko": "사디엔퐁"
+          }
+        },
+        {
+          "code": 256,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Diễn_Hải",
+          "languages": {
+            "vi": "Xã Diễn Hải",
+            "en": "Xã Diễn Hải",
+            "ja": "サン・ディエン・ハイ",
+            "ko": "Xã Diễn Hải"
+          }
+        },
+        {
+          "code": 257,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Diễn_Tháp",
+          "languages": {
+            "vi": "Xã Diễn Tháp",
+            "en": "Xã Diễn Tháp",
+            "ja": "ザン・ディアン・タップ",
+            "ko": "싸디엔탑"
+          }
+        },
+        {
+          "code": 258,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Diễn_Liên",
+          "languages": {
+            "vi": "Xã Diễn Liên",
+            "en": "Xã Diễn Liên",
+            "ja": "サン・ディエン・リエン",
+            "ko": "Xã Diễn Liên"
+          }
+        },
+        {
+          "code": 259,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Diễn_Vạn",
+          "languages": {
+            "vi": "Xã Diễn Vạn",
+            "en": "Xã Diễn Vạn",
+            "ja": "サン・ディエン・ヴァン",
+            "ko": "Xã Diễn Vạn"
+          }
+        },
+        {
+          "code": 260,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Diễn_Kim",
+          "languages": {
+            "vi": "Xã Diễn Kim",
+            "en": "Xã Diễn Kim",
+            "ja": "シャン・ディアン・キム",
+            "ko": "김사디엔"
+          }
+        },
+        {
+          "code": 261,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Diễn_Kỷ",
+          "languages": {
+            "vi": "Xã Diễn Kỳ",
+            "en": "Xã Diễn Kỷ",
+            "ja": "ザン・ディアン・ク",
+            "ko": "Xã Diễn Kỷ"
+          }
+        },
+        {
+          "code": 262,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Diễn_Xuân",
+          "languages": {
+            "vi": "Xã Diễn Xuân",
+            "en": "Xã Diễn Xuân",
+            "ja": "サン・ディアン・スアン",
+            "ko": "Xã Diễn Xuân"
+          }
+        },
+        {
+          "code": 263,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Diễn_Thái",
+          "languages": {
+            "vi": "Xã Diễn Thái",
+            "en": "Xã Diễn Thái",
+            "ja": "サンディアンタイ語",
+            "ko": "싸디엔타이"
+          }
+        },
+        {
+          "code": 264,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Diễn_Đồng",
+          "languages": {
+            "vi": "Xã Diễn Đồng",
+            "en": "Xã Diễn Đồng",
+            "ja": "サン・ディアン・ドン",
+            "ko": "싸디엔동"
+          }
+        },
+        {
+          "code": 265,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Diễn_Bích",
+          "languages": {
+            "vi": "Xã Diễn Bích",
+            "en": "Xã Diễn Bích",
+            "ja": "サン・ディエン・ビッチ",
+            "ko": "Xã Diễn Bích"
+          }
+        },
+        {
+          "code": 266,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Diễn_Hạnh",
+          "languages": {
+            "vi": "Xã Diễn Hạnh",
+            "en": "Xã Diễn Hạnh",
+            "ja": "ザン・ディアン・ハン",
+            "ko": "Xã Diễn Hạnh"
+          }
+        },
+        {
+          "code": 267,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Diễn_Ngọc",
+          "languages": {
+            "vi": "Xã Diễn Ngọc",
+            "en": "Xã Diễn Ngọc",
+            "ja": "Xã Diễn Ngọc",
+            "ko": "Xã Diễn Ngọc"
+          }
+        },
+        {
+          "code": 268,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Diễn_Quảng",
+          "languages": {
+            "vi": "Xã Diễn Quảng",
+            "en": "Xã Diễn Quảng",
+            "ja": "サン・ディアン・クアン",
+            "ko": "Xã Diễn Quảng"
+          }
+        },
+        {
+          "code": 269,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Diễn_Nguyên",
+          "languages": {
+            "vi": "Xã Diễn Nguyên",
+            "en": "Xã Diễn Nguyên",
+            "ja": "シャン・ディエン・グエン",
+            "ko": "Xã Diễn Nguyên"
+          }
+        },
+        {
+          "code": 270,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Diễn_Hoa",
+          "languages": {
+            "vi": "Xã Diễn Hòa",
+            "en": "Xã Diễn Hoa",
+            "ja": "サン・ディアン・ホア",
+            "ko": "싸디엔호아"
+          }
+        },
+        {
+          "code": 271,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Diễn_Thành",
+          "languages": {
+            "vi": "Xã Diễn Thành",
+            "en": "Xã Diễn Thành",
+            "ja": "サンディアンタイン",
+            "ko": "싸디엔탄"
+          }
+        },
+        {
+          "code": 272,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Diễn_Phúc",
+          "languages": {
+            "vi": "Xã Diễn Phúc",
+            "en": "Xã Diễn Phúc",
+            "ja": "サン・ディアン・フック",
+            "ko": "싸디엔푹"
+          }
+        },
+        {
+          "code": 273,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Diễn_Cát",
+          "languages": {
+            "vi": "Xã Diễn Cát",
+            "en": "Xã Diễn Cát",
+            "ja": "サンディアンキャット",
+            "ko": "싸디엔캇"
+          }
+        },
+        {
+          "code": 274,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Diễn_Thịnh",
+          "languages": {
+            "vi": "Xã Diễn Thịnh",
+            "en": "Xã Diễn Thịnh",
+            "ja": "ザン・ディエン・ティン",
+            "ko": "Xã Diễn Thịnh"
+          }
+        },
+        {
+          "code": 275,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Diễn_Tân",
+          "languages": {
+            "vi": "Xã Diễn Tân",
+            "en": "Xã Diễn Tân",
+            "ja": "サン・ディアン・タン",
+            "ko": "Xã Diễn Tân"
+          }
+        },
+        {
+          "code": 276,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Minh_Châu",
+          "languages": {
+            "vi": "Xã Minh Châu",
+            "en": "Xã Minh Châu",
+            "ja": "シャン・ミン・チャウ",
+            "ko": "Xã Minh Châu"
+          }
+        },
+        {
+          "code": 277,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Diễn_Thọ",
+          "languages": {
+            "vi": "Xã Diễn Thọ",
+            "en": "Xã Diễn Thọ",
+            "ja": "ザン・ディアン・トゥ",
+            "ko": "Xã Diễn Thọ"
+          }
+        },
+        {
+          "code": 278,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Diễn_Lợi",
+          "languages": {
+            "vi": "Xã Diễn Lợi",
+            "en": "Xã Diễn Lợi",
+            "ja": "Xã Diễn Lợi",
+            "ko": "Xã Diễn Lợi"
+          }
+        },
+        {
+          "code": 279,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Diễn_Lộc",
+          "languages": {
+            "vi": "Xã Diễn Lộc",
+            "en": "Xã Diễn Lộc",
+            "ja": "サン・ディアン・ロック",
+            "ko": "Xã Diễn Lộc"
+          }
+        },
+        {
+          "code": 280,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Diễn_Trung",
+          "languages": {
+            "vi": "Xã Diễn Trung",
+            "en": "Xã Diễn Trung",
+            "ja": "サン・ディアン・チュン",
+            "ko": "Xã Diễn Trung"
+          }
+        },
+        {
+          "code": 281,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Diễn_An",
+          "languages": {
+            "vi": "Xã Diễn An",
+            "en": "Xã Diễn An",
+            "ja": "サン・ディアン・アン",
+            "ko": "싸디엔안"
+          }
+        },
+        {
+          "code": 282,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Diễn Châu",
+          "keyLanguage": "Xã_Diễn_Phú",
+          "languages": {
+            "vi": "Xã Diễn Phú",
+            "en": "Xã Diễn Phú",
+            "ja": "サン・ディアン・フー",
+            "ko": "Xã Diễn Phú"
+          }
+        }
+      ]
+    },
+    {
+      "code": 283,
+      "city": "Thành Phố/Huyện/ Thị Xã",
+      "category": null,
+      "postalCode": "90000283",
+      "nameCategory": "Huyện Yên Thành",
+      "keyLanguage": "Huyện_Yên_Thành",
+      "languages": {
+        "vi": "Huyện Yên Thành",
+        "en": "Huyện Yên Thành",
+        "ja": "フイン・イェン・タイン",
+        "ko": "후옌옌탄"
+      },
+      "districtList": [
+        {
+          "code": 284,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Mã_Thành",
+          "languages": {
+            "vi": "Xã Mã Thành",
+            "en": "Xã Mã Thành",
+            "ja": "サンマンタン",
+            "ko": "싸마탄"
+          }
+        },
+        {
+          "code": 285,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Tiến_Thành",
+          "languages": {
+            "vi": "Xã Tiến Thành",
+            "en": "Xã Tiến Thành",
+            "ja": "サン・ティエン・タン",
+            "ko": "Xã Tiến Thành"
+          }
+        },
+        {
+          "code": 286,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Lăng_Thành",
+          "languages": {
+            "vi": "Xã Lăng Thành",
+            "en": "Xã Lăng Thành",
+            "ja": "シャンランタイン",
+            "ko": "싸랑탄(Xã Lăng Thành)"
+          }
+        },
+        {
+          "code": 287,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Tân_Thành",
+          "languages": {
+            "vi": "Xã Tân Thành",
+            "en": "Xã Tân Thành",
+            "ja": "シャンタンタイン",
+            "ko": "Xã Tân Thành"
+          }
+        },
+        {
+          "code": 288,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Đức_Thành",
+          "languages": {
+            "vi": "Xã Đức Thành",
+            "en": "Xã Đức Thành",
+            "ja": "シャン・ドゥック・タン",
+            "ko": "싸득탄"
+          }
+        },
+        {
+          "code": 289,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Kim_Thành",
+          "languages": {
+            "vi": "Xã Kim Thành",
+            "en": "Xã Kim Thành",
+            "ja": "シャン・キム・タイン",
+            "ko": "Xã Kim Thành"
+          }
+        },
+        {
+          "code": 290,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Hậu_Thành",
+          "languages": {
+            "vi": "Xã Hậu Thành",
+            "en": "Xã Hậu Thành",
+            "ja": "サン・ハトゥ・タン",
+            "ko": "싸하우탄"
+          }
+        },
+        {
+          "code": 291,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Hùng_Thành",
+          "languages": {
+            "vi": "Xã Hùng Thành",
+            "en": "Xã Hùng Thành",
+            "ja": "シャン・フン・タン",
+            "ko": "Xã Hùng Thành"
+          }
+        },
+        {
+          "code": 292,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Đô_Thành",
+          "languages": {
+            "vi": "Xã Đô Thành",
+            "en": "Xã Đô Thành",
+            "ja": "サン・ドー・タン",
+            "ko": "싸도탄"
+          }
+        },
+        {
+          "code": 293,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Thọ_Thành",
+          "languages": {
+            "vi": "Xã Thành Thọ",
+            "en": "Xã Thọ Thành",
+            "ja": "サン・トゥ・タン",
+            "ko": "Xã Thọ Thành"
+          }
+        },
+        {
+          "code": 294,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Quang_Thành",
+          "languages": {
+            "vi": "Xã Quảng Thành",
+            "en": "Xã Quang Thành",
+            "ja": "サン・クアン・タイン",
+            "ko": "싸꽝탄(Xã Quang Thành)"
+          }
+        },
+        {
+          "code": 295,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Tây_Thành",
+          "languages": {
+            "vi": "Xã Tây Thành",
+            "en": "Xã Tây Thành",
+            "ja": "シャン・タイ・タン",
+            "ko": "싸떠이탄"
+          }
+        },
+        {
+          "code": 296,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Phúc_Thành",
+          "languages": {
+            "vi": "Xã Phúc Thành",
+            "en": "Xã Phúc Thành",
+            "ja": "サン・フック・タン",
+            "ko": "싸푹탄"
+          }
+        },
+        {
+          "code": 297,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Hồng_Thành",
+          "languages": {
+            "vi": "Xã Hồng Thành",
+            "en": "Xã Hồng Thành",
+            "ja": "サン・ホン・タイン",
+            "ko": "Xã Hồng Thành"
+          }
+        },
+        {
+          "code": 298,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Đồng_Thành",
+          "languages": {
+            "vi": "Xã Đồng Thành",
+            "en": "Xã Đồng Thành",
+            "ja": "サン・ドン・タイン",
+            "ko": "사나동탄"
+          }
+        },
+        {
+          "code": 299,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Phú_Thành",
+          "languages": {
+            "vi": "Xã Phú Thành",
+            "en": "Xã Phú Thành",
+            "ja": "サン・フー・タン",
+            "ko": "싸푸탄"
+          }
+        },
+        {
+          "code": 300,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Hoa_Thành",
+          "languages": {
+            "vi": "Xã Hòa Thành",
+            "en": "Xã Hoa Thành",
+            "ja": "サンホアタン",
+            "ko": "싸호아탄"
+          }
+        },
+        {
+          "code": 301,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Tăng_Thành",
+          "languages": {
+            "vi": "Xã Tăng Thành",
+            "en": "Xã Tăng Thành",
+            "ja": "サンタンタイン",
+            "ko": "Xã Tăng Thành"
+          }
+        },
+        {
+          "code": 302,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Văn_Thành",
+          "languages": {
+            "vi": "Xã Văn Thành",
+            "en": "Xã Văn Thành",
+            "ja": "シャン・ヴァン・タイン",
+            "ko": "싸 반 탄(Xã ​​Văn Thành)"
+          }
+        },
+        {
+          "code": 303,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Thịnh_Thành",
+          "languages": {
+            "vi": "Xã Thịnh Thành",
+            "en": "Xã Thịnh Thành",
+            "ja": "サン・ティン・タン",
+            "ko": "Xã Thịnh Thành"
+          }
+        },
+        {
+          "code": 304,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Hợp_Thành",
+          "languages": {
+            "vi": "Xã Hợp Thành",
+            "en": "Xã Hợp Thành",
+            "ja": "サン・ホップ・タン",
+            "ko": "Xã Hợp Thành"
+          }
+        },
+        {
+          "code": 305,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Xuân_Thành",
+          "languages": {
+            "vi": "Xã Xuân Thành",
+            "en": "Xã Xuân Thành",
+            "ja": "サン・スアン・タイン",
+            "ko": "Xã Xuân Thành"
+          }
+        },
+        {
+          "code": 306,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Bắc_Thành",
+          "languages": {
+            "vi": "Xã Bắc Thành",
+            "en": "Xã Bắc Thành",
+            "ja": "サンバクタン",
+            "ko": "싸박탄(Xã Bắc Thành)"
+          }
+        },
+        {
+          "code": 307,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Nhân_Thành",
+          "languages": {
+            "vi": "Xã Nhân Thành",
+            "en": "Xã Nhân Thành",
+            "ja": "シャンタイン",
+            "ko": "Xã Nhân Thành"
+          }
+        },
+        {
+          "code": 308,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Trung_Thành",
+          "languages": {
+            "vi": "Xã Trung Thành",
+            "en": "Xã Trung Thành",
+            "ja": "シャン・チュン・タイン",
+            "ko": "Xã Trung Thành"
+          }
+        },
+        {
+          "code": 309,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Long_Thành",
+          "languages": {
+            "vi": "Xã Long Thành",
+            "en": "Xã Long Thành",
+            "ja": "シャンロンタイン",
+            "ko": "싸롱탄"
+          }
+        },
+        {
+          "code": 310,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Minh_Thành",
+          "languages": {
+            "vi": "Xã Minh Thành",
+            "en": "Xã Minh Thành",
+            "ja": "シャン・ミン・タン",
+            "ko": "싸민탄"
+          }
+        },
+        {
+          "code": 311,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Nam_Thành",
+          "languages": {
+            "vi": "Xã Nam Thành",
+            "en": "Xã Nam Thành",
+            "ja": "シャン・ナム・タン",
+            "ko": "Xã Nam Thành"
+          }
+        },
+        {
+          "code": 312,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Vĩnh_Thành",
+          "languages": {
+            "vi": "Xã Vĩnh Thành",
+            "en": "Xã Vĩnh Thành",
+            "ja": "シャンヴィンタイン",
+            "ko": "Xã Vĩnh Thành"
+          }
+        },
+        {
+          "code": 313,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Lý_Thành",
+          "languages": {
+            "vi": "Xã Lý Thành",
+            "en": "Xã Lý Thành",
+            "ja": "シャン・リー・タン",
+            "ko": "싸 리 탄(Xã ​​Lý Thành)"
+          }
+        },
+        {
+          "code": 314,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Khánh_Thành",
+          "languages": {
+            "vi": "Xã Khánh Thành",
+            "en": "Xã Khánh Thành",
+            "ja": "サン・カイン・タイン",
+            "ko": "Xã Khánh Thành"
+          }
+        },
+        {
+          "code": 315,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Viên_Thành",
+          "languages": {
+            "vi": "Xã Viên Thành",
+            "en": "Xã Viên Thành",
+            "ja": "シャンビエンタイン",
+            "ko": "싸비엔탄"
+          }
+        },
+        {
+          "code": 316,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Đại_Thành",
+          "languages": {
+            "vi": "Xã Đại Thành",
+            "en": "Xã Đại Thành",
+            "ja": "サン・ダイ・タン",
+            "ko": "싸다이탄"
+          }
+        },
+        {
+          "code": 317,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Liên_Thành",
+          "languages": {
+            "vi": "Xã Liên Thành",
+            "en": "Xã Liên Thành",
+            "ja": "サン・リエン・タイン",
+            "ko": "Xã Liên Thành"
+          }
+        },
+        {
+          "code": 318,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Bảo_Thành",
+          "languages": {
+            "vi": "Xã Thành Bảo",
+            "en": "Xã Bảo Thành",
+            "ja": "サンバオタン",
+            "ko": "싸바오탄"
+          }
+        },
+        {
+          "code": 319,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Mỹ_Thành",
+          "languages": {
+            "vi": "Xã Mỹ Thành",
+            "en": "Xã Mỹ Thành",
+            "ja": "サン・ム・タン",
+            "ko": "싸미탄"
+          }
+        },
+        {
+          "code": 320,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Công_Thành",
+          "languages": {
+            "vi": "Xã Công Thành",
+            "en": "Xã Công Thành",
+            "ja": "サンコンタイン",
+            "ko": "Xã Công Thành"
+          }
+        },
+        {
+          "code": 321,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Yên Thành",
+          "keyLanguage": "Xã_Sơn_Thành",
+          "languages": {
+            "vi": "Xã Sơn Thành",
+            "en": "Xã Sơn Thành",
+            "ja": "サンソンタイン",
+            "ko": "싼탄탄"
+          }
+        }
+      ]
+    },
+    {
+      "code": 322,
+      "city": "Thành Phố/Huyện/ Thị Xã",
+      "category": null,
+      "postalCode": "90000322",
+      "nameCategory": "Huyện Đô Lương",
+      "keyLanguage": "Huyện_Đô_Lương",
+      "languages": {
+        "vi": "Huyện Đô Lương",
+        "en": "Huyện Đô Lương",
+        "ja": "フエン・ドン・リョン",
+        "ko": "후옌 도 르엉"
+      },
+      "districtList": [
+        {
+          "code": 323,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Đô Lương",
+          "keyLanguage": "Xã_Giang_Sơn_Đông",
+          "languages": {
+            "vi": "Xã Giang Sơn Đông",
+            "en": "Xã Giang Sơn Đông",
+            "ja": "サンザンソンドン",
+            "ko": "싸장선동"
+          }
+        },
+        {
+          "code": 324,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Đô Lương",
+          "keyLanguage": "Xã_Giang_Sơn_Tây",
+          "languages": {
+            "vi": "Xã Giang Sơn Tây",
+            "en": "Xã Giang Sơn Tây",
+            "ja": "サンザン・ソン・タイ",
+            "ko": "Xã Giang Søn Tây"
+          }
+        },
+        {
+          "code": 325,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Đô Lương",
+          "keyLanguage": "Xã_Lam_Sơn",
+          "languages": {
+            "vi": "Xã Lam Sơn",
+            "en": "Xã Lam Sơn",
+            "ja": "シャン・ラム・ソン",
+            "ko": "Xã Lam Sôn"
+          }
+        },
+        {
+          "code": 326,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Đô Lương",
+          "keyLanguage": "Xã_Bồi_Sơn",
+          "languages": {
+            "vi": "Xã Bồi Sơn",
+            "en": "Xã Bồi Sơn",
+            "ja": "サン・ボイ・ソン",
+            "ko": "Xã Bồi Sôn"
+          }
+        },
+        {
+          "code": 327,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Đô Lương",
+          "keyLanguage": "Xã_Hồng_Sơn",
+          "languages": {
+            "vi": "Xã Hồng Sơn",
+            "en": "Xã Hồng Sơn",
+            "ja": "Xã Hồng Sơn",
+            "ko": "Xã Hồng Sôn"
+          }
+        },
+        {
+          "code": 328,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Đô Lương",
+          "keyLanguage": "Xã_Bài_Sơn",
+          "languages": {
+            "vi": "Xã Bài Sơn",
+            "en": "Xã Bài Sơn",
+            "ja": "サンバイソン",
+            "ko": "싸바이손"
+          }
+        },
+        {
+          "code": 329,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Đô Lương",
+          "keyLanguage": "Xã_Ngọc_Sơn",
+          "languages": {
+            "vi": "Xã Ngọc Sơn",
+            "en": "Xã Ngọc Sơn",
+            "ja": "Xã Ngọc Sơn",
+            "ko": "Xã Ngọc Sôn"
+          }
+        },
+        {
+          "code": 330,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Đô Lương",
+          "keyLanguage": "Xã_Bắc_Sơn",
+          "languages": {
+            "vi": "Xã Bắc Sơn",
+            "en": "Xã Bắc Sơn",
+            "ja": "サンバクソン",
+            "ko": "싸박손(Xã Bắc Son)"
+          }
+        },
+        {
+          "code": 331,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Đô Lương",
+          "keyLanguage": "Xã_Tràng_Sơn",
+          "languages": {
+            "vi": "Xã Tràng Sơn",
+            "en": "Xã Tràng Sơn",
+            "ja": "サンチャンソン",
+            "ko": "싸짱손"
+          }
+        },
+        {
+          "code": 332,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Đô Lương",
+          "keyLanguage": "Xã_Thượng_Sơn",
+          "languages": {
+            "vi": "Xã Thượng Sơn",
+            "en": "Xã Thượng Sơn",
+            "ja": "Xã Thượng Sơn",
+            "ko": "사트엉손"
+          }
+        },
+        {
+          "code": 333,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Đô Lương",
+          "keyLanguage": "Xã_Hòa_Sơn",
+          "languages": {
+            "vi": "Xã Hòa Sơn",
+            "en": "Xã Hòa Sơn",
+            "ja": "シャーホアソン",
+            "ko": "사호아손"
+          }
+        },
+        {
+          "code": 334,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Đô Lương",
+          "keyLanguage": "Xã_Đặng_Sơn",
+          "languages": {
+            "vi": "Xã Đặng Sơn",
+            "en": "Xã Đặng Sơn",
+            "ja": "Xã Đặng Sơn",
+            "ko": "싼당손"
+          }
+        },
+        {
+          "code": 335,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Đô Lương",
+          "keyLanguage": "Xã_Đông_Sơn",
+          "languages": {
+            "vi": "Xã Đông Sơn",
+            "en": "Xã Đông Sơn",
+            "ja": "サン・ドン・ソン",
+            "ko": "사나 동선"
+          }
+        },
+        {
+          "code": 336,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Đô Lương",
+          "keyLanguage": "Xã_Nam_Sơn",
+          "languages": {
+            "vi": "Xã Nam Sơn",
+            "en": "Xã Nam Sơn",
+            "ja": "シャン・ナム・ソン",
+            "ko": "사나 남 손(Xã Nam Son)"
+          }
+        },
+        {
+          "code": 337,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Đô Lương",
+          "keyLanguage": "Xã_Lưu_Sơn",
+          "languages": {
+            "vi": "Xã Lưu Sơn",
+            "en": "Xã Lưu Sơn",
+            "ja": "Xã Luưu Sơn",
+            "ko": "사루손"
+          }
+        },
+        {
+          "code": 338,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Đô Lương",
+          "keyLanguage": "Xã_Yên_Sơn",
+          "languages": {
+            "vi": "Xã Yên Sơn",
+            "en": "Xã Yên Sơn",
+            "ja": "サン・イェン・ソン",
+            "ko": "Xã Yên Sôn"
+          }
+        },
+        {
+          "code": 339,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Đô Lương",
+          "keyLanguage": "Xã_Văn_Sơn",
+          "languages": {
+            "vi": "Xã Văn Sơn",
+            "en": "Xã Văn Sơn",
+            "ja": "サン・ヴァン・ソン",
+            "ko": "Xã Văn Sôn"
+          }
+        },
+        {
+          "code": 340,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Đô Lương",
+          "keyLanguage": "Xã_Đà_Sơn",
+          "languages": {
+            "vi": "Xã Đà Sơn",
+            "en": "Xã Đà Sơn",
+            "ja": "サン・ダ・ソン",
+            "ko": "사나다손"
+          }
+        },
+        {
+          "code": 341,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Đô Lương",
+          "keyLanguage": "Xã_Lạc_Sơn",
+          "languages": {
+            "vi": "Xã Lạc Sơn",
+            "en": "Xã Lạc Sơn",
+            "ja": "サンラックソン",
+            "ko": "Xã Lạc Sôn"
+          }
+        },
+        {
+          "code": 342,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Đô Lương",
+          "keyLanguage": "Xã_Tân_Sơn",
+          "languages": {
+            "vi": "Xã Tân Sơn",
+            "en": "Xã Tân Sơn",
+            "ja": "シャン・タン・ソン",
+            "ko": "Xã Tân Sôn"
+          }
+        },
+        {
+          "code": 343,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Đô Lương",
+          "keyLanguage": "Xã_Thái_Sơn",
+          "languages": {
+            "vi": "Xã Thái Sơn",
+            "en": "Xã Thái Sơn",
+            "ja": "サン・タイ・ソン",
+            "ko": "싸타이손"
+          }
+        },
+        {
+          "code": 344,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Đô Lương",
+          "keyLanguage": "Xã_Quang_Sơn",
+          "languages": {
+            "vi": "Xã Quảng Sơn",
+            "en": "Xã Quang Sơn",
+            "ja": "サン・クアン・ソン",
+            "ko": "싸꽝손"
+          }
+        },
+        {
+          "code": 345,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Đô Lương",
+          "keyLanguage": "Xã_Thịnh_Sơn",
+          "languages": {
+            "vi": "Xã Thịnh Sơn",
+            "en": "Xã Thịnh Sơn",
+            "ja": "サン・ティン・ソン",
+            "ko": "Xã Thịnh Sôn"
+          }
+        },
+        {
+          "code": 346,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Đô Lương",
+          "keyLanguage": "Xã_Trung_Sơn",
+          "languages": {
+            "vi": "Xã Trung Sơn",
+            "en": "Xã Trung Sơn",
+            "ja": "サン・チュン・ソン",
+            "ko": "Xã Trung Sôn"
+          }
+        },
+        {
+          "code": 347,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Đô Lương",
+          "keyLanguage": "Xã_Xuân_Sơn",
+          "languages": {
+            "vi": "Xã Xuân Sơn",
+            "en": "Xã Xuân Sơn",
+            "ja": "サン・シュアン・ソン",
+            "ko": "Xã Xuân 손"
+          }
+        },
+        {
+          "code": 348,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Đô Lương",
+          "keyLanguage": "Xã_Minh_Sơn",
+          "languages": {
+            "vi": "Xã Minh Sơn",
+            "en": "Xã Minh Sơn",
+            "ja": "シャン・ミンソン",
+            "ko": "사민손"
+          }
+        },
+        {
+          "code": 349,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Đô Lương",
+          "keyLanguage": "Xã_Thuận_Sơn",
+          "languages": {
+            "vi": "Xã Thuận Sơn",
+            "en": "Xã Thuận Sơn",
+            "ja": "サン・トゥアン・ソン",
+            "ko": "Xã Thuận Søn"
+          }
+        },
+        {
+          "code": 350,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Đô Lương",
+          "keyLanguage": "Xã_Nhân_Sơn",
+          "languages": {
+            "vi": "Xã Nhân Sơn",
+            "en": "Xã Nhân Sơn",
+            "ja": "サンニャンソン",
+            "ko": "Xã Nhân Sôn"
+          }
+        },
+        {
+          "code": 351,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Đô Lương",
+          "keyLanguage": "Xã_Hiến_Sơn",
+          "languages": {
+            "vi": "Xã Hiến Sơn",
+            "en": "Xã Hiến Sơn",
+            "ja": "サン・ヒエン・ソン",
+            "ko": "사히엔손"
+          }
+        },
+        {
+          "code": 352,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Đô Lương",
+          "keyLanguage": "Xã_Mỹ_Sơn",
+          "languages": {
+            "vi": "Xã Mỹ Sơn",
+            "en": "Xã Mỹ Sơn",
+            "ja": "サン・ムソン",
+            "ko": "Xã Mỹ Sôn"
+          }
+        },
+        {
+          "code": 353,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Đô Lương",
+          "keyLanguage": "Xã_Trù_Sơn",
+          "languages": {
+            "vi": "Xã Trù Sơn",
+            "en": "Xã Trù Sơn",
+            "ja": "サン・トゥル・ソン",
+            "ko": "Xã Trù Sôn"
+          }
+        },
+        {
+          "code": 354,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Đô Lương",
+          "keyLanguage": "Xã_Đại_Sơn",
+          "languages": {
+            "vi": "Xã Đại Sơn",
+            "en": "Xã Đại Sơn",
+            "ja": "Xã Đại Sơn",
+            "ko": "싸다이손"
+          }
+        }
+      ]
+    },
+    {
+      "code": 355,
+      "city": "Thành Phố/Huyện/ Thị Xã",
+      "category": null,
+      "postalCode": "90000355",
+      "nameCategory": "Huyện Thanh Chương",
+      "keyLanguage": "Huyện_Thanh_Chương",
+      "languages": {
+        "vi": "Chương Thanh Huyện",
+        "en": "Huyện Thanh Chương",
+        "ja": "フイン・タン・チョン",
+        "ko": "후옌 탄 추옹"
+      },
+      "districtList": [
+        {
+          "code": 356,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Cát_Văn",
+          "languages": {
+            "vi": "Xã Cát Văn",
+            "en": "Xã Cát Văn",
+            "ja": "シャー・カット・ヴァン",
+            "ko": "Xã Cát Văn"
+          }
+        },
+        {
+          "code": 357,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Thanh_Nho",
+          "languages": {
+            "vi": "Xã Thành Nhỏ",
+            "en": "Xã Thanh Nho",
+            "ja": "シャン・タン・ニョ",
+            "ko": "Xã Thanh Nho"
+          }
+        },
+        {
+          "code": 358,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Hạnh_Lâm",
+          "languages": {
+            "vi": "Xã Hạnh Lâm",
+            "en": "Xã Hạnh Lâm",
+            "ja": "ザン・ハン・ラム",
+            "ko": "Xã Hạnh Lâm"
+          }
+        },
+        {
+          "code": 359,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Thanh_Sơn",
+          "languages": {
+            "vi": "Xã Thanh Sơn",
+            "en": "Xã Thanh Sơn",
+            "ja": "シャン・タン・ソン",
+            "ko": "Xã Thanh Sôn"
+          }
+        },
+        {
+          "code": 360,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Thanh_Hòa",
+          "languages": {
+            "vi": "Xã Thanh Hòa",
+            "en": "Xã Thanh Hòa",
+            "ja": "シャータンホア",
+            "ko": "Xã Thanh Hòa"
+          }
+        },
+        {
+          "code": 361,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Phong_Thịnh",
+          "languages": {
+            "vi": "Xã Phong Thịnh",
+            "en": "Xã Phong Thịnh",
+            "ja": "シャン・フォン・ティン",
+            "ko": "Xã Phong Thịnh"
+          }
+        },
+        {
+          "code": 362,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Thanh_Phong",
+          "languages": {
+            "vi": "Xã Thanh Phong",
+            "en": "Xã Thanh Phong",
+            "ja": "シャンタンフォン",
+            "ko": "싸탄퐁"
+          }
+        },
+        {
+          "code": 363,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Thanh_Mỹ",
+          "languages": {
+            "vi": "Xã Thanh Mỹ",
+            "en": "Xã Thanh Mỹ",
+            "ja": "シャン タン ム",
+            "ko": "Xã Thanh Mỹ"
+          }
+        },
+        {
+          "code": 364,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Thanh_Tiên",
+          "languages": {
+            "vi": "Xã Thanh Tiên",
+            "en": "Xã Thanh Tiên",
+            "ja": "シャン・タン・ティエン",
+            "ko": "Xã Thanh Tiên"
+          }
+        },
+        {
+          "code": 365,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Thanh_Liên",
+          "languages": {
+            "vi": "Xã Thanh Liên",
+            "en": "Xã Thanh Liên",
+            "ja": "シャン・タン・リエン",
+            "ko": "Xã Thanh Liên"
+          }
+        },
+        {
+          "code": 366,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Đại_Đồng",
+          "languages": {
+            "vi": "Xã Đại Đồng",
+            "en": "Xã Đại Đồng",
+            "ja": "Xã Đại Đồng",
+            "ko": "싸다이동"
+          }
+        },
+        {
+          "code": 367,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Thanh_Đồng",
+          "languages": {
+            "vi": "Xã Thanh Đồng",
+            "en": "Xã Thanh Đồng",
+            "ja": "シャン・タン・ドン",
+            "ko": "싸탄동"
+          }
+        },
+        {
+          "code": 368,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Thanh_Ngọc",
+          "languages": {
+            "vi": "Xã Thanh Ngọc",
+            "en": "Xã Thanh Ngọc",
+            "ja": "ザン・タン・ゴック",
+            "ko": "Xã Thanh Ngọc"
+          }
+        },
+        {
+          "code": 369,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Thanh_Hương",
+          "languages": {
+            "vi": "Xã Thanh Hương",
+            "en": "Xã Thanh Hương",
+            "ja": "シャン・タン・フン",
+            "ko": "Xã Thanh Hong"
+          }
+        },
+        {
+          "code": 370,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Ngọc_Lâm",
+          "languages": {
+            "vi": "Xã Ngọc Lâm",
+            "en": "Xã Ngọc Lâm",
+            "ja": "ザンク・ラム",
+            "ko": "Xã Ngọc Lâm"
+          }
+        },
+        {
+          "code": 371,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Thanh_Lĩnh",
+          "languages": {
+            "vi": "Xã Thanh Lĩnh",
+            "en": "Xã Thanh Lĩnh",
+            "ja": "シャン・タン・リン",
+            "ko": "Xã Thanh Lĩnh"
+          }
+        },
+        {
+          "code": 372,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Đồng_Văn",
+          "languages": {
+            "vi": "Xã Đồng Văn",
+            "en": "Xã Đồng Văn",
+            "ja": "サン・ドン・ヴァン",
+            "ko": "Xã Dong Văn"
+          }
+        },
+        {
+          "code": 373,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Ngọc_Sơn",
+          "languages": {
+            "vi": "Xã Ngọc Sơn",
+            "en": "Xã Ngọc Sơn",
+            "ja": "Xã Ngọc Sơn",
+            "ko": "Xã Ngọc Sôn"
+          }
+        },
+        {
+          "code": 374,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Thanh_Thịnh",
+          "languages": {
+            "vi": "Xã Thanh Thịnh",
+            "en": "Xã Thanh Thịnh",
+            "ja": "シャン・タン・ティン",
+            "ko": "Xã Thanh Thịnh"
+          }
+        },
+        {
+          "code": 375,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Thanh_An",
+          "languages": {
+            "vi": "Xã Thạnh An",
+            "en": "Xã Thanh An",
+            "ja": "シャン・タン・アン",
+            "ko": "Xã Thanh An"
+          }
+        },
+        {
+          "code": 376,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Thanh_Chi",
+          "languages": {
+            "vi": "Xã Thanh Chi",
+            "en": "Xã Thanh Chi",
+            "ja": "シャン・タン・チー",
+            "ko": "Xã Thanh Chi"
+          }
+        },
+        {
+          "code": 377,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Xuân_Tường",
+          "languages": {
+            "vi": "Xã Xuân Tường",
+            "en": "Xã Xuân Tường",
+            "ja": "Xã Xuân Tường",
+            "ko": "쑤언트엉"
+          }
+        },
+        {
+          "code": 378,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Thanh_Dương",
+          "languages": {
+            "vi": "Xã Thanh Dương",
+            "en": "Xã Thanh Dương",
+            "ja": "シャン・タン・ズン",
+            "ko": "사나탄즈엉"
+          }
+        },
+        {
+          "code": 379,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Thanh_Lương",
+          "languages": {
+            "vi": "Xã Thanh Lương",
+            "en": "Xã Thanh Lương",
+            "ja": "シャン・タン・ロン",
+            "ko": "사나탄르엉"
+          }
+        },
+        {
+          "code": 380,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Thanh_Khê",
+          "languages": {
+            "vi": "Xã Thanh Khê",
+            "en": "Xã Thanh Khê",
+            "ja": "シャン タン ケー",
+            "ko": "Xã Thanh Khê"
+          }
+        },
+        {
+          "code": 381,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Võ_Liệt",
+          "languages": {
+            "vi": "Xã Võ Liệt",
+            "en": "Xã Võ Liệt",
+            "ja": "Xã Võ Liệt",
+            "ko": "Xã Võ Liet"
+          }
+        },
+        {
+          "code": 382,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Thanh_Long",
+          "languages": {
+            "vi": "Xã Thành Long",
+            "en": "Xã Thanh Long",
+            "ja": "シャンタンロン",
+            "ko": "Xã Thanh Long"
+          }
+        },
+        {
+          "code": 383,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Thanh_Thủy",
+          "languages": {
+            "vi": "Xã Thanh Thủy",
+            "en": "Xã Thanh Thủy",
+            "ja": "シャン タン トーイ",
+            "ko": "싸탄투이"
+          }
+        },
+        {
+          "code": 384,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Thanh_Khai",
+          "languages": {
+            "vi": "Xã Thanh Khai",
+            "en": "Xã Thanh Khai",
+            "ja": "シャンタンカイ",
+            "ko": "싸 탄 카이"
+          }
+        },
+        {
+          "code": 385,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Thanh_Yên",
+          "languages": {
+            "vi": "Xã Thanh Yên",
+            "en": "Xã Thanh Yên",
+            "ja": "シャン・タン・イェン",
+            "ko": "Xã Thanh Yên"
+          }
+        },
+        {
+          "code": 386,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Thanh_Hà",
+          "languages": {
+            "vi": "Xã Thanh Hà",
+            "en": "Xã Thanh Hà",
+            "ja": "シャン・タン・ハ",
+            "ko": "Xã Thanh Hà"
+          }
+        },
+        {
+          "code": 387,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Thanh_Giang",
+          "languages": {
+            "vi": "Xã Thanh Giang",
+            "en": "Xã Thanh Giang",
+            "ja": "シャン・タン・ザン",
+            "ko": "Xã Thanh Giang"
+          }
+        },
+        {
+          "code": 388,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Thanh_Tùng",
+          "languages": {
+            "vi": "Xã Thanh Tùng",
+            "en": "Xã Thanh Tùng",
+            "ja": "シャン・タン・トゥン",
+            "ko": "Xã Thanh Tùng"
+          }
+        },
+        {
+          "code": 389,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Thanh_Lâm",
+          "languages": {
+            "vi": "Xã Thanh Lâm",
+            "en": "Xã Thanh Lâm",
+            "ja": "シャン・タン・ラム",
+            "ko": "Xã Thanh Lâm"
+          }
+        },
+        {
+          "code": 390,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Thanh_Mai",
+          "languages": {
+            "vi": "Xã Thanh Mai",
+            "en": "Xã Thanh Mai",
+            "ja": "シャンタンマイ",
+            "ko": "싸 탄 마이"
+          }
+        },
+        {
+          "code": 391,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Thanh_Xuân",
+          "languages": {
+            "vi": "Xã Thanh Xuân",
+            "en": "Xã Thanh Xuân",
+            "ja": "シャン・タン・スアン",
+            "ko": "Xã Thanh Xuân"
+          }
+        },
+        {
+          "code": 392,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Thanh Chương",
+          "keyLanguage": "Xã_Thanh_Đức",
+          "languages": {
+            "vi": "Xã Thanh Đức",
+            "en": "Xã Thanh Đức",
+            "ja": "シャン・タン・ドゥク",
+            "ko": "싸탄득"
+          }
+        }
+      ]
+    },
+    {
+      "code": 393,
+      "city": "Thành Phố/Huyện/ Thị Xã",
+      "category": null,
+      "postalCode": "90000393",
+      "nameCategory": "Huyện Nghi Lộc",
+      "keyLanguage": "Huyện_Nghi_Lộc",
+      "languages": {
+        "vi": "Huyện Nghi Lộc",
+        "en": "Huyện Nghi Lộc",
+        "ja": "フエン・ギ・ロック",
+        "ko": "후옌응이록"
+      },
+      "districtList": [
+        {
+          "code": 394,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nghi Lộc",
+          "keyLanguage": "Thị_trấn_Quán_Hành",
+          "languages": {
+            "vi": "Thị trấn Quán Hành",
+            "en": "Thị trấn Quán Hành",
+            "ja": "トゥルン・クアン・ハン",
+            "ko": "티 쩐 콴 한(Thị trấn Quán Hành)"
+          }
+        },
+        {
+          "code": 395,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nghi Lộc",
+          "keyLanguage": "Xã_Nghi_Văn",
+          "languages": {
+            "vi": "Xã Nghi Văn",
+            "en": "Xã Nghi Văn",
+            "ja": "シャン・ギ・ヴァン",
+            "ko": "싸응이반"
+          }
+        },
+        {
+          "code": 396,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nghi Lộc",
+          "keyLanguage": "Xã_Nghi_Yên",
+          "languages": {
+            "vi": "Xã Nghi Yên",
+            "en": "Xã Nghi Yên",
+            "ja": "シャンギエン",
+            "ko": "Xã Nghi Yên"
+          }
+        },
+        {
+          "code": 397,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nghi Lộc",
+          "keyLanguage": "Xã_Nghi_Tiến",
+          "languages": {
+            "vi": "Xã Nghi Tiến",
+            "en": "Xã Nghi Tiến",
+            "ja": "シャン・ギ・ティエン",
+            "ko": "싸응이티엔"
+          }
+        },
+        {
+          "code": 398,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nghi Lộc",
+          "keyLanguage": "Xã_Nghi_Hưng",
+          "languages": {
+            "vi": "Xã Nghi Hưng",
+            "en": "Xã Nghi Hưng",
+            "ja": "サンギフン",
+            "ko": "Xã Nghi Hung"
+          }
+        },
+        {
+          "code": 399,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nghi Lộc",
+          "keyLanguage": "Xã_Nghi_Đồng",
+          "languages": {
+            "vi": "Xã Nghi Đồng",
+            "en": "Xã Nghi Đồng",
+            "ja": "サンギドン",
+            "ko": "싸응이동"
+          }
+        },
+        {
+          "code": 400,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nghi Lộc",
+          "keyLanguage": "Xã_Nghi_Thiết",
+          "languages": {
+            "vi": "Xã Nghi Thiết",
+            "en": "Xã Nghi Thiết",
+            "ja": "シャンギ・ティエット",
+            "ko": "싸응이티엣"
+          }
+        },
+        {
+          "code": 401,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nghi Lộc",
+          "keyLanguage": "Xã_Nghi_Lâm",
+          "languages": {
+            "vi": "Xã Nghi Lâm",
+            "en": "Xã Nghi Lâm",
+            "ja": "シャンギラム",
+            "ko": "Xã Nghi Lâm"
+          }
+        },
+        {
+          "code": 402,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nghi Lộc",
+          "keyLanguage": "Xã_Nghi_Quang",
+          "languages": {
+            "vi": "Xã Nghi Quang",
+            "en": "Xã Nghi Quang",
+            "ja": "シャン・ギ・クアン",
+            "ko": "싸응이꽝"
+          }
+        },
+        {
+          "code": 403,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nghi Lộc",
+          "keyLanguage": "Xã_Nghi_Kiều",
+          "languages": {
+            "vi": "Xã Nghi Kiều",
+            "en": "Xã Nghi Kiều",
+            "ja": "シャンギキウ",
+            "ko": "싸응이끼우(Xã Nghi Kiều)"
+          }
+        },
+        {
+          "code": 404,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nghi Lộc",
+          "keyLanguage": "Xã_Nghi_Mỹ",
+          "languages": {
+            "vi": "Xã Nghi Mỹ",
+            "en": "Xã Nghi Mỹ",
+            "ja": "シャンギム",
+            "ko": "Xã Nghi Mỹ"
+          }
+        },
+        {
+          "code": 405,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nghi Lộc",
+          "keyLanguage": "Xã_Nghi_Phương",
+          "languages": {
+            "vi": "Xã Nghi Phương",
+            "en": "Xã Nghi Phương",
+            "ja": "サンギフン",
+            "ko": "싸응이프엉"
+          }
+        },
+        {
+          "code": 406,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nghi Lộc",
+          "keyLanguage": "Xã_Nghi_Thuận",
+          "languages": {
+            "vi": "Xã Nghi Thuận",
+            "en": "Xã Nghi Thuận",
+            "ja": "シャンギトゥン",
+            "ko": "Xã Nghi Thuận"
+          }
+        },
+        {
+          "code": 407,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nghi Lộc",
+          "keyLanguage": "Xã_Nghi_Long",
+          "languages": {
+            "vi": "Xã Nghi Long",
+            "en": "Xã Nghi Long",
+            "ja": "シャンギロン",
+            "ko": "싸응이롱"
+          }
+        },
+        {
+          "code": 408,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nghi Lộc",
+          "keyLanguage": "Xã_Nghi_Xá",
+          "languages": {
+            "vi": "Xã Nghi Xá",
+            "en": "Xã Nghi Xá",
+            "ja": "サー・ギ・サー",
+            "ko": "싸응싸"
+          }
+        },
+        {
+          "code": 409,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nghi Lộc",
+          "keyLanguage": "Xã_Nghi_Hoa",
+          "languages": {
+            "vi": "Xã Nghi Hòa",
+            "en": "Xã Nghi Hoa",
+            "ja": "シャンギホア",
+            "ko": "싸응이호아"
+          }
+        },
+        {
+          "code": 410,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nghi Lộc",
+          "keyLanguage": "Xã_Khánh_Hợp",
+          "languages": {
+            "vi": "Xã Khánh Hợp",
+            "en": "Xã Khánh Hợp",
+            "ja": "シャン・カン・ホプ",
+            "ko": "Xã Khánh Hợp"
+          }
+        },
+        {
+          "code": 411,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nghi Lộc",
+          "keyLanguage": "Xã_Nghi_Thịnh",
+          "languages": {
+            "vi": "Xã Nghi Thịnh",
+            "en": "Xã Nghi Thịnh",
+            "ja": "シャン・ギ・ティン",
+            "ko": "싸응이틴"
+          }
+        },
+        {
+          "code": 412,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nghi Lộc",
+          "keyLanguage": "Xã_Nghi_Công_Bắc",
+          "languages": {
+            "vi": "Xã Nghi Công Bắc",
+            "en": "Xã Nghi Công Bắc",
+            "ja": "サンギ・コン・バク",
+            "ko": "Xã Nghi Công Bắc"
+          }
+        },
+        {
+          "code": 413,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nghi Lộc",
+          "keyLanguage": "Xã_Nghi_Công_Nam",
+          "languages": {
+            "vi": "Xã Nghi Công Nam",
+            "en": "Xã Nghi Công Nam",
+            "ja": "シャンギ・コンナム",
+            "ko": "Xã Nghi Công Nam"
+          }
+        },
+        {
+          "code": 414,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nghi Lộc",
+          "keyLanguage": "Xã_Nghi_Thạch",
+          "languages": {
+            "vi": "Xã Nghi Thạch",
+            "en": "Xã Nghi Thạch",
+            "ja": "ザンギ・トク",
+            "ko": "싸응이탁"
+          }
+        },
+        {
+          "code": 415,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nghi Lộc",
+          "keyLanguage": "Xã_Nghi_Trung",
+          "languages": {
+            "vi": "Xã Nghi Trung",
+            "en": "Xã Nghi Trung",
+            "ja": "シャン・ギ・チュン",
+            "ko": "Xã Nghi Trung"
+          }
+        },
+        {
+          "code": 416,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nghi Lộc",
+          "keyLanguage": "Xã_Nghi_Trường",
+          "languages": {
+            "vi": "Xã Nghi Trường",
+            "en": "Xã Nghi Trường",
+            "ja": "シャンギ・チュン",
+            "ko": "Xã Nghi Truong"
+          }
+        },
+        {
+          "code": 417,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nghi Lộc",
+          "keyLanguage": "Xã_Nghi_Diên",
+          "languages": {
+            "vi": "Xã Nghi Diên",
+            "en": "Xã Nghi Diên",
+            "ja": "シャンギディエン",
+            "ko": "싸응이디엔"
+          }
+        },
+        {
+          "code": 418,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nghi Lộc",
+          "keyLanguage": "Xã_Nghi_Phong",
+          "languages": {
+            "vi": "Xã Nghi Phong",
+            "en": "Xã Nghi Phong",
+            "ja": "シャンギフォン",
+            "ko": "싸응이퐁"
+          }
+        },
+        {
+          "code": 419,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nghi Lộc",
+          "keyLanguage": "Xã_Nghi_Xuân",
+          "languages": {
+            "vi": "Xã Nghi Xuân",
+            "en": "Xã Nghi Xuân",
+            "ja": "シャン・ギ・スアン",
+            "ko": "Xã Nghi Xuân"
+          }
+        },
+        {
+          "code": 420,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nghi Lộc",
+          "keyLanguage": "Xã_Nghi_Vạn",
+          "languages": {
+            "vi": "Xã Nghi Vạn",
+            "en": "Xã Nghi Vạn",
+            "ja": "シャンギヴァン",
+            "ko": "싸응이반"
+          }
+        },
+        {
+          "code": 421,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nghi Lộc",
+          "keyLanguage": "Xã_Phúc_Thọ",
+          "languages": {
+            "vi": "Xã Phúc Thọ",
+            "en": "Xã Phúc Thọ",
+            "ja": "Xã Phúc Thọ",
+            "ko": "싸푹토"
+          }
+        },
+        {
+          "code": 422,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nghi Lộc",
+          "keyLanguage": "Xã_Nghi_Thái",
+          "languages": {
+            "vi": "Xã Nghi Thái",
+            "en": "Xã Nghi Thái",
+            "ja": "シャンギタイ語",
+            "ko": "싸응이타이"
+          }
+        }
+      ]
+    },
+    {
+      "code": 423,
+      "city": "Thành Phố/Huyện/ Thị Xã",
+      "category": null,
+      "postalCode": "90000423",
+      "nameCategory": "Huyện Nam Đàn",
+      "keyLanguage": "Huyện_Nam_Đàn",
+      "languages": {
+        "vi": "Huyện Nam Đàn",
+        "en": "Huyện Nam Đàn",
+        "ja": "フエン・ナム・ジャン",
+        "ko": "후옌 남 단"
+      },
+      "districtList": [
+        {
+          "code": 424,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nam Đàn",
+          "keyLanguage": "Xã_Nam_Hưng",
+          "languages": {
+            "vi": "Xã Nam Hưng",
+            "en": "Xã Nam Hưng",
+            "ja": "シャン・ナム・ホン",
+            "ko": "Xã Nam Hung"
+          }
+        },
+        {
+          "code": 425,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nam Đàn",
+          "keyLanguage": "Xã_Nam_Nghĩa",
+          "languages": {
+            "vi": "Xã Nam Nghĩa",
+            "en": "Xã Nam Nghĩa",
+            "ja": "シャン・ナム・ギア",
+            "ko": "Xã Nam Nghĩa"
+          }
+        },
+        {
+          "code": 426,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nam Đàn",
+          "keyLanguage": "Xã_Nam_Thanh",
+          "languages": {
+            "vi": "Xã Nam Thành",
+            "en": "Xã Nam Thanh",
+            "ja": "シャン・ナム・タン",
+            "ko": "사나 남 탄(Xã ​​Nam Thanh)"
+          }
+        },
+        {
+          "code": 427,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nam Đàn",
+          "keyLanguage": "Xã_Nam_Anh",
+          "languages": {
+            "vi": "Xã Nam Anh",
+            "en": "Xã Nam Anh",
+            "ja": "シャン・ナム・アイン",
+            "ko": "사나 남 안(Xã Nam Anh)"
+          }
+        },
+        {
+          "code": 428,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nam Đàn",
+          "keyLanguage": "Xã_Nam_Xuân",
+          "languages": {
+            "vi": "Xã Nam Xuân",
+            "en": "Xã Nam Xuân",
+            "ja": "シャン・ナム・スアン",
+            "ko": "Xã Nam Xuân"
+          }
+        },
+        {
+          "code": 429,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nam Đàn",
+          "keyLanguage": "Xã_Nam_Thái",
+          "languages": {
+            "vi": "Xã Nam Thái",
+            "en": "Xã Nam Thái",
+            "ja": "サーナムタイ",
+            "ko": "싸남타이"
+          }
+        },
+        {
+          "code": 430,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nam Đàn",
+          "keyLanguage": "Xã_Nam_Lĩnh",
+          "languages": {
+            "vi": "Xã Nam Lĩnh",
+            "en": "Xã Nam Lĩnh",
+            "ja": "シャン・ナム・リン",
+            "ko": "Xã Nam Lĩnh"
+          }
+        },
+        {
+          "code": 431,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nam Đàn",
+          "keyLanguage": "Xã_Nam_Giang",
+          "languages": {
+            "vi": "Xã Nam Giang",
+            "en": "Xã Nam Giang",
+            "ja": "シャン・ナムザン",
+            "ko": "Xã Nam Giang"
+          }
+        },
+        {
+          "code": 432,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nam Đàn",
+          "keyLanguage": "Xã_Xuân_Hòa",
+          "languages": {
+            "vi": "Xã Xuân Hòa",
+            "en": "Xã Xuân Hòa",
+            "ja": "サン・スアン・ホア",
+            "ko": "Xã Xuân Hòa"
+          }
+        },
+        {
+          "code": 433,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nam Đàn",
+          "keyLanguage": "Xã_Hùng_Tiến",
+          "languages": {
+            "vi": "Xã Hùng Tiến",
+            "en": "Xã Hùng Tiến",
+            "ja": "シャン・フン・ティエン",
+            "ko": "Xã Hùng Tiến"
+          }
+        },
+        {
+          "code": 434,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nam Đàn",
+          "keyLanguage": "Xã_Thượng_Tân_Lộc",
+          "languages": {
+            "vi": "Xã Thượng Tân Lộc",
+            "en": "Xã Thượng Tân Lộc",
+            "ja": "Xã Thượng Tân Lộc",
+            "ko": "Xã Thhong Tân Lộc"
+          }
+        },
+        {
+          "code": 435,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nam Đàn",
+          "keyLanguage": "Xã_Kim_Liên",
+          "languages": {
+            "vi": "Xã Kim Liên",
+            "en": "Xã Kim Liên",
+            "ja": "シャン・キム・リエン",
+            "ko": "Xã Kim Liên"
+          }
+        },
+        {
+          "code": 436,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nam Đàn",
+          "keyLanguage": "Xã_Hồng_Long",
+          "languages": {
+            "vi": "Xã Hồng Long",
+            "en": "Xã Hồng Long",
+            "ja": "シャン・ホン・ロン",
+            "ko": "Xã Hồng Long"
+          }
+        },
+        {
+          "code": 437,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nam Đàn",
+          "keyLanguage": "Xã_Xuân_Lâm",
+          "languages": {
+            "vi": "Xã Xuân Lâm",
+            "en": "Xã Xuân Lâm",
+            "ja": "サン・シュアン・ラム",
+            "ko": "Xã Xuân Lâm"
+          }
+        },
+        {
+          "code": 438,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nam Đàn",
+          "keyLanguage": "Xã_Nam_Cát",
+          "languages": {
+            "vi": "Xã Nam Cát",
+            "en": "Xã Nam Cát",
+            "ja": "シャーナムキャット",
+            "ko": "Xã Nam Cát"
+          }
+        },
+        {
+          "code": 439,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nam Đàn",
+          "keyLanguage": "Xã_Khánh_Sơn",
+          "languages": {
+            "vi": "Xã Khánh Sơn",
+            "en": "Xã Khánh Sơn",
+            "ja": "サン・カイン・ソン",
+            "ko": "사나칸손"
+          }
+        },
+        {
+          "code": 440,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nam Đàn",
+          "keyLanguage": "Xã_Trung_Phúc_Cường",
+          "languages": {
+            "vi": "Xã Trung Phúc Cường",
+            "en": "Xã Trung Phúc Cường",
+            "ja": "Xã Trung Phúc Cường",
+            "ko": "Xã Trung Phúc Cuan"
+          }
+        },
+        {
+          "code": 441,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Nam Đàn",
+          "keyLanguage": "Xã_Nam_Kim",
+          "languages": {
+            "vi": "Xã Nam Kim",
+            "en": "Xã Nam Kim",
+            "ja": "シャン・ナム・キム",
+            "ko": "김사남"
+          }
+        }
+      ]
+    },
+    {
+      "code": 442,
+      "city": "Thành Phố/Huyện/ Thị Xã",
+      "category": null,
+      "postalCode": "90000442",
+      "nameCategory": "Huyện Hưng Nguyên",
+      "keyLanguage": "Huyện_Hưng_Nguyên",
+      "languages": {
+        "vi": "Huyện Hưng Nguyên",
+        "en": "Huyện Hưng Nguyên",
+        "ja": "フエン・フン・グエン",
+        "ko": "후옌흥응우옌"
+      },
+      "districtList": [
+        {
+          "code": 443,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hưng Nguyên",
+          "keyLanguage": "Xã_Hưng_Trung",
+          "languages": {
+            "vi": "Xã Hưng Trung",
+            "en": "Xã Hưng Trung",
+            "ja": "サン・ホン・チュン",
+            "ko": "Xã Hung Trung"
+          }
+        },
+        {
+          "code": 444,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hưng Nguyên",
+          "keyLanguage": "Xã_Hưng_Yên",
+          "languages": {
+            "vi": "Xã Hưng Yên",
+            "en": "Xã Hưng Yên",
+            "ja": "Xã Hưng Yên",
+            "ko": "Xã Hung Yên"
+          }
+        },
+        {
+          "code": 445,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hưng Nguyên",
+          "keyLanguage": "Xã_Hưng_Yên_Bắc",
+          "languages": {
+            "vi": "Xã Hưng Yên Bắc",
+            "en": "Xã Hưng Yên Bắc",
+            "ja": "Xã Hưng Yên Bắc",
+            "ko": "Xã Hung Yên Bắc"
+          }
+        },
+        {
+          "code": 446,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hưng Nguyên",
+          "keyLanguage": "Xã_Hưng_Tây",
+          "languages": {
+            "vi": "Xã Hưng Tây",
+            "en": "Xã Hưng Tây",
+            "ja": "サン・ホン・タイ",
+            "ko": "Xã Hung Tây"
+          }
+        },
+        {
+          "code": 447,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hưng Nguyên",
+          "keyLanguage": "Xã_Hưng_Đạo",
+          "languages": {
+            "vi": "Xã Hưng Đạo",
+            "en": "Xã Hưng Đạo",
+            "ja": "Xã Hưng Đạo",
+            "ko": "싸흥다오"
+          }
+        },
+        {
+          "code": 448,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hưng Nguyên",
+          "keyLanguage": "Xã_Hưng_Mỹ",
+          "languages": {
+            "vi": "Xã Hưng Mỹ",
+            "en": "Xã Hưng Mỹ",
+            "ja": "サン・フン・ム",
+            "ko": "Xã Hung Mỹ"
+          }
+        },
+        {
+          "code": 449,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hưng Nguyên",
+          "keyLanguage": "Xã_Hưng_Thịnh",
+          "languages": {
+            "vi": "Xã Hưng Thịnh",
+            "en": "Xã Hưng Thịnh",
+            "ja": "ザン・フン・ティン",
+            "ko": "Xã Hung Thịnh"
+          }
+        },
+        {
+          "code": 450,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hưng Nguyên",
+          "keyLanguage": "Xã_Hưng_Lĩnh",
+          "languages": {
+            "vi": "Xã Hưng Lĩnh",
+            "en": "Xã Hưng Lĩnh",
+            "ja": "サン・フン・リン",
+            "ko": "Xã Hung Lĩnh"
+          }
+        },
+        {
+          "code": 451,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hưng Nguyên",
+          "keyLanguage": "Xã_Hưng_Thông",
+          "languages": {
+            "vi": "Xã Hưng Thông",
+            "en": "Xã Hưng Thông",
+            "ja": "サンフントーン",
+            "ko": "Xã Hong Thông"
+          }
+        },
+        {
+          "code": 452,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hưng Nguyên",
+          "keyLanguage": "Xã_Hưng_Tân",
+          "languages": {
+            "vi": "Xã Hưng Tân",
+            "en": "Xã Hưng Tân",
+            "ja": "シャン・フン・タン",
+            "ko": "Xã Hung Tân"
+          }
+        },
+        {
+          "code": 453,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hưng Nguyên",
+          "keyLanguage": "Xã_Hưng_Lợi",
+          "languages": {
+            "vi": "Xã Hưng Lợi",
+            "en": "Xã Hưng Lợi",
+            "ja": "Xã Hưng Lợi",
+            "ko": "Xã Hong Lợi"
+          }
+        },
+        {
+          "code": 454,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hưng Nguyên",
+          "keyLanguage": "Xã_Hưng_Nghĩa",
+          "languages": {
+            "vi": "Xã Hưng Nghĩa",
+            "en": "Xã Hưng Nghĩa",
+            "ja": "サン・フン・ギア",
+            "ko": "Xã Hung Nghĩa"
+          }
+        },
+        {
+          "code": 455,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hưng Nguyên",
+          "keyLanguage": "Xã_Hưng_Phúc",
+          "languages": {
+            "vi": "Xã Hưng Phúc",
+            "en": "Xã Hưng Phúc",
+            "ja": "サンフンフック",
+            "ko": "Xã Hung Phúc"
+          }
+        },
+        {
+          "code": 456,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hưng Nguyên",
+          "keyLanguage": "Xã_Long_Xá",
+          "languages": {
+            "vi": "Xã Long Xá",
+            "en": "Xã Long Xá",
+            "ja": "サーロンサー",
+            "ko": "샤롱샤"
+          }
+        },
+        {
+          "code": 457,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hưng Nguyên",
+          "keyLanguage": "Xã_Châu_Nhân",
+          "languages": {
+            "vi": "Xã Châu Nhân",
+            "en": "Xã Châu Nhân",
+            "ja": "シャン・チャウ・ニャン",
+            "ko": "Xã Châu Nhân"
+          }
+        },
+        {
+          "code": 458,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hưng Nguyên",
+          "keyLanguage": "Xã_Xuân_Lam",
+          "languages": {
+            "vi": "Xã Xuân Lâm",
+            "en": "Xã Xuân Lam",
+            "ja": "シャン・スアン・ラム",
+            "ko": "Xã Xuân Lam"
+          }
+        },
+        {
+          "code": 459,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Huyện Hưng Nguyên",
+          "keyLanguage": "Xã_Hưng_Thành",
+          "languages": {
+            "vi": "Xã Hưng Thành",
+            "en": "Xã Hưng Thành",
+            "ja": "サンフンタイン",
+            "ko": "Xã Hong Thành"
+          }
+        }
+      ]
+    },
+    {
+      "code": 460,
+      "city": "Thành Phố/Huyện/ Thị Xã",
+      "category": null,
+      "postalCode": "90000460",
+      "nameCategory": "Thị xã Hoàng Mai",
+      "keyLanguage": "Thị_xã_Hoàng_Mai",
+      "languages": {
+        "vi": "Thị xã Hoàng Mai",
+        "en": "Thị xã Hoàng Mai",
+        "ja": "トゥサン・ホアン・マイ",
+        "ko": "티샤호앙마이"
+      },
+      "districtList": [
+        {
+          "code": 461,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Thị xã Hoàng Mai",
+          "keyLanguage": "Xã_Quỳnh_Vinh",
+          "languages": {
+            "vi": "Xã Quỳnh Vinh",
+            "en": "Xã Quỳnh Vinh",
+            "ja": "サン・クイン・ヴィン",
+            "ko": "Xã Quỳnh 빈"
+          }
+        },
+        {
+          "code": 462,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Thị xã Hoàng Mai",
+          "keyLanguage": "Xã_Quỳnh_Lộc",
+          "languages": {
+            "vi": "Xã Quỳnh Lộc",
+            "en": "Xã Quỳnh Lộc",
+            "ja": "Xã Quỳnh Lộc",
+            "ko": "Xã Quỳnh Lộc"
+          }
+        },
+        {
+          "code": 463,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Thị xã Hoàng Mai",
+          "keyLanguage": "Phường_Quỳnh_Thiện",
+          "languages": {
+            "vi": "Phường Quỳnh Thiện",
+            "en": "Phường Quỳnh Thiện",
+            "ja": "Phường Quỳnh Thiện",
+            "ko": "프엉 꾸인 티엔"
+          }
+        },
+        {
+          "code": 464,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Thị xã Hoàng Mai",
+          "keyLanguage": "Xã_Quỳnh_Lập",
+          "languages": {
+            "vi": "Xã Quỳnh Lập",
+            "en": "Xã Quỳnh Lập",
+            "ja": "Xã Quỳnh Lập",
+            "ko": "Xã Quỳnh Lập"
+          }
+        },
+        {
+          "code": 465,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Thị xã Hoàng Mai",
+          "keyLanguage": "Xã_Quỳnh_Trang",
+          "languages": {
+            "vi": "Xã Quỳnh Trang",
+            "en": "Xã Quỳnh Trang",
+            "ja": "サン・クイン・トラン",
+            "ko": "Xã Quỳnh Trang"
+          }
+        },
+        {
+          "code": 466,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Thị xã Hoàng Mai",
+          "keyLanguage": "Phường_Mai_Hùng",
+          "languages": {
+            "vi": "Phường Mai Hùng",
+            "en": "Phường Mai Hùng",
+            "ja": "フォン・マイ・フン",
+            "ko": "프엉 마이 훙"
+          }
+        },
+        {
+          "code": 467,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Thị xã Hoàng Mai",
+          "keyLanguage": "Phường_Quỳnh_Dị",
+          "languages": {
+            "vi": "Phường Quỳnh Dị",
+            "en": "Phường Quỳnh Dị",
+            "ja": "Phường Quỳnh Dị",
+            "ko": "프엉 꾸인 디(Phuờng Quỳnh Dị)"
+          }
+        },
+        {
+          "code": 468,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Thị xã Hoàng Mai",
+          "keyLanguage": "Phường_Quỳnh_Xuân",
+          "languages": {
+            "vi": "Phường Quỳnh Xuân",
+            "en": "Phường Quỳnh Xuân",
+            "ja": "Phường Quỳnh Xuân",
+            "ko": "프엉 꾸인 쑤언"
+          }
+        },
+        {
+          "code": 469,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Thị xã Hoàng Mai",
+          "keyLanguage": "Phường_Quỳnh_Phương",
+          "languages": {
+            "vi": "Phường Quỳnh Phương",
+            "en": "Phường Quỳnh Phương",
+            "ja": "Phường Quỳnh Phương",
+            "ko": "프엉꾸인프엉"
+          }
+        },
+        {
+          "code": 470,
+          "city": "Phường/Xã/Thị trấn",
+          "category": "Huyện",
+          "nameCategory": "Thị xã Hoàng Mai",
+          "keyLanguage": "Xã_Quỳnh_Liên",
+          "languages": {
+            "vi": "Xã Quỳnh Liên",
+            "en": "Xã Quỳnh Liên",
+            "ja": "Xã Quỳnh Liên",
+            "ko": "Xã Quỳnh Liên"
+          }
+        }
+      ]
+    }
+  ]
+}

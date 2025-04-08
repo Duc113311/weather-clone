@@ -1,0 +1,41 @@
+<template>
+  <svg
+    width="40"
+    height="120"
+    viewBox="0 0 40 120"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M7 17C7 9.8203 12.8203 4 20 4C27.1797 4 33 9.8203 33 17V103C33 110.18 27.1797 116 20 116C12.8203 116 7 110.18 7 103V17Z"
+      fill="var(--bg-icon-precip)"
+      fill-opacity="0.15"
+    />
+    <mask
+      id="mask0_3516_55678"
+      style="mask-type: alpha"
+      maskUnits="userSpaceOnUse"
+      x="7"
+      y="4"
+      width="26"
+      height="120"
+    >
+      <path
+        d="M7 17C7 9.8203 12.8203 4 20 4V4C27.1797 4 33 9.8203 33 17V111C33 118.18 27.1797 124 20 124V124C12.8203 124 7 118.18 7 111V17Z"
+        fill="var(--bg-icon-precip)"
+      />
+    </mask>
+    <g mask="url(#mask0_3516_55678)">
+      <path
+        d="M7 30.0186C7.33637 29.5387 7.77173 29.1192 8.26329 28.7536C11.7556 26.1558 16.5526 27.5978 20.3844 29.6623C21.5371 30.2834 22.8983 31.0143 24.5 31.871C29 33.6539 30.5 30.7305 33 30.0186V103.052C33 110.231 27.1797 116.052 20 116.052V116.052C12.8203 116.052 7 110.231 7 103.052V30.0186Z"
+        fill="#0062F5"
+      />
+    </g>
+  </svg>
+</template>
+<script>
+export default {
+  name: "Ic-Precip_80",
+};
+</script>
+<style lang=""></style>

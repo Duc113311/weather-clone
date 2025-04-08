@@ -1,0 +1,2686 @@
+[
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 10.426,
+      "lng": -61.479
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Munich",
+        "location": {
+          "lat": 48.1351253,
+          "lng": 11.5819806
+        },
+        "keyAccentLanguage": "munich"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Birch Grove",
+        "location": {
+          "lat": 12.1107662,
+          "lng": -61.6680509
+        },
+        "keyAccentLanguage": "birch_grove"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Paraclete",
+        "location": {
+          "lat": 12.1533119,
+          "lng": -61.6413868
+        },
+        "keyAccentLanguage": "paraclete"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Clabony",
+        "location": {
+          "lat": 12.1346025,
+          "lng": -61.6589189
+        },
+        "keyAccentLanguage": "clabony"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chutz",
+        "location": {
+          "lat": 12.09935,
+          "lng": -61.6494221
+        },
+        "keyAccentLanguage": "chutz"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Digue",
+        "location": {
+          "lat": 12.1086236,
+          "lng": -61.64576959999999
+        },
+        "keyAccentLanguage": "la_digue"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dumfermline",
+        "location": {
+          "lat": 12.1293389,
+          "lng": -61.6172831
+        },
+        "keyAccentLanguage": "dumfermline"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Brandon Hall",
+        "location": {
+          "lat": 12.1154742,
+          "lng": -61.63189099999999
+        },
+        "keyAccentLanguage": "brandon_hall"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Morne Longue",
+        "location": {
+          "lat": 12.114438,
+          "lng": -61.6749916
+        },
+        "keyAccentLanguage": "morne_longue"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Harford Village",
+        "location": {
+          "lat": 12.1176942,
+          "lng": -61.63736919999999
+        },
+        "keyAccentLanguage": "harford_village"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bellevue",
+        "location": {
+          "lat": 12.1103595,
+          "lng": -61.6527094
+        },
+        "keyAccentLanguage": "bellevue"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Grenville",
+        "location": {
+          "lat": 12.1242614,
+          "lng": -61.62385649999999
+        },
+        "keyAccentLanguage": "grenville"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount Fann",
+        "location": {
+          "lat": 12.0842689,
+          "lng": -61.6355431
+        },
+        "keyAccentLanguage": "mount_fann"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mont Carmel",
+        "location": {
+          "lat": 12.0912607,
+          "lng": -61.6383109
+        },
+        "keyAccentLanguage": "mont_carmel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Grand Bras",
+        "location": {
+          "lat": 12.1234758,
+          "lng": -61.6481978
+        },
+        "keyAccentLanguage": "grand_bras"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Telescope",
+        "location": {
+          "lat": 12.1230598,
+          "lng": -61.64211719999999
+        },
+        "keyAccentLanguage": "telescope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Morne Jaloux",
+        "location": {
+          "lat": 56.3397753,
+          "lng": -2.7967214
+        },
+        "keyAccentLanguage": "morne_jaloux"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint Omer",
+        "location": {
+          "lat": 50.7522828,
+          "lng": 2.2543638
+        },
+        "keyAccentLanguage": "saint_omer"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint Cyr",
+        "location": {
+          "lat": 12.1007248,
+          "lng": -61.67937539999999
+        },
+        "keyAccentLanguage": "saint_cyr"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mahot",
+        "location": {
+          "lat": 12.0593897,
+          "lng": -61.6372823
+        },
+        "keyAccentLanguage": "mahot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint Cloud",
+        "location": {
+          "lat": 45.5579451,
+          "lng": -94.16324039999999
+        },
+        "keyAccentLanguage": "saint_cloud"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pyrenees",
+        "location": {
+          "lat": 42.6681804,
+          "lng": 1.0011899
+        },
+        "keyAccentLanguage": "pyrenees"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ford",
+        "location": {
+          "lat": 56.3397753,
+          "lng": -2.7967214
+        },
+        "keyAccentLanguage": "ford"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Richmond",
+        "location": {
+          "lat": 12.1029798,
+          "lng": -61.6530747
+        },
+        "keyAccentLanguage": "richmond"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount Horne",
+        "location": {
+          "lat": 12.1429068,
+          "lng": -61.6465001
+        },
+        "keyAccentLanguage": "mount_horne"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pecher",
+        "location": {
+          "lat": 12.1187156,
+          "lng": -61.6844899
+        },
+        "keyAccentLanguage": "pecher"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adelphi",
+        "location": {
+          "lat": 12.1098795,
+          "lng": -61.6717039
+        },
+        "keyAccentLanguage": "adelphi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Soubise",
+        "location": {
+          "lat": 12.1116425,
+          "lng": -61.6293345
+        },
+        "keyAccentLanguage": "soubise"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arthur Seat",
+        "location": {
+          "lat": 55.94408250000001,
+          "lng": -3.1618324
+        },
+        "keyAccentLanguage": "arthur_seat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Deblando",
+        "location": {
+          "lat": 12.1022115,
+          "lng": -61.64321289999999
+        },
+        "keyAccentLanguage": "deblando"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Windsor",
+        "location": {
+          "lat": -27.649016,
+          "lng": 153.127598
+        },
+        "keyAccentLanguage": "windsor"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Plaisance",
+        "location": {
+          "lat": 12.0929784,
+          "lng": -61.64430869999999
+        },
+        "keyAccentLanguage": "plaisance"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount Carmel",
+        "location": {
+          "lat": 12.0837845,
+          "lng": -61.63116050000001
+        },
+        "keyAccentLanguage": "mount_carmel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mamma Cannes",
+        "location": {
+          "lat": 12.0661298,
+          "lng": -61.6523441
+        },
+        "keyAccentLanguage": "mamma_cannes"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hope Bacolet",
+        "location": {
+          "lat": 12.0789461,
+          "lng": -61.6223957
+        },
+        "keyAccentLanguage": "hope_bacolet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Filette",
+        "location": {
+          "lat": 12.1416168,
+          "lng": -61.6353124
+        },
+        "keyAccentLanguage": "la_filette"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Upper Pearls",
+        "location": {
+          "lat": 12.1536976,
+          "lng": -61.6158223
+        },
+        "keyAccentLanguage": "upper_pearls"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Blaize",
+        "location": {
+          "lat": 12.1577492,
+          "lng": -61.6406563
+        },
+        "keyAccentLanguage": "blaize"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Union Village",
+        "location": {
+          "lat": 12.1008785,
+          "lng": -61.6340823
+        },
+        "keyAccentLanguage": "union_village"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint Margaret",
+        "location": {
+          "lat": 12.1062505,
+          "lng": -61.6797407
+        },
+        "keyAccentLanguage": "saint_margaret"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint John",
+        "location": {
+          "lat": 39.0301497,
+          "lng": -99.566495
+        },
+        "keyAccentLanguage": "saint_john"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nianganfoix",
+        "location": {
+          "lat": 12.1205687,
+          "lng": -61.6720692
+        },
+        "keyAccentLanguage": "nianganfoix"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beauregard",
+        "location": {
+          "lat": 12.112,
+          "lng": -61.677
+        },
+        "keyAccentLanguage": "beauregard"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chadeau",
+        "location": {
+          "lat": 12.133,
+          "lng": -61.683
+        },
+        "keyAccentLanguage": "chadeau"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Castaigne",
+        "location": {
+          "lat": 12.117,
+          "lng": -61.667
+        },
+        "keyAccentLanguage": "castaigne"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belair",
+        "location": {
+          "lat": 12.15,
+          "lng": -61.617
+        },
+        "keyAccentLanguage": "belair"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "L'Esterre",
+        "location": {
+          "lat": 12.117,
+          "lng": -61.633
+        },
+        "keyAccentLanguage": "l'esterre"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Conference",
+        "location": {
+          "lat": 12.15,
+          "lng": -61.617
+        },
+        "keyAccentLanguage": "conference"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Carriere",
+        "location": {
+          "lat": 12.167,
+          "lng": -61.633
+        },
+        "keyAccentLanguage": "carriere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hermitage",
+        "location": {
+          "lat": 12.167,
+          "lng": -61.633
+        },
+        "keyAccentLanguage": "hermitage"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Clozier",
+        "location": {
+          "lat": 12.133,
+          "lng": -61.683
+        },
+        "keyAccentLanguage": "clozier"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barique",
+        "location": {
+          "lat": 12.167,
+          "lng": -61.65
+        },
+        "keyAccentLanguage": "barique"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Felix Park",
+        "location": {
+          "lat": 12.067,
+          "lng": -61.65
+        },
+        "keyAccentLanguage": "felix_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tivoli",
+        "location": {
+          "lat": 12.167,
+          "lng": -61.617
+        },
+        "keyAccentLanguage": "tivoli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pierre Marie",
+        "location": {
+          "lat": 12.067,
+          "lng": -61.65
+        },
+        "keyAccentLanguage": "pierre_marie"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lower Capitol",
+        "location": {
+          "lat": 12.117,
+          "lng": -61.667
+        },
+        "keyAccentLanguage": "lower_capitol"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belmont",
+        "location": {
+          "lat": 12.167,
+          "lng": -61.633
+        },
+        "keyAccentLanguage": "belmont"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Peggys Whim",
+        "location": {
+          "lat": 12.167,
+          "lng": -61.633
+        },
+        "keyAccentLanguage": "peggys_whim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Post Royal",
+        "location": {
+          "lat": 12.1,
+          "lng": -61.633
+        },
+        "keyAccentLanguage": "post_royal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Marquis",
+        "location": {
+          "lat": 12.083,
+          "lng": -61.617
+        },
+        "keyAccentLanguage": "marquis"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lower La Tante",
+        "location": {
+          "lat": 12.05,
+          "lng": -61.633
+        },
+        "keyAccentLanguage": "lower_la_tante"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lower Pearls",
+        "location": {
+          "lat": 12.133,
+          "lng": -61.617
+        },
+        "keyAccentLanguage": "lower_pearls"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mirabeau",
+        "location": {
+          "lat": 12.117,
+          "lng": -61.65
+        },
+        "keyAccentLanguage": "mirabeau"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Battle Hill",
+        "location": {
+          "lat": 12.1,
+          "lng": -61.617
+        },
+        "keyAccentLanguage": "battle_hill"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hermon",
+        "location": {
+          "lat": 12.15,
+          "lng": -61.617
+        },
+        "keyAccentLanguage": "hermon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pearls",
+        "location": {
+          "lat": 12.15,
+          "lng": -61.617
+        },
+        "keyAccentLanguage": "pearls"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Moya",
+        "location": {
+          "lat": 12.154,
+          "lng": -61.627
+        },
+        "keyAccentLanguage": "moya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Paradise",
+        "location": {
+          "lat": 12.133,
+          "lng": -61.683
+        },
+        "keyAccentLanguage": "paradise"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Upper Capitol",
+        "location": {
+          "lat": 12.117,
+          "lng": -61.667
+        },
+        "keyAccentLanguage": "upper_capitol"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Petit Balthazar",
+        "location": {
+          "lat": 12.1,
+          "lng": -61.667
+        },
+        "keyAccentLanguage": "petit_balthazar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bylands",
+        "location": {
+          "lat": 12.133,
+          "lng": -61.667
+        },
+        "keyAccentLanguage": "bylands"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount Hope",
+        "location": {
+          "lat": 12.15,
+          "lng": -61.667
+        },
+        "keyAccentLanguage": "mount_hope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Simon",
+        "location": {
+          "lat": 12.138,
+          "lng": -61.62
+        },
+        "keyAccentLanguage": "simon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint James",
+        "location": {
+          "lat": 12.1,
+          "lng": -61.65
+        },
+        "keyAccentLanguage": "saint_james"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Paradise",
+        "location": {
+          "lat": 12.133,
+          "lng": -61.683
+        },
+        "keyAccentLanguage": "paradise"
+      }
+    ],
+    "enNameLanguage": "Saint Andrew",
+    "keyAccentLanguage": "saint_andrew"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 47.339,
+      "lng": -68.231
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Corinth",
+        "location": {
+          "lat": 12.027752,
+          "lng": -61.6786447
+        },
+        "keyAccentLanguage": "corinth"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Apres Tout",
+        "location": {
+          "lat": 45.95,
+          "lng": -72.85
+        },
+        "keyAccentLanguage": "apres_tout"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Maulti",
+        "location": {
+          "lat": 12.03348,
+          "lng": -61.6662245
+        },
+        "keyAccentLanguage": "maulti"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Becke Moui",
+        "location": {
+          "lat": 12.0175052,
+          "lng": -61.6969114
+        },
+        "keyAccentLanguage": "becke_moui"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Marlmount",
+        "location": {
+          "lat": 12.0497926,
+          "lng": -61.6489289
+        },
+        "keyAccentLanguage": "marlmount"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belle Isle",
+        "location": {
+          "lat": 12.0339288,
+          "lng": -61.64978739999999
+        },
+        "keyAccentLanguage": "belle_isle"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Thebaide",
+        "location": {
+          "lat": 12.0518577,
+          "lng": -61.66914679999999
+        },
+        "keyAccentLanguage": "thebaide"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Providence",
+        "location": {
+          "lat": 12.0520295,
+          "lng": -61.67442229999999
+        },
+        "keyAccentLanguage": "providence"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Perdmontemps",
+        "location": {
+          "lat": 12.0501891,
+          "lng": -61.7025095
+        },
+        "keyAccentLanguage": "perdmontemps"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Windsor Forest",
+        "location": {
+          "lat": 12.054513,
+          "lng": -61.6874125
+        },
+        "keyAccentLanguage": "windsor_forest"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beaton",
+        "location": {
+          "lat": 12.0375095,
+          "lng": -61.6676857
+        },
+        "keyAccentLanguage": "beaton"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Charlotte Vale",
+        "location": {
+          "lat": 12.0375095,
+          "lng": -61.6676857
+        },
+        "keyAccentLanguage": "charlotte_vale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Syracuse",
+        "location": {
+          "lat": 12.033957,
+          "lng": -61.68229789999999
+        },
+        "keyAccentLanguage": "syracuse"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Epping Forest",
+        "location": {
+          "lat": 12.0397531,
+          "lng": -61.69983430000001
+        },
+        "keyAccentLanguage": "epping_forest"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mardigras",
+        "location": {
+          "lat": 12.0375095,
+          "lng": -61.6676857
+        },
+        "keyAccentLanguage": "mardigras"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Upper La Tante",
+        "location": {
+          "lat": 12.0375095,
+          "lng": -61.6676857
+        },
+        "keyAccentLanguage": "upper_la_tante"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Vincennes",
+        "location": {
+          "lat": 38.677269,
+          "lng": -87.5286325
+        },
+        "keyAccentLanguage": "vincennes"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baillies Bacolet",
+        "location": {
+          "lat": 12.0293925,
+          "lng": -61.6972398
+        },
+        "keyAccentLanguage": "baillies_bacolet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pomme Rose",
+        "location": {
+          "lat": 12.0375095,
+          "lng": -61.6676857
+        },
+        "keyAccentLanguage": "pomme_rose"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Petit Bacaye",
+        "location": {
+          "lat": 12.0193464,
+          "lng": -61.6816717
+        },
+        "keyAccentLanguage": "petit_bacaye"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Crochu",
+        "location": {
+          "lat": 12.0499677,
+          "lng": -61.6490569
+        },
+        "keyAccentLanguage": "crochu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Petit Etang",
+        "location": {
+          "lat": 12.0507252,
+          "lng": -61.68229789999999
+        },
+        "keyAccentLanguage": "petit_etang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Terre Cannes",
+        "location": {
+          "lat": 12.0616145,
+          "lng": -61.65818839999999
+        },
+        "keyAccentLanguage": "terre_cannes"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bellevue",
+        "location": {
+          "lat": -36.06591,
+          "lng": 146.92414
+        },
+        "keyAccentLanguage": "bellevue"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount Agnes",
+        "location": {
+          "lat": 12.0653469,
+          "lng": -61.6678829
+        },
+        "keyAccentLanguage": "mount_agnes"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Westerhall Land Settlement",
+        "location": {
+          "lat": 12.010248,
+          "lng": -61.7012957
+        },
+        "keyAccentLanguage": "westerhall_land_settlement"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Windsor Castle",
+        "location": {
+          "lat": 51.483894,
+          "lng": -0.6044027
+        },
+        "keyAccentLanguage": "windsor_castle"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Morne Tranquille",
+        "location": {
+          "lat": 12.05,
+          "lng": -61.7
+        },
+        "keyAccentLanguage": "morne_tranquille"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Laura",
+        "location": {
+          "lat": 12.033,
+          "lng": -61.7
+        },
+        "keyAccentLanguage": "laura"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Content",
+        "location": {
+          "lat": 12.033,
+          "lng": -61.667
+        },
+        "keyAccentLanguage": "content"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Champs Fleurs",
+        "location": {
+          "lat": 12.05,
+          "lng": -61.683
+        },
+        "keyAccentLanguage": "champs_fleurs"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Vineyard",
+        "location": {
+          "lat": 12.05,
+          "lng": -61.7
+        },
+        "keyAccentLanguage": "vineyard"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barrow",
+        "location": {
+          "lat": 12.05,
+          "lng": -61.7
+        },
+        "keyAccentLanguage": "barrow"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bois de Gannes",
+        "location": {
+          "lat": 12.033,
+          "lng": -61.7
+        },
+        "keyAccentLanguage": "bois_de_gannes"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Retreat",
+        "location": {
+          "lat": 12.067,
+          "lng": -61.667
+        },
+        "keyAccentLanguage": "retreat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Femme",
+        "location": {
+          "lat": 12.033,
+          "lng": -61.7
+        },
+        "keyAccentLanguage": "la_femme"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount Pleasant",
+        "location": {
+          "lat": 12.05,
+          "lng": -61.7
+        },
+        "keyAccentLanguage": "mount_pleasant"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fairfield",
+        "location": {
+          "lat": 12.05,
+          "lng": -61.65
+        },
+        "keyAccentLanguage": "fairfield"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint David's",
+        "location": {
+          "lat": 12.048,
+          "lng": -61.67
+        },
+        "keyAccentLanguage": "saint_david's"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mon Repos",
+        "location": {
+          "lat": 12.033,
+          "lng": -61.667
+        },
+        "keyAccentLanguage": "mon_repos"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount William",
+        "location": {
+          "lat": 12.067,
+          "lng": -61.667
+        },
+        "keyAccentLanguage": "mount_william"
+      }
+    ],
+    "enNameLanguage": "Saint David",
+    "keyAccentLanguage": "saint_david"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 37.0965278,
+      "lng": -113.5684164
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Retreat",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "retreat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Falege",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "falege"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Horne",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "horne"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Boca",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "boca"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Grand Mal",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "grand_mal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Blow Hole",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "blow_hole"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belmont",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "belmont"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Richmond",
+        "location": {
+          "lat": 37.5407246,
+          "lng": -77.4360481
+        },
+        "keyAccentLanguage": "richmond"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Confer",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "confer"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Calivigny",
+        "location": {
+          "lat": 12.0229829,
+          "lng": -61.731527
+        },
+        "keyAccentLanguage": "calivigny"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bamboo",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "bamboo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cafe",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "cafe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beaulieu",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "beaulieu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Brizan",
+        "location": {
+          "lat": 12.1047522,
+          "lng": -61.75099239999999
+        },
+        "keyAccentLanguage": "brizan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Parade",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "parade"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Morne Docteur",
+        "location": {
+          "lat": 12.1116152,
+          "lng": -61.73710509999999
+        },
+        "keyAccentLanguage": "morne_docteur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hermitage",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "hermitage"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount Airy",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "mount_airy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Grand Anse",
+        "location": {
+          "lat": 12.0273597,
+          "lng": -61.7556086
+        },
+        "keyAccentLanguage": "grand_anse"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gretna Green",
+        "location": {
+          "lat": 55.0050199,
+          "lng": -3.0626071
+        },
+        "keyAccentLanguage": "gretna_green"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Frequente",
+        "location": {
+          "lat": 12.0111109,
+          "lng": -61.7756885
+        },
+        "keyAccentLanguage": "frequente"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ka-fe Beau",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "ka-fe_beau"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Corbeau Town",
+        "location": {
+          "lat": 12.0399844,
+          "lng": -61.71956489999999
+        },
+        "keyAccentLanguage": "corbeau_town"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "New Hampshire",
+        "location": {
+          "lat": 43.1938516,
+          "lng": -71.5723953
+        },
+        "keyAccentLanguage": "new_hampshire"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Clarkes Court",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "clarkes_court"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Happy Hill",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "happy_hill"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint Paul's",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "saint_paul's"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belle Plain",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "belle_plain"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amber Belair",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "amber_belair"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gwa Kay",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "gwa_kay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Marian",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "marian"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Golflands",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "golflands"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fort Jeudy",
+        "location": {
+          "lat": 11.9997858,
+          "lng": -61.7073243
+        },
+        "keyAccentLanguage": "fort_jeudy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Richmond Hill",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "richmond_hill"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Constantine",
+        "location": {
+          "lat": 12.0820104,
+          "lng": -61.6969114
+        },
+        "keyAccentLanguage": "constantine"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Radix",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "radix"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lower Woburn",
+        "location": {
+          "lat": 12.0189298,
+          "lng": -61.73345070000001
+        },
+        "keyAccentLanguage": "lower_woburn"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Springs",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "springs"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "D'Arbeau",
+        "location": {
+          "lat": 12.0628958,
+          "lng": -61.7512879
+        },
+        "keyAccentLanguage": "d'arbeau"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ravine",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "ravine"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount Helicon",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "mount_helicon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Woburn",
+        "location": {
+          "lat": 42.4792618,
+          "lng": -71.1522765
+        },
+        "keyAccentLanguage": "woburn"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "St. George's",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "st._george's"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mardigras",
+        "location": {
+          "lat": 12.0503065,
+          "lng": -61.71956489999999
+        },
+        "keyAccentLanguage": "mardigras"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mango",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "mango"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ruth Howard",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "ruth_howard"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Granton",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "granton"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Laborie",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "laborie"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Willis",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "willis"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Paddock",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "paddock"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "The Park",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "the_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Morne Jaloux Ridge",
+        "location": {
+          "lat": 12.0361573,
+          "lng": -61.7333803
+        },
+        "keyAccentLanguage": "morne_jaloux_ridge"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Morne Rouge",
+        "location": {
+          "lat": 12.0167233,
+          "lng": -61.7663428
+        },
+        "keyAccentLanguage": "morne_rouge"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Moliniere",
+        "location": {
+          "lat": 12.0714317,
+          "lng": -61.73564330000001
+        },
+        "keyAccentLanguage": "moliniere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Mode",
+        "location": {
+          "lat": 12.0666731,
+          "lng": -61.73345070000001
+        },
+        "keyAccentLanguage": "la_mode"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Morne Jaloux",
+        "location": {
+          "lat": 12.0361573,
+          "lng": -61.7333803
+        },
+        "keyAccentLanguage": "morne_jaloux"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hyde Park",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "hyde_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "White Gun",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "white_gun"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount Rose",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "mount_rose"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount Gay",
+        "location": {
+          "lat": 12.0624741,
+          "lng": -61.7422213
+        },
+        "keyAccentLanguage": "mount_gay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tempe",
+        "location": {
+          "lat": 33.4255104,
+          "lng": -111.9400054
+        },
+        "keyAccentLanguage": "tempe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Calliste",
+        "location": {
+          "lat": 12.0099402,
+          "lng": -61.775115
+        },
+        "keyAccentLanguage": "calliste"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "True Blue",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "true_blue"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Petit Bouc",
+        "location": {
+          "lat": 12.0195601,
+          "lng": -61.75099239999999
+        },
+        "keyAccentLanguage": "petit_bouc"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Petit Calivigny",
+        "location": {
+          "lat": 12.0049206,
+          "lng": -61.71152619999999
+        },
+        "keyAccentLanguage": "petit_calivigny"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Snug Corner",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "snug_corner"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lance aux Epines",
+        "location": {
+          "lat": 11.998833,
+          "lng": -61.756109
+        },
+        "keyAccentLanguage": "lance_aux_epines"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "The Bocas",
+        "location": {
+          "lat": 12.044169,
+          "lng": -61.73418159999999
+        },
+        "keyAccentLanguage": "the_bocas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mont Tout",
+        "location": {
+          "lat": 12.0191524,
+          "lng": -61.7559764
+        },
+        "keyAccentLanguage": "mont_tout"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tanteen",
+        "location": {
+          "lat": 12.0492562,
+          "lng": -61.7471424
+        },
+        "keyAccentLanguage": "tanteen"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "The Cliff",
+        "location": {
+          "lat": 37.1610816,
+          "lng": -113.6393512
+        },
+        "keyAccentLanguage": "the_cliff"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount Moritz",
+        "location": {
+          "lat": 12.0823191,
+          "lng": -61.7466068
+        },
+        "keyAccentLanguage": "mount_moritz"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Vendome",
+        "location": {
+          "lat": 47.7977986,
+          "lng": 1.0596453
+        },
+        "keyAccentLanguage": "vendome"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount Weldale",
+        "location": {
+          "lat": 12.0536264,
+          "lng": -61.7459874
+        },
+        "keyAccentLanguage": "mount_weldale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "The Lime",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "the_lime"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Egmont",
+        "location": {
+          "lat": 12,
+          "lng": -61.717
+        },
+        "keyAccentLanguage": "egmont"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fontenoy",
+        "location": {
+          "lat": 12.067,
+          "lng": -61.75
+        },
+        "keyAccentLanguage": "fontenoy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount Royal",
+        "location": {
+          "lat": 12.05,
+          "lng": -61.75
+        },
+        "keyAccentLanguage": "mount_royal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sans Souci",
+        "location": {
+          "lat": 12.05,
+          "lng": -61.75
+        },
+        "keyAccentLanguage": "sans_souci"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Westerhall Point",
+        "location": {
+          "lat": 12,
+          "lng": -61.7
+        },
+        "keyAccentLanguage": "westerhall_point"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint Paul's",
+        "location": {
+          "lat": 37.0965278,
+          "lng": -113.5684164
+        },
+        "keyAccentLanguage": "saint_paul's"
+      }
+    ],
+    "enNameLanguage": "Saint George",
+    "keyAccentLanguage": "saint_george"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 45.2733153,
+      "lng": -66.06330799999999
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "The Lance",
+        "location": {
+          "lat": 45.2733153,
+          "lng": -66.0633081
+        },
+        "keyAccentLanguage": "the_lance"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Maran",
+        "location": {
+          "lat": 45.2733153,
+          "lng": -66.0633081
+        },
+        "keyAccentLanguage": "maran"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Concord",
+        "location": {
+          "lat": 45.2733153,
+          "lng": -66.0633081
+        },
+        "keyAccentLanguage": "concord"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belvidere",
+        "location": {
+          "lat": 42.2639098,
+          "lng": -88.84426739999999
+        },
+        "keyAccentLanguage": "belvidere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount Nesbit",
+        "location": {
+          "lat": 45.2733153,
+          "lng": -66.0633081
+        },
+        "keyAccentLanguage": "mount_nesbit"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dothan",
+        "location": {
+          "lat": 31.2233594,
+          "lng": -85.389326
+        },
+        "keyAccentLanguage": "dothan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Clozier",
+        "location": {
+          "lat": 12.1413063,
+          "lng": -61.70082219999999
+        },
+        "keyAccentLanguage": "clozier"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gouyave",
+        "location": {
+          "lat": 12.1691738,
+          "lng": -61.7261422
+        },
+        "keyAccentLanguage": "gouyave"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mabouya",
+        "location": {
+          "lat": 45.2733153,
+          "lng": -66.0633081
+        },
+        "keyAccentLanguage": "mabouya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Florida",
+        "location": {
+          "lat": 30.6539146,
+          "lng": -84.6969068
+        },
+        "keyAccentLanguage": "florida"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rosemont",
+        "location": {
+          "lat": 45.2733153,
+          "lng": -66.0633081
+        },
+        "keyAccentLanguage": "rosemont"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Marigot",
+        "location": {
+          "lat": 12.1234794,
+          "lng": -61.74514490000001
+        },
+        "keyAccentLanguage": "marigot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Grand Roy",
+        "location": {
+          "lat": 45.2733153,
+          "lng": -66.0633081
+        },
+        "keyAccentLanguage": "grand_roy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mon Plaisir",
+        "location": {
+          "lat": 45.2733153,
+          "lng": -66.0633081
+        },
+        "keyAccentLanguage": "mon_plaisir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint Mary",
+        "location": {
+          "lat": 12.15,
+          "lng": -61.7
+        },
+        "keyAccentLanguage": "saint_mary"
+      }
+    ],
+    "enNameLanguage": "Saint John",
+    "keyAccentLanguage": "saint_john"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 37.7108576,
+      "lng": -97.3007399
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bellevue",
+        "location": {
+          "lat": 47.6101497,
+          "lng": -122.2015159
+        },
+        "keyAccentLanguage": "bellevue"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Waltham",
+        "location": {
+          "lat": 12.2032787,
+          "lng": -61.69873819999999
+        },
+        "keyAccentLanguage": "waltham"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Industry",
+        "location": {
+          "lat": 19.104927,
+          "lng": -72.69493729999999
+        },
+        "keyAccentLanguage": "industry"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nonpareil",
+        "location": {
+          "lat": 12.2,
+          "lng": -61.683
+        },
+        "keyAccentLanguage": "nonpareil"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount Cenis",
+        "location": {
+          "lat": 12.167,
+          "lng": -61.7
+        },
+        "keyAccentLanguage": "mount_cenis"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount Stanhope",
+        "location": {
+          "lat": 12.183,
+          "lng": -61.683
+        },
+        "keyAccentLanguage": "mount_stanhope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belmont",
+        "location": {
+          "lat": 12.183,
+          "lng": -61.683
+        },
+        "keyAccentLanguage": "belmont"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Victoria",
+        "location": {
+          "lat": 12.194,
+          "lng": -61.704
+        },
+        "keyAccentLanguage": "victoria"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "L'Esperance",
+        "location": {
+          "lat": 12.183,
+          "lng": -61.7
+        },
+        "keyAccentLanguage": "l'esperance"
+      }
+    ],
+    "enNameLanguage": "Saint Mark",
+    "keyAccentLanguage": "saint_mark"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 44.595,
+      "lng": -93.502
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Duquesne",
+        "location": {
+          "lat": 40.4369485,
+          "lng": -79.99025759999999
+        },
+        "keyAccentLanguage": "duquesne"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount Alexander",
+        "location": {
+          "lat": -37.0353437,
+          "lng": 144.1720041
+        },
+        "keyAccentLanguage": "mount_alexander"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Helvellyn",
+        "location": {
+          "lat": 54.5268185,
+          "lng": -3.0172464
+        },
+        "keyAccentLanguage": "helvellyn"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Morne Fendue",
+        "location": {
+          "lat": 12.2022065,
+          "lng": -61.62823890000001
+        },
+        "keyAccentLanguage": "morne_fendue"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount Rich",
+        "location": {
+          "lat": 12.1862033,
+          "lng": -61.615731
+        },
+        "keyAccentLanguage": "mount_rich"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Levera",
+        "location": {
+          "lat": 12.2197157,
+          "lng": -61.6096169
+        },
+        "keyAccentLanguage": "levera"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tricolar",
+        "location": {
+          "lat": 12.1915279,
+          "lng": -61.6454044
+        },
+        "keyAccentLanguage": "tricolar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Montreuil",
+        "location": {
+          "lat": 48.861845,
+          "lng": 2.4465697
+        },
+        "keyAccentLanguage": "montreuil"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount Rose",
+        "location": {
+          "lat": 12.1816207,
+          "lng": -61.6231261
+        },
+        "keyAccentLanguage": "mount_rose"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Diego Piece",
+        "location": {
+          "lat": 12.2122232,
+          "lng": -61.67462629999999
+        },
+        "keyAccentLanguage": "diego_piece"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sauteurs",
+        "location": {
+          "lat": 12.2182836,
+          "lng": -61.6391954
+        },
+        "keyAccentLanguage": "sauteurs"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Poterie",
+        "location": {
+          "lat": 12.170392,
+          "lng": -61.60924929999999
+        },
+        "keyAccentLanguage": "la_poterie"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Elie Hall",
+        "location": {
+          "lat": 12.2033413,
+          "lng": -61.63788030000001
+        },
+        "keyAccentLanguage": "elie_hall"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Upper La Taste",
+        "location": {
+          "lat": 12.1838953,
+          "lng": -61.61730079999999
+        },
+        "keyAccentLanguage": "upper_la_taste"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "River Sallee",
+        "location": {
+          "lat": 12.1961383,
+          "lng": -61.6143616
+        },
+        "keyAccentLanguage": "river_sallee"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount Craven",
+        "location": {
+          "lat": 12.2179812,
+          "lng": -61.64878290000001
+        },
+        "keyAccentLanguage": "mount_craven"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chantimelle",
+        "location": {
+          "lat": 12.2028776,
+          "lng": -61.6478019
+        },
+        "keyAccentLanguage": "chantimelle"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lower La Taste",
+        "location": {
+          "lat": 12.1953247,
+          "lng": -61.6210967
+        },
+        "keyAccentLanguage": "lower_la_taste"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Marli",
+        "location": {
+          "lat": 12.217,
+          "lng": -61.633
+        },
+        "keyAccentLanguage": "marli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "L'Etage",
+        "location": {
+          "lat": 12.183,
+          "lng": -61.633
+        },
+        "keyAccentLanguage": "l'etage"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Celeste",
+        "location": {
+          "lat": 12.217,
+          "lng": -61.633
+        },
+        "keyAccentLanguage": "celeste"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Des Isles",
+        "location": {
+          "lat": 12.217,
+          "lng": -61.667
+        },
+        "keyAccentLanguage": "des_isles"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount William",
+        "location": {
+          "lat": 12.217,
+          "lng": -61.667
+        },
+        "keyAccentLanguage": "mount_william"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Welcome Hall",
+        "location": {
+          "lat": 12.2,
+          "lng": -61.65
+        },
+        "keyAccentLanguage": "welcome_hall"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Castle Hill",
+        "location": {
+          "lat": 12.183,
+          "lng": -61.667
+        },
+        "keyAccentLanguage": "castle_hill"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Prospect",
+        "location": {
+          "lat": 12.217,
+          "lng": -61.667
+        },
+        "keyAccentLanguage": "prospect"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Fortune",
+        "location": {
+          "lat": 12.217,
+          "lng": -61.633
+        },
+        "keyAccentLanguage": "la_fortune"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rose Hill",
+        "location": {
+          "lat": 12.2,
+          "lng": -61.617
+        },
+        "keyAccentLanguage": "rose_hill"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Trevellan",
+        "location": {
+          "lat": 12.217,
+          "lng": -61.633
+        },
+        "keyAccentLanguage": "trevellan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Panorama",
+        "location": {
+          "lat": 12.217,
+          "lng": -61.65
+        },
+        "keyAccentLanguage": "panorama"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Mode",
+        "location": {
+          "lat": 12.2,
+          "lng": -61.633
+        },
+        "keyAccentLanguage": "la_mode"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Union",
+        "location": {
+          "lat": 12.2,
+          "lng": -61.65
+        },
+        "keyAccentLanguage": "union"
+      }
+    ],
+    "enNameLanguage": "Saint Patrick",
+    "keyAccentLanguage": "saint_patrick"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 12.4785888,
+      "lng": -61.4493842
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Six Roads",
+        "location": {
+          "lat": 12.4785888,
+          "lng": -61.4493842
+        },
+        "keyAccentLanguage": "six_roads"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hillsborough",
+        "location": {
+          "lat": 12.4785888,
+          "lng": -61.4493842
+        },
+        "keyAccentLanguage": "hillsborough"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Grand Bay",
+        "location": {
+          "lat": 12.4785888,
+          "lng": -61.4493842
+        },
+        "keyAccentLanguage": "grand_bay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "L'Appelle",
+        "location": {
+          "lat": 12.511811,
+          "lng": -61.43775699999999
+        },
+        "keyAccentLanguage": "l'appelle"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Windward",
+        "location": {
+          "lat": 12.4785888,
+          "lng": -61.4493842
+        },
+        "keyAccentLanguage": "windward"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hermitage",
+        "location": {
+          "lat": 12.4785888,
+          "lng": -61.4493842
+        },
+        "keyAccentLanguage": "hermitage"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belvedere",
+        "location": {
+          "lat": 12.4785888,
+          "lng": -61.4493842
+        },
+        "keyAccentLanguage": "belvedere"
+      }
+    ],
+    "enNameLanguage": "Southern Grenadine Islands",
+    "keyAccentLanguage": "southern_grenadine_islands"
+  }
+]

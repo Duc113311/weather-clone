@@ -1,0 +1,5534 @@
+[
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 15.567,
+      "lng": 38.717
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hummet",
+        "location": {
+          "lat": 15.7305216,
+          "lng": 38.3478436
+        },
+        "keyAccentLanguage": "hummet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Azmat",
+        "location": {
+          "lat": 16.25,
+          "lng": 38.033
+        },
+        "keyAccentLanguage": "azmat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dildil",
+        "location": {
+          "lat": 15.618,
+          "lng": 38.719
+        },
+        "keyAccentLanguage": "dildil"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Carobel",
+        "location": {
+          "lat": 16.083,
+          "lng": 38.4
+        },
+        "keyAccentLanguage": "carobel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ciagghene",
+        "location": {
+          "lat": 16.333,
+          "lng": 38.3
+        },
+        "keyAccentLanguage": "ciagghene"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chi-Nasce",
+        "location": {
+          "lat": 16.183,
+          "lng": 38.417
+        },
+        "keyAccentLanguage": "chi-nasce"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Hidrum",
+        "location": {
+          "lat": 15.749,
+          "lng": 38.552
+        },
+        "keyAccentLanguage": "adi_hidrum"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Erota",
+        "location": {
+          "lat": 16.233,
+          "lng": 37.917
+        },
+        "keyAccentLanguage": "erota"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Sciaba",
+        "location": {
+          "lat": 16.383,
+          "lng": 38.083
+        },
+        "keyAccentLanguage": "adi_sciaba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Guba",
+        "location": {
+          "lat": 16.1,
+          "lng": 37.967
+        },
+        "keyAccentLanguage": "guba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kerkebet",
+        "location": {
+          "lat": 16.3,
+          "lng": 37.4
+        },
+        "keyAccentLanguage": "kerkebet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Uasentet",
+        "location": {
+          "lat": 15.917,
+          "lng": 38.5
+        },
+        "keyAccentLanguage": "uasentet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Abi",
+        "location": {
+          "lat": 15.9,
+          "lng": 38.217
+        },
+        "keyAccentLanguage": "ad_abi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tahara",
+        "location": {
+          "lat": 16.567,
+          "lng": 38.183
+        },
+        "keyAccentLanguage": "tahara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Malhas",
+        "location": {
+          "lat": 16.55,
+          "lng": 38.083
+        },
+        "keyAccentLanguage": "malhas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Addisc Addi",
+        "location": {
+          "lat": 15.667,
+          "lng": 38.617
+        },
+        "keyAccentLanguage": "addisc_addi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Trongo",
+        "location": {
+          "lat": 15.867,
+          "lng": 38.367
+        },
+        "keyAccentLanguage": "trongo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fredarb",
+        "location": {
+          "lat": 15.827,
+          "lng": 38.533
+        },
+        "keyAccentLanguage": "fredarb"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Gander Gabei",
+        "location": {
+          "lat": 15.783,
+          "lng": 38.217
+        },
+        "keyAccentLanguage": "ad_gander_gabei"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Sceca",
+        "location": {
+          "lat": 16.317,
+          "lng": 38.033
+        },
+        "keyAccentLanguage": "adi_sceca"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hashela",
+        "location": {
+          "lat": 15.768,
+          "lng": 38.478
+        },
+        "keyAccentLanguage": "hashela"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hodit",
+        "location": {
+          "lat": 15.695,
+          "lng": 38.711
+        },
+        "keyAccentLanguage": "hodit"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gabena Gonfalon",
+        "location": {
+          "lat": 15.933,
+          "lng": 38.467
+        },
+        "keyAccentLanguage": "gabena_gonfalon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mihlab",
+        "location": {
+          "lat": 15.748,
+          "lng": 38.749
+        },
+        "keyAccentLanguage": "mihlab"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ascidira",
+        "location": {
+          "lat": 15.733,
+          "lng": 38.4
+        },
+        "keyAccentLanguage": "ascidira"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Debalk'o",
+        "location": {
+          "lat": 15.712,
+          "lng": 38.641
+        },
+        "keyAccentLanguage": "debalk'o"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "At Faid",
+        "location": {
+          "lat": 15.783,
+          "lng": 38.683
+        },
+        "keyAccentLanguage": "at_faid"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ieden",
+        "location": {
+          "lat": 15.699,
+          "lng": 38.643
+        },
+        "keyAccentLanguage": "ieden"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Halib-Mentel",
+        "location": {
+          "lat": 15.744,
+          "lng": 38.551
+        },
+        "keyAccentLanguage": "halib-mentel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Yigi'ar",
+        "location": {
+          "lat": 15.729,
+          "lng": 38.605
+        },
+        "keyAccentLanguage": "yigi'ar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dagaiso",
+        "location": {
+          "lat": 15.667,
+          "lng": 38.517
+        },
+        "keyAccentLanguage": "dagaiso"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dermush",
+        "location": {
+          "lat": 15.781,
+          "lng": 38.521
+        },
+        "keyAccentLanguage": "dermush"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Selaba She'ib",
+        "location": {
+          "lat": 15.744,
+          "lng": 38.669
+        },
+        "keyAccentLanguage": "selaba_she'ib"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dek'i Gebru",
+        "location": {
+          "lat": 15.596,
+          "lng": 38.781
+        },
+        "keyAccentLanguage": "dek'i_gebru"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mendad",
+        "location": {
+          "lat": 15.833,
+          "lng": 38.5
+        },
+        "keyAccentLanguage": "mendad"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Manna",
+        "location": {
+          "lat": 15.733,
+          "lng": 38.217
+        },
+        "keyAccentLanguage": "ad_manna"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Harkuhuya",
+        "location": {
+          "lat": 15.646,
+          "lng": 38.681
+        },
+        "keyAccentLanguage": "harkuhuya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Azmat Uold",
+        "location": {
+          "lat": 15.6,
+          "lng": 38.4
+        },
+        "keyAccentLanguage": "azmat_uold"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "K'erech'a",
+        "location": {
+          "lat": 15.689,
+          "lng": 38.736
+        },
+        "keyAccentLanguage": "k'erech'a"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Surto",
+        "location": {
+          "lat": 15.667,
+          "lng": 38.517
+        },
+        "keyAccentLanguage": "surto"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ela Beridi",
+        "location": {
+          "lat": 15.667,
+          "lng": 38.617
+        },
+        "keyAccentLanguage": "ela_beridi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Iaholluf",
+        "location": {
+          "lat": 15.633,
+          "lng": 38.55
+        },
+        "keyAccentLanguage": "iaholluf"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Shegilet Wedi Merir",
+        "location": {
+          "lat": 15.68,
+          "lng": 38.673
+        },
+        "keyAccentLanguage": "shegilet_wedi_merir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Tekelezan",
+        "location": {
+          "lat": 15.566,
+          "lng": 38.781
+        },
+        "keyAccentLanguage": "adi_tekelezan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Felfele",
+        "location": {
+          "lat": 16.017,
+          "lng": 38.383
+        },
+        "keyAccentLanguage": "felfele"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tognuf",
+        "location": {
+          "lat": 16.183,
+          "lng": 37.45
+        },
+        "keyAccentLanguage": "tognuf"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Molebso",
+        "location": {
+          "lat": 16.017,
+          "lng": 38.217
+        },
+        "keyAccentLanguage": "molebso"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Darok'",
+        "location": {
+          "lat": 15.747,
+          "lng": 38.525
+        },
+        "keyAccentLanguage": "darok'"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baden",
+        "location": {
+          "lat": 16.9,
+          "lng": 37.933
+        },
+        "keyAccentLanguage": "baden"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abruim",
+        "location": {
+          "lat": 15.817,
+          "lng": 38.2
+        },
+        "keyAccentLanguage": "abruim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tantarua",
+        "location": {
+          "lat": 15.783,
+          "lng": 38.45
+        },
+        "keyAccentLanguage": "tantarua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rahei",
+        "location": {
+          "lat": 16.05,
+          "lng": 38.217
+        },
+        "keyAccentLanguage": "rahei"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Digdig",
+        "location": {
+          "lat": 15.584,
+          "lng": 38.769
+        },
+        "keyAccentLanguage": "digdig"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ciandelga",
+        "location": {
+          "lat": 15.883,
+          "lng": 38.5
+        },
+        "keyAccentLanguage": "ciandelga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dek'emhare Hamasen",
+        "location": {
+          "lat": 15.58,
+          "lng": 38.816
+        },
+        "keyAccentLanguage": "dek'emhare_hamasen"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saatta",
+        "location": {
+          "lat": 16.517,
+          "lng": 37.367
+        },
+        "keyAccentLanguage": "saatta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Era",
+        "location": {
+          "lat": 16.083,
+          "lng": 38.017
+        },
+        "keyAccentLanguage": "era"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gheleb",
+        "location": {
+          "lat": 15.833,
+          "lng": 38.785
+        },
+        "keyAccentLanguage": "gheleb"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barakantiyan",
+        "location": {
+          "lat": 15.9,
+          "lng": 38.433
+        },
+        "keyAccentLanguage": "barakantiyan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hoho",
+        "location": {
+          "lat": 16.35,
+          "lng": 38.333
+        },
+        "keyAccentLanguage": "hoho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Amer",
+        "location": {
+          "lat": 15.567,
+          "lng": 38.5
+        },
+        "keyAccentLanguage": "ad_amer"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Debresina",
+        "location": {
+          "lat": 15.749,
+          "lng": 38.703
+        },
+        "keyAccentLanguage": "debresina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agutri",
+        "location": {
+          "lat": 15.596,
+          "lng": 38.735
+        },
+        "keyAccentLanguage": "agutri"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gher",
+        "location": {
+          "lat": 16.15,
+          "lng": 38.3
+        },
+        "keyAccentLanguage": "gher"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Habran K'ak'a",
+        "location": {
+          "lat": 15.644,
+          "lng": 38.725
+        },
+        "keyAccentLanguage": "habran_k'ak'a"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Debeser",
+        "location": {
+          "lat": 16,
+          "lng": 38.26
+        },
+        "keyAccentLanguage": "debeser"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ela Tita",
+        "location": {
+          "lat": 16.883,
+          "lng": 37.633
+        },
+        "keyAccentLanguage": "ela_tita"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Scec",
+        "location": {
+          "lat": 15.8,
+          "lng": 38.1
+        },
+        "keyAccentLanguage": "ad_scec"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "En Harris",
+        "location": {
+          "lat": 16.033,
+          "lng": 38.367
+        },
+        "keyAccentLanguage": "en_harris"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mansciua",
+        "location": {
+          "lat": 15.85,
+          "lng": 38.267
+        },
+        "keyAccentLanguage": "mansciua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ghirghir",
+        "location": {
+          "lat": 16.467,
+          "lng": 38.167
+        },
+        "keyAccentLanguage": "ghirghir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Azmat Adai",
+        "location": {
+          "lat": 16.167,
+          "lng": 38.033
+        },
+        "keyAccentLanguage": "azmat_adai"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hacal Todaro",
+        "location": {
+          "lat": 17.167,
+          "lng": 37.55
+        },
+        "keyAccentLanguage": "hacal_todaro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Scerit",
+        "location": {
+          "lat": 16.617,
+          "lng": 37.817
+        },
+        "keyAccentLanguage": "scerit"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Giangheren",
+        "location": {
+          "lat": 15.9,
+          "lng": 38.367
+        },
+        "keyAccentLanguage": "giangheren"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Muscia",
+        "location": {
+          "lat": 15.833,
+          "lng": 38.517
+        },
+        "keyAccentLanguage": "muscia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Himeret",
+        "location": {
+          "lat": 15.676,
+          "lng": 38.697
+        },
+        "keyAccentLanguage": "himeret"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Uara",
+        "location": {
+          "lat": 15.617,
+          "lng": 38.783
+        },
+        "keyAccentLanguage": "uara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Per Tokar",
+        "location": {
+          "lat": 16.983,
+          "lng": 37.467
+        },
+        "keyAccentLanguage": "per_tokar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al-Al",
+        "location": {
+          "lat": 15.967,
+          "lng": 38.267
+        },
+        "keyAccentLanguage": "al-al"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Ulual",
+        "location": {
+          "lat": 15.75,
+          "lng": 38.25
+        },
+        "keyAccentLanguage": "ad_ulual"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tetafil",
+        "location": {
+          "lat": 16.1,
+          "lng": 38.331
+        },
+        "keyAccentLanguage": "tetafil"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Megarih",
+        "location": {
+          "lat": 15.791,
+          "lng": 38.406
+        },
+        "keyAccentLanguage": "megarih"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Keren",
+        "location": {
+          "lat": 15.773,
+          "lng": 38.453
+        },
+        "keyAccentLanguage": "keren"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tof Alaba",
+        "location": {
+          "lat": 16.517,
+          "lng": 38.2
+        },
+        "keyAccentLanguage": "tof_alaba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Felhit",
+        "location": {
+          "lat": 16.65,
+          "lng": 38.033
+        },
+        "keyAccentLanguage": "felhit"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Halhal",
+        "location": {
+          "lat": 15.9,
+          "lng": 38.283
+        },
+        "keyAccentLanguage": "halhal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hagaz",
+        "location": {
+          "lat": 15.702,
+          "lng": 38.276
+        },
+        "keyAccentLanguage": "hagaz"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Laba",
+        "location": {
+          "lat": 16.317,
+          "lng": 38.333
+        },
+        "keyAccentLanguage": "laba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "It Atba",
+        "location": {
+          "lat": 16.217,
+          "lng": 38.35
+        },
+        "keyAccentLanguage": "it_atba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gulgul",
+        "location": {
+          "lat": 15.582,
+          "lng": 38.791
+        },
+        "keyAccentLanguage": "gulgul"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Curoh",
+        "location": {
+          "lat": 15.75,
+          "lng": 38.75
+        },
+        "keyAccentLanguage": "curoh"
+      }
+    ],
+    "enNameLanguage": "Anseba",
+    "keyAccentLanguage": "anseba"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 14.9478692,
+      "lng": 39.1543677
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "A. Kodada",
+        "location": {
+          "lat": 14.624,
+          "lng": 38.452
+        },
+        "keyAccentLanguage": "a._kodada"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Addi Nefas",
+        "location": {
+          "lat": 14.873,
+          "lng": 38.445
+        },
+        "keyAccentLanguage": "addi_nefas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Addebeza",
+        "location": {
+          "lat": 14.959,
+          "lng": 38.629
+        },
+        "keyAccentLanguage": "adi_addebeza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Abbado",
+        "location": {
+          "lat": 14.877,
+          "lng": 38.734
+        },
+        "keyAccentLanguage": "adi_abbado"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adek'e Ginet",
+        "location": {
+          "lat": 14.873,
+          "lng": 38.775
+        },
+        "keyAccentLanguage": "adek'e_ginet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Bardu",
+        "location": {
+          "lat": 14.91,
+          "lng": 38.643
+        },
+        "keyAccentLanguage": "adi_bardu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Amanu'el",
+        "location": {
+          "lat": 14.911,
+          "lng": 38.86
+        },
+        "keyAccentLanguage": "adi_amanu'el"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Addi Messahal",
+        "location": {
+          "lat": 14.624,
+          "lng": 39.379
+        },
+        "keyAccentLanguage": "addi_messahal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adengefom",
+        "location": {
+          "lat": 15.036,
+          "lng": 39.19
+        },
+        "keyAccentLanguage": "adengefom"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Addekemene",
+        "location": {
+          "lat": 14.926,
+          "lng": 38.778
+        },
+        "keyAccentLanguage": "addekemene"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Felleho",
+        "location": {
+          "lat": 14.841,
+          "lng": 38.551
+        },
+        "keyAccentLanguage": "adi_felleho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Mocada",
+        "location": {
+          "lat": 14.888,
+          "lng": 39.054
+        },
+        "keyAccentLanguage": "ad_mocada"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Bahro",
+        "location": {
+          "lat": 14.661,
+          "lng": 38.872
+        },
+        "keyAccentLanguage": "adi_bahro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adebu`ur",
+        "location": {
+          "lat": 15.058,
+          "lng": 39.139
+        },
+        "keyAccentLanguage": "adebu`ur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Chalkuy",
+        "location": {
+          "lat": 14.726,
+          "lng": 38.737
+        },
+        "keyAccentLanguage": "adi_chalkuy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Agwa",
+        "location": {
+          "lat": 14.793,
+          "lng": 38.823
+        },
+        "keyAccentLanguage": "adi_agwa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Garfa",
+        "location": {
+          "lat": 14.696,
+          "lng": 38.763
+        },
+        "keyAccentLanguage": "adi_garfa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Damba Mik",
+        "location": {
+          "lat": 14.964,
+          "lng": 38.725
+        },
+        "keyAccentLanguage": "damba_mik"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Keyih",
+        "location": {
+          "lat": 14.841,
+          "lng": 39.372
+        },
+        "keyAccentLanguage": "adi_keyih"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Gahad",
+        "location": {
+          "lat": 14.85,
+          "lng": 38.8
+        },
+        "keyAccentLanguage": "adi_gahad"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Assernat",
+        "location": {
+          "lat": 14.731,
+          "lng": 38.663
+        },
+        "keyAccentLanguage": "adi_assernat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adekkabun",
+        "location": {
+          "lat": 14.727,
+          "lng": 38.718
+        },
+        "keyAccentLanguage": "adekkabun"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Assabehta",
+        "location": {
+          "lat": 14.801,
+          "lng": 38.771
+        },
+        "keyAccentLanguage": "adi_assabehta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Sherokay",
+        "location": {
+          "lat": 14.851,
+          "lng": 38.414
+        },
+        "keyAccentLanguage": "ad_sherokay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Ada",
+        "location": {
+          "lat": 14.835,
+          "lng": 38.862
+        },
+        "keyAccentLanguage": "adi_ada"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Gabru",
+        "location": {
+          "lat": 14.747,
+          "lng": 38.761
+        },
+        "keyAccentLanguage": "adi_gabru"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Auya",
+        "location": {
+          "lat": 14.691,
+          "lng": 38.767
+        },
+        "keyAccentLanguage": "adi_auya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Fini'i",
+        "location": {
+          "lat": 14.636,
+          "lng": 38.787
+        },
+        "keyAccentLanguage": "adi_fini'i"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Goda'iti",
+        "location": {
+          "lat": 14.956,
+          "lng": 38.787
+        },
+        "keyAccentLanguage": "adi_goda'iti"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Arkay",
+        "location": {
+          "lat": 14.69,
+          "lng": 38.872
+        },
+        "keyAccentLanguage": "adi_arkay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Goday",
+        "location": {
+          "lat": 14.743,
+          "lng": 38.717
+        },
+        "keyAccentLanguage": "adi_goday"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Assaharti",
+        "location": {
+          "lat": 14.797,
+          "lng": 38.873
+        },
+        "keyAccentLanguage": "adi_assaharti"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Goduf",
+        "location": {
+          "lat": 14.982,
+          "lng": 38.637
+        },
+        "keyAccentLanguage": "adi_goduf"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Baylay",
+        "location": {
+          "lat": 14.721,
+          "lng": 38.68
+        },
+        "keyAccentLanguage": "adi_baylay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Addi Gebsus",
+        "location": {
+          "lat": 14.82,
+          "lng": 38.388
+        },
+        "keyAccentLanguage": "addi_gebsus"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Dirco",
+        "location": {
+          "lat": 14.757,
+          "lng": 38.799
+        },
+        "keyAccentLanguage": "ad_dirco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Golgol",
+        "location": {
+          "lat": 15.026,
+          "lng": 39.045
+        },
+        "keyAccentLanguage": "adi_golgol"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Addi Toqualu",
+        "location": {
+          "lat": 14.91,
+          "lng": 38.425
+        },
+        "keyAccentLanguage": "addi_toqualu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Derar Ayni",
+        "location": {
+          "lat": 14.705,
+          "lng": 38.836
+        },
+        "keyAccentLanguage": "adi_derar_ayni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Refai",
+        "location": {
+          "lat": 14.553,
+          "lng": 39.403
+        },
+        "keyAccentLanguage": "ad_refai"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mendefera",
+        "location": {
+          "lat": 14.882,
+          "lng": 38.816
+        },
+        "keyAccentLanguage": "mendefera"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Senafe",
+        "location": {
+          "lat": 14.683,
+          "lng": 39.411
+        },
+        "keyAccentLanguage": "senafe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Essaha",
+        "location": {
+          "lat": 14.791,
+          "lng": 38.528
+        },
+        "keyAccentLanguage": "adi_essaha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Addi Feton Siga",
+        "location": {
+          "lat": 14.856,
+          "lng": 38.351
+        },
+        "keyAccentLanguage": "addi_feton_siga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tera Imni",
+        "location": {
+          "lat": 15.011,
+          "lng": 38.825
+        },
+        "keyAccentLanguage": "tera_imni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Eur",
+        "location": {
+          "lat": 14.67,
+          "lng": 38.659
+        },
+        "keyAccentLanguage": "adi_eur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Auki",
+        "location": {
+          "lat": 14.979,
+          "lng": 39.194
+        },
+        "keyAccentLanguage": "ad_auki"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adey Me`at",
+        "location": {
+          "lat": 14.482,
+          "lng": 39.392
+        },
+        "keyAccentLanguage": "adey_me`at"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Addi Mage",
+        "location": {
+          "lat": 14.855,
+          "lng": 38.409
+        },
+        "keyAccentLanguage": "addi_mage"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Aba Ri'isom",
+        "location": {
+          "lat": 14.546,
+          "lng": 38.721
+        },
+        "keyAccentLanguage": "adi_aba_ri'isom"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Auey",
+        "location": {
+          "lat": 14.825,
+          "lng": 39.249
+        },
+        "keyAccentLanguage": "adi_auey"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acrur",
+        "location": {
+          "lat": 15.1,
+          "lng": 39.233
+        },
+        "keyAccentLanguage": "acrur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Addi Sabeu",
+        "location": {
+          "lat": 14.848,
+          "lng": 38.427
+        },
+        "keyAccentLanguage": "addi_sabeu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Ahiderom",
+        "location": {
+          "lat": 15.139,
+          "lng": 38.981
+        },
+        "keyAccentLanguage": "adi_ahiderom"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aresa",
+        "location": {
+          "lat": 14.925,
+          "lng": 38.567
+        },
+        "keyAccentLanguage": "aresa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abbi Adi",
+        "location": {
+          "lat": 14.906,
+          "lng": 38.745
+        },
+        "keyAccentLanguage": "abbi_adi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Etket",
+        "location": {
+          "lat": 14.84,
+          "lng": 39.214
+        },
+        "keyAccentLanguage": "adi_etket"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Jakaray",
+        "location": {
+          "lat": 14.788,
+          "lng": 38.415
+        },
+        "keyAccentLanguage": "ad_jakaray"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Geda",
+        "location": {
+          "lat": 15.101,
+          "lng": 38.808
+        },
+        "keyAccentLanguage": "adi_geda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Agbay",
+        "location": {
+          "lat": 15.136,
+          "lng": 38.8
+        },
+        "keyAccentLanguage": "adi_agbay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Zeban Sebao",
+        "location": {
+          "lat": 14.782,
+          "lng": 38.747
+        },
+        "keyAccentLanguage": "ad_zeban_sebao"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abaa",
+        "location": {
+          "lat": 14.716,
+          "lng": 39.252
+        },
+        "keyAccentLanguage": "abaa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Eys",
+        "location": {
+          "lat": 14.718,
+          "lng": 38.761
+        },
+        "keyAccentLanguage": "adi_eys"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Deki Mensho",
+        "location": {
+          "lat": 14.985,
+          "lng": 38.572
+        },
+        "keyAccentLanguage": "ad_deki_mensho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Assaba",
+        "location": {
+          "lat": 14.854,
+          "lng": 38.615
+        },
+        "keyAccentLanguage": "adi_assaba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Mana",
+        "location": {
+          "lat": 14.984,
+          "lng": 38.764
+        },
+        "keyAccentLanguage": "ad_mana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Gukhebo",
+        "location": {
+          "lat": 14.96,
+          "lng": 38.758
+        },
+        "keyAccentLanguage": "adi_gukhebo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Beke",
+        "location": {
+          "lat": 14.932,
+          "lng": 39.213
+        },
+        "keyAccentLanguage": "adi_beke"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Abbai",
+        "location": {
+          "lat": 14.842,
+          "lng": 38.439
+        },
+        "keyAccentLanguage": "ad_abbai"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Abagat",
+        "location": {
+          "lat": 14.751,
+          "lng": 38.755
+        },
+        "keyAccentLanguage": "adi_abagat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Finne",
+        "location": {
+          "lat": 14.892,
+          "lng": 38.646
+        },
+        "keyAccentLanguage": "adi_finne"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Abiscia",
+        "location": {
+          "lat": 14.839,
+          "lng": 38.709
+        },
+        "keyAccentLanguage": "ad_abiscia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Kwala",
+        "location": {
+          "lat": 14.635,
+          "lng": 38.834
+        },
+        "keyAccentLanguage": "adi_kwala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Nefas",
+        "location": {
+          "lat": 14.699,
+          "lng": 38.895
+        },
+        "keyAccentLanguage": "ad_nefas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Gaad",
+        "location": {
+          "lat": 14.789,
+          "lng": 39.175
+        },
+        "keyAccentLanguage": "adi_gaad"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Aloat",
+        "location": {
+          "lat": 14.683,
+          "lng": 38.73
+        },
+        "keyAccentLanguage": "adi_aloat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Assero",
+        "location": {
+          "lat": 14.768,
+          "lng": 38.769
+        },
+        "keyAccentLanguage": "adi_assero"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Barresso",
+        "location": {
+          "lat": 14.512,
+          "lng": 38.689
+        },
+        "keyAccentLanguage": "adi_barresso"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Samassen",
+        "location": {
+          "lat": 14.992,
+          "lng": 38.724
+        },
+        "keyAccentLanguage": "samassen"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Ferti",
+        "location": {
+          "lat": 14.826,
+          "lng": 39.216
+        },
+        "keyAccentLanguage": "adi_ferti"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Hizba",
+        "location": {
+          "lat": 15.042,
+          "lng": 38.78
+        },
+        "keyAccentLanguage": "adi_hizba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Engana",
+        "location": {
+          "lat": 14.665,
+          "lng": 38.864
+        },
+        "keyAccentLanguage": "adi_engana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Adenay",
+        "location": {
+          "lat": 14.818,
+          "lng": 38.616
+        },
+        "keyAccentLanguage": "adi_adenay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Addisc Addi",
+        "location": {
+          "lat": 14.768,
+          "lng": 39.068
+        },
+        "keyAccentLanguage": "addisc_addi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Emni-Tselim",
+        "location": {
+          "lat": 15.067,
+          "lng": 38.795
+        },
+        "keyAccentLanguage": "emni-tselim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dbarwa",
+        "location": {
+          "lat": 15.095,
+          "lng": 38.835
+        },
+        "keyAccentLanguage": "dbarwa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Andil",
+        "location": {
+          "lat": 14.713,
+          "lng": 38.86
+        },
+        "keyAccentLanguage": "adi_andil"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Finne",
+        "location": {
+          "lat": 14.948,
+          "lng": 38.933
+        },
+        "keyAccentLanguage": "ad_finne"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chessad Dahre",
+        "location": {
+          "lat": 14.993,
+          "lng": 38.744
+        },
+        "keyAccentLanguage": "chessad_dahre"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Addokayez",
+        "location": {
+          "lat": 14.796,
+          "lng": 39.189
+        },
+        "keyAccentLanguage": "addokayez"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Asmaru",
+        "location": {
+          "lat": 14.799,
+          "lng": 38.411
+        },
+        "keyAccentLanguage": "ad_asmaru"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Addi Nommik",
+        "location": {
+          "lat": 14.874,
+          "lng": 38.425
+        },
+        "keyAccentLanguage": "addi_nommik"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Matara",
+        "location": {
+          "lat": 14.552,
+          "lng": 39.399
+        },
+        "keyAccentLanguage": "matara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dek'emhare",
+        "location": {
+          "lat": 15.066,
+          "lng": 39.045
+        },
+        "keyAccentLanguage": "dek'emhare"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Bilay",
+        "location": {
+          "lat": 14.901,
+          "lng": 38.837
+        },
+        "keyAccentLanguage": "adi_bilay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Edug",
+        "location": {
+          "lat": 14.597,
+          "lng": 38.874
+        },
+        "keyAccentLanguage": "adi_edug"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Beyani",
+        "location": {
+          "lat": 14.896,
+          "lng": 38.595
+        },
+        "keyAccentLanguage": "adi_beyani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Gabul",
+        "location": {
+          "lat": 14.932,
+          "lng": 38.732
+        },
+        "keyAccentLanguage": "adi_gabul"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Bal",
+        "location": {
+          "lat": 14.812,
+          "lng": 38.458
+        },
+        "keyAccentLanguage": "adi_bal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amadr",
+        "location": {
+          "lat": 15.098,
+          "lng": 38.753
+        },
+        "keyAccentLanguage": "amadr"
+      }
+    ],
+    "enNameLanguage": "Debub",
+    "keyAccentLanguage": "debub"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anseba",
+        "location": {
+          "lat": 15.5061005,
+          "lng": 38.7071942
+        },
+        "keyAccentLanguage": "anseba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Addi Lamsay",
+        "location": {
+          "lat": 14.757,
+          "lng": 38.378
+        },
+        "keyAccentLanguage": "addi_lamsay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Bili",
+        "location": {
+          "lat": 15.633,
+          "lng": 38.25
+        },
+        "keyAccentLanguage": "ad_bili"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Himbirti",
+        "location": {
+          "lat": 15.262,
+          "lng": 38.727
+        },
+        "keyAccentLanguage": "himbirti"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antit Are",
+        "location": {
+          "lat": 15.45,
+          "lng": 38.483
+        },
+        "keyAccentLanguage": "antit_are"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Augana",
+        "location": {
+          "lat": 15.15,
+          "lng": 37.633
+        },
+        "keyAccentLanguage": "augana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Addi Alamo",
+        "location": {
+          "lat": 14.784,
+          "lng": 38.342
+        },
+        "keyAccentLanguage": "addi_alamo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aligider",
+        "location": {
+          "lat": 15.117,
+          "lng": 36.483
+        },
+        "keyAccentLanguage": "aligider"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barentu",
+        "location": {
+          "lat": 15.114,
+          "lng": 37.591
+        },
+        "keyAccentLanguage": "barentu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Casub",
+        "location": {
+          "lat": 15.4,
+          "lng": 37.283
+        },
+        "keyAccentLanguage": "ad_casub"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arcugi",
+        "location": {
+          "lat": 14.915,
+          "lng": 36.842
+        },
+        "keyAccentLanguage": "arcugi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Allumnu",
+        "location": {
+          "lat": 15.1,
+          "lng": 37.7
+        },
+        "keyAccentLanguage": "allumnu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Deca Dascim",
+        "location": {
+          "lat": 15.383,
+          "lng": 38.7
+        },
+        "keyAccentLanguage": "deca_dascim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abrascico",
+        "location": {
+          "lat": 15.517,
+          "lng": 38.733
+        },
+        "keyAccentLanguage": "abrascico"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aredda",
+        "location": {
+          "lat": 15.267,
+          "lng": 37.6
+        },
+        "keyAccentLanguage": "aredda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Sata",
+        "location": {
+          "lat": 15.383,
+          "lng": 38.033
+        },
+        "keyAccentLanguage": "ad_sata"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Sulet",
+        "location": {
+          "lat": 15.483,
+          "lng": 38.15
+        },
+        "keyAccentLanguage": "ad_sulet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Addi Kuazien",
+        "location": {
+          "lat": 14.769,
+          "lng": 38.385
+        },
+        "keyAccentLanguage": "addi_kuazien"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Dembela",
+        "location": {
+          "lat": 14.766,
+          "lng": 38.388
+        },
+        "keyAccentLanguage": "ad_dembela"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Scec Hammed",
+        "location": {
+          "lat": 15.433,
+          "lng": 38.25
+        },
+        "keyAccentLanguage": "ad_scec_hammed"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Biaghela",
+        "location": {
+          "lat": 14.448,
+          "lng": 37.303
+        },
+        "keyAccentLanguage": "biaghela"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antore",
+        "location": {
+          "lat": 14.517,
+          "lng": 37.16
+        },
+        "keyAccentLanguage": "antore"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Algheden",
+        "location": {
+          "lat": 15.467,
+          "lng": 37.117
+        },
+        "keyAccentLanguage": "algheden"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Biagundi",
+        "location": {
+          "lat": 14.443,
+          "lng": 37.209
+        },
+        "keyAccentLanguage": "biagundi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Angulei",
+        "location": {
+          "lat": 14.773,
+          "lng": 36.831
+        },
+        "keyAccentLanguage": "angulei"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gulch",
+        "location": {
+          "lat": 14.734,
+          "lng": 36.718
+        },
+        "keyAccentLanguage": "gulch"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Faghi",
+        "location": {
+          "lat": 15.6,
+          "lng": 37.717
+        },
+        "keyAccentLanguage": "ad_faghi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dukambio",
+        "location": {
+          "lat": 14.871,
+          "lng": 38.016
+        },
+        "keyAccentLanguage": "dukambio"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dukambiya",
+        "location": {
+          "lat": 14.789,
+          "lng": 37.47
+        },
+        "keyAccentLanguage": "dukambiya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Saidna Mustafa",
+        "location": {
+          "lat": 15.567,
+          "lng": 38.25
+        },
+        "keyAccentLanguage": "ad_saidna_mustafa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Gullina",
+        "location": {
+          "lat": 14.799,
+          "lng": 38.329
+        },
+        "keyAccentLanguage": "adi_gullina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Damait",
+        "location": {
+          "lat": 15.683,
+          "lng": 37.467
+        },
+        "keyAccentLanguage": "damait"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chega",
+        "location": {
+          "lat": 15.15,
+          "lng": 37.7
+        },
+        "keyAccentLanguage": "chega"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Buc Savino",
+        "location": {
+          "lat": 15.583,
+          "lng": 38.65
+        },
+        "keyAccentLanguage": "buc_savino"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Angheb",
+        "location": {
+          "lat": 15.433,
+          "lng": 38.7
+        },
+        "keyAccentLanguage": "angheb"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ameli",
+        "location": {
+          "lat": 14.793,
+          "lng": 36.935
+        },
+        "keyAccentLanguage": "ameli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Asitti",
+        "location": {
+          "lat": 15.183,
+          "lng": 37.733
+        },
+        "keyAccentLanguage": "asitti"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Sala",
+        "location": {
+          "lat": 15.383,
+          "lng": 38.05
+        },
+        "keyAccentLanguage": "ad_sala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adendema",
+        "location": {
+          "lat": 15.117,
+          "lng": 37
+        },
+        "keyAccentLanguage": "adendema"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bibinna",
+        "location": {
+          "lat": 14.964,
+          "lng": 37.753
+        },
+        "keyAccentLanguage": "bibinna"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aicota",
+        "location": {
+          "lat": 15.179,
+          "lng": 37.089
+        },
+        "keyAccentLanguage": "aicota"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bisha",
+        "location": {
+          "lat": 15.508,
+          "lng": 37.651
+        },
+        "keyAccentLanguage": "bisha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Tzatzer",
+        "location": {
+          "lat": 14.968,
+          "lng": 38.337
+        },
+        "keyAccentLanguage": "ad_tzatzer"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Are Adriss",
+        "location": {
+          "lat": 15.45,
+          "lng": 38.367
+        },
+        "keyAccentLanguage": "are_adriss"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Addi Kuaho",
+        "location": {
+          "lat": 14.811,
+          "lng": 38.349
+        },
+        "keyAccentLanguage": "addi_kuaho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Taula",
+        "location": {
+          "lat": 15.4,
+          "lng": 38.4
+        },
+        "keyAccentLanguage": "ad_taula"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambori",
+        "location": {
+          "lat": 15.083,
+          "lng": 38.033
+        },
+        "keyAccentLanguage": "ambori"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Addi Gemiya",
+        "location": {
+          "lat": 14.778,
+          "lng": 38.341
+        },
+        "keyAccentLanguage": "addi_gemiya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ak'ordat",
+        "location": {
+          "lat": 15.549,
+          "lng": 37.886
+        },
+        "keyAccentLanguage": "ak'ordat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adenna",
+        "location": {
+          "lat": 15.467,
+          "lng": 38.75
+        },
+        "keyAccentLanguage": "adenna"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Culli",
+        "location": {
+          "lat": 15.133,
+          "lng": 37.75
+        },
+        "keyAccentLanguage": "adi_culli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chibabo",
+        "location": {
+          "lat": 15.283,
+          "lng": 37.617
+        },
+        "keyAccentLanguage": "chibabo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Ali Bakit",
+        "location": {
+          "lat": 15.567,
+          "lng": 37.55
+        },
+        "keyAccentLanguage": "adi_ali_bakit"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Addi Finne",
+        "location": {
+          "lat": 14.988,
+          "lng": 38.357
+        },
+        "keyAccentLanguage": "addi_finne"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Tzalo",
+        "location": {
+          "lat": 14.788,
+          "lng": 38.313
+        },
+        "keyAccentLanguage": "adi_tzalo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Sebera",
+        "location": {
+          "lat": 14.796,
+          "lng": 38.333
+        },
+        "keyAccentLanguage": "ad_sebera"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abaredda",
+        "location": {
+          "lat": 15.417,
+          "lng": 37.6
+        },
+        "keyAccentLanguage": "abaredda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Mashela",
+        "location": {
+          "lat": 14.765,
+          "lng": 38.307
+        },
+        "keyAccentLanguage": "adi_mashela"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Aguale",
+        "location": {
+          "lat": 15.05,
+          "lng": 38.4
+        },
+        "keyAccentLanguage": "ad_aguale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Atei",
+        "location": {
+          "lat": 14.782,
+          "lng": 38.307
+        },
+        "keyAccentLanguage": "adi_atei"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adal",
+        "location": {
+          "lat": 15.483,
+          "lng": 37.167
+        },
+        "keyAccentLanguage": "adal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aderdeb",
+        "location": {
+          "lat": 16.083,
+          "lng": 37.05
+        },
+        "keyAccentLanguage": "aderdeb"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Taulet",
+        "location": {
+          "lat": 15.483,
+          "lng": 38.267
+        },
+        "keyAccentLanguage": "ad_taulet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Messian",
+        "location": {
+          "lat": 15.033,
+          "lng": 38.283
+        },
+        "keyAccentLanguage": "ad_messian"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Errei",
+        "location": {
+          "lat": 15.533,
+          "lng": 38.233
+        },
+        "keyAccentLanguage": "ad_errei"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ghergo",
+        "location": {
+          "lat": 15.687,
+          "lng": 37.934
+        },
+        "keyAccentLanguage": "ghergo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chichi",
+        "location": {
+          "lat": 14.411,
+          "lng": 36.729
+        },
+        "keyAccentLanguage": "chichi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aderde",
+        "location": {
+          "lat": 15.653,
+          "lng": 38.132
+        },
+        "keyAccentLanguage": "aderde"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antalla",
+        "location": {
+          "lat": 15.267,
+          "lng": 37.217
+        },
+        "keyAccentLanguage": "antalla"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bitama",
+        "location": {
+          "lat": 15.3,
+          "lng": 36.867
+        },
+        "keyAccentLanguage": "bitama"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Omar",
+        "location": {
+          "lat": 15.6,
+          "lng": 37.817
+        },
+        "keyAccentLanguage": "ad_omar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Said Mustafa",
+        "location": {
+          "lat": 15.567,
+          "lng": 38.283
+        },
+        "keyAccentLanguage": "ad_said_mustafa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alegada",
+        "location": {
+          "lat": 15.067,
+          "lng": 37.483
+        },
+        "keyAccentLanguage": "alegada"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tessenei",
+        "location": {
+          "lat": 15.108,
+          "lng": 36.653
+        },
+        "keyAccentLanguage": "tessenei"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gonye",
+        "location": {
+          "lat": 15.102,
+          "lng": 37.37
+        },
+        "keyAccentLanguage": "gonye"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baio",
+        "location": {
+          "lat": 14.724,
+          "lng": 37.511
+        },
+        "keyAccentLanguage": "baio"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Asiti",
+        "location": {
+          "lat": 14.855,
+          "lng": 37.546
+        },
+        "keyAccentLanguage": "asiti"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Badme",
+        "location": {
+          "lat": 14.727,
+          "lng": 37.803
+        },
+        "keyAccentLanguage": "badme"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Deda",
+        "location": {
+          "lat": 15.3,
+          "lng": 38.683
+        },
+        "keyAccentLanguage": "deda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dalek",
+        "location": {
+          "lat": 14.993,
+          "lng": 38.439
+        },
+        "keyAccentLanguage": "dalek"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bet Mahala",
+        "location": {
+          "lat": 15.533,
+          "lng": 37.867
+        },
+        "keyAccentLanguage": "bet_mahala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mai Mefales",
+        "location": {
+          "lat": 14.869,
+          "lng": 38.279
+        },
+        "keyAccentLanguage": "mai_mefales"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Om Hajer",
+        "location": {
+          "lat": 14.314,
+          "lng": 36.658
+        },
+        "keyAccentLanguage": "om_hajer"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Dechita",
+        "location": {
+          "lat": 14.738,
+          "lng": 38.316
+        },
+        "keyAccentLanguage": "ad_dechita"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Carrbi",
+        "location": {
+          "lat": 14.949,
+          "lng": 37.444
+        },
+        "keyAccentLanguage": "carrbi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Keru",
+        "location": {
+          "lat": 15.616,
+          "lng": 37.251
+        },
+        "keyAccentLanguage": "keru"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sittona",
+        "location": {
+          "lat": 14.404,
+          "lng": 37.367
+        },
+        "keyAccentLanguage": "sittona"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Daghilo",
+        "location": {
+          "lat": 14.988,
+          "lng": 37.581
+        },
+        "keyAccentLanguage": "daghilo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Attai",
+        "location": {
+          "lat": 15.35,
+          "lng": 37.583
+        },
+        "keyAccentLanguage": "attai"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cona",
+        "location": {
+          "lat": 15.05,
+          "lng": 37.667
+        },
+        "keyAccentLanguage": "cona"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sebderat",
+        "location": {
+          "lat": 15.452,
+          "lng": 36.645
+        },
+        "keyAccentLanguage": "sebderat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alescifa",
+        "location": {
+          "lat": 14.816,
+          "lng": 37.307
+        },
+        "keyAccentLanguage": "alescifa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi-Ne'amn",
+        "location": {
+          "lat": 15.52,
+          "lng": 38.703
+        },
+        "keyAccentLanguage": "adi-ne'amn"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Magala",
+        "location": {
+          "lat": 14.562,
+          "lng": 36.794
+        },
+        "keyAccentLanguage": "magala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aula",
+        "location": {
+          "lat": 15.2,
+          "lng": 37.717
+        },
+        "keyAccentLanguage": "aula"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bushuka",
+        "location": {
+          "lat": 14.949,
+          "lng": 37.912
+        },
+        "keyAccentLanguage": "bushuka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Addi Gaba",
+        "location": {
+          "lat": 14.785,
+          "lng": 38.359
+        },
+        "keyAccentLanguage": "addi_gaba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Awgaro",
+        "location": {
+          "lat": 14.824,
+          "lng": 37.441
+        },
+        "keyAccentLanguage": "awgaro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Darotai",
+        "location": {
+          "lat": 15.633,
+          "lng": 38.15
+        },
+        "keyAccentLanguage": "darotai"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ausibi",
+        "location": {
+          "lat": 14.878,
+          "lng": 37.44
+        },
+        "keyAccentLanguage": "ausibi"
+      }
+    ],
+    "enNameLanguage": "Gash-Barka",
+    "keyAccentLanguage": "gash-barka"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 52.692,
+      "lng": 8.468
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Hakefa",
+        "location": {
+          "lat": 15.198,
+          "lng": 38.912
+        },
+        "keyAccentLanguage": "adi_hakefa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dek'i Zer`u",
+        "location": {
+          "lat": 15.543,
+          "lng": 38.804
+        },
+        "keyAccentLanguage": "dek'i_zer`u"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gashi Nashim",
+        "location": {
+          "lat": 15.526,
+          "lng": 38.821
+        },
+        "keyAccentLanguage": "gashi_nashim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Gebru",
+        "location": {
+          "lat": 15.331,
+          "lng": 38.767
+        },
+        "keyAccentLanguage": "adi_gebru"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hinzi",
+        "location": {
+          "lat": 15.348,
+          "lng": 38.983
+        },
+        "keyAccentLanguage": "hinzi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Hawesha",
+        "location": {
+          "lat": 15.243,
+          "lng": 38.971
+        },
+        "keyAccentLanguage": "adi_hawesha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Imk'ats'a",
+        "location": {
+          "lat": 15.139,
+          "lng": 38.909
+        },
+        "keyAccentLanguage": "imk'ats'a"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Mussa",
+        "location": {
+          "lat": 15.3,
+          "lng": 38.8
+        },
+        "keyAccentLanguage": "ad_mussa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Embeyto",
+        "location": {
+          "lat": 15.151,
+          "lng": 38.954
+        },
+        "keyAccentLanguage": "embeyto"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Gwa'idad",
+        "location": {
+          "lat": 15.265,
+          "lng": 38.902
+        },
+        "keyAccentLanguage": "adi_gwa'idad"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Una Lanalay",
+        "location": {
+          "lat": 15.45,
+          "lng": 38.831
+        },
+        "keyAccentLanguage": "una_lanalay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Shiketi",
+        "location": {
+          "lat": 15.151,
+          "lng": 38.864
+        },
+        "keyAccentLanguage": "shiketi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gadien",
+        "location": {
+          "lat": 15.2,
+          "lng": 39.033
+        },
+        "keyAccentLanguage": "gadien"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Laguyen",
+        "location": {
+          "lat": 15.227,
+          "lng": 38.843
+        },
+        "keyAccentLanguage": "laguyen"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Kefelet",
+        "location": {
+          "lat": 15.204,
+          "lng": 38.741
+        },
+        "keyAccentLanguage": "adi_kefelet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Shima Nigus La`ilay",
+        "location": {
+          "lat": 15.475,
+          "lng": 38.848
+        },
+        "keyAccentLanguage": "shima_nigus_la`ilay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hazega",
+        "location": {
+          "lat": 15.364,
+          "lng": 38.747
+        },
+        "keyAccentLanguage": "hazega"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kitmo Awli'i",
+        "location": {
+          "lat": 15.258,
+          "lng": 38.827
+        },
+        "keyAccentLanguage": "kitmo_awli'i"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tse'azega",
+        "location": {
+          "lat": 15.35,
+          "lng": 38.8
+        },
+        "keyAccentLanguage": "tse'azega"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Imneger",
+        "location": {
+          "lat": 15.247,
+          "lng": 38.849
+        },
+        "keyAccentLanguage": "adi_imneger"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adik'e",
+        "location": {
+          "lat": 15.236,
+          "lng": 38.899
+        },
+        "keyAccentLanguage": "adik'e"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gereme",
+        "location": {
+          "lat": 15.472,
+          "lng": 38.887
+        },
+        "keyAccentLanguage": "gereme"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Teklay",
+        "location": {
+          "lat": 15.316,
+          "lng": 38.759
+        },
+        "keyAccentLanguage": "adi_teklay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Shigirni",
+        "location": {
+          "lat": 15.367,
+          "lng": 38.992
+        },
+        "keyAccentLanguage": "shigirni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Kubulo",
+        "location": {
+          "lat": 15.146,
+          "lng": 38.878
+        },
+        "keyAccentLanguage": "adi_kubulo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Wek Diba",
+        "location": {
+          "lat": 15.368,
+          "lng": 38.88
+        },
+        "keyAccentLanguage": "wek_diba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tsa'edakristyan",
+        "location": {
+          "lat": 15.334,
+          "lng": 38.851
+        },
+        "keyAccentLanguage": "tsa'edakristyan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Kelkalti",
+        "location": {
+          "lat": 15.196,
+          "lng": 38.77
+        },
+        "keyAccentLanguage": "adi_kelkalti"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "K'ushut",
+        "location": {
+          "lat": 15.32,
+          "lng": 38.869
+        },
+        "keyAccentLanguage": "k'ushut"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Contzi",
+        "location": {
+          "lat": 15.4,
+          "lng": 38.8
+        },
+        "keyAccentLanguage": "adi_contzi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mek'erka",
+        "location": {
+          "lat": 15.463,
+          "lng": 38.85
+        },
+        "keyAccentLanguage": "mek'erka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Segdo",
+        "location": {
+          "lat": 15.339,
+          "lng": 38.894
+        },
+        "keyAccentLanguage": "segdo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Demba Carmet",
+        "location": {
+          "lat": 15.217,
+          "lng": 39.017
+        },
+        "keyAccentLanguage": "demba_carmet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Da'iro P'awlos",
+        "location": {
+          "lat": 15.278,
+          "lng": 38.87
+        },
+        "keyAccentLanguage": "da'iro_p'awlos"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Hamushte",
+        "location": {
+          "lat": 15.234,
+          "lng": 38.843
+        },
+        "keyAccentLanguage": "adi_hamushte"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Lamza",
+        "location": {
+          "lat": 15.217,
+          "lng": 38.9
+        },
+        "keyAccentLanguage": "adi_lamza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Godaif",
+        "location": {
+          "lat": 15.3,
+          "lng": 38.933
+        },
+        "keyAccentLanguage": "godaif"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Emba-Derho",
+        "location": {
+          "lat": 15.434,
+          "lng": 38.899
+        },
+        "keyAccentLanguage": "emba-derho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Gombolo",
+        "location": {
+          "lat": 15.22,
+          "lng": 38.858
+        },
+        "keyAccentLanguage": "adi_gombolo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Serejeka",
+        "location": {
+          "lat": 15.483,
+          "lng": 38.864
+        },
+        "keyAccentLanguage": "serejeka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Gebray",
+        "location": {
+          "lat": 15.212,
+          "lng": 38.736
+        },
+        "keyAccentLanguage": "adi_gebray"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Misgwag",
+        "location": {
+          "lat": 15.305,
+          "lng": 38.833
+        },
+        "keyAccentLanguage": "misgwag"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Shimangus-Tahtay",
+        "location": {
+          "lat": 15.499,
+          "lng": 38.796
+        },
+        "keyAccentLanguage": "shimangus-tahtay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Ar`ada",
+        "location": {
+          "lat": 15.191,
+          "lng": 38.996
+        },
+        "keyAccentLanguage": "adi_ar`ada"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ts'elot",
+        "location": {
+          "lat": 15.282,
+          "lng": 38.967
+        },
+        "keyAccentLanguage": "ts'elot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ts'e'ada",
+        "location": {
+          "lat": 15.31,
+          "lng": 38.859
+        },
+        "keyAccentLanguage": "ts'e'ada"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beleza",
+        "location": {
+          "lat": 15.424,
+          "lng": 38.926
+        },
+        "keyAccentLanguage": "beleza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Guritat",
+        "location": {
+          "lat": 15.546,
+          "lng": 38.845
+        },
+        "keyAccentLanguage": "guritat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Asmara",
+        "location": {
+          "lat": 15.332,
+          "lng": 38.926
+        },
+        "keyAccentLanguage": "asmara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sela'i Da'iro",
+        "location": {
+          "lat": 15.205,
+          "lng": 38.876
+        },
+        "keyAccentLanguage": "sela'i_da'iro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Merhano",
+        "location": {
+          "lat": 15.261,
+          "lng": 38.923
+        },
+        "keyAccentLanguage": "merhano"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tredishi",
+        "location": {
+          "lat": 15.256,
+          "lng": 39.03
+        },
+        "keyAccentLanguage": "tredishi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zahaflam",
+        "location": {
+          "lat": 15.5,
+          "lng": 38.85
+        },
+        "keyAccentLanguage": "zahaflam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Abeito",
+        "location": {
+          "lat": 15.383,
+          "lng": 38.9
+        },
+        "keyAccentLanguage": "ad_abeito"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zigib",
+        "location": {
+          "lat": 15.221,
+          "lng": 38.993
+        },
+        "keyAccentLanguage": "zigib"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "T'a'areshi",
+        "location": {
+          "lat": 15.461,
+          "lng": 38.814
+        },
+        "keyAccentLanguage": "t'a'areshi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mebasit",
+        "location": {
+          "lat": 15.508,
+          "lng": 38.82
+        },
+        "keyAccentLanguage": "mebasit"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "May-Nefhi",
+        "location": {
+          "lat": 15.257,
+          "lng": 38.799
+        },
+        "keyAccentLanguage": "may-nefhi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ala",
+        "location": {
+          "lat": 15.191,
+          "lng": 39.029
+        },
+        "keyAccentLanguage": "ala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Sahlay",
+        "location": {
+          "lat": 15.164,
+          "lng": 38.896
+        },
+        "keyAccentLanguage": "adi_sahlay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hayelo",
+        "location": {
+          "lat": 15.533,
+          "lng": 38.842
+        },
+        "keyAccentLanguage": "hayelo"
+      }
+    ],
+    "enNameLanguage": "Maekel",
+    "keyAccentLanguage": "maekel"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Debe'aluwa",
+        "location": {
+          "lat": 15.742,
+          "lng": 40.114
+        },
+        "keyAccentLanguage": "debe'aluwa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abna",
+        "location": {
+          "lat": 15.883,
+          "lng": 38.75
+        },
+        "keyAccentLanguage": "abna"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arafali",
+        "location": {
+          "lat": 15.078,
+          "lng": 39.74
+        },
+        "keyAccentLanguage": "arafali"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ghedghed/Debret",
+        "location": {
+          "lat": 15.75,
+          "lng": 39.033
+        },
+        "keyAccentLanguage": "ghedghed/debret"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dalaulo",
+        "location": {
+          "lat": 15.417,
+          "lng": 39.117
+        },
+        "keyAccentLanguage": "dalaulo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dangal",
+        "location": {
+          "lat": 14.59,
+          "lng": 40.335
+        },
+        "keyAccentLanguage": "dangal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ailet",
+        "location": {
+          "lat": 15.584,
+          "lng": 39.261
+        },
+        "keyAccentLanguage": "ailet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Asa'ila",
+        "location": {
+          "lat": 15.085,
+          "lng": 39.941
+        },
+        "keyAccentLanguage": "asa'ila"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dichicai",
+        "location": {
+          "lat": 15.383,
+          "lng": 39.95
+        },
+        "keyAccentLanguage": "dichicai"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agametta",
+        "location": {
+          "lat": 15.333,
+          "lng": 39.217
+        },
+        "keyAccentLanguage": "agametta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ba Sciare",
+        "location": {
+          "lat": 16.433,
+          "lng": 38.433
+        },
+        "keyAccentLanguage": "ba_sciare"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acca",
+        "location": {
+          "lat": 14.854,
+          "lng": 39.82
+        },
+        "keyAccentLanguage": "acca"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ghela'elo",
+        "location": {
+          "lat": 15.094,
+          "lng": 40.055
+        },
+        "keyAccentLanguage": "ghela'elo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cumbeiba",
+        "location": {
+          "lat": 15.8,
+          "lng": 40
+        },
+        "keyAccentLanguage": "cumbeiba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alghena",
+        "location": {
+          "lat": 17.279,
+          "lng": 38.575
+        },
+        "keyAccentLanguage": "alghena"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alibarate",
+        "location": {
+          "lat": 15.367,
+          "lng": 39.783
+        },
+        "keyAccentLanguage": "alibarate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Argentu",
+        "location": {
+          "lat": 14.925,
+          "lng": 39.607
+        },
+        "keyAccentLanguage": "argentu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barresa",
+        "location": {
+          "lat": 15.4,
+          "lng": 39.2
+        },
+        "keyAccentLanguage": "barresa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ela Cantubba",
+        "location": {
+          "lat": 14.867,
+          "lng": 40.117
+        },
+        "keyAccentLanguage": "ela_cantubba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afabet",
+        "location": {
+          "lat": 16.183,
+          "lng": 38.683
+        },
+        "keyAccentLanguage": "afabet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gaghet",
+        "location": {
+          "lat": 17.55,
+          "lng": 38.383
+        },
+        "keyAccentLanguage": "gaghet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "50 km.] [ROAD DESTINATION: Irafayle",
+        "location": {
+          "lat": 14.758,
+          "lng": 39.999
+        },
+        "keyAccentLanguage": "50_km.]_[road_destination:_irafayle"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anaghit",
+        "location": {
+          "lat": 16.145,
+          "lng": 38.748
+        },
+        "keyAccentLanguage": "anaghit"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ezeerto",
+        "location": {
+          "lat": 14.917,
+          "lng": 39.602
+        },
+        "keyAccentLanguage": "ezeerto"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gahtielay",
+        "location": {
+          "lat": 15.524,
+          "lng": 39.159
+        },
+        "keyAccentLanguage": "gahtielay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hadish",
+        "location": {
+          "lat": 15.183,
+          "lng": 39.533
+        },
+        "keyAccentLanguage": "hadish"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dule",
+        "location": {
+          "lat": 15.356,
+          "lng": 39.977
+        },
+        "keyAccentLanguage": "dule"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Buia",
+        "location": {
+          "lat": 14.9,
+          "lng": 39.844
+        },
+        "keyAccentLanguage": "buia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Daudi",
+        "location": {
+          "lat": 15.283,
+          "lng": 39.467
+        },
+        "keyAccentLanguage": "ad_daudi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Obellet",
+        "location": {
+          "lat": 16.123,
+          "lng": 39.009
+        },
+        "keyAccentLanguage": "obellet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Imbatikala",
+        "location": {
+          "lat": 15.447,
+          "lng": 39.086
+        },
+        "keyAccentLanguage": "imbatikala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chenanadole",
+        "location": {
+          "lat": 15.067,
+          "lng": 39.633
+        },
+        "keyAccentLanguage": "chenanadole"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hasta",
+        "location": {
+          "lat": 16.967,
+          "lng": 38.1
+        },
+        "keyAccentLanguage": "hasta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aranat",
+        "location": {
+          "lat": 15.75,
+          "lng": 39.983
+        },
+        "keyAccentLanguage": "aranat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Degol",
+        "location": {
+          "lat": 15.624,
+          "lng": 39.323
+        },
+        "keyAccentLanguage": "degol"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gumhod",
+        "location": {
+          "lat": 15.617,
+          "lng": 39.133
+        },
+        "keyAccentLanguage": "gumhod"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aigherre",
+        "location": {
+          "lat": 15.3,
+          "lng": 39.25
+        },
+        "keyAccentLanguage": "aigherre"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hidele",
+        "location": {
+          "lat": 15.32,
+          "lng": 39.463
+        },
+        "keyAccentLanguage": "hidele"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Burteli",
+        "location": {
+          "lat": 15.4,
+          "lng": 39.983
+        },
+        "keyAccentLanguage": "burteli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Foro",
+        "location": {
+          "lat": 15.259,
+          "lng": 39.621
+        },
+        "keyAccentLanguage": "foro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afta",
+        "location": {
+          "lat": 15.273,
+          "lng": 39.653
+        },
+        "keyAccentLanguage": "afta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gohoreli",
+        "location": {
+          "lat": 15.45,
+          "lng": 39.3
+        },
+        "keyAccentLanguage": "gohoreli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dissei",
+        "location": {
+          "lat": 15.467,
+          "lng": 39.75
+        },
+        "keyAccentLanguage": "dissei"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Medruriet",
+        "location": {
+          "lat": 16.666,
+          "lng": 38.476
+        },
+        "keyAccentLanguage": "medruriet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Habrenta",
+        "location": {
+          "lat": 15.5,
+          "lng": 39.6
+        },
+        "keyAccentLanguage": "habrenta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Asus",
+        "location": {
+          "lat": 15.667,
+          "lng": 39.117
+        },
+        "keyAccentLanguage": "asus"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akilo",
+        "location": {
+          "lat": 14.995,
+          "lng": 40.154
+        },
+        "keyAccentLanguage": "akilo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ghedem",
+        "location": {
+          "lat": 15.501,
+          "lng": 39.552
+        },
+        "keyAccentLanguage": "ghedem"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Darmeli",
+        "location": {
+          "lat": 15.333,
+          "lng": 39.367
+        },
+        "keyAccentLanguage": "darmeli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Angaba",
+        "location": {
+          "lat": 16.517,
+          "lng": 38.5
+        },
+        "keyAccentLanguage": "angaba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Af Ceua",
+        "location": {
+          "lat": 17.067,
+          "lng": 38.367
+        },
+        "keyAccentLanguage": "af_ceua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ganraito",
+        "location": {
+          "lat": 14.8,
+          "lng": 40.05
+        },
+        "keyAccentLanguage": "ganraito"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agbalo",
+        "location": {
+          "lat": 15.483,
+          "lng": 39.317
+        },
+        "keyAccentLanguage": "agbalo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adaito",
+        "location": {
+          "lat": 14.73,
+          "lng": 40.345
+        },
+        "keyAccentLanguage": "adaito"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aratale",
+        "location": {
+          "lat": 15.08,
+          "lng": 40.073
+        },
+        "keyAccentLanguage": "aratale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anteca",
+        "location": {
+          "lat": 15.367,
+          "lng": 39.1
+        },
+        "keyAccentLanguage": "anteca"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eduk",
+        "location": {
+          "lat": 14.933,
+          "lng": 39.607
+        },
+        "keyAccentLanguage": "eduk"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ferkala",
+        "location": {
+          "lat": 14.932,
+          "lng": 39.591
+        },
+        "keyAccentLanguage": "ferkala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aymat",
+        "location": {
+          "lat": 16.193,
+          "lng": 38.692
+        },
+        "keyAccentLanguage": "aymat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dengolo",
+        "location": {
+          "lat": 15.519,
+          "lng": 39.157
+        },
+        "keyAccentLanguage": "dengolo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agra'i",
+        "location": {
+          "lat": 17.017,
+          "lng": 38.417
+        },
+        "keyAccentLanguage": "agra'i"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jimhil",
+        "location": {
+          "lat": 15.756,
+          "lng": 39.951
+        },
+        "keyAccentLanguage": "jimhil"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agambusa/Tobo",
+        "location": {
+          "lat": 15.482,
+          "lng": 39.205
+        },
+        "keyAccentLanguage": "agambusa/tobo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Galata",
+        "location": {
+          "lat": 15.3,
+          "lng": 39.167
+        },
+        "keyAccentLanguage": "galata"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Boholo",
+        "location": {
+          "lat": 15.2,
+          "lng": 40.05
+        },
+        "keyAccentLanguage": "boholo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nefasit",
+        "location": {
+          "lat": 15.334,
+          "lng": 39.062
+        },
+        "keyAccentLanguage": "nefasit"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belessua",
+        "location": {
+          "lat": 14.581,
+          "lng": 40.149
+        },
+        "keyAccentLanguage": "belessua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zula",
+        "location": {
+          "lat": 15.244,
+          "lng": 39.665
+        },
+        "keyAccentLanguage": "zula"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eub Anrafa",
+        "location": {
+          "lat": 17.317,
+          "lng": 38.5
+        },
+        "keyAccentLanguage": "eub_anrafa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ciabbub Areddu",
+        "location": {
+          "lat": 16.05,
+          "lng": 39.017
+        },
+        "keyAccentLanguage": "ciabbub_areddu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Betalifuru",
+        "location": {
+          "lat": 15.35,
+          "lng": 39.6
+        },
+        "keyAccentLanguage": "betalifuru"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kelamet",
+        "location": {
+          "lat": 15.936,
+          "lng": 38.769
+        },
+        "keyAccentLanguage": "kelamet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gulbub",
+        "location": {
+          "lat": 16.303,
+          "lng": 39.145
+        },
+        "keyAccentLanguage": "gulbub"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gherzaliguli",
+        "location": {
+          "lat": 14.9,
+          "lng": 40.3
+        },
+        "keyAccentLanguage": "gherzaliguli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hargigo",
+        "location": {
+          "lat": 15.505,
+          "lng": 39.52
+        },
+        "keyAccentLanguage": "hargigo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Massawa",
+        "location": {
+          "lat": 15.609,
+          "lng": 39.445
+        },
+        "keyAccentLanguage": "massawa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gandeli",
+        "location": {
+          "lat": 15.417,
+          "lng": 39.883
+        },
+        "keyAccentLanguage": "gandeli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aruaddin",
+        "location": {
+          "lat": 16.25,
+          "lng": 38.717
+        },
+        "keyAccentLanguage": "aruaddin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mersa Fatma",
+        "location": {
+          "lat": 14.893,
+          "lng": 40.308
+        },
+        "keyAccentLanguage": "mersa_fatma"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Damas",
+        "location": {
+          "lat": 15.5,
+          "lng": 39.2
+        },
+        "keyAccentLanguage": "damas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Shuma",
+        "location": {
+          "lat": 15.608,
+          "lng": 39.079
+        },
+        "keyAccentLanguage": "adi_shuma"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dembe",
+        "location": {
+          "lat": 15.517,
+          "lng": 39.05
+        },
+        "keyAccentLanguage": "dembe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dogali",
+        "location": {
+          "lat": 15.602,
+          "lng": 39.306
+        },
+        "keyAccentLanguage": "dogali"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bordele",
+        "location": {
+          "lat": 15.154,
+          "lng": 39.911
+        },
+        "keyAccentLanguage": "bordele"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Follocle",
+        "location": {
+          "lat": 15.433,
+          "lng": 39.917
+        },
+        "keyAccentLanguage": "follocle"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Haddohalle",
+        "location": {
+          "lat": 14.767,
+          "lng": 40.05
+        },
+        "keyAccentLanguage": "haddohalle"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ginda",
+        "location": {
+          "lat": 15.413,
+          "lng": 39.087
+        },
+        "keyAccentLanguage": "ginda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fiok",
+        "location": {
+          "lat": 14.944,
+          "lng": 40.215
+        },
+        "keyAccentLanguage": "fiok"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mersa Kawt",
+        "location": {
+          "lat": 16.997,
+          "lng": 39.004
+        },
+        "keyAccentLanguage": "mersa_kawt"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dilemmi",
+        "location": {
+          "lat": 15.483,
+          "lng": 39.883
+        },
+        "keyAccentLanguage": "dilemmi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Filfil",
+        "location": {
+          "lat": 15.634,
+          "lng": 38.937
+        },
+        "keyAccentLanguage": "filfil"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dengolo Tahtay",
+        "location": {
+          "lat": 15.472,
+          "lng": 39.134
+        },
+        "keyAccentLanguage": "dengolo_tahtay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cabuia",
+        "location": {
+          "lat": 14.547,
+          "lng": 40.098
+        },
+        "keyAccentLanguage": "cabuia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acoma",
+        "location": {
+          "lat": 15.217,
+          "lng": 39.4
+        },
+        "keyAccentLanguage": "acoma"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Croto",
+        "location": {
+          "lat": 15.433,
+          "lng": 39.817
+        },
+        "keyAccentLanguage": "croto"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Imbereme",
+        "location": {
+          "lat": 15.773,
+          "lng": 39.374
+        },
+        "keyAccentLanguage": "imbereme"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Deset",
+        "location": {
+          "lat": 15.661,
+          "lng": 39.337
+        },
+        "keyAccentLanguage": "deset"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amatere",
+        "location": {
+          "lat": 15.624,
+          "lng": 39.439
+        },
+        "keyAccentLanguage": "amatere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dehalak' Kebir",
+        "location": {
+          "lat": 15.683,
+          "lng": 40.017
+        },
+        "keyAccentLanguage": "dehalak'_kebir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hit'imlo",
+        "location": {
+          "lat": 15.624,
+          "lng": 39.42
+        },
+        "keyAccentLanguage": "hit'imlo"
+      }
+    ],
+    "enNameLanguage": "Northern Red Sea",
+    "keyAccentLanguage": "northern_red_sea"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agurto",
+        "location": {
+          "lat": 12.9,
+          "lng": 42.7
+        },
+        "keyAccentLanguage": "agurto"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Araiu",
+        "location": {
+          "lat": 13.717,
+          "lng": 41.733
+        },
+        "keyAccentLanguage": "araiu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Boleli",
+        "location": {
+          "lat": 14.528,
+          "lng": 40.115
+        },
+        "keyAccentLanguage": "boleli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Suwa",
+        "location": {
+          "lat": 14.275,
+          "lng": 41.089
+        },
+        "keyAccentLanguage": "suwa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Halaba",
+        "location": {
+          "lat": 13.917,
+          "lng": 41.8
+        },
+        "keyAccentLanguage": "halaba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bilieta",
+        "location": {
+          "lat": 14.538,
+          "lng": 40.639
+        },
+        "keyAccentLanguage": "bilieta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dabu",
+        "location": {
+          "lat": 12.965,
+          "lng": 42.047
+        },
+        "keyAccentLanguage": "dabu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aseb",
+        "location": {
+          "lat": 13.004,
+          "lng": 42.74
+        },
+        "keyAccentLanguage": "aseb"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Irble",
+        "location": {
+          "lat": 13.733,
+          "lng": 41.533
+        },
+        "keyAccentLanguage": "irble"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sacalatta",
+        "location": {
+          "lat": 12.517,
+          "lng": 42.767
+        },
+        "keyAccentLanguage": "sacalatta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aylu",
+        "location": {
+          "lat": 12.833,
+          "lng": 42.775
+        },
+        "keyAccentLanguage": "aylu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dadda`to",
+        "location": {
+          "lat": 12.383,
+          "lng": 42.717
+        },
+        "keyAccentLanguage": "dadda`to"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dasbudi",
+        "location": {
+          "lat": 13.183,
+          "lng": 42.067
+        },
+        "keyAccentLanguage": "dasbudi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Seud Buij",
+        "location": {
+          "lat": 13.267,
+          "lng": 42.167
+        },
+        "keyAccentLanguage": "seud_buij"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Daadatu",
+        "location": {
+          "lat": 13.05,
+          "lng": 42.05
+        },
+        "keyAccentLanguage": "daadatu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Behld",
+        "location": {
+          "lat": 13.7,
+          "lng": 42.067
+        },
+        "keyAccentLanguage": "behld"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sheburur",
+        "location": {
+          "lat": 14.255,
+          "lng": 41.464
+        },
+        "keyAccentLanguage": "sheburur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Karmu",
+        "location": {
+          "lat": 14.05,
+          "lng": 41.62
+        },
+        "keyAccentLanguage": "karmu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adailo",
+        "location": {
+          "lat": 14.477,
+          "lng": 40.854
+        },
+        "keyAccentLanguage": "adailo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fura",
+        "location": {
+          "lat": 13.561,
+          "lng": 41.341
+        },
+        "keyAccentLanguage": "fura"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ayror",
+        "location": {
+          "lat": 13.049,
+          "lng": 42.7
+        },
+        "keyAccentLanguage": "ayror"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hancul",
+        "location": {
+          "lat": 12.6,
+          "lng": 42.55
+        },
+        "keyAccentLanguage": "hancul"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hanainef",
+        "location": {
+          "lat": 13.643,
+          "lng": 41.975
+        },
+        "keyAccentLanguage": "hanainef"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Illabadan",
+        "location": {
+          "lat": 14.383,
+          "lng": 40.594
+        },
+        "keyAccentLanguage": "illabadan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Haloll",
+        "location": {
+          "lat": 14.4,
+          "lng": 41.033
+        },
+        "keyAccentLanguage": "haloll"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Muri",
+        "location": {
+          "lat": 13.333,
+          "lng": 41.883
+        },
+        "keyAccentLanguage": "muri"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Horena",
+        "location": {
+          "lat": 14.8,
+          "lng": 40.717
+        },
+        "keyAccentLanguage": "horena"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sahli",
+        "location": {
+          "lat": 14.723,
+          "lng": 40.826
+        },
+        "keyAccentLanguage": "sahli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Musa Ela",
+        "location": {
+          "lat": 13.1,
+          "lng": 41.9
+        },
+        "keyAccentLanguage": "musa_ela"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Doumeira",
+        "location": {
+          "lat": 12.714,
+          "lng": 43.101
+        },
+        "keyAccentLanguage": "doumeira"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beylul",
+        "location": {
+          "lat": 13.267,
+          "lng": 42.33
+        },
+        "keyAccentLanguage": "beylul"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mi'ida",
+        "location": {
+          "lat": 14.725,
+          "lng": 40.768
+        },
+        "keyAccentLanguage": "mi'ida"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gun Gum",
+        "location": {
+          "lat": 13.874,
+          "lng": 41.185
+        },
+        "keyAccentLanguage": "gun_gum"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alela",
+        "location": {
+          "lat": 12.971,
+          "lng": 42.725
+        },
+        "keyAccentLanguage": "alela"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mureym",
+        "location": {
+          "lat": 13.617,
+          "lng": 41.3
+        },
+        "keyAccentLanguage": "mureym"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Raa",
+        "location": {
+          "lat": 14.633,
+          "lng": 40.783
+        },
+        "keyAccentLanguage": "raa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sciec Alilo",
+        "location": {
+          "lat": 14.617,
+          "lng": 41.033
+        },
+        "keyAccentLanguage": "sciec_alilo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ighiroli",
+        "location": {
+          "lat": 14.233,
+          "lng": 41.183
+        },
+        "keyAccentLanguage": "ighiroli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hawra",
+        "location": {
+          "lat": 14.483,
+          "lng": 41.311
+        },
+        "keyAccentLanguage": "hawra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ferer",
+        "location": {
+          "lat": 13.8,
+          "lng": 41.15
+        },
+        "keyAccentLanguage": "ferer"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abe",
+        "location": {
+          "lat": 13.683,
+          "lng": 41.4
+        },
+        "keyAccentLanguage": "abe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afahani",
+        "location": {
+          "lat": 14.483,
+          "lng": 41.237
+        },
+        "keyAccentLanguage": "afahani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Didib",
+        "location": {
+          "lat": 14.469,
+          "lng": 40.619
+        },
+        "keyAccentLanguage": "didib"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abdi",
+        "location": {
+          "lat": 12.7,
+          "lng": 42.4
+        },
+        "keyAccentLanguage": "abdi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adarte",
+        "location": {
+          "lat": 13.3,
+          "lng": 42.133
+        },
+        "keyAccentLanguage": "adarte"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bel'ebuy",
+        "location": {
+          "lat": 13.791,
+          "lng": 41.334
+        },
+        "keyAccentLanguage": "bel'ebuy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gadmaita",
+        "location": {
+          "lat": 14.279,
+          "lng": 40.906
+        },
+        "keyAccentLanguage": "gadmaita"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ona",
+        "location": {
+          "lat": 14.533,
+          "lng": 40.933
+        },
+        "keyAccentLanguage": "ona"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Debaysima",
+        "location": {
+          "lat": 12.699,
+          "lng": 42.342
+        },
+        "keyAccentLanguage": "debaysima"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ada Ela",
+        "location": {
+          "lat": 13.85,
+          "lng": 41.617
+        },
+        "keyAccentLanguage": "ada_ela"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rasseitao",
+        "location": {
+          "lat": 13.85,
+          "lng": 41.1
+        },
+        "keyAccentLanguage": "rasseitao"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Daui Rori",
+        "location": {
+          "lat": 12.783,
+          "lng": 42.2
+        },
+        "keyAccentLanguage": "daui_rori"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saroyta",
+        "location": {
+          "lat": 14.409,
+          "lng": 41.337
+        },
+        "keyAccentLanguage": "saroyta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Babaiu",
+        "location": {
+          "lat": 14.583,
+          "lng": 41.2
+        },
+        "keyAccentLanguage": "babaiu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Oasi",
+        "location": {
+          "lat": 13.267,
+          "lng": 42.1
+        },
+        "keyAccentLanguage": "oasi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Asbagu",
+        "location": {
+          "lat": 13.924,
+          "lng": 41.125
+        },
+        "keyAccentLanguage": "asbagu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Debba",
+        "location": {
+          "lat": 14.367,
+          "lng": 41.35
+        },
+        "keyAccentLanguage": "debba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aura",
+        "location": {
+          "lat": 13.583,
+          "lng": 41.433
+        },
+        "keyAccentLanguage": "aura"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sanda",
+        "location": {
+          "lat": 14.32,
+          "lng": 40.532
+        },
+        "keyAccentLanguage": "sanda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abhi",
+        "location": {
+          "lat": 12.433,
+          "lng": 42.75
+        },
+        "keyAccentLanguage": "abhi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Diwalu",
+        "location": {
+          "lat": 14.909,
+          "lng": 40.626
+        },
+        "keyAccentLanguage": "diwalu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amotalale",
+        "location": {
+          "lat": 12.467,
+          "lng": 42.8
+        },
+        "keyAccentLanguage": "amotalale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Firidello",
+        "location": {
+          "lat": 14.633,
+          "lng": 40.733
+        },
+        "keyAccentLanguage": "firidello"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rehayto",
+        "location": {
+          "lat": 12.728,
+          "lng": 43.084
+        },
+        "keyAccentLanguage": "rehayto"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Diddale",
+        "location": {
+          "lat": 13.683,
+          "lng": 41.767
+        },
+        "keyAccentLanguage": "diddale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bera'isole",
+        "location": {
+          "lat": 13.646,
+          "lng": 42.146
+        },
+        "keyAccentLanguage": "bera'isole"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nacta",
+        "location": {
+          "lat": 12.633,
+          "lng": 42.917
+        },
+        "keyAccentLanguage": "nacta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Gaban",
+        "location": {
+          "lat": 14.617,
+          "lng": 40.883
+        },
+        "keyAccentLanguage": "ad_gaban"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afambo",
+        "location": {
+          "lat": 13.6,
+          "lng": 41.633
+        },
+        "keyAccentLanguage": "afambo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dochtumo",
+        "location": {
+          "lat": 12.767,
+          "lng": 42.483
+        },
+        "keyAccentLanguage": "dochtumo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Garbanna",
+        "location": {
+          "lat": 14.239,
+          "lng": 40.722
+        },
+        "keyAccentLanguage": "garbanna"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ayumen",
+        "location": {
+          "lat": 14.05,
+          "lng": 40.967
+        },
+        "keyAccentLanguage": "ayumen"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bihde",
+        "location": {
+          "lat": 13.242,
+          "lng": 42.309
+        },
+        "keyAccentLanguage": "bihde"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alas",
+        "location": {
+          "lat": 14.422,
+          "lng": 40.606
+        },
+        "keyAccentLanguage": "alas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Morgada",
+        "location": {
+          "lat": 14.567,
+          "lng": 41.2
+        },
+        "keyAccentLanguage": "morgada"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Meka'ika",
+        "location": {
+          "lat": 13.058,
+          "lng": 42.669
+        },
+        "keyAccentLanguage": "meka'ika"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abacheri",
+        "location": {
+          "lat": 14.183,
+          "lng": 41.5
+        },
+        "keyAccentLanguage": "abacheri"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Assa Ela",
+        "location": {
+          "lat": 14.027,
+          "lng": 41.622
+        },
+        "keyAccentLanguage": "assa_ela"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lafofle",
+        "location": {
+          "lat": 13.829,
+          "lng": 41.418
+        },
+        "keyAccentLanguage": "lafofle"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Merbaro",
+        "location": {
+          "lat": 14.451,
+          "lng": 40.625
+        },
+        "keyAccentLanguage": "merbaro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kulul",
+        "location": {
+          "lat": 14.38,
+          "lng": 40.351
+        },
+        "keyAccentLanguage": "kulul"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mergebla",
+        "location": {
+          "lat": 12.904,
+          "lng": 42.741
+        },
+        "keyAccentLanguage": "mergebla"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "T'i'o",
+        "location": {
+          "lat": 14.681,
+          "lng": 40.955
+        },
+        "keyAccentLanguage": "t'i'o"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Harsile",
+        "location": {
+          "lat": 12.847,
+          "lng": 42.741
+        },
+        "keyAccentLanguage": "harsile"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Idi",
+        "location": {
+          "lat": 13.925,
+          "lng": 41.693
+        },
+        "keyAccentLanguage": "idi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Iremle",
+        "location": {
+          "lat": 14.501,
+          "lng": 40.123
+        },
+        "keyAccentLanguage": "iremle"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gehare",
+        "location": {
+          "lat": 13.233,
+          "lng": 42.067
+        },
+        "keyAccentLanguage": "gehare"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mai-ti",
+        "location": {
+          "lat": 13,
+          "lng": 42.217
+        },
+        "keyAccentLanguage": "mai-ti"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tattoy Shima",
+        "location": {
+          "lat": 13.775,
+          "lng": 41.318
+        },
+        "keyAccentLanguage": "tattoy_shima"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Faraon",
+        "location": {
+          "lat": 14.85,
+          "lng": 40.7
+        },
+        "keyAccentLanguage": "faraon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Salita Adarrabera",
+        "location": {
+          "lat": 14.339,
+          "lng": 40.898
+        },
+        "keyAccentLanguage": "salita_adarrabera"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Targhan",
+        "location": {
+          "lat": 12.65,
+          "lng": 42.4
+        },
+        "keyAccentLanguage": "targhan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Arili",
+        "location": {
+          "lat": 13.967,
+          "lng": 41.617
+        },
+        "keyAccentLanguage": "ad_arili"
+      }
+    ],
+    "enNameLanguage": "Southern Red Sea",
+    "keyAccentLanguage": "southern_red_sea"
+  }
+]

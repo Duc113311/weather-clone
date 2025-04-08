@@ -1,0 +1,912 @@
+[
+  {
+    "code": 0,
+    "cityDistrictType": "Đông Bắc Bộ",
+    "categoryName": "Đông Bắc Bộ",
+    "typeCity": null,
+    "postalCode": "10001",
+    "keyLanguage": "Đông_Bắc_Bộ",
+    "languages": {
+      "vi": "Đông Bắc Bộ",
+      "en": "Đông Bắc Bộ",
+      "ja": "ドン・バク・ボー",
+      "ko": "동박보(Dông Bắc Bộ)"
+    },
+    "districtList": [
+      {
+        "code": 1,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đông Bắc Bộ",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Hà_Giang",
+        "languages": {
+          "vi": "Hà Giang",
+          "en": "Ha Giang",
+          "ja": "ハザン",
+          "ko": "하장"
+        }
+      },
+      {
+        "code": 2,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đông Bắc Bộ",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Cao_Bằng",
+        "languages": {
+          "vi": "Cao Bằng",
+          "en": "Cao Bằng",
+          "ja": "曹邦",
+          "ko": "까오방"
+        }
+      },
+      {
+        "code": 3,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đông Bắc Bộ",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Bắc_Kạn",
+        "languages": {
+          "vi": "Bắc Kạn",
+          "en": "Bắc Kạn",
+          "ja": "バクカン",
+          "ko": "박깐"
+        }
+      },
+      {
+        "code": 4,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đông Bắc Bộ",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Tuyên_Quang",
+        "languages": {
+          "vi": "Tuyên Quang",
+          "en": "Tuyên Quang",
+          "ja": "トゥエン・クアン",
+          "ko": "뚜옌꽝"
+        }
+      },
+      {
+        "code": 5,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đông Bắc Bộ",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Lào_Cai",
+        "languages": {
+          "vi": "Lào Cai",
+          "en": "Lào Cai",
+          "ja": "ラオカイ",
+          "ko": "라오까이"
+        }
+      },
+      {
+        "code": 6,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đông Bắc Bộ",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Yên_Bái",
+        "languages": {
+          "vi": "Yên Bái",
+          "en": "Yên Bái",
+          "ja": "イェンバイ",
+          "ko": "바이옌"
+        }
+      },
+      {
+        "code": 7,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đông Bắc Bộ",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Thái_Nguyên",
+        "languages": {
+          "vi": "Thái Nguyên",
+          "en": "Thái Nguyên",
+          "ja": "タイ・グエン",
+          "ko": "타이 응우옌"
+        }
+      },
+      {
+        "code": 8,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đông Bắc Bộ",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Lạng_Sơn",
+        "languages": {
+          "vi": "Lạng Sơn",
+          "en": "Lạng Sơn",
+          "ja": "ランソン",
+          "ko": "랑손"
+        }
+      },
+      {
+        "code": 9,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đông Bắc Bộ",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Bắc_Giang",
+        "languages": {
+          "vi": "Bắc Giang",
+          "en": "Bắc Giang",
+          "ja": "バクザン",
+          "ko": "박장"
+        }
+      },
+      {
+        "code": 10,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đông Bắc Bộ",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Phú_Thọ",
+        "languages": {
+          "vi": "Phú Thọ",
+          "en": "Phú Thọ",
+          "ja": "フート",
+          "ko": "푸토"
+        }
+      },
+      {
+        "code": 11,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đông Bắc Bộ",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Điện_Biên",
+        "languages": {
+          "vi": "Điện Biên",
+          "en": "Điện Biên",
+          "ja": "ディンビエン",
+          "ko": "디엔비엔"
+        }
+      },
+      {
+        "code": 12,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đông Bắc Bộ",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Lai_Châu",
+        "languages": {
+          "vi": "Lai Châu",
+          "en": "Lai Châu",
+          "ja": "ライチャウ",
+          "ko": "라이 쩌우"
+        }
+      },
+      {
+        "code": 13,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đông Bắc Bộ",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Sơn_La",
+        "languages": {
+          "vi": "Sơn La",
+          "en": "Sơn La",
+          "ja": "ソンラ",
+          "ko": "손 라"
+        }
+      },
+      {
+        "code": 14,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đông Bắc Bộ",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Hoà_Bình",
+        "languages": {
+          "vi": "Hoà Bình",
+          "en": "Hoà Bình",
+          "ja": "ホアビン",
+          "ko": "호아빈"
+        }
+      }
+    ]
+  },
+  {
+    "cityDistrictType": "Đồng bằng sông Hồng",
+    "categoryName": "Đồng bằng sông Hồng",
+    "typeCity": null,
+    "postalCode": "1000115",
+    "keyLanguage": "Đồng_bằng_sông_Hồng",
+    "languages": {
+      "vi": "Đồng bằng sông Hồng",
+      "en": "Đồng bằng sông Hồng",
+      "ja": "Đồng bằng sông Hồng",
+      "ko": "동방송홍"
+    },
+    "districtList": [
+      {
+        "code": 15,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đồng bằng sông Hồng",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Hà_Nội",
+        "languages": {
+          "vi": "Hà Nội",
+          "en": "Ha noi",
+          "ja": "ハノイ",
+          "ko": "하노이"
+        }
+      },
+      {
+        "code": 16,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đồng bằng sông Hồng",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Vĩnh_Phúc",
+        "languages": {
+          "vi": "Vĩnh Phúc",
+          "en": "Vĩnh Phúc",
+          "ja": "ヴィンフック",
+          "ko": "빈푹"
+        }
+      },
+      {
+        "code": 17,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đồng bằng sông Hồng",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Bắc_Ninh",
+        "languages": {
+          "vi": "Bắc Ninh",
+          "en": "Bắc Ninh",
+          "ja": "バクニン",
+          "ko": "박닌"
+        }
+      },
+      {
+        "code": 18,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đồng bằng sông Hồng",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Quảng_Ninh",
+        "languages": {
+          "vi": "Quảng Ninh",
+          "en": "Quảng Ninh",
+          "ja": "クアンニン省",
+          "ko": "꽝닌"
+        }
+      },
+      {
+        "code": 19,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đồng bằng sông Hồng",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Hải_Dương",
+        "languages": {
+          "vi": "Hải Dương",
+          "en": "Hải Dương",
+          "ja": "ハイズオン",
+          "ko": "하이즈엉"
+        }
+      },
+      {
+        "code": 20,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đồng bằng sông Hồng",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Hải_Phòng",
+        "languages": {
+          "vi": "Hải Phòng",
+          "en": "Hải Phòng",
+          "ja": "ハイフォン",
+          "ko": "하이퐁"
+        }
+      },
+      {
+        "code": 21,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đồng bằng sông Hồng",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Hưng_Yên",
+        "languages": {
+          "vi": "Hưng Yên",
+          "en": "Hưng Yên",
+          "ja": "フン・イェン",
+          "ko": "흥옌"
+        }
+      },
+      {
+        "code": 22,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đồng bằng sông Hồng",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Thái_Bình",
+        "languages": {
+          "vi": "Thái Bình",
+          "en": "Thái Bình",
+          "ja": "タイビン",
+          "ko": "타이빈"
+        }
+      },
+      {
+        "code": 23,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đồng bằng sông Hồng",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Hà_Nam",
+        "languages": {
+          "vi": "Hà Nam",
+          "en": "Hà Nam",
+          "ja": "ハナム",
+          "ko": "하남"
+        }
+      },
+      {
+        "code": 24,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đồng bằng sông Hồng",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Nam_Định",
+        "languages": {
+          "vi": "Nam Định",
+          "en": "Nam Định",
+          "ja": "ナム・ディン",
+          "ko": "남딘"
+        }
+      },
+      {
+        "code": 25,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đồng bằng sông Hồng",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Ninh_Bình",
+        "languages": {
+          "vi": "Ninh Bình",
+          "en": "Ninh Bình",
+          "ja": "ニンビン",
+          "ko": "닌빈"
+        }
+      }
+    ]
+  },
+  {
+    "cityDistrictType": "Bắc Trung Bộ và Duyên hải miền Trung",
+    "categoryName": "Bắc Trung Bộ và Duyên hải miền Trung",
+    "typeCity": null,
+    "postalCode": "1000127",
+    "keyLanguage": "Bắc_Trung_Bộ_và_Duyên_hải_miền_Trung",
+    "languages": {
+      "vi": "Bắc Trung Bộ và Duyên hải miền Trung",
+      "en": "Bắc Trung Bộ và Duyên hải miền Trung",
+      "ja": "Bắc Trung Bộ và Duyên hải miền Trung",
+      "ko": "Bắc Trung Bộ 및 Duyên hải miền Trung"
+    },
+    "districtList": [
+      {
+        "code": 26,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Bắc Trung Bộ và Duyên hải miền Trung",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Thanh_Hoá",
+        "languages": {
+          "vi": "Thanh Hóa",
+          "en": "Thanh Hoá",
+          "ja": "タインホア",
+          "ko": "탄호아"
+        }
+      },
+      {
+        "code": 27,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Bắc Trung Bộ và Duyên hải miền Trung",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Nghệ_An",
+        "languages": {
+          "vi": "Nghệ An",
+          "en": "Nghệ An",
+          "ja": "グアン",
+          "ko": "응에안"
+        }
+      },
+      {
+        "code": 28,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Bắc Trung Bộ và Duyên hải miền Trung",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Hà_Tĩnh",
+        "languages": {
+          "vi": "Hà Tĩnh",
+          "en": "Hà Tĩnh",
+          "ja": "ハティン",
+          "ko": "하띤"
+        }
+      },
+      {
+        "code": 29,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Bắc Trung Bộ và Duyên hải miền Trung",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Quảng_Bình",
+        "languages": {
+          "vi": "Quảng Bình",
+          "en": "Quảng Bình",
+          "ja": "クアンビン",
+          "ko": "꽝빈"
+        }
+      },
+      {
+        "code": 30,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Bắc Trung Bộ và Duyên hải miền Trung",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Quảng_Trị",
+        "languages": {
+          "vi": "Quảng Trị",
+          "en": "Quảng Trị",
+          "ja": "クアン・チャン",
+          "ko": "꽝찌(Quảng Trị)"
+        }
+      },
+      {
+        "code": 31,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Bắc Trung Bộ và Duyên hải miền Trung",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Thừa_Thiên_Huế",
+        "languages": {
+          "vi": "Thừa Thiên Huế",
+          "en": "Thừa Thiên Huế",
+          "ja": "ティア・ティエン・フエ",
+          "ko": "투아티엔후에(Thừa Thiên Huế)"
+        }
+      },
+      {
+        "code": 32,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Bắc Trung Bộ và Duyên hải miền Trung",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Đà_Nẵng",
+        "languages": {
+          "vi": "Đà Nẵng",
+          "en": "Đà Nẵng",
+          "ja": "ダナン",
+          "ko": "다낭"
+        }
+      },
+      {
+        "code": 33,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Bắc Trung Bộ và Duyên hải miền Trung",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Quảng_Nam",
+        "languages": {
+          "vi": "Quảng Nam",
+          "en": "Quảng Nam",
+          "ja": "クアンナム省",
+          "ko": "꽝남"
+        }
+      },
+      {
+        "code": 34,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Bắc Trung Bộ và Duyên hải miền Trung",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Quảng_Ngãi",
+        "languages": {
+          "vi": "Quảng Ngãi",
+          "en": "Quảng Ngãi",
+          "ja": "クアンガイ",
+          "ko": "꽝응아이"
+        }
+      },
+      {
+        "code": 35,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Bắc Trung Bộ và Duyên hải miền Trung",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Bình_Định",
+        "languages": {
+          "vi": "Bình Định",
+          "en": "Bình Định",
+          "ja": "ビンディン",
+          "ko": "빈딘"
+        }
+      },
+      {
+        "code": 36,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Bắc Trung Bộ và Duyên hải miền Trung",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Phú_Yên",
+        "languages": {
+          "vi": "Phú Yên",
+          "en": "Phú Yên",
+          "ja": "フーエン",
+          "ko": "푸옌"
+        }
+      },
+      {
+        "code": 37,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Bắc Trung Bộ và Duyên hải miền Trung",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Khánh_Hoà",
+        "languages": {
+          "vi": "Khánh Hòa",
+          "en": "Khánh Hoà",
+          "ja": "カインホア",
+          "ko": "칸호아"
+        }
+      },
+      {
+        "code": 38,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Bắc Trung Bộ và Duyên hải miền Trung",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Ninh_Thuận",
+        "languages": {
+          "vi": "Ninh Thuận",
+          "en": "Ninh Thuận",
+          "ja": "ニン・トゥン",
+          "ko": "닌투안"
+        }
+      },
+      {
+        "code": 39,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Bắc Trung Bộ và Duyên hải miền Trung",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Bình_Thuận",
+        "languages": {
+          "vi": "Bình Thuận",
+          "en": "Bình Thuận",
+          "ja": "ビン・トゥン",
+          "ko": "빈 투언"
+        }
+      }
+    ]
+  },
+  {
+    "cityDistrictType": "Tây Nguyên",
+    "categoryName": "Tây Nguyên",
+    "typeCity": null,
+    "postalCode": "1000142",
+    "keyLanguage": "Tây_Nguyên",
+    "languages": {
+      "vi": "Tây Nguyên",
+      "en": "Tây Nguyên",
+      "ja": "タイ・グエン",
+      "ko": "타이 응우옌"
+    },
+    "districtList": [
+      {
+        "code": 40,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Tây Nguyên",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Kon_Tum",
+        "languages": {
+          "vi": "Kon Tum",
+          "en": "Kon Tum",
+          "ja": "コン・トゥム",
+          "ko": "콘 텀"
+        }
+      },
+      {
+        "code": 41,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Tây Nguyên",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Gia_Lai",
+        "languages": {
+          "vi": "Gia Lai",
+          "en": "Gia Lai",
+          "ja": "ザライ",
+          "ko": "지아 라이"
+        }
+      },
+      {
+        "code": 42,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Tây Nguyên",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Đắk_Lắk",
+        "languages": {
+          "vi": "Đăk Lăk",
+          "en": "Đắk Lắk",
+          "ja": "ディク・ラク",
+          "ko": "닥락"
+        }
+      },
+      {
+        "code": 43,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Tây Nguyên",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Đắk_Nông",
+        "languages": {
+          "vi": "Đăk Nông",
+          "en": "Đắk Nông",
+          "ja": "ダク・ノン",
+          "ko": "닥농"
+        }
+      },
+      {
+        "code": 44,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Tây Nguyên",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Lâm_Đồng",
+        "languages": {
+          "vi": "Lâm Đồng",
+          "en": "Lâm Đồng",
+          "ja": "ラムドン",
+          "ko": "람동"
+        }
+      }
+    ]
+  },
+  {
+    "cityDistrictType": "Đông Nam Bộ",
+    "categoryName": "Đông Nam Bộ",
+    "typeCity": null,
+    "postalCode": "1000148",
+    "keyLanguage": "Đông_Nam_Bộ",
+    "languages": {
+      "vi": "Đông Nam Bộ",
+      "en": "Đông Nam Bộ",
+      "ja": "ドン・ナム・ボ",
+      "ko": "동남보"
+    },
+    "districtList": [
+      {
+        "code": 45,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đông Nam Bộ",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Bình_Phước",
+        "languages": {
+          "vi": "Bình Phước",
+          "en": "Bình Phước",
+          "ja": "ビン・フック",
+          "ko": "빈프억"
+        }
+      },
+      {
+        "code": 46,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đông Nam Bộ",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Tây_Ninh",
+        "languages": {
+          "vi": "Tây Ninh",
+          "en": "Tây Ninh",
+          "ja": "タイニン",
+          "ko": "타이닌"
+        }
+      },
+      {
+        "code": 47,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đông Nam Bộ",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Bình_Dương",
+        "languages": {
+          "vi": "Bình Dương",
+          "en": "Bình Dương",
+          "ja": "ビンズン",
+          "ko": "빈즈엉"
+        }
+      },
+      {
+        "code": 48,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đông Nam Bộ",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Đồng_Nai",
+        "languages": {
+          "vi": "Đồng Nai",
+          "en": "Đồng Nai",
+          "ja": "ドンナイ",
+          "ko": "동나이"
+        }
+      },
+      {
+        "code": 49,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đông Nam Bộ",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Bà_Rịa_-_Vũng_Tàu",
+        "languages": {
+          "vi": "Bà Rịa - Vũng Tàu",
+          "en": "Bà Rịa - Vũng Tàu",
+          "ja": "バレア - ブンタウ",
+          "ko": "Bà Rịa - Vũng Tàu"
+        }
+      },
+      {
+        "code": 50,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đông Nam Bộ",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "TP.Hồ_Chí_Minh",
+        "languages": {
+          "vi": "TP.Hồ Chí Minh",
+          "en": "TP.Hồ Chí Minh",
+          "ja": "TP.ホー・チ・ミン",
+          "ko": "TP.호치민"
+        }
+      }
+    ]
+  },
+  {
+    "cityDistrictType": "Đồng bằng sông Cửu Long",
+    "categoryName": "Đồng bằng sông Cửu Long",
+    "typeCity": null,
+    "postalCode": "1000155",
+    "keyLanguage": "Đồng_bằng_sông_Cửu_Long",
+    "languages": {
+      "vi": "Đồng bằng sông Cửu Long",
+      "en": "Đồng bằng sông Cửu Long",
+      "ja": "Đồng bằng sông Cửu Long",
+      "ko": "동방송 Cửu Long"
+    },
+    "districtList": [
+      {
+        "code": 51,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đồng bằng sông Cửu Long",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Long_An",
+        "languages": {
+          "vi": "Long An",
+          "en": "Long An",
+          "ja": "ロンアン",
+          "ko": "롱안"
+        }
+      },
+      {
+        "code": 52,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đồng bằng sông Cửu Long",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Tiền_Giang",
+        "languages": {
+          "vi": "Tiền Giang",
+          "en": "Tiền Giang",
+          "ja": "ティアンザン",
+          "ko": "티엔장"
+        }
+      },
+      {
+        "code": 53,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đồng bằng sông Cửu Long",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Bến_Tre",
+        "languages": {
+          "vi": "Bến Tre",
+          "en": "Bến Tre",
+          "ja": "ベントレ",
+          "ko": "벤 트레"
+        }
+      },
+      {
+        "code": 54,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đồng bằng sông Cửu Long",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Trà_Vinh",
+        "languages": {
+          "vi": "Trà Vinh",
+          "en": "Trà Vinh",
+          "ja": "トラ・ヴィン",
+          "ko": "짜빈"
+        }
+      },
+      {
+        "code": 55,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đồng bằng sông Cửu Long",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Vĩnh_Long",
+        "languages": {
+          "vi": "Vĩnh Long",
+          "en": "Vĩnh Long",
+          "ja": "ヴィンロン",
+          "ko": "빈 롱"
+        }
+      },
+      {
+        "code": 56,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đồng bằng sông Cửu Long",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Đồng_Tháp",
+        "languages": {
+          "vi": "Đồng Tháp",
+          "en": "Đồng Tháp",
+          "ja": "ドンタップ",
+          "ko": "동탑"
+        }
+      },
+      {
+        "code": 57,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đồng bằng sông Cửu Long",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "An_Giang",
+        "languages": {
+          "vi": "An Giang",
+          "en": "An Giang",
+          "ja": "アンザン",
+          "ko": "안장"
+        }
+      },
+      {
+        "code": 58,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đồng bằng sông Cửu Long",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Kiên_Giang",
+        "languages": {
+          "vi": "Kiên Giang",
+          "en": "Kiên Giang",
+          "ja": "キエンザン",
+          "ko": "키엔장"
+        }
+      },
+      {
+        "code": 59,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đồng bằng sông Cửu Long",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Cần_Thơ",
+        "languages": {
+          "vi": "Cần Thơ",
+          "en": "Cần Thơ",
+          "ja": "カントー",
+          "ko": "깐토"
+        }
+      },
+      {
+        "code": 60,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đồng bằng sông Cửu Long",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Hậu_Giang",
+        "languages": {
+          "vi": "Hậu Giang",
+          "en": "Hậu Giang",
+          "ja": "フーザン",
+          "ko": "하우장"
+        }
+      },
+      {
+        "code": 61,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đồng bằng sông Cửu Long",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Sóc_Trăng",
+        "languages": {
+          "vi": "Sóc Trăng",
+          "en": "Sóc Trăng",
+          "ja": "ソクチャン",
+          "ko": "속 짱"
+        }
+      },
+      {
+        "code": 62,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đồng bằng sông Cửu Long",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Bạc_Liêu",
+        "languages": {
+          "vi": "Bạc Liêu",
+          "en": "Bạc Liêu",
+          "ja": "バクリュー",
+          "ko": "박리에우"
+        }
+      },
+      {
+        "code": 63,
+        "cityDistrictType": "Tỉnh Thành",
+        "categoryName": "Đồng bằng sông Cửu Long",
+        "typeCity": "Tỉnh Thành",
+        "keyLanguage": "Cà_Mau",
+        "languages": {
+          "vi": "Cà Mau",
+          "en": "Cà Mau",
+          "ja": "カマウ",
+          "ko": "까마우"
+        }
+      }
+    ]
+  }
+]

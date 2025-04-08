@@ -1,0 +1,7802 @@
+[
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -20.1457125,
+      "lng": 28.5873388
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belmont",
+        "location": {
+          "lat": -20.174199,
+          "lng": 28.5666667
+        },
+        "keyAccentLanguage": "belmont"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Njube",
+        "location": {
+          "lat": -20.132108,
+          "lng": 28.5287256
+        },
+        "keyAccentLanguage": "njube"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Umguza",
+        "location": {
+          "lat": -20.1457125,
+          "lng": 28.5873388
+        },
+        "keyAccentLanguage": "umguza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Greenspan",
+        "location": {
+          "lat": -20.1255517,
+          "lng": 28.576405
+        },
+        "keyAccentLanguage": "greenspan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barham Green",
+        "location": {
+          "lat": -20.1899389,
+          "lng": 28.5695849
+        },
+        "keyAccentLanguage": "barham_green"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kilallo",
+        "location": {
+          "lat": -20.1457125,
+          "lng": 28.5873388
+        },
+        "keyAccentLanguage": "kilallo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fortunes Gate",
+        "location": {
+          "lat": -20.2018799,
+          "lng": 28.6323132
+        },
+        "keyAccentLanguage": "fortunes_gate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fagadola",
+        "location": {
+          "lat": -20.1457125,
+          "lng": 28.5873388
+        },
+        "keyAccentLanguage": "fagadola"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hillside South",
+        "location": {
+          "lat": -20.1978773,
+          "lng": 28.6036311
+        },
+        "keyAccentLanguage": "hillside_south"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hillside West",
+        "location": {
+          "lat": -20.1978773,
+          "lng": 28.6036311
+        },
+        "keyAccentLanguage": "hillside_west"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "City",
+        "location": {
+          "lat": -20.1457125,
+          "lng": 28.5873388
+        },
+        "keyAccentLanguage": "city"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hillside East",
+        "location": {
+          "lat": -20.1978773,
+          "lng": 28.6036311
+        },
+        "keyAccentLanguage": "hillside_east"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "East Queens Park",
+        "location": {
+          "lat": -20.1457125,
+          "lng": 28.5873388
+        },
+        "keyAccentLanguage": "east_queens_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Forestvale",
+        "location": {
+          "lat": -20.1457125,
+          "lng": 28.5873388
+        },
+        "keyAccentLanguage": "forestvale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Raylton",
+        "location": {
+          "lat": -20.1612372,
+          "lng": 28.5710439
+        },
+        "keyAccentLanguage": "raylton"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Matshobana",
+        "location": {
+          "lat": -20.1371941,
+          "lng": 28.5498861
+        },
+        "keyAccentLanguage": "matshobana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Four Winds",
+        "location": {
+          "lat": -20.2144536,
+          "lng": 28.584175
+        },
+        "keyAccentLanguage": "four_winds"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Montrose",
+        "location": {
+          "lat": -20.2034846,
+          "lng": 28.5695849
+        },
+        "keyAccentLanguage": "montrose"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mzilikazi",
+        "location": {
+          "lat": -20.1357602,
+          "lng": 28.5695849
+        },
+        "keyAccentLanguage": "mzilikazi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Northgate",
+        "location": {
+          "lat": -20.1057707,
+          "lng": 28.6053284
+        },
+        "keyAccentLanguage": "northgate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ilanda",
+        "location": {
+          "lat": -20.1811168,
+          "lng": 28.6118927
+        },
+        "keyAccentLanguage": "ilanda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mpopoma",
+        "location": {
+          "lat": -20.1328379,
+          "lng": 28.5476972
+        },
+        "keyAccentLanguage": "mpopoma"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lakeside",
+        "location": {
+          "lat": -20.245468,
+          "lng": 28.4844123
+        },
+        "keyAccentLanguage": "lakeside"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Munda",
+        "location": {
+          "lat": -20.2260633,
+          "lng": 28.610434
+        },
+        "keyAccentLanguage": "munda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Iminyela",
+        "location": {
+          "lat": -20.1491711,
+          "lng": 28.5279958
+        },
+        "keyAccentLanguage": "iminyela"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Matsheumhlope",
+        "location": {
+          "lat": -20.1867925,
+          "lng": 28.6410641
+        },
+        "keyAccentLanguage": "matsheumhlope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "North Lynne",
+        "location": {
+          "lat": -20.0946118,
+          "lng": 28.5994933
+        },
+        "keyAccentLanguage": "north_lynne"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Queensdale",
+        "location": {
+          "lat": -20.095558,
+          "lng": 28.6133514
+        },
+        "keyAccentLanguage": "queensdale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Orange Grove",
+        "location": {
+          "lat": -20.1032368,
+          "lng": 28.6235619
+        },
+        "keyAccentLanguage": "orange_grove"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hume Park",
+        "location": {
+          "lat": -20.1490316,
+          "lng": 28.5980344
+        },
+        "keyAccentLanguage": "hume_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Malindela",
+        "location": {
+          "lat": -20.1842744,
+          "lng": 28.6016815
+        },
+        "keyAccentLanguage": "malindela"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belmont East",
+        "location": {
+          "lat": -20.174199,
+          "lng": 28.5666667
+        },
+        "keyAccentLanguage": "belmont_east"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Thorngrove",
+        "location": {
+          "lat": -20.1513594,
+          "lng": 28.5579118
+        },
+        "keyAccentLanguage": "thorngrove"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Glenville",
+        "location": {
+          "lat": -20.097181,
+          "lng": 28.5579118
+        },
+        "keyAccentLanguage": "glenville"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Newmansford",
+        "location": {
+          "lat": -20.1049917,
+          "lng": 28.6064499
+        },
+        "keyAccentLanguage": "newmansford"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Upper Glenville",
+        "location": {
+          "lat": -20.0922759,
+          "lng": 28.5549934
+        },
+        "keyAccentLanguage": "upper_glenville"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mpopomo South",
+        "location": {
+          "lat": -20.1457125,
+          "lng": 28.5873388
+        },
+        "keyAccentLanguage": "mpopomo_south"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Makokoba",
+        "location": {
+          "lat": -20.1536246,
+          "lng": 28.5681258
+        },
+        "keyAccentLanguage": "makokoba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Westgate",
+        "location": {
+          "lat": -20.168934,
+          "lng": 28.5542638
+        },
+        "keyAccentLanguage": "westgate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Southwold",
+        "location": {
+          "lat": -20.1969015,
+          "lng": 28.5608302
+        },
+        "keyAccentLanguage": "southwold"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Riverside North",
+        "location": {
+          "lat": -20.180925,
+          "lng": 28.6512728
+        },
+        "keyAccentLanguage": "riverside_north"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Newton",
+        "location": {
+          "lat": -20.2219338,
+          "lng": 28.572503
+        },
+        "keyAccentLanguage": "newton"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sunnyside",
+        "location": {
+          "lat": -20.1295942,
+          "lng": 28.604599
+        },
+        "keyAccentLanguage": "sunnyside"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Umguza Estate",
+        "location": {
+          "lat": -20.0763172,
+          "lng": 28.584175
+        },
+        "keyAccentLanguage": "umguza_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tshabalala",
+        "location": {
+          "lat": -20.1738506,
+          "lng": 28.530185
+        },
+        "keyAccentLanguage": "tshabalala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Riverside Estates",
+        "location": {
+          "lat": -20.1682752,
+          "lng": 28.6425361
+        },
+        "keyAccentLanguage": "riverside_estates"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Romney Park",
+        "location": {
+          "lat": -20.1264498,
+          "lng": 28.612875
+        },
+        "keyAccentLanguage": "romney_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Steeldale",
+        "location": {
+          "lat": -20.1632237,
+          "lng": 28.552075
+        },
+        "keyAccentLanguage": "steeldale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sauers Town West",
+        "location": {
+          "lat": -20.1072761,
+          "lng": 28.5929285
+        },
+        "keyAccentLanguage": "sauers_town_west"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nguboyenia",
+        "location": {
+          "lat": -20.1394962,
+          "lng": 28.5637485
+        },
+        "keyAccentLanguage": "nguboyenia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "The Jungle",
+        "location": {
+          "lat": -20.0940688,
+          "lng": 28.5717735
+        },
+        "keyAccentLanguage": "the_jungle"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tegela",
+        "location": {
+          "lat": -20.1225325,
+          "lng": 28.6024108
+        },
+        "keyAccentLanguage": "tegela"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barbour Fields",
+        "location": {
+          "lat": -20.129,
+          "lng": 28.57
+        },
+        "keyAccentLanguage": "barbour_fields"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bulawayo",
+        "location": {
+          "lat": -20.172,
+          "lng": 28.581
+        },
+        "keyAccentLanguage": "bulawayo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kenilworth",
+        "location": {
+          "lat": -20.1256501,
+          "lng": 28.5885518
+        },
+        "keyAccentLanguage": "kenilworth"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Donnington",
+        "location": {
+          "lat": -20.186,
+          "lng": 28.559
+        },
+        "keyAccentLanguage": "donnington"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Intini",
+        "location": {
+          "lat": -20.229,
+          "lng": 28.618
+        },
+        "keyAccentLanguage": "intini"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "North End",
+        "location": {
+          "lat": -20.132,
+          "lng": 28.591
+        },
+        "keyAccentLanguage": "north_end"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Matsheumhlope Lots",
+        "location": {
+          "lat": -20.183,
+          "lng": 28.633
+        },
+        "keyAccentLanguage": "matsheumhlope_lots"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hillside",
+        "location": {
+          "lat": -20.199,
+          "lng": 28.6
+        },
+        "keyAccentLanguage": "hillside"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Newton West",
+        "location": {
+          "lat": -20.214,
+          "lng": 28.558
+        },
+        "keyAccentLanguage": "newton_west"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sunninghill",
+        "location": {
+          "lat": -20.175,
+          "lng": 28.663
+        },
+        "keyAccentLanguage": "sunninghill"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Westondale",
+        "location": {
+          "lat": -20.156,
+          "lng": 28.554
+        },
+        "keyAccentLanguage": "westondale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rowena",
+        "location": {
+          "lat": -20.119,
+          "lng": 28.584
+        },
+        "keyAccentLanguage": "rowena"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Paddonhurst",
+        "location": {
+          "lat": -20.141,
+          "lng": 28.6
+        },
+        "keyAccentLanguage": "paddonhurst"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pelandaba",
+        "location": {
+          "lat": -20.148,
+          "lng": 28.521
+        },
+        "keyAccentLanguage": "pelandaba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "White Star",
+        "location": {
+          "lat": -20.207,
+          "lng": 28.61
+        },
+        "keyAccentLanguage": "white_star"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Granite Park",
+        "location": {
+          "lat": -20.219,
+          "lng": 28.589
+        },
+        "keyAccentLanguage": "granite_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Suburbs",
+        "location": {
+          "lat": -20.158,
+          "lng": 28.601
+        },
+        "keyAccentLanguage": "suburbs"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ntaba Moya",
+        "location": {
+          "lat": -20.228,
+          "lng": 28.638
+        },
+        "keyAccentLanguage": "ntaba_moya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Woodlands",
+        "location": {
+          "lat": -20.171,
+          "lng": 28.618
+        },
+        "keyAccentLanguage": "woodlands"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "West Queens Park",
+        "location": {
+          "lat": -20.114,
+          "lng": 28.605
+        },
+        "keyAccentLanguage": "west_queens_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "North Trenance Estate",
+        "location": {
+          "lat": -20.083,
+          "lng": 28.567
+        },
+        "keyAccentLanguage": "north_trenance_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Magwegwe",
+        "location": {
+          "lat": -20.137,
+          "lng": 28.506
+        },
+        "keyAccentLanguage": "magwegwe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kingsdale",
+        "location": {
+          "lat": -20.101,
+          "lng": 28.61
+        },
+        "keyAccentLanguage": "kingsdale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Famona",
+        "location": {
+          "lat": -20.184,
+          "lng": 28.586
+        },
+        "keyAccentLanguage": "famona"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bellevue",
+        "location": {
+          "lat": -20.2,
+          "lng": 28.55
+        },
+        "keyAccentLanguage": "bellevue"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Southdale",
+        "location": {
+          "lat": -20.228,
+          "lng": 28.629
+        },
+        "keyAccentLanguage": "southdale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eloana",
+        "location": {
+          "lat": -20.22,
+          "lng": 28.579
+        },
+        "keyAccentLanguage": "eloana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Burnside",
+        "location": {
+          "lat": -20.218,
+          "lng": 28.616
+        },
+        "keyAccentLanguage": "burnside"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ascot",
+        "location": {
+          "lat": -20.161,
+          "lng": 28.61
+        },
+        "keyAccentLanguage": "ascot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mabutweni",
+        "location": {
+          "lat": -20.142,
+          "lng": 28.532
+        },
+        "keyAccentLanguage": "mabutweni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hyde Park",
+        "location": {
+          "lat": -20.161,
+          "lng": 28.508
+        },
+        "keyAccentLanguage": "hyde_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Morningside",
+        "location": {
+          "lat": -20.202,
+          "lng": 28.577
+        },
+        "keyAccentLanguage": "morningside"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Waterlea",
+        "location": {
+          "lat": -20.096,
+          "lng": 28.623
+        },
+        "keyAccentLanguage": "waterlea"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Greenhill",
+        "location": {
+          "lat": -20.194,
+          "lng": 28.582
+        },
+        "keyAccentLanguage": "greenhill"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kumalo North",
+        "location": {
+          "lat": -20.143,
+          "lng": 28.616
+        },
+        "keyAccentLanguage": "kumalo_north"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sauers Township",
+        "location": {
+          "lat": -20.117,
+          "lng": 28.6
+        },
+        "keyAccentLanguage": "sauers_township"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kumalo",
+        "location": {
+          "lat": -20.15,
+          "lng": 28.617
+        },
+        "keyAccentLanguage": "kumalo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lockview",
+        "location": {
+          "lat": -20.187,
+          "lng": 28.668
+        },
+        "keyAccentLanguage": "lockview"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Windsor Park",
+        "location": {
+          "lat": -20.1,
+          "lng": 28.55
+        },
+        "keyAccentLanguage": "windsor_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Richmond",
+        "location": {
+          "lat": -20.085,
+          "lng": 28.552
+        },
+        "keyAccentLanguage": "richmond"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Parkview",
+        "location": {
+          "lat": -20.146,
+          "lng": 28.595
+        },
+        "keyAccentLanguage": "parkview"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Whitecairns",
+        "location": {
+          "lat": -20.205,
+          "lng": 28.595
+        },
+        "keyAccentLanguage": "whitecairns"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hillcrest",
+        "location": {
+          "lat": -20.188,
+          "lng": 28.594
+        },
+        "keyAccentLanguage": "hillcrest"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Parklands",
+        "location": {
+          "lat": -20.142,
+          "lng": 28.623
+        },
+        "keyAccentLanguage": "parklands"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sizinda",
+        "location": {
+          "lat": -20.173,
+          "lng": 28.543
+        },
+        "keyAccentLanguage": "sizinda"
+      }
+    ],
+    "enNameLanguage": "Bulawayo",
+    "keyAccentLanguage": "bulawayo"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -17.8251657,
+      "lng": 31.03351
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Newlands",
+        "location": {
+          "lat": -17.8108357,
+          "lng": 31.0851019
+        },
+        "keyAccentLanguage": "newlands"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Runnivale",
+        "location": {
+          "lat": -17.8262928,
+          "lng": 31.0503723
+        },
+        "keyAccentLanguage": "runnivale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hillside",
+        "location": {
+          "lat": -17.8360941,
+          "lng": 31.0765048
+        },
+        "keyAccentLanguage": "hillside"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Harare",
+        "location": {
+          "lat": -17.8262928,
+          "lng": 31.0503723
+        },
+        "keyAccentLanguage": "harare"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bingley",
+        "location": {
+          "lat": -17.7982467,
+          "lng": 30.9801212
+        },
+        "keyAccentLanguage": "bingley"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Avondale",
+        "location": {
+          "lat": -17.7959448,
+          "lng": 31.0332235
+        },
+        "keyAccentLanguage": "avondale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chadcombe",
+        "location": {
+          "lat": -17.8568787,
+          "lng": 31.1008616
+        },
+        "keyAccentLanguage": "chadcombe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Avenues",
+        "location": {
+          "lat": -17.8200127,
+          "lng": 31.0478433
+        },
+        "keyAccentLanguage": "avenues"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ashbrittle",
+        "location": {
+          "lat": -17.7616883,
+          "lng": 31.0191751
+        },
+        "keyAccentLanguage": "ashbrittle"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ashdown Park",
+        "location": {
+          "lat": -17.7938136,
+          "lng": 30.9826132
+        },
+        "keyAccentLanguage": "ashdown_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Prospect Park",
+        "location": {
+          "lat": -17.8262928,
+          "lng": 31.0503723
+        },
+        "keyAccentLanguage": "prospect_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arcadia South",
+        "location": {
+          "lat": -17.8401219,
+          "lng": 31.0535762
+        },
+        "keyAccentLanguage": "arcadia_south"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arcadia West",
+        "location": {
+          "lat": -17.8401219,
+          "lng": 31.0535762
+        },
+        "keyAccentLanguage": "arcadia_west"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Greendale",
+        "location": {
+          "lat": -17.812583,
+          "lng": 31.126318
+        },
+        "keyAccentLanguage": "greendale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Colne Valley",
+        "location": {
+          "lat": -17.7835723,
+          "lng": 31.10515939999999
+        },
+        "keyAccentLanguage": "colne_valley"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adylinn",
+        "location": {
+          "lat": -17.7561363,
+          "lng": 30.9905
+        },
+        "keyAccentLanguage": "adylinn"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eastlea North",
+        "location": {
+          "lat": -17.8175606,
+          "lng": 31.06934
+        },
+        "keyAccentLanguage": "eastlea_north"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Glenavon Est",
+        "location": {
+          "lat": -17.8262928,
+          "lng": 31.0503723
+        },
+        "keyAccentLanguage": "glenavon_est"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Comet Rise",
+        "location": {
+          "lat": -17.8262928,
+          "lng": 31.0503723
+        },
+        "keyAccentLanguage": "comet_rise"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cranborne",
+        "location": {
+          "lat": -17.8710669,
+          "lng": 31.0683658
+        },
+        "keyAccentLanguage": "cranborne"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Civic Centre",
+        "location": {
+          "lat": -17.7549196,
+          "lng": 30.9996297
+        },
+        "keyAccentLanguage": "civic_centre"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Oval Park",
+        "location": {
+          "lat": -17.8262928,
+          "lng": 31.0503723
+        },
+        "keyAccentLanguage": "oval_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Msasa",
+        "location": {
+          "lat": -17.8448695,
+          "lng": 31.1166193
+        },
+        "keyAccentLanguage": "msasa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beverley West",
+        "location": {
+          "lat": -17.8262928,
+          "lng": 31.0503723
+        },
+        "keyAccentLanguage": "beverley_west"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dungarven",
+        "location": {
+          "lat": -17.7547523,
+          "lng": 31.089443
+        },
+        "keyAccentLanguage": "dungarven"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Highfield",
+        "location": {
+          "lat": -17.8817488,
+          "lng": 30.9818962
+        },
+        "keyAccentLanguage": "highfield"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amby",
+        "location": {
+          "lat": -17.8365666,
+          "lng": 31.1338071
+        },
+        "keyAccentLanguage": "amby"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Avondale West",
+        "location": {
+          "lat": -17.7833705,
+          "lng": 31.0234757
+        },
+        "keyAccentLanguage": "avondale_west"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Avon Rise",
+        "location": {
+          "lat": -17.7831272,
+          "lng": 31.0421141
+        },
+        "keyAccentLanguage": "avon_rise"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Highlands",
+        "location": {
+          "lat": -17.8123433,
+          "lng": 31.1009988
+        },
+        "keyAccentLanguage": "highlands"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Borrowdale West",
+        "location": {
+          "lat": -17.770794,
+          "lng": 31.078917
+        },
+        "keyAccentLanguage": "borrowdale_west"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mayfield Park",
+        "location": {
+          "lat": -17.8262928,
+          "lng": 31.0503723
+        },
+        "keyAccentLanguage": "mayfield_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belgravia",
+        "location": {
+          "lat": -17.8067527,
+          "lng": 31.0406769
+        },
+        "keyAccentLanguage": "belgravia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ballantyne Park",
+        "location": {
+          "lat": -17.7724545,
+          "lng": 31.1000928
+        },
+        "keyAccentLanguage": "ballantyne_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mbare",
+        "location": {
+          "lat": -17.8642611,
+          "lng": 31.0363768
+        },
+        "keyAccentLanguage": "mbare"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arcadia",
+        "location": {
+          "lat": -17.8478812,
+          "lng": 31.0532088
+        },
+        "keyAccentLanguage": "arcadia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cotswold Hills",
+        "location": {
+          "lat": -17.7973065,
+          "lng": 30.9890661
+        },
+        "keyAccentLanguage": "cotswold_hills"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Graniteside",
+        "location": {
+          "lat": -17.8569666,
+          "lng": 31.0478433
+        },
+        "keyAccentLanguage": "graniteside"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eastlea South",
+        "location": {
+          "lat": -17.8248067,
+          "lng": 31.0864504
+        },
+        "keyAccentLanguage": "eastlea_south"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lochinvar",
+        "location": {
+          "lat": -17.8688147,
+          "lng": 30.988604
+        },
+        "keyAccentLanguage": "lochinvar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Coronation Park",
+        "location": {
+          "lat": -17.8368076,
+          "lng": 31.0987127
+        },
+        "keyAccentLanguage": "coronation_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mtendere",
+        "location": {
+          "lat": -17.8262928,
+          "lng": 31.0503723
+        },
+        "keyAccentLanguage": "mtendere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kensington",
+        "location": {
+          "lat": -17.8066243,
+          "lng": 31.0263428
+        },
+        "keyAccentLanguage": "kensington"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Athlone",
+        "location": {
+          "lat": -17.8289726,
+          "lng": 31.1354748
+        },
+        "keyAccentLanguage": "athlone"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dawn Hill",
+        "location": {
+          "lat": -17.816594,
+          "lng": 31.1127663
+        },
+        "keyAccentLanguage": "dawn_hill"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Borrowdale",
+        "location": {
+          "lat": -17.7491246,
+          "lng": 31.0941636
+        },
+        "keyAccentLanguage": "borrowdale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rhodesville",
+        "location": {
+          "lat": -17.8134505,
+          "lng": 31.1077814
+        },
+        "keyAccentLanguage": "rhodesville"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ardbennie",
+        "location": {
+          "lat": -17.8768372,
+          "lng": 31.0249093
+        },
+        "keyAccentLanguage": "ardbennie"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Groombridge",
+        "location": {
+          "lat": -17.7658562,
+          "lng": 31.0569765
+        },
+        "keyAccentLanguage": "groombridge"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belvedere North",
+        "location": {
+          "lat": -17.8212029,
+          "lng": 31.0137513
+        },
+        "keyAccentLanguage": "belvedere_north"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sunningdale",
+        "location": {
+          "lat": -17.8717978,
+          "lng": 31.0535762
+        },
+        "keyAccentLanguage": "sunningdale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ridgeview",
+        "location": {
+          "lat": -17.841926,
+          "lng": 31.0170659
+        },
+        "keyAccentLanguage": "ridgeview"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Strathmore",
+        "location": {
+          "lat": -17.7422798,
+          "lng": 31.0182133
+        },
+        "keyAccentLanguage": "strathmore"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint Martins",
+        "location": {
+          "lat": -17.8618326,
+          "lng": 31.0614584
+        },
+        "keyAccentLanguage": "saint_martins"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Braeside",
+        "location": {
+          "lat": -17.8381083,
+          "lng": 31.065041
+        },
+        "keyAccentLanguage": "braeside"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gunhill",
+        "location": {
+          "lat": -17.7930569,
+          "lng": 31.072521
+        },
+        "keyAccentLanguage": "gunhill"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Houghton Park",
+        "location": {
+          "lat": -17.8852021,
+          "lng": 31.0148742
+        },
+        "keyAccentLanguage": "houghton_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hatfield",
+        "location": {
+          "lat": -17.8701298,
+          "lng": 31.1080244
+        },
+        "keyAccentLanguage": "hatfield"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Greencroft",
+        "location": {
+          "lat": -17.7779585,
+          "lng": 31.0091396
+        },
+        "keyAccentLanguage": "greencroft"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Milton Park",
+        "location": {
+          "lat": -17.8143059,
+          "lng": 31.0362297
+        },
+        "keyAccentLanguage": "milton_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Northwood",
+        "location": {
+          "lat": -17.7502884,
+          "lng": 31.048585
+        },
+        "keyAccentLanguage": "northwood"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Strathaven",
+        "location": {
+          "lat": -17.7933611,
+          "lng": 31.0191751
+        },
+        "keyAccentLanguage": "strathaven"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Letombo Park",
+        "location": {
+          "lat": -17.8354384,
+          "lng": 31.1151086
+        },
+        "keyAccentLanguage": "letombo_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Stubbington Park",
+        "location": {
+          "lat": -17.8262928,
+          "lng": 31.0503723
+        },
+        "keyAccentLanguage": "stubbington_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Workington",
+        "location": {
+          "lat": -17.8544579,
+          "lng": 31.0019708
+        },
+        "keyAccentLanguage": "workington"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rolf Valley",
+        "location": {
+          "lat": -17.770164,
+          "lng": 31.1158988
+        },
+        "keyAccentLanguage": "rolf_valley"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lincoln Green",
+        "location": {
+          "lat": -17.8303555,
+          "lng": 31.0176575
+        },
+        "keyAccentLanguage": "lincoln_green"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Emerald Hill",
+        "location": {
+          "lat": -17.7755188,
+          "lng": 31.0306432
+        },
+        "keyAccentLanguage": "emerald_hill"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sentosa",
+        "location": {
+          "lat": -17.7880158,
+          "lng": 31.0120069
+        },
+        "keyAccentLanguage": "sentosa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kingsmead",
+        "location": {
+          "lat": -17.7676557,
+          "lng": 31.0903652
+        },
+        "keyAccentLanguage": "kingsmead"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alexandra Park",
+        "location": {
+          "lat": -17.7943916,
+          "lng": 31.0568426
+        },
+        "keyAccentLanguage": "alexandra_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mukuvisi Park",
+        "location": {
+          "lat": -17.8524893,
+          "lng": 31.1119292
+        },
+        "keyAccentLanguage": "mukuvisi_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Green Grove",
+        "location": {
+          "lat": -17.8123479,
+          "lng": 31.140501
+        },
+        "keyAccentLanguage": "green_grove"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rugare",
+        "location": {
+          "lat": -17.8554,
+          "lng": 30.9890661
+        },
+        "keyAccentLanguage": "rugare"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount Pleasant",
+        "location": {
+          "lat": -17.7672324,
+          "lng": 31.0478433
+        },
+        "keyAccentLanguage": "mount_pleasant"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kopje",
+        "location": {
+          "lat": -17.8361111,
+          "lng": 31.0408333
+        },
+        "keyAccentLanguage": "kopje"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belvedere South",
+        "location": {
+          "lat": -17.8319456,
+          "lng": 31.0086556
+        },
+        "keyAccentLanguage": "belvedere_south"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Logan Park",
+        "location": {
+          "lat": -17.8262928,
+          "lng": 31.0503723
+        },
+        "keyAccentLanguage": "logan_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pomona",
+        "location": {
+          "lat": -17.7297567,
+          "lng": 31.10372679999999
+        },
+        "keyAccentLanguage": "pomona"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tudeley",
+        "location": {
+          "lat": -17.7760698,
+          "lng": 31.047531
+        },
+        "keyAccentLanguage": "tudeley"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Prospect",
+        "location": {
+          "lat": -17.8859949,
+          "lng": 31.0506297
+        },
+        "keyAccentLanguage": "prospect"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Queensdale",
+        "location": {
+          "lat": -17.8562574,
+          "lng": 31.0894002
+        },
+        "keyAccentLanguage": "queensdale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Haig Park",
+        "location": {
+          "lat": -17.798944,
+          "lng": 30.9948017
+        },
+        "keyAccentLanguage": "haig_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rietfontein",
+        "location": {
+          "lat": -17.8262928,
+          "lng": 31.0503723
+        },
+        "keyAccentLanguage": "rietfontein"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Wilmington Park",
+        "location": {
+          "lat": -17.8456899,
+          "lng": 31.0766329
+        },
+        "keyAccentLanguage": "wilmington_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Monovale",
+        "location": {
+          "lat": -17.8033527,
+          "lng": 31.0148742
+        },
+        "keyAccentLanguage": "monovale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ryelands",
+        "location": {
+          "lat": -17.749814,
+          "lng": 31.0887645
+        },
+        "keyAccentLanguage": "ryelands"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Marlborough",
+        "location": {
+          "lat": -17.7512482,
+          "lng": 31.0149643
+        },
+        "keyAccentLanguage": "marlborough"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "New Alexandra Park",
+        "location": {
+          "lat": -17.7837602,
+          "lng": 31.066474
+        },
+        "keyAccentLanguage": "new_alexandra_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mukuvisi Woodlands",
+        "location": {
+          "lat": -17.8430556,
+          "lng": 31.095
+        },
+        "keyAccentLanguage": "mukuvisi_woodlands"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint Andrews Park",
+        "location": {
+          "lat": -17.807934,
+          "lng": 30.9962356
+        },
+        "keyAccentLanguage": "saint_andrews_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Southerton",
+        "location": {
+          "lat": -17.8682262,
+          "lng": 31.0132417
+        },
+        "keyAccentLanguage": "southerton"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Colray",
+        "location": {
+          "lat": -17.7613479,
+          "lng": 31.111049
+        },
+        "keyAccentLanguage": "colray"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mabelreign",
+        "location": {
+          "lat": -17.7868131,
+          "lng": 30.9962356
+        },
+        "keyAccentLanguage": "mabelreign"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Park Meadowlands",
+        "location": {
+          "lat": -17.868,
+          "lng": 31.115
+        },
+        "keyAccentLanguage": "park_meadowlands"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mon Abri",
+        "location": {
+          "lat": -17.745,
+          "lng": 31.093
+        },
+        "keyAccentLanguage": "mon_abri"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Meyrick Park",
+        "location": {
+          "lat": -17.802,
+          "lng": 31.003
+        },
+        "keyAccentLanguage": "meyrick_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sherwood Park",
+        "location": {
+          "lat": -17.78,
+          "lng": 31.018
+        },
+        "keyAccentLanguage": "sherwood_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "New Ardbennie",
+        "location": {
+          "lat": -17.883,
+          "lng": 31.006
+        },
+        "keyAccentLanguage": "new_ardbennie"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Little Norfolk",
+        "location": {
+          "lat": -17.7602446,
+          "lng": 31.0412289
+        },
+        "keyAccentLanguage": "little_norfolk"
+      }
+    ],
+    "enNameLanguage": "Harare",
+    "keyAccentLanguage": "harare"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -18.9216386,
+      "lng": 32.174605
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rupisi",
+        "location": {
+          "lat": -20.3631844,
+          "lng": 32.3965556
+        },
+        "keyAccentLanguage": "rupisi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mutare",
+        "location": {
+          "lat": -18.975755,
+          "lng": 32.6691331
+        },
+        "keyAccentLanguage": "mutare"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chipinge",
+        "location": {
+          "lat": -20.1938273,
+          "lng": 32.6205674
+        },
+        "keyAccentLanguage": "chipinge"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Melsetter Junction",
+        "location": {
+          "lat": -19.516667,
+          "lng": 32.55
+        },
+        "keyAccentLanguage": "melsetter_junction"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Inyanga",
+        "location": {
+          "lat": -18.2200791,
+          "lng": 32.7463686
+        },
+        "keyAccentLanguage": "inyanga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Buhera",
+        "location": {
+          "lat": -19.3211383,
+          "lng": 31.4399041
+        },
+        "keyAccentLanguage": "buhera"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nyandoros",
+        "location": {
+          "lat": -18.9216386,
+          "lng": 32.174605
+        },
+        "keyAccentLanguage": "nyandoros"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Craigmore",
+        "location": {
+          "lat": -20.4522588,
+          "lng": 32.49579
+        },
+        "keyAccentLanguage": "craigmore"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Luipaards Vlei",
+        "location": {
+          "lat": -18.9216386,
+          "lng": 32.174605
+        },
+        "keyAccentLanguage": "luipaards_vlei"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cashel",
+        "location": {
+          "lat": -19.5422389,
+          "lng": 32.7879953
+        },
+        "keyAccentLanguage": "cashel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mayo",
+        "location": {
+          "lat": -18.9216386,
+          "lng": 32.174605
+        },
+        "keyAccentLanguage": "mayo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mutasa",
+        "location": {
+          "lat": -18.6155027,
+          "lng": 32.6729515
+        },
+        "keyAccentLanguage": "mutasa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Birchenough Bridge",
+        "location": {
+          "lat": -19.9586181,
+          "lng": 32.3272062
+        },
+        "keyAccentLanguage": "birchenough_bridge"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Madioma",
+        "location": {
+          "lat": -17.816667,
+          "lng": 32.766667
+        },
+        "keyAccentLanguage": "madioma"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mutambara",
+        "location": {
+          "lat": -19.553887,
+          "lng": 32.6550833
+        },
+        "keyAccentLanguage": "mutambara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Odzi",
+        "location": {
+          "lat": -18.9797547,
+          "lng": 32.3759269
+        },
+        "keyAccentLanguage": "odzi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rusape",
+        "location": {
+          "lat": -18.5326251,
+          "lng": 32.1238552
+        },
+        "keyAccentLanguage": "rusape"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Headlands",
+        "location": {
+          "lat": -18.2822041,
+          "lng": 32.0526561
+        },
+        "keyAccentLanguage": "headlands"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tsungwesi",
+        "location": {
+          "lat": -18.8412706,
+          "lng": 32.1835895
+        },
+        "keyAccentLanguage": "tsungwesi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Babblespruit",
+        "location": {
+          "lat": -20.3,
+          "lng": 32.616667
+        },
+        "keyAccentLanguage": "babblespruit"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Elim",
+        "location": {
+          "lat": -18.9216386,
+          "lng": 32.174605
+        },
+        "keyAccentLanguage": "elim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chimanimani",
+        "location": {
+          "lat": -19.8032402,
+          "lng": 32.8733117
+        },
+        "keyAccentLanguage": "chimanimani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Regina Coeli",
+        "location": {
+          "lat": -18.9216386,
+          "lng": 32.174605
+        },
+        "keyAccentLanguage": "regina_coeli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Irene",
+        "location": {
+          "lat": -18.9216386,
+          "lng": 32.174605
+        },
+        "keyAccentLanguage": "irene"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Stapleford",
+        "location": {
+          "lat": -18.7424856,
+          "lng": 32.8091548
+        },
+        "keyAccentLanguage": "stapleford"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Matanda",
+        "location": {
+          "lat": -19.2503686,
+          "lng": 32.4040861
+        },
+        "keyAccentLanguage": "matanda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Junction Gate",
+        "location": {
+          "lat": -20.1665161,
+          "lng": 32.7663728
+        },
+        "keyAccentLanguage": "junction_gate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nyanyadzi",
+        "location": {
+          "lat": -19.776116,
+          "lng": 32.4230391
+        },
+        "keyAccentLanguage": "nyanyadzi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hot Springs",
+        "location": {
+          "lat": -19.65,
+          "lng": 32.46666700000001
+        },
+        "keyAccentLanguage": "hot_springs"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nyakatsapa",
+        "location": {
+          "lat": -18.7208698,
+          "lng": 32.6505418
+        },
+        "keyAccentLanguage": "nyakatsapa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nyanga",
+        "location": {
+          "lat": -18.2200791,
+          "lng": 32.7463686
+        },
+        "keyAccentLanguage": "nyanga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Juliasdale",
+        "location": {
+          "lat": -18.3709475,
+          "lng": 32.6673018
+        },
+        "keyAccentLanguage": "juliasdale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baruru",
+        "location": {
+          "lat": -19.7030138,
+          "lng": 32.0795374
+        },
+        "keyAccentLanguage": "baruru"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nyazura",
+        "location": {
+          "lat": -18.7135189,
+          "lng": 32.1680818
+        },
+        "keyAccentLanguage": "nyazura"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Penhalonga",
+        "location": {
+          "lat": -18.8821666,
+          "lng": 32.6678045
+        },
+        "keyAccentLanguage": "penhalonga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Olivia",
+        "location": {
+          "lat": -18.9216386,
+          "lng": 32.174605
+        },
+        "keyAccentLanguage": "olivia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Makonis",
+        "location": {
+          "lat": -18.716667,
+          "lng": 31.983333
+        },
+        "keyAccentLanguage": "makonis"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Skyline Junction",
+        "location": {
+          "lat": -18.9216386,
+          "lng": 32.174605
+        },
+        "keyAccentLanguage": "skyline_junction"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Uitkyk",
+        "location": {
+          "lat": -18.2016645,
+          "lng": 32.2744836
+        },
+        "keyAccentLanguage": "uitkyk"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mukani",
+        "location": {
+          "lat": -18.5425211,
+          "lng": 32.28461960000001
+        },
+        "keyAccentLanguage": "mukani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dangamvura",
+        "location": {
+          "lat": -19.015162,
+          "lng": 32.5966549
+        },
+        "keyAccentLanguage": "dangamvura"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chibuwe",
+        "location": {
+          "lat": -20.55,
+          "lng": 32.4
+        },
+        "keyAccentLanguage": "chibuwe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beswota",
+        "location": {
+          "lat": -20.333333,
+          "lng": 32.5
+        },
+        "keyAccentLanguage": "beswota"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sanyatwe",
+        "location": {
+          "lat": -18.4470899,
+          "lng": 32.5918974
+        },
+        "keyAccentLanguage": "sanyatwe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bonzo",
+        "location": {
+          "lat": -18.6567835,
+          "lng": 32.6185606
+        },
+        "keyAccentLanguage": "bonzo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dzorora",
+        "location": {
+          "lat": -20.316667,
+          "lng": 32.733333
+        },
+        "keyAccentLanguage": "dzorora"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ivorie",
+        "location": {
+          "lat": -20.366667,
+          "lng": 32.6
+        },
+        "keyAccentLanguage": "ivorie"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tandai",
+        "location": {
+          "lat": -19.6,
+          "lng": 32.8
+        },
+        "keyAccentLanguage": "tandai"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chisumbanje",
+        "location": {
+          "lat": -20.8251192,
+          "lng": 32.2039772
+        },
+        "keyAccentLanguage": "chisumbanje"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tizoras",
+        "location": {
+          "lat": -17.4,
+          "lng": 32.933333
+        },
+        "keyAccentLanguage": "tizoras"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Vengere",
+        "location": {
+          "lat": -18.544622,
+          "lng": 32.1183947
+        },
+        "keyAccentLanguage": "vengere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Watsomba",
+        "location": {
+          "lat": -18.6877669,
+          "lng": 32.6322243
+        },
+        "keyAccentLanguage": "watsomba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dorowa",
+        "location": {
+          "lat": -19.0544304,
+          "lng": 31.7779551
+        },
+        "keyAccentLanguage": "dorowa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Murambinda",
+        "location": {
+          "lat": -19.2712148,
+          "lng": 31.6454222
+        },
+        "keyAccentLanguage": "murambinda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rowa",
+        "location": {
+          "lat": -19.1659537,
+          "lng": 32.6093749
+        },
+        "keyAccentLanguage": "rowa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sakubva",
+        "location": {
+          "lat": -18.9905353,
+          "lng": 32.6418745
+        },
+        "keyAccentLanguage": "sakubva"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mkasa",
+        "location": {
+          "lat": -20.6583966,
+          "lng": 32.2780253
+        },
+        "keyAccentLanguage": "mkasa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chimsasa",
+        "location": {
+          "lat": -17.433333,
+          "lng": 32.983333
+        },
+        "keyAccentLanguage": "chimsasa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Machipanda",
+        "location": {
+          "lat": -18.9216386,
+          "lng": 32.174605
+        },
+        "keyAccentLanguage": "machipanda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sola",
+        "location": {
+          "lat": -18.9216386,
+          "lng": 32.174605
+        },
+        "keyAccentLanguage": "sola"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fombe",
+        "location": {
+          "lat": -17.333333,
+          "lng": 32.983333
+        },
+        "keyAccentLanguage": "fombe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Troutbeck",
+        "location": {
+          "lat": -18.059,
+          "lng": 32.813
+        },
+        "keyAccentLanguage": "troutbeck"
+      }
+    ],
+    "enNameLanguage": "Manicaland",
+    "keyAccentLanguage": "manicaland"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -16.7644295,
+      "lng": 31.0793705
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bindura",
+        "location": {
+          "lat": -17.3040996,
+          "lng": 31.3274387
+        },
+        "keyAccentLanguage": "bindura"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Brawlands",
+        "location": {
+          "lat": -16.7644295,
+          "lng": 31.0793705
+        },
+        "keyAccentLanguage": "brawlands"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Karanda",
+        "location": {
+          "lat": -16.7644295,
+          "lng": 31.0793705
+        },
+        "keyAccentLanguage": "karanda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mukosa",
+        "location": {
+          "lat": -16.7644295,
+          "lng": 31.0793705
+        },
+        "keyAccentLanguage": "mukosa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Marongwe",
+        "location": {
+          "lat": -16.7644295,
+          "lng": 31.0793705
+        },
+        "keyAccentLanguage": "marongwe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Protea",
+        "location": {
+          "lat": -16.7644295,
+          "lng": 31.0793705
+        },
+        "keyAccentLanguage": "protea"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Centenary",
+        "location": {
+          "lat": -16.7293695,
+          "lng": 31.1166193
+        },
+        "keyAccentLanguage": "centenary"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nyamwanga",
+        "location": {
+          "lat": -16.7644295,
+          "lng": 31.0793705
+        },
+        "keyAccentLanguage": "nyamwanga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Guruve",
+        "location": {
+          "lat": -16.6608616,
+          "lng": 30.703379
+        },
+        "keyAccentLanguage": "guruve"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chamboco",
+        "location": {
+          "lat": -16.066667,
+          "lng": 31.333333
+        },
+        "keyAccentLanguage": "chamboco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Poorte River",
+        "location": {
+          "lat": -16.7644295,
+          "lng": 31.0793705
+        },
+        "keyAccentLanguage": "poorte_river"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rosa",
+        "location": {
+          "lat": -16.7644295,
+          "lng": 31.0793705
+        },
+        "keyAccentLanguage": "rosa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hamilton",
+        "location": {
+          "lat": -16.7644295,
+          "lng": 31.0793705
+        },
+        "keyAccentLanguage": "hamilton"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nyamazizi",
+        "location": {
+          "lat": -16.7644295,
+          "lng": 31.0793705
+        },
+        "keyAccentLanguage": "nyamazizi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kanukamwe School",
+        "location": {
+          "lat": -16.7644295,
+          "lng": 31.0793705
+        },
+        "keyAccentLanguage": "kanukamwe_school"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mukumbura",
+        "location": {
+          "lat": -16.2013315,
+          "lng": 31.68927529999999
+        },
+        "keyAccentLanguage": "mukumbura"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bauhinia",
+        "location": {
+          "lat": -16.7644295,
+          "lng": 31.0793705
+        },
+        "keyAccentLanguage": "bauhinia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chimbango",
+        "location": {
+          "lat": -16.25,
+          "lng": 31.516667
+        },
+        "keyAccentLanguage": "chimbango"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Disi",
+        "location": {
+          "lat": -16.9095539,
+          "lng": 30.710321
+        },
+        "keyAccentLanguage": "disi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Guwa",
+        "location": {
+          "lat": -16.7644295,
+          "lng": 31.0793705
+        },
+        "keyAccentLanguage": "guwa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hunyani",
+        "location": {
+          "lat": -16.55125814934182,
+          "lng": 30.45875427005576
+        },
+        "keyAccentLanguage": "hunyani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jumbo",
+        "location": {
+          "lat": -17.466667,
+          "lng": 30.916667
+        },
+        "keyAccentLanguage": "jumbo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Maclear",
+        "location": {
+          "lat": -16.516667,
+          "lng": 31.183333
+        },
+        "keyAccentLanguage": "maclear"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mvurwi",
+        "location": {
+          "lat": -17.0278212,
+          "lng": 30.8556366
+        },
+        "keyAccentLanguage": "mvurwi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Verona",
+        "location": {
+          "lat": 45.4383659,
+          "lng": 10.9917136
+        },
+        "keyAccentLanguage": "verona"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chimimba",
+        "location": {
+          "lat": -16.7644295,
+          "lng": 31.0793705
+        },
+        "keyAccentLanguage": "chimimba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Shamva",
+        "location": {
+          "lat": -17.2979787,
+          "lng": 31.5652772
+        },
+        "keyAccentLanguage": "shamva"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mashambahaka School",
+        "location": {
+          "lat": -16.7644295,
+          "lng": 31.0793705
+        },
+        "keyAccentLanguage": "mashambahaka_school"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Madziwa",
+        "location": {
+          "lat": -16.916667,
+          "lng": 31.533333
+        },
+        "keyAccentLanguage": "madziwa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Glendale",
+        "location": {
+          "lat": -17.3556085,
+          "lng": 31.0675733
+        },
+        "keyAccentLanguage": "glendale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Handsworth",
+        "location": {
+          "lat": -16.7644295,
+          "lng": 31.0793705
+        },
+        "keyAccentLanguage": "handsworth"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Karoi",
+        "location": {
+          "lat": -16.566667,
+          "lng": 31.583333
+        },
+        "keyAccentLanguage": "karoi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Craigengower",
+        "location": {
+          "lat": -16.7644295,
+          "lng": 31.0793705
+        },
+        "keyAccentLanguage": "craigengower"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "St. Alberts",
+        "location": {
+          "lat": -16.7644295,
+          "lng": 31.0793705
+        },
+        "keyAccentLanguage": "st._alberts"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rusambo",
+        "location": {
+          "lat": -16.6272906,
+          "lng": 32.1836703
+        },
+        "keyAccentLanguage": "rusambo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mutepatepa",
+        "location": {
+          "lat": -16.95,
+          "lng": 31.333333
+        },
+        "keyAccentLanguage": "mutepatepa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Muzarabani",
+        "location": {
+          "lat": -16.0893164,
+          "lng": 30.69762979999999
+        },
+        "keyAccentLanguage": "muzarabani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mgadzi",
+        "location": {
+          "lat": -16.933333,
+          "lng": 31.716667
+        },
+        "keyAccentLanguage": "mgadzi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Matymount",
+        "location": {
+          "lat": -16.7644295,
+          "lng": 31.0793705
+        },
+        "keyAccentLanguage": "matymount"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bradley Institute",
+        "location": {
+          "lat": -17.0142797,
+          "lng": 31.4556164
+        },
+        "keyAccentLanguage": "bradley_institute"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rushinga",
+        "location": {
+          "lat": -16.6465182,
+          "lng": 32.2653887
+        },
+        "keyAccentLanguage": "rushinga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Taikoo",
+        "location": {
+          "lat": -16.67882,
+          "lng": 30.881769
+        },
+        "keyAccentLanguage": "taikoo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mazowe",
+        "location": {
+          "lat": -17.508021,
+          "lng": 30.9757309
+        },
+        "keyAccentLanguage": "mazowe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount Darwin",
+        "location": {
+          "lat": -16.7763562,
+          "lng": 31.5766606
+        },
+        "keyAccentLanguage": "mount_darwin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mazoe",
+        "location": {
+          "lat": -17.508021,
+          "lng": 30.9757309
+        },
+        "keyAccentLanguage": "mazoe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nzimbo",
+        "location": {
+          "lat": -17.0787231,
+          "lng": 31.0456325
+        },
+        "keyAccentLanguage": "nzimbo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kudjwara",
+        "location": {
+          "lat": -16.7,
+          "lng": 31.966667
+        },
+        "keyAccentLanguage": "kudjwara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Villa Franca",
+        "location": {
+          "lat": -16.7644295,
+          "lng": 31.0793705
+        },
+        "keyAccentLanguage": "villa_franca"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chipimfwe",
+        "location": {
+          "lat": -16.2,
+          "lng": 31.583333
+        },
+        "keyAccentLanguage": "chipimfwe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Limbeck",
+        "location": {
+          "lat": -17.283333,
+          "lng": 31.05
+        },
+        "keyAccentLanguage": "limbeck"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kanyemba",
+        "location": {
+          "lat": -15.6274633,
+          "lng": 30.4191985
+        },
+        "keyAccentLanguage": "kanyemba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Howard Institute",
+        "location": {
+          "lat": -17.2333329,
+          "lng": 31
+        },
+        "keyAccentLanguage": "howard_institute"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Guruwe",
+        "location": {
+          "lat": -16.2511696,
+          "lng": 30.6199895
+        },
+        "keyAccentLanguage": "guruwe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amandas",
+        "location": {
+          "lat": -16.7644295,
+          "lng": 31.0793705
+        },
+        "keyAccentLanguage": "amandas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Msonedi",
+        "location": {
+          "lat": -17.133333,
+          "lng": 30.9
+        },
+        "keyAccentLanguage": "msonedi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Concession",
+        "location": {
+          "lat": -17.3726925,
+          "lng": 30.9503435
+        },
+        "keyAccentLanguage": "concession"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Muri Pumbi",
+        "location": {
+          "lat": -16.7644295,
+          "lng": 31.0793705
+        },
+        "keyAccentLanguage": "muri_pumbi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nykasikana",
+        "location": {
+          "lat": -16.7333329,
+          "lng": 31.783333
+        },
+        "keyAccentLanguage": "nykasikana"
+      }
+    ],
+    "enNameLanguage": "Mashonaland Central",
+    "keyAccentLanguage": "mashonaland_central"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -18.5871642,
+      "lng": 31.2626366
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cold Comfort",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "cold_comfort"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Homefield",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "homefield"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Domboshawa",
+        "location": {
+          "lat": -17.61179,
+          "lng": 31.14324
+        },
+        "keyAccentLanguage": "domboshawa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chulu",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "chulu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Makaha",
+        "location": {
+          "lat": -17.2801768,
+          "lng": 32.6122014
+        },
+        "keyAccentLanguage": "makaha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barrington",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "barrington"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Makumbi",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "makumbi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chitungwiza",
+        "location": {
+          "lat": -18.0197815,
+          "lng": 31.067907
+        },
+        "keyAccentLanguage": "chitungwiza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dendera",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "dendera"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dunowen",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "dunowen"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arcturus",
+        "location": {
+          "lat": -17.792919,
+          "lng": 31.32208099999999
+        },
+        "keyAccentLanguage": "arcturus"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chitsungo",
+        "location": {
+          "lat": -16.9455425,
+          "lng": 32.0759326
+        },
+        "keyAccentLanguage": "chitsungo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dover",
+        "location": {
+          "lat": -18.5838296,
+          "lng": 30.8736849
+        },
+        "keyAccentLanguage": "dover"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Murehwa",
+        "location": {
+          "lat": -17.6501872,
+          "lng": 31.7787019
+        },
+        "keyAccentLanguage": "murehwa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Crawborough",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "crawborough"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bothashof",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "bothashof"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chivhu",
+        "location": {
+          "lat": -19.0179102,
+          "lng": 30.8975354
+        },
+        "keyAccentLanguage": "chivhu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Budiriro 4",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "budiriro_4"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bloomingdale",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "bloomingdale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Inkomo",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "inkomo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Donnybrook",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "donnybrook"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beverley",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "beverley"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bolton",
+        "location": {
+          "lat": -18.516667,
+          "lng": 31.4
+        },
+        "keyAccentLanguage": "bolton"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Melfort",
+        "location": {
+          "lat": -17.615705,
+          "lng": 31.3616246
+        },
+        "keyAccentLanguage": "melfort"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Glenwood",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "glenwood"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hopley",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "hopley"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chikwizo",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "chikwizo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bluff Hill",
+        "location": {
+          "lat": -17.7719752,
+          "lng": 30.9905
+        },
+        "keyAccentLanguage": "bluff_hill"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Helensvale",
+        "location": {
+          "lat": -17.7419982,
+          "lng": 31.1767658
+        },
+        "keyAccentLanguage": "helensvale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bromley",
+        "location": {
+          "lat": -18.0781689,
+          "lng": 31.3435736
+        },
+        "keyAccentLanguage": "bromley"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dema",
+        "location": {
+          "lat": -18.083333,
+          "lng": 31.216667
+        },
+        "keyAccentLanguage": "dema"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Budiriro",
+        "location": {
+          "lat": -17.8897961,
+          "lng": 30.9359987
+        },
+        "keyAccentLanguage": "budiriro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Excelsior",
+        "location": {
+          "lat": -18.1,
+          "lng": 30.9
+        },
+        "keyAccentLanguage": "excelsior"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arlington",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "arlington"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Budiriro 5",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "budiriro_5"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Avonlea",
+        "location": {
+          "lat": -17.7674517,
+          "lng": 31.0045362
+        },
+        "keyAccentLanguage": "avonlea"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hoyuyu",
+        "location": {
+          "lat": -17.6121641,
+          "lng": 32.0169703
+        },
+        "keyAccentLanguage": "hoyuyu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Brooke Ridge",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "brooke_ridge"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chisipite",
+        "location": {
+          "lat": -17.793403,
+          "lng": 31.1263913
+        },
+        "keyAccentLanguage": "chisipite"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Featherstone",
+        "location": {
+          "lat": -18.7211491,
+          "lng": 30.827739
+        },
+        "keyAccentLanguage": "featherstone"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Goromonzi",
+        "location": {
+          "lat": -17.854974,
+          "lng": 31.375746
+        },
+        "keyAccentLanguage": "goromonzi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gevstein Park",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "gevstein_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chizanje",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "chizanje"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Induna",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "induna"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beatrice",
+        "location": {
+          "lat": -18.2493115,
+          "lng": 30.8556062
+        },
+        "keyAccentLanguage": "beatrice"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aspindale Park",
+        "location": {
+          "lat": -17.873347,
+          "lng": 30.9549283
+        },
+        "keyAccentLanguage": "aspindale_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Derbyshire Township",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "derbyshire_township"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Riversdale",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "riversdale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dzivareskwa",
+        "location": {
+          "lat": -17.8052537,
+          "lng": 30.9359987
+        },
+        "keyAccentLanguage": "dzivareskwa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Borrowdale Brooke",
+        "location": {
+          "lat": -17.7124678,
+          "lng": 31.1435679
+        },
+        "keyAccentLanguage": "borrowdale_brooke"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gwangwari",
+        "location": {
+          "lat": -17.683333,
+          "lng": 31.083333
+        },
+        "keyAccentLanguage": "gwangwari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Downlands Park",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "downlands_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gleneagles",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "gleneagles"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bluff Hill Park",
+        "location": {
+          "lat": -17.7719752,
+          "lng": 30.9905
+        },
+        "keyAccentLanguage": "bluff_hill_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Budiriro 2",
+        "location": {
+          "lat": -17.8897961,
+          "lng": 30.9359987
+        },
+        "keyAccentLanguage": "budiriro_2"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Epworth",
+        "location": {
+          "lat": -17.8979649,
+          "lng": 31.1595842
+        },
+        "keyAccentLanguage": "epworth"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ruwa",
+        "location": {
+          "lat": -17.9002516,
+          "lng": 31.2399508
+        },
+        "keyAccentLanguage": "ruwa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Good Hope",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "good_hope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Grobbie Park",
+        "location": {
+          "lat": -17.916667,
+          "lng": 30.983333
+        },
+        "keyAccentLanguage": "grobbie_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chemhondoro",
+        "location": {
+          "lat": -17.683333,
+          "lng": 31.566667
+        },
+        "keyAccentLanguage": "chemhondoro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Haydon",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "haydon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Marondera",
+        "location": {
+          "lat": -18.1885141,
+          "lng": 31.5487439
+        },
+        "keyAccentLanguage": "marondera"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Makosa Township",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "makosa_township"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Matione",
+        "location": {
+          "lat": -17.3666667,
+          "lng": 31.91666669999999
+        },
+        "keyAccentLanguage": "matione"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Glen Lorne",
+        "location": {
+          "lat": -17.7500079,
+          "lng": 31.1394307
+        },
+        "keyAccentLanguage": "glen_lorne"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hartlands",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "hartlands"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mangwendi",
+        "location": {
+          "lat": -18.3884356,
+          "lng": 31.3634548
+        },
+        "keyAccentLanguage": "mangwendi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Suswe",
+        "location": {
+          "lat": -17.1558276,
+          "lng": 32.3964629
+        },
+        "keyAccentLanguage": "suswe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cleveland Park",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "cleveland_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Juru",
+        "location": {
+          "lat": -17.6784574,
+          "lng": 31.4698984
+        },
+        "keyAccentLanguage": "juru"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Glen Norah",
+        "location": {
+          "lat": -17.9113104,
+          "lng": 30.9790281
+        },
+        "keyAccentLanguage": "glen_norah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hatcliffe",
+        "location": {
+          "lat": -17.7532701,
+          "lng": 31.02204219999999
+        },
+        "keyAccentLanguage": "hatcliffe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sadza",
+        "location": {
+          "lat": -18.8844576,
+          "lng": 31.2783728
+        },
+        "keyAccentLanguage": "sadza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Waddilove",
+        "location": {
+          "lat": -18.2597233,
+          "lng": 31.3820359
+        },
+        "keyAccentLanguage": "waddilove"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hwedza",
+        "location": {
+          "lat": -18.616667,
+          "lng": 31.566667
+        },
+        "keyAccentLanguage": "hwedza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Freelands",
+        "location": {
+          "lat": -18.216667,
+          "lng": 30.93333299999999
+        },
+        "keyAccentLanguage": "freelands"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Parktown",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "parktown"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Glenview",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "glenview"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Narira",
+        "location": {
+          "lat": -17.9427778,
+          "lng": 31.2613889
+        },
+        "keyAccentLanguage": "narira"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mutoko",
+        "location": {
+          "lat": -17.4033669,
+          "lng": 32.2224783
+        },
+        "keyAccentLanguage": "mutoko"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Macheke",
+        "location": {
+          "lat": -18.1451764,
+          "lng": 31.8468181
+        },
+        "keyAccentLanguage": "macheke"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "The Range",
+        "location": {
+          "lat": -19.0128463,
+          "lng": 31.0363768
+        },
+        "keyAccentLanguage": "the_range"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Igava",
+        "location": {
+          "lat": -18.4639488,
+          "lng": 31.6225311
+        },
+        "keyAccentLanguage": "igava"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sable Flat",
+        "location": {
+          "lat": -18.9288905,
+          "lng": 30.5691461
+        },
+        "keyAccentLanguage": "sable_flat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gletwyn A",
+        "location": {
+          "lat": -17.7577778,
+          "lng": 31.1527778
+        },
+        "keyAccentLanguage": "gletwyn_a"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Greystone Park",
+        "location": {
+          "lat": -17.7480851,
+          "lng": 31.1213226
+        },
+        "keyAccentLanguage": "greystone_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mabvuku",
+        "location": {
+          "lat": -17.8434093,
+          "lng": 31.1996708
+        },
+        "keyAccentLanguage": "mabvuku"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nyangura",
+        "location": {
+          "lat": -17.4575,
+          "lng": 31.8233333
+        },
+        "keyAccentLanguage": "nyangura"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount Hampden Junction",
+        "location": {
+          "lat": -17.7298502,
+          "lng": 30.9309114
+        },
+        "keyAccentLanguage": "mount_hampden_junction"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zamatobgwe",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "zamatobgwe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zanyika",
+        "location": {
+          "lat": -17.5477632,
+          "lng": 31.8175862
+        },
+        "keyAccentLanguage": "zanyika"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chomwedzi",
+        "location": {
+          "lat": -18.183333,
+          "lng": 31.4
+        },
+        "keyAccentLanguage": "chomwedzi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Welgetroos",
+        "location": {
+          "lat": -18.4381605,
+          "lng": 31.0696702
+        },
+        "keyAccentLanguage": "welgetroos"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hogerty Hill",
+        "location": {
+          "lat": -17.7004479,
+          "lng": 31.1280781
+        },
+        "keyAccentLanguage": "hogerty_hill"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nyadiri",
+        "location": {
+          "lat": -17.425451,
+          "lng": 32.0226548
+        },
+        "keyAccentLanguage": "nyadiri"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nyamapande",
+        "location": {
+          "lat": -16.9664052,
+          "lng": 32.8549853
+        },
+        "keyAccentLanguage": "nyamapande"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Crowborough North",
+        "location": {
+          "lat": -18.5871642,
+          "lng": 31.2626366
+        },
+        "keyAccentLanguage": "crowborough_north"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mutawatawa",
+        "location": {
+          "lat": -17.1158443,
+          "lng": 31.9785921
+        },
+        "keyAccentLanguage": "mutawatawa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mantlavina",
+        "location": {
+          "lat": -18.4674016,
+          "lng": 30.895159
+        },
+        "keyAccentLanguage": "mantlavina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kotwa",
+        "location": {
+          "lat": -16.9962523,
+          "lng": 32.6673018
+        },
+        "keyAccentLanguage": "kotwa"
+      }
+    ],
+    "enNameLanguage": "Mashonaland East",
+    "keyAccentLanguage": "mashonaland_east"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -17.4851029,
+      "lng": 29.7889248
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chinhoyi",
+        "location": {
+          "lat": -17.3622214,
+          "lng": 30.1987245
+        },
+        "keyAccentLanguage": "chinhoyi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chitongo",
+        "location": {
+          "lat": -17.0521482,
+          "lng": 29.6293055
+        },
+        "keyAccentLanguage": "chitongo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kadoma",
+        "location": {
+          "lat": -18.3338861,
+          "lng": 29.914183
+        },
+        "keyAccentLanguage": "kadoma"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Darwendale",
+        "location": {
+          "lat": -17.7144936,
+          "lng": 30.5501686
+        },
+        "keyAccentLanguage": "darwendale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gadzema",
+        "location": {
+          "lat": -18.0275703,
+          "lng": 30.1481513
+        },
+        "keyAccentLanguage": "gadzema"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alaska",
+        "location": {
+          "lat": -17.371584,
+          "lng": 30.0751895
+        },
+        "keyAccentLanguage": "alaska"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chegutu",
+        "location": {
+          "lat": -18.1315472,
+          "lng": 30.1485582
+        },
+        "keyAccentLanguage": "chegutu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Glenluce",
+        "location": {
+          "lat": -17.9918552,
+          "lng": 30.7326843
+        },
+        "keyAccentLanguage": "glenluce"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Georgia",
+        "location": {
+          "lat": -17.4851029,
+          "lng": 29.7889248
+        },
+        "keyAccentLanguage": "georgia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eldorado",
+        "location": {
+          "lat": -17.4851029,
+          "lng": 29.7889248
+        },
+        "keyAccentLanguage": "eldorado"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Melton",
+        "location": {
+          "lat": -17.4851029,
+          "lng": 29.7889248
+        },
+        "keyAccentLanguage": "melton"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kazangarare",
+        "location": {
+          "lat": -16.5010389,
+          "lng": 29.933497
+        },
+        "keyAccentLanguage": "kazangarare"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fulechi",
+        "location": {
+          "lat": -17.4851029,
+          "lng": 29.7889248
+        },
+        "keyAccentLanguage": "fulechi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nyangwene",
+        "location": {
+          "lat": -17.4851029,
+          "lng": 29.7889248
+        },
+        "keyAccentLanguage": "nyangwene"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mpinga",
+        "location": {
+          "lat": -17.5121968,
+          "lng": 30.5668705
+        },
+        "keyAccentLanguage": "mpinga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chikwenya",
+        "location": {
+          "lat": -15.6747997,
+          "lng": 29.5716467
+        },
+        "keyAccentLanguage": "chikwenya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dandawa",
+        "location": {
+          "lat": -17.4851029,
+          "lng": 29.7889248
+        },
+        "keyAccentLanguage": "dandawa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chapanga",
+        "location": {
+          "lat": -17.4851029,
+          "lng": 29.7889248
+        },
+        "keyAccentLanguage": "chapanga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Newbiggin",
+        "location": {
+          "lat": -17.4851029,
+          "lng": 29.7889248
+        },
+        "keyAccentLanguage": "newbiggin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chakara",
+        "location": {
+          "lat": -18.466667,
+          "lng": 30.7
+        },
+        "keyAccentLanguage": "chakara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gresham",
+        "location": {
+          "lat": -17.4851029,
+          "lng": 29.7889248
+        },
+        "keyAccentLanguage": "gresham"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sianchoko",
+        "location": {
+          "lat": -17.4851029,
+          "lng": 29.7889248
+        },
+        "keyAccentLanguage": "sianchoko"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chirundu",
+        "location": {
+          "lat": -16.0508333,
+          "lng": 28.8794444
+        },
+        "keyAccentLanguage": "chirundu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kapoka",
+        "location": {
+          "lat": -17.4851029,
+          "lng": 29.7889248
+        },
+        "keyAccentLanguage": "kapoka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chidamoyo",
+        "location": {
+          "lat": -17.1483036,
+          "lng": 29.1914661
+        },
+        "keyAccentLanguage": "chidamoyo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zemaiwa",
+        "location": {
+          "lat": -17.4851029,
+          "lng": 29.7889248
+        },
+        "keyAccentLanguage": "zemaiwa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Battlefields",
+        "location": {
+          "lat": -18.6069912,
+          "lng": 29.8232937
+        },
+        "keyAccentLanguage": "battlefields"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Doma",
+        "location": {
+          "lat": -16.752251,
+          "lng": 30.2368486
+        },
+        "keyAccentLanguage": "doma"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Marongora",
+        "location": {
+          "lat": -16.2230658,
+          "lng": 29.1613643
+        },
+        "keyAccentLanguage": "marongora"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Msango",
+        "location": {
+          "lat": -17.4089931,
+          "lng": 29.7686314
+        },
+        "keyAccentLanguage": "msango"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mhangura",
+        "location": {
+          "lat": -16.8862308,
+          "lng": 30.1663244
+        },
+        "keyAccentLanguage": "mhangura"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Glenearn",
+        "location": {
+          "lat": -17.4851029,
+          "lng": 29.7889248
+        },
+        "keyAccentLanguage": "glenearn"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kariba",
+        "location": {
+          "lat": -16.5165955,
+          "lng": 28.8488984
+        },
+        "keyAccentLanguage": "kariba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chakari",
+        "location": {
+          "lat": -18.0771079,
+          "lng": 29.8493922
+        },
+        "keyAccentLanguage": "chakari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kildonan",
+        "location": {
+          "lat": -17.3452594,
+          "lng": 30.61059119999999
+        },
+        "keyAccentLanguage": "kildonan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zave",
+        "location": {
+          "lat": -17.3845708,
+          "lng": 30.048129
+        },
+        "keyAccentLanguage": "zave"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Madadzi",
+        "location": {
+          "lat": -16.9043588,
+          "lng": 29.7620283
+        },
+        "keyAccentLanguage": "madadzi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kawahove",
+        "location": {
+          "lat": -17.418865,
+          "lng": 30.1661469
+        },
+        "keyAccentLanguage": "kawahove"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bumi Hills",
+        "location": {
+          "lat": -16.816667,
+          "lng": 28.35
+        },
+        "keyAccentLanguage": "bumi_hills"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Maryland Junction",
+        "location": {
+          "lat": -17.6509273,
+          "lng": 30.4962417
+        },
+        "keyAccentLanguage": "maryland_junction"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mwami",
+        "location": {
+          "lat": -16.670822,
+          "lng": 29.7758987
+        },
+        "keyAccentLanguage": "mwami"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Umsweswe",
+        "location": {
+          "lat": -18.4621998,
+          "lng": 29.667951
+        },
+        "keyAccentLanguage": "umsweswe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ngwena",
+        "location": {
+          "lat": -17.4851029,
+          "lng": 29.7889248
+        },
+        "keyAccentLanguage": "ngwena"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kanyonga Camp",
+        "location": {
+          "lat": -17.133333,
+          "lng": 29.2
+        },
+        "keyAccentLanguage": "kanyonga_camp"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chiwakanyama",
+        "location": {
+          "lat": -16.95,
+          "lng": 29.3
+        },
+        "keyAccentLanguage": "chiwakanyama"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Norton",
+        "location": {
+          "lat": -17.8764842,
+          "lng": 30.67423239999999
+        },
+        "keyAccentLanguage": "norton"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Makuti",
+        "location": {
+          "lat": -16.3142074,
+          "lng": 29.2509649
+        },
+        "keyAccentLanguage": "makuti"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eiffel Flats",
+        "location": {
+          "lat": -18.316913,
+          "lng": 29.9783422
+        },
+        "keyAccentLanguage": "eiffel_flats"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Golden Valley",
+        "location": {
+          "lat": -18.2306801,
+          "lng": 29.7963462
+        },
+        "keyAccentLanguage": "golden_valley"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Duchess Hill",
+        "location": {
+          "lat": -18.2858814,
+          "lng": 30.2005016
+        },
+        "keyAccentLanguage": "duchess_hill"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nbira",
+        "location": {
+          "lat": -17.4851029,
+          "lng": 29.7889248
+        },
+        "keyAccentLanguage": "nbira"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Banket",
+        "location": {
+          "lat": -17.379339,
+          "lng": 30.3954282
+        },
+        "keyAccentLanguage": "banket"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nkarakati",
+        "location": {
+          "lat": -17.4851029,
+          "lng": 29.7889248
+        },
+        "keyAccentLanguage": "nkarakati"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chiva",
+        "location": {
+          "lat": -18.266667,
+          "lng": 30.566667
+        },
+        "keyAccentLanguage": "chiva"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Trelawney",
+        "location": {
+          "lat": -17.535952,
+          "lng": 30.4559258
+        },
+        "keyAccentLanguage": "trelawney"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mrazor",
+        "location": {
+          "lat": -16.9,
+          "lng": 29.416667
+        },
+        "keyAccentLanguage": "mrazor"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Milan",
+        "location": {
+          "lat": -18.133333,
+          "lng": 29.916667
+        },
+        "keyAccentLanguage": "milan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mubayira",
+        "location": {
+          "lat": -18.3213406,
+          "lng": 30.5936584
+        },
+        "keyAccentLanguage": "mubayira"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ngesi",
+        "location": {
+          "lat": -18.383333,
+          "lng": 29.866667
+        },
+        "keyAccentLanguage": "ngesi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mutorashanga",
+        "location": {
+          "lat": -17.1476826,
+          "lng": 30.6777101
+        },
+        "keyAccentLanguage": "mutorashanga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chinex",
+        "location": {
+          "lat": -16.95,
+          "lng": 30.5
+        },
+        "keyAccentLanguage": "chinex"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Selous",
+        "location": {
+          "lat": -18.0745428,
+          "lng": 30.4458448
+        },
+        "keyAccentLanguage": "selous"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Musonza",
+        "location": {
+          "lat": -18.383333,
+          "lng": 30.683333
+        },
+        "keyAccentLanguage": "musonza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sanyati",
+        "location": {
+          "lat": -17.9515275,
+          "lng": 29.3047055
+        },
+        "keyAccentLanguage": "sanyati"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mubayira Township Reserve",
+        "location": {
+          "lat": -18.3213406,
+          "lng": 30.5936584
+        },
+        "keyAccentLanguage": "mubayira_township_reserve"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Karoi",
+        "location": {
+          "lat": -16.8155098,
+          "lng": 29.6904746
+        },
+        "keyAccentLanguage": "karoi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Vuti",
+        "location": {
+          "lat": -16.4873678,
+          "lng": 29.4709011
+        },
+        "keyAccentLanguage": "vuti"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Makwiro",
+        "location": {
+          "lat": -17.9643752,
+          "lng": 30.4273663
+        },
+        "keyAccentLanguage": "makwiro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Magunge",
+        "location": {
+          "lat": -16.8392872,
+          "lng": 29.4208345
+        },
+        "keyAccentLanguage": "magunge"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gambisa",
+        "location": {
+          "lat": -18.1421492,
+          "lng": 29.6013757
+        },
+        "keyAccentLanguage": "gambisa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zimbara",
+        "location": {
+          "lat": -17.6528273,
+          "lng": 29.8953673
+        },
+        "keyAccentLanguage": "zimbara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rimuka",
+        "location": {
+          "lat": -18.3457414,
+          "lng": 29.88441289999999
+        },
+        "keyAccentLanguage": "rimuka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Raffingora",
+        "location": {
+          "lat": -17.0392366,
+          "lng": 30.439101
+        },
+        "keyAccentLanguage": "raffingora"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Matswaire",
+        "location": {
+          "lat": -18.183333,
+          "lng": 30.7
+        },
+        "keyAccentLanguage": "matswaire"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Manyati",
+        "location": {
+          "lat": -18.25225238280845,
+          "lng": 30.10921736471697
+        },
+        "keyAccentLanguage": "manyati"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mashami",
+        "location": {
+          "lat": -17.066667,
+          "lng": 28.8
+        },
+        "keyAccentLanguage": "mashami"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Machiroli",
+        "location": {
+          "lat": -17.766667,
+          "lng": 30.4
+        },
+        "keyAccentLanguage": "machiroli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Malube",
+        "location": {
+          "lat": -18.3,
+          "lng": 30.683333
+        },
+        "keyAccentLanguage": "malube"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pfupajena",
+        "location": {
+          "lat": -18.1265052,
+          "lng": 30.1326532
+        },
+        "keyAccentLanguage": "pfupajena"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mormon Hill",
+        "location": {
+          "lat": -16.7333329,
+          "lng": 29.883333
+        },
+        "keyAccentLanguage": "mormon_hill"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Neuso Business Centre",
+        "location": {
+          "lat": -18.533333,
+          "lng": 30.533333
+        },
+        "keyAccentLanguage": "neuso_business_centre"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lions Den",
+        "location": {
+          "lat": -17.2713291,
+          "lng": 30.0241679
+        },
+        "keyAccentLanguage": "lions_den"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chababomera",
+        "location": {
+          "lat": -17.766667,
+          "lng": 30.166667
+        },
+        "keyAccentLanguage": "chababomera"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Thistle Etna",
+        "location": {
+          "lat": -18.366667,
+          "lng": 30.083333
+        },
+        "keyAccentLanguage": "thistle_etna"
+      }
+    ],
+    "enNameLanguage": "Mashonaland West",
+    "keyAccentLanguage": "mashonaland_west"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -20.0719916,
+      "lng": 30.8343285
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chatsworth",
+        "location": {
+          "lat": -19.6287754,
+          "lng": 30.8332321
+        },
+        "keyAccentLanguage": "chatsworth"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mwenezi",
+        "location": {
+          "lat": -21.422627,
+          "lng": 30.72637319999999
+        },
+        "keyAccentLanguage": "mwenezi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nandi",
+        "location": {
+          "lat": -20.0719916,
+          "lng": 30.8343285
+        },
+        "keyAccentLanguage": "nandi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nyika",
+        "location": {
+          "lat": -20.0719916,
+          "lng": 30.8343285
+        },
+        "keyAccentLanguage": "nyika"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ngadza",
+        "location": {
+          "lat": -20.0719916,
+          "lng": 30.8343285
+        },
+        "keyAccentLanguage": "ngadza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zimbabwe",
+        "location": {
+          "lat": -20.0719916,
+          "lng": 30.8343285
+        },
+        "keyAccentLanguage": "zimbabwe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Triangle",
+        "location": {
+          "lat": -20.0719916,
+          "lng": 30.8343285
+        },
+        "keyAccentLanguage": "triangle"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Renco",
+        "location": {
+          "lat": -20.625445,
+          "lng": 31.1696071
+        },
+        "keyAccentLanguage": "renco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bikita",
+        "location": {
+          "lat": -20.0955663,
+          "lng": 31.618759
+        },
+        "keyAccentLanguage": "bikita"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chilimanzi",
+        "location": {
+          "lat": -19.583333,
+          "lng": 30.75
+        },
+        "keyAccentLanguage": "chilimanzi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Boli",
+        "location": {
+          "lat": -21.5313313,
+          "lng": 31.4941738
+        },
+        "keyAccentLanguage": "boli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chiso",
+        "location": {
+          "lat": -20.0719916,
+          "lng": 30.8343285
+        },
+        "keyAccentLanguage": "chiso"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gutu",
+        "location": {
+          "lat": -19.6441567,
+          "lng": 31.1579702
+        },
+        "keyAccentLanguage": "gutu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Clovelly",
+        "location": {
+          "lat": -20.0719916,
+          "lng": 30.8343285
+        },
+        "keyAccentLanguage": "clovelly"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Masvingo",
+        "location": {
+          "lat": -20.0719916,
+          "lng": 30.8343285
+        },
+        "keyAccentLanguage": "masvingo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chikombu",
+        "location": {
+          "lat": -20.0719916,
+          "lng": 30.8343285
+        },
+        "keyAccentLanguage": "chikombu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Glenlivet",
+        "location": {
+          "lat": -20.166667,
+          "lng": 31.083333
+        },
+        "keyAccentLanguage": "glenlivet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Felixburg",
+        "location": {
+          "lat": -19.4354274,
+          "lng": 30.8819347
+        },
+        "keyAccentLanguage": "felixburg"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bota",
+        "location": {
+          "lat": -20.6062623,
+          "lng": 31.3930828
+        },
+        "keyAccentLanguage": "bota"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chichindwe",
+        "location": {
+          "lat": -20.416667,
+          "lng": 32.1
+        },
+        "keyAccentLanguage": "chichindwe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fishan",
+        "location": {
+          "lat": -21.42149,
+          "lng": 32.05619
+        },
+        "keyAccentLanguage": "fishan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Devuli Ranch",
+        "location": {
+          "lat": -20.1318566,
+          "lng": 32.1029988
+        },
+        "keyAccentLanguage": "devuli_ranch"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ngundu Halt",
+        "location": {
+          "lat": -20.8,
+          "lng": 30.8
+        },
+        "keyAccentLanguage": "ngundu_halt"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chiredzi",
+        "location": {
+          "lat": -21.0438769,
+          "lng": 31.6704154
+        },
+        "keyAccentLanguage": "chiredzi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Matoba",
+        "location": {
+          "lat": -19.8954224,
+          "lng": 30.7553244
+        },
+        "keyAccentLanguage": "matoba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nyala",
+        "location": {
+          "lat": -22.0285377,
+          "lng": 31.6633084
+        },
+        "keyAccentLanguage": "nyala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gaths Mine",
+        "location": {
+          "lat": -20.0141585,
+          "lng": 30.5099189
+        },
+        "keyAccentLanguage": "gaths_mine"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chibi",
+        "location": {
+          "lat": -20.321946,
+          "lng": 30.5145997
+        },
+        "keyAccentLanguage": "chibi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ndanga",
+        "location": {
+          "lat": -20.183333,
+          "lng": 31.333333
+        },
+        "keyAccentLanguage": "ndanga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Glendevon",
+        "location": {
+          "lat": -20.7000388,
+          "lng": 31.6188975
+        },
+        "keyAccentLanguage": "glendevon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jerera",
+        "location": {
+          "lat": -20.4684128,
+          "lng": 31.4499031
+        },
+        "keyAccentLanguage": "jerera"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mbizi",
+        "location": {
+          "lat": -20.0888991,
+          "lng": 30.8436196
+        },
+        "keyAccentLanguage": "mbizi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Malhera",
+        "location": {
+          "lat": -20.383333,
+          "lng": 32.25
+        },
+        "keyAccentLanguage": "malhera"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ngomahuru",
+        "location": {
+          "lat": -20.433333,
+          "lng": 30.733333
+        },
+        "keyAccentLanguage": "ngomahuru"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Runde",
+        "location": {
+          "lat": -20.8985888,
+          "lng": 30.7779264
+        },
+        "keyAccentLanguage": "runde"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Angus Ranch",
+        "location": {
+          "lat": -20.4225803,
+          "lng": 31.9561444
+        },
+        "keyAccentLanguage": "angus_ranch"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kings Mine",
+        "location": {
+          "lat": -20.0719916,
+          "lng": 30.8343285
+        },
+        "keyAccentLanguage": "kings_mine"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kubiko",
+        "location": {
+          "lat": -19.716667,
+          "lng": 31.833333
+        },
+        "keyAccentLanguage": "kubiko"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Matsai Township",
+        "location": {
+          "lat": -20.466667,
+          "lng": 31.866667
+        },
+        "keyAccentLanguage": "matsai_township"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Manubvu",
+        "location": {
+          "lat": -20.216667,
+          "lng": 31.416667
+        },
+        "keyAccentLanguage": "manubvu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bivis",
+        "location": {
+          "lat": -21.15,
+          "lng": 31.283333
+        },
+        "keyAccentLanguage": "bivis"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mucibwa",
+        "location": {
+          "lat": -20.615693,
+          "lng": 31.11278309999999
+        },
+        "keyAccentLanguage": "mucibwa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sosera",
+        "location": {
+          "lat": -20.016667,
+          "lng": 31.466667
+        },
+        "keyAccentLanguage": "sosera"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Machendu",
+        "location": {
+          "lat": -21.466667,
+          "lng": 31.583333
+        },
+        "keyAccentLanguage": "machendu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Westbeach",
+        "location": {
+          "lat": -20.0719916,
+          "lng": 30.8343285
+        },
+        "keyAccentLanguage": "westbeach"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kapateni",
+        "location": {
+          "lat": -21.7028128,
+          "lng": 32.0409272
+        },
+        "keyAccentLanguage": "kapateni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Buffalo Range",
+        "location": {
+          "lat": -21.0124518,
+          "lng": 31.5298637
+        },
+        "keyAccentLanguage": "buffalo_range"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gwalali",
+        "location": {
+          "lat": -20.0719916,
+          "lng": 30.8343285
+        },
+        "keyAccentLanguage": "gwalali"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hippo Valley",
+        "location": {
+          "lat": -21.1640772,
+          "lng": 31.5469645
+        },
+        "keyAccentLanguage": "hippo_valley"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nuanetsi",
+        "location": {
+          "lat": -21.67983153764066,
+          "lng": 30.93472808531347
+        },
+        "keyAccentLanguage": "nuanetsi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chikombedzi",
+        "location": {
+          "lat": -21.583333,
+          "lng": 31.25
+        },
+        "keyAccentLanguage": "chikombedzi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sote Source",
+        "location": {
+          "lat": -19.466667,
+          "lng": 31.216667
+        },
+        "keyAccentLanguage": "sote_source"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chitsa",
+        "location": {
+          "lat": -19.5197991,
+          "lng": 31.5362491
+        },
+        "keyAccentLanguage": "chitsa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mashaba",
+        "location": {
+          "lat": -20.0511394,
+          "lng": 30.5106372
+        },
+        "keyAccentLanguage": "mashaba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rutenga",
+        "location": {
+          "lat": -21.2407304,
+          "lng": 30.732871
+        },
+        "keyAccentLanguage": "rutenga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lundi",
+        "location": {
+          "lat": -21.1801508,
+          "lng": 31.2662132
+        },
+        "keyAccentLanguage": "lundi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ndadza",
+        "location": {
+          "lat": -20.1881349,
+          "lng": 30.8446297
+        },
+        "keyAccentLanguage": "ndadza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Muvuti",
+        "location": {
+          "lat": -19.9430058,
+          "lng": 31.6492725
+        },
+        "keyAccentLanguage": "muvuti"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mabalauta",
+        "location": {
+          "lat": -21.9184234,
+          "lng": 31.453831
+        },
+        "keyAccentLanguage": "mabalauta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Matibis",
+        "location": {
+          "lat": -21.6761074,
+          "lng": 31.3167873
+        },
+        "keyAccentLanguage": "matibis"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Twiza",
+        "location": {
+          "lat": -20.0719916,
+          "lng": 30.8343285
+        },
+        "keyAccentLanguage": "twiza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tswiza",
+        "location": {
+          "lat": -21.8140652,
+          "lng": 31.5737977
+        },
+        "keyAccentLanguage": "tswiza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sengwe",
+        "location": {
+          "lat": -22.313482,
+          "lng": 31.211428
+        },
+        "keyAccentLanguage": "sengwe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Glencova",
+        "location": {
+          "lat": -19.9677467,
+          "lng": 31.4256183
+        },
+        "keyAccentLanguage": "glencova"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mashava",
+        "location": {
+          "lat": -20.0511394,
+          "lng": 30.5106372
+        },
+        "keyAccentLanguage": "mashava"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gokomere",
+        "location": {
+          "lat": -19.95521,
+          "lng": 30.7765145
+        },
+        "keyAccentLanguage": "gokomere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Malapati",
+        "location": {
+          "lat": -22.0711435,
+          "lng": 31.4127596
+        },
+        "keyAccentLanguage": "malapati"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rurgwe",
+        "location": {
+          "lat": -20.05,
+          "lng": 31.266667
+        },
+        "keyAccentLanguage": "rurgwe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mucheke Township",
+        "location": {
+          "lat": -20.0793381,
+          "lng": 30.8168718
+        },
+        "keyAccentLanguage": "mucheke_township"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mandamambge",
+        "location": {
+          "lat": -20.1163694,
+          "lng": 30.3709331
+        },
+        "keyAccentLanguage": "mandamambge"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chitofa",
+        "location": {
+          "lat": -20.5945197,
+          "lng": 30.5490446
+        },
+        "keyAccentLanguage": "chitofa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zaka",
+        "location": {
+          "lat": -20.4036628,
+          "lng": 31.4484747
+        },
+        "keyAccentLanguage": "zaka"
+      }
+    ],
+    "enNameLanguage": "Masvingo",
+    "keyAccentLanguage": "masvingo"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -18.5331566,
+      "lng": 27.5495846
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cathleen",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "cathleen"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dhlakapiya",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "dhlakapiya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bonkwe",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "bonkwe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cement Station",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "cement_station"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bembezi",
+        "location": {
+          "lat": -19.16358835545894,
+          "lng": 27.94234345685729
+        },
+        "keyAccentLanguage": "bembezi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chief Saba",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "chief_saba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bayi Bayi",
+        "location": {
+          "lat": -19.116667,
+          "lng": 27.683333
+        },
+        "keyAccentLanguage": "bayi_bayi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chief Mswigana",
+        "location": {
+          "lat": -19.583333,
+          "lng": 27.466667
+        },
+        "keyAccentLanguage": "chief_mswigana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bulale",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "bulale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bonke",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "bonke"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dabula",
+        "location": {
+          "lat": -19.4,
+          "lng": 28.45
+        },
+        "keyAccentLanguage": "dabula"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Blew Bonny",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "blew_bonny"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bemba",
+        "location": {
+          "lat": -19.45,
+          "lng": 27.283333
+        },
+        "keyAccentLanguage": "bemba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chancit",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "chancit"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Butabubili",
+        "location": {
+          "lat": -19.7694017,
+          "lng": 27.2175285
+        },
+        "keyAccentLanguage": "butabubili"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gawa",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "gawa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Craiglee",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "craiglee"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dombo",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "dombo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Connemara",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "connemara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chief Siposa",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "chief_siposa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dingandawo",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "dingandawo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Forest Vale",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "forest_vale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dahlia",
+        "location": {
+          "lat": -18.616667,
+          "lng": 27.166667
+        },
+        "keyAccentLanguage": "dahlia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chief Mabikwa",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "chief_mabikwa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Badminton Block",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "badminton_block"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Emangweni",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "emangweni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dagamella",
+        "location": {
+          "lat": -18.7980668,
+          "lng": 28.6702302
+        },
+        "keyAccentLanguage": "dagamella"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chief Sinsalis Village",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "chief_sinsalis_village"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chief Sinangatenkes Village",
+        "location": {
+          "lat": -17.15,
+          "lng": 28.116667
+        },
+        "keyAccentLanguage": "chief_sinangatenkes_village"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dete",
+        "location": {
+          "lat": -18.620005,
+          "lng": 26.8631111
+        },
+        "keyAccentLanguage": "dete"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dunkirk",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "dunkirk"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Emanaleni",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "emanaleni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Egomeni",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "egomeni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ebabeni",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "ebabeni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ngamo",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "ngamo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bubu",
+        "location": {
+          "lat": -19.15,
+          "lng": 28.666667
+        },
+        "keyAccentLanguage": "bubu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Binga",
+        "location": {
+          "lat": -17.6228959,
+          "lng": 27.339783
+        },
+        "keyAccentLanguage": "binga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bangamakuni",
+        "location": {
+          "lat": -19.383333,
+          "lng": 27.633333
+        },
+        "keyAccentLanguage": "bangamakuni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Delmore",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "delmore"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chief Myinga",
+        "location": {
+          "lat": -18.796631,
+          "lng": 28.671909
+        },
+        "keyAccentLanguage": "chief_myinga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kennedy",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "kennedy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eastnor",
+        "location": {
+          "lat": -19.4691281,
+          "lng": 28.5506158
+        },
+        "keyAccentLanguage": "eastnor"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chief Dabola",
+        "location": {
+          "lat": -18.116667,
+          "lng": 27.45
+        },
+        "keyAccentLanguage": "chief_dabola"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ebizeni",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "ebizeni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Elandshoek",
+        "location": {
+          "lat": -18.816667,
+          "lng": 27.166667
+        },
+        "keyAccentLanguage": "elandshoek"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hwange",
+        "location": {
+          "lat": -18.3558779,
+          "lng": 26.5019976
+        },
+        "keyAccentLanguage": "hwange"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chief Sikobokobo",
+        "location": {
+          "lat": -18.766667,
+          "lng": 28.5
+        },
+        "keyAccentLanguage": "chief_sikobokobo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chief Sivalo",
+        "location": {
+          "lat": -18.8,
+          "lng": 28.333333
+        },
+        "keyAccentLanguage": "chief_sivalo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Douglasdale",
+        "location": {
+          "lat": -20.2388818,
+          "lng": 28.6527311
+        },
+        "keyAccentLanguage": "douglasdale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fatima",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "fatima"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ematetshaneni",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "ematetshaneni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dewsbury",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "dewsbury"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nkayi",
+        "location": {
+          "lat": -19.0000449,
+          "lng": 28.89962999999999
+        },
+        "keyAccentLanguage": "nkayi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chief Simupas Village",
+        "location": {
+          "lat": -17.183333,
+          "lng": 28.066667
+        },
+        "keyAccentLanguage": "chief_simupas_village"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gwayi River",
+        "location": {
+          "lat": -18.662342,
+          "lng": 27.217384
+        },
+        "keyAccentLanguage": "gwayi_river"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lobenvale",
+        "location": {
+          "lat": -20.1013464,
+          "lng": 28.5958462
+        },
+        "keyAccentLanguage": "lobenvale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lubimbi",
+        "location": {
+          "lat": -18.4852349,
+          "lng": 27.2823076
+        },
+        "keyAccentLanguage": "lubimbi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mujere",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "mujere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mukwa",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "mukwa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gwelutshena",
+        "location": {
+          "lat": -18.6607823,
+          "lng": 28.709596
+        },
+        "keyAccentLanguage": "gwelutshena"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cawunajena",
+        "location": {
+          "lat": -19.683333,
+          "lng": 27.016667
+        },
+        "keyAccentLanguage": "cawunajena"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ingwe",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "ingwe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chief Madhliwa",
+        "location": {
+          "lat": -18.7333329,
+          "lng": 28.816667
+        },
+        "keyAccentLanguage": "chief_madhliwa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Manjolo",
+        "location": {
+          "lat": -17.6985537,
+          "lng": 27.4093831
+        },
+        "keyAccentLanguage": "manjolo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kenilworth Estates",
+        "location": {
+          "lat": -19.4316577,
+          "lng": 28.9508277
+        },
+        "keyAccentLanguage": "kenilworth_estates"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Egagwini",
+        "location": {
+          "lat": -19.366667,
+          "lng": 27.05
+        },
+        "keyAccentLanguage": "egagwini"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Matetsi",
+        "location": {
+          "lat": -18.360145,
+          "lng": 25.907539
+        },
+        "keyAccentLanguage": "matetsi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kamativi",
+        "location": {
+          "lat": -18.3223913,
+          "lng": 27.0530862
+        },
+        "keyAccentLanguage": "kamativi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Emgolweni",
+        "location": {
+          "lat": -19.2333329,
+          "lng": 27.6
+        },
+        "keyAccentLanguage": "emgolweni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lusulu",
+        "location": {
+          "lat": -18.065423,
+          "lng": 27.8335751
+        },
+        "keyAccentLanguage": "lusulu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lukosi",
+        "location": {
+          "lat": -18.4833333,
+          "lng": 26.4833333
+        },
+        "keyAccentLanguage": "lukosi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mlibizi",
+        "location": {
+          "lat": -17.938469,
+          "lng": 27.0757307
+        },
+        "keyAccentLanguage": "mlibizi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Heany Junction",
+        "location": {
+          "lat": -20.083333,
+          "lng": 28.783333
+        },
+        "keyAccentLanguage": "heany_junction"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lupane",
+        "location": {
+          "lat": -18.9300127,
+          "lng": 27.7593273
+        },
+        "keyAccentLanguage": "lupane"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Siabuwa",
+        "location": {
+          "lat": -17.4675493,
+          "lng": 28.0566638
+        },
+        "keyAccentLanguage": "siabuwa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Inyati",
+        "location": {
+          "lat": -19.6613506,
+          "lng": 28.8678528
+        },
+        "keyAccentLanguage": "inyati"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kariyangwe",
+        "location": {
+          "lat": -17.9828965,
+          "lng": 27.5346367
+        },
+        "keyAccentLanguage": "kariyangwe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chief Sinampande",
+        "location": {
+          "lat": -17.4833329,
+          "lng": 27.95
+        },
+        "keyAccentLanguage": "chief_sinampande"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dhlamini",
+        "location": {
+          "lat": -19.4993407,
+          "lng": 27.4047148
+        },
+        "keyAccentLanguage": "dhlamini"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chief Sinasenkwe",
+        "location": {
+          "lat": -17.533333,
+          "lng": 27.9
+        },
+        "keyAccentLanguage": "chief_sinasenkwe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Emakhandeni",
+        "location": {
+          "lat": -20.111457,
+          "lng": 28.5228877
+        },
+        "keyAccentLanguage": "emakhandeni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Main Camp",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "main_camp"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gwai",
+        "location": {
+          "lat": -19.2868169,
+          "lng": 27.6556782
+        },
+        "keyAccentLanguage": "gwai"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tsholotsho",
+        "location": {
+          "lat": -19.7696788,
+          "lng": 27.7613765
+        },
+        "keyAccentLanguage": "tsholotsho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ehampeni",
+        "location": {
+          "lat": -19.85,
+          "lng": 27.716667
+        },
+        "keyAccentLanguage": "ehampeni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chief Mahlaba",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "chief_mahlaba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kenmaur",
+        "location": {
+          "lat": -19.1104966,
+          "lng": 27.967368
+        },
+        "keyAccentLanguage": "kenmaur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Victoria Falls",
+        "location": {
+          "lat": -17.9315803,
+          "lng": 25.8301677
+        },
+        "keyAccentLanguage": "victoria_falls"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Thomson Junction",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "thomson_junction"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tshotsholo",
+        "location": {
+          "lat": -19.7696788,
+          "lng": 27.7613765
+        },
+        "keyAccentLanguage": "tshotsholo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nyadzi",
+        "location": {
+          "lat": -19.506119,
+          "lng": 27.0673678
+        },
+        "keyAccentLanguage": "nyadzi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pelendaba",
+        "location": {
+          "lat": -19.5322171,
+          "lng": 26.926346
+        },
+        "keyAccentLanguage": "pelendaba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mubiya",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "mubiya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ningombeneshango",
+        "location": {
+          "lat": -19.5558168,
+          "lng": 27.1598656
+        },
+        "keyAccentLanguage": "ningombeneshango"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zikamanas Village",
+        "location": {
+          "lat": -18.216667,
+          "lng": 27.95
+        },
+        "keyAccentLanguage": "zikamanas_village"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Umganin",
+        "location": {
+          "lat": -20.2342,
+          "lng": 28.49354
+        },
+        "keyAccentLanguage": "umganin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Queens Mine",
+        "location": {
+          "lat": -19.8047618,
+          "lng": 28.7518671
+        },
+        "keyAccentLanguage": "queens_mine"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nyamandhlovu",
+        "location": {
+          "lat": -19.8618809,
+          "lng": 28.2692486
+        },
+        "keyAccentLanguage": "nyamandhlovu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Msuna",
+        "location": {
+          "lat": -18.028842,
+          "lng": 26.809461
+        },
+        "keyAccentLanguage": "msuna"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Elangeni",
+        "location": {
+          "lat": -18.5331566,
+          "lng": 27.5495846
+        },
+        "keyAccentLanguage": "elangeni"
+      }
+    ],
+    "enNameLanguage": "Matabeleland North",
+    "keyAccentLanguage": "matabeleland_north"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -21.052337,
+      "lng": 29.0459927
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Figtree",
+        "location": {
+          "lat": -20.374145,
+          "lng": 28.3229462
+        },
+        "keyAccentLanguage": "figtree"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Balule",
+        "location": {
+          "lat": -20.1,
+          "lng": 27.95
+        },
+        "keyAccentLanguage": "balule"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mangwe",
+        "location": {
+          "lat": -20.7,
+          "lng": 28.066667
+        },
+        "keyAccentLanguage": "mangwe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mapolisa",
+        "location": {
+          "lat": -21.5,
+          "lng": 28.083333
+        },
+        "keyAccentLanguage": "mapolisa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bezha",
+        "location": {
+          "lat": -20.2,
+          "lng": 27.766667
+        },
+        "keyAccentLanguage": "bezha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chipise",
+        "location": {
+          "lat": -22.2312122,
+          "lng": 30.929543
+        },
+        "keyAccentLanguage": "chipise"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mpate",
+        "location": {
+          "lat": -21.052337,
+          "lng": 29.0459927
+        },
+        "keyAccentLanguage": "mpate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Stanmore",
+        "location": {
+          "lat": -21.052337,
+          "lng": 29.0459927
+        },
+        "keyAccentLanguage": "stanmore"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beitbridge",
+        "location": {
+          "lat": -22.2018105,
+          "lng": 29.99151059999999
+        },
+        "keyAccentLanguage": "beitbridge"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gwanda",
+        "location": {
+          "lat": -20.9428731,
+          "lng": 29.0070667
+        },
+        "keyAccentLanguage": "gwanda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fort Rixon",
+        "location": {
+          "lat": -20.0185041,
+          "lng": 29.2607149
+        },
+        "keyAccentLanguage": "fort_rixon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Khami",
+        "location": {
+          "lat": -21.052337,
+          "lng": 29.0459927
+        },
+        "keyAccentLanguage": "khami"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fred Mine",
+        "location": {
+          "lat": -21.052337,
+          "lng": 29.0459927
+        },
+        "keyAccentLanguage": "fred_mine"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ilunkubo",
+        "location": {
+          "lat": -21.052337,
+          "lng": 29.0459927
+        },
+        "keyAccentLanguage": "ilunkubo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Insiza",
+        "location": {
+          "lat": -19.7839505,
+          "lng": 29.193158
+        },
+        "keyAccentLanguage": "insiza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Colleen Bawn",
+        "location": {
+          "lat": -20.9733091,
+          "lng": 29.3546352
+        },
+        "keyAccentLanguage": "colleen_bawn"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antelope Mine",
+        "location": {
+          "lat": -21.0598295,
+          "lng": 28.4528171
+        },
+        "keyAccentLanguage": "antelope_mine"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Esibomvu",
+        "location": {
+          "lat": -20.4,
+          "lng": 28.9
+        },
+        "keyAccentLanguage": "esibomvu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fresnaye",
+        "location": {
+          "lat": -21.052337,
+          "lng": 29.0459927
+        },
+        "keyAccentLanguage": "fresnaye"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Avoca",
+        "location": {
+          "lat": -20.8,
+          "lng": 29.533333
+        },
+        "keyAccentLanguage": "avoca"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chafutchi",
+        "location": {
+          "lat": -22.016667,
+          "lng": 30.166667
+        },
+        "keyAccentLanguage": "chafutchi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Makokwe",
+        "location": {
+          "lat": -21.4666667,
+          "lng": 28.8333333
+        },
+        "keyAccentLanguage": "makokwe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Setana",
+        "location": {
+          "lat": -21.052337,
+          "lng": 29.0459927
+        },
+        "keyAccentLanguage": "setana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hlananisas",
+        "location": {
+          "lat": -19.833333,
+          "lng": 27.4
+        },
+        "keyAccentLanguage": "hlananisas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Masole",
+        "location": {
+          "lat": -21.8507361,
+          "lng": 29.3874568
+        },
+        "keyAccentLanguage": "masole"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pembe",
+        "location": {
+          "lat": -21.052337,
+          "lng": 29.0459927
+        },
+        "keyAccentLanguage": "pembe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Filabusi",
+        "location": {
+          "lat": -20.5410266,
+          "lng": 29.27980209999999
+        },
+        "keyAccentLanguage": "filabusi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hingwe",
+        "location": {
+          "lat": -20.15,
+          "lng": 27.3
+        },
+        "keyAccentLanguage": "hingwe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chabili",
+        "location": {
+          "lat": -22.15,
+          "lng": 30.633333
+        },
+        "keyAccentLanguage": "chabili"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Esigodini",
+        "location": {
+          "lat": -20.2957003,
+          "lng": 28.9371164
+        },
+        "keyAccentLanguage": "esigodini"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mazunga",
+        "location": {
+          "lat": -21.7334731,
+          "lng": 29.8716622
+        },
+        "keyAccentLanguage": "mazunga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Towla",
+        "location": {
+          "lat": -21.43659,
+          "lng": 29.8873054
+        },
+        "keyAccentLanguage": "towla"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Marula",
+        "location": {
+          "lat": -20.4775264,
+          "lng": 28.0851986
+        },
+        "keyAccentLanguage": "marula"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Silisi",
+        "location": {
+          "lat": -21.052337,
+          "lng": 29.0459927
+        },
+        "keyAccentLanguage": "silisi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antenior",
+        "location": {
+          "lat": -20.9962902,
+          "lng": 29.066236
+        },
+        "keyAccentLanguage": "antenior"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bushtick",
+        "location": {
+          "lat": -20.2333329,
+          "lng": 28.916667
+        },
+        "keyAccentLanguage": "bushtick"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Madubus",
+        "location": {
+          "lat": -21.052337,
+          "lng": 29.0459927
+        },
+        "keyAccentLanguage": "madubus"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Madonga",
+        "location": {
+          "lat": -21.916667,
+          "lng": 29.366667
+        },
+        "keyAccentLanguage": "madonga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mtsuli",
+        "location": {
+          "lat": -21.052337,
+          "lng": 29.0459927
+        },
+        "keyAccentLanguage": "mtsuli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Matiwaza",
+        "location": {
+          "lat": -19.966667,
+          "lng": 27.4
+        },
+        "keyAccentLanguage": "matiwaza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kandana",
+        "location": {
+          "lat": -21.052337,
+          "lng": 29.0459927
+        },
+        "keyAccentLanguage": "kandana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Shoteli",
+        "location": {
+          "lat": -21.052337,
+          "lng": 29.0459927
+        },
+        "keyAccentLanguage": "shoteli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lancaster",
+        "location": {
+          "lat": -21.052337,
+          "lng": 29.0459927
+        },
+        "keyAccentLanguage": "lancaster"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pambuka",
+        "location": {
+          "lat": -20.4447173,
+          "lng": 29.6748811
+        },
+        "keyAccentLanguage": "pambuka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kezi",
+        "location": {
+          "lat": -20.9147284,
+          "lng": 28.4665868
+        },
+        "keyAccentLanguage": "kezi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tongwe",
+        "location": {
+          "lat": -21.052337,
+          "lng": 29.0459927
+        },
+        "keyAccentLanguage": "tongwe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ndolwane",
+        "location": {
+          "lat": -20.1,
+          "lng": 27.483333
+        },
+        "keyAccentLanguage": "ndolwane"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fort Usher",
+        "location": {
+          "lat": -20.416667,
+          "lng": 28.6
+        },
+        "keyAccentLanguage": "fort_usher"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Glass Block",
+        "location": {
+          "lat": -21.052337,
+          "lng": 29.0459927
+        },
+        "keyAccentLanguage": "glass_block"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sigande",
+        "location": {
+          "lat": -21.052337,
+          "lng": 29.0459927
+        },
+        "keyAccentLanguage": "sigande"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Legion Mine",
+        "location": {
+          "lat": -21.4100495,
+          "lng": 28.5382117
+        },
+        "keyAccentLanguage": "legion_mine"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tuli",
+        "location": {
+          "lat": -21.9184161,
+          "lng": 29.2022911
+        },
+        "keyAccentLanguage": "tuli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Napemando",
+        "location": {
+          "lat": -20.166667,
+          "lng": 27.6
+        },
+        "keyAccentLanguage": "napemando"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Npuma",
+        "location": {
+          "lat": -20.6,
+          "lng": 28.383333
+        },
+        "keyAccentLanguage": "npuma"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mabalanas",
+        "location": {
+          "lat": -21.052337,
+          "lng": 29.0459927
+        },
+        "keyAccentLanguage": "mabalanas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mashachuta",
+        "location": {
+          "lat": -21.842068,
+          "lng": 29.35119659999999
+        },
+        "keyAccentLanguage": "mashachuta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mabuze",
+        "location": {
+          "lat": -20.9301636,
+          "lng": 29.4401185
+        },
+        "keyAccentLanguage": "mabuze"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Plumtree",
+        "location": {
+          "lat": -20.4888192,
+          "lng": 27.8103124
+        },
+        "keyAccentLanguage": "plumtree"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mphoengs",
+        "location": {
+          "lat": -21.1944752,
+          "lng": 27.8633774
+        },
+        "keyAccentLanguage": "mphoengs"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Siringa",
+        "location": {
+          "lat": -19.916667,
+          "lng": 27.366667
+        },
+        "keyAccentLanguage": "siringa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lutombe",
+        "location": {
+          "lat": -22.1017683,
+          "lng": 30.2238654
+        },
+        "keyAccentLanguage": "lutombe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Maphisa",
+        "location": {
+          "lat": -21.0598295,
+          "lng": 28.4528171
+        },
+        "keyAccentLanguage": "maphisa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Croft Mine",
+        "location": {
+          "lat": -20.566667,
+          "lng": 29.333333
+        },
+        "keyAccentLanguage": "croft_mine"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mashaba",
+        "location": {
+          "lat": -21.65,
+          "lng": 28.933333
+        },
+        "keyAccentLanguage": "mashaba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sablevale",
+        "location": {
+          "lat": -20.9056552,
+          "lng": 28.9397639
+        },
+        "keyAccentLanguage": "sablevale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gempo",
+        "location": {
+          "lat": -20.1,
+          "lng": 27.666667
+        },
+        "keyAccentLanguage": "gempo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mulujawane",
+        "location": {
+          "lat": -20.3638505,
+          "lng": 28.9746965
+        },
+        "keyAccentLanguage": "mulujawane"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Shawila",
+        "location": {
+          "lat": -21.052337,
+          "lng": 29.0459927
+        },
+        "keyAccentLanguage": "shawila"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Claremont",
+        "location": {
+          "lat": -21.052337,
+          "lng": 29.0459927
+        },
+        "keyAccentLanguage": "claremont"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sikende",
+        "location": {
+          "lat": -19.833333,
+          "lng": 27.216667
+        },
+        "keyAccentLanguage": "sikende"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lochard",
+        "location": {
+          "lat": -19.9167791,
+          "lng": 29.0154346
+        },
+        "keyAccentLanguage": "lochard"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Irisvale Halt",
+        "location": {
+          "lat": -20.515476,
+          "lng": 29.0629281
+        },
+        "keyAccentLanguage": "irisvale_halt"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Greystone",
+        "location": {
+          "lat": -20.1614558,
+          "lng": 29.5070574
+        },
+        "keyAccentLanguage": "greystone"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Warmley",
+        "location": {
+          "lat": -21.2915089,
+          "lng": 27.8963386
+        },
+        "keyAccentLanguage": "warmley"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Makado",
+        "location": {
+          "lat": -21.4552925,
+          "lng": 29.7223337
+        },
+        "keyAccentLanguage": "makado"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tshiturapadsi",
+        "location": {
+          "lat": -22.1910905,
+          "lng": 30.7795312
+        },
+        "keyAccentLanguage": "tshiturapadsi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Matibi",
+        "location": {
+          "lat": -22.083333,
+          "lng": 30.65
+        },
+        "keyAccentLanguage": "matibi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Matobo",
+        "location": {
+          "lat": -20.416667,
+          "lng": 28.483333
+        },
+        "keyAccentLanguage": "matobo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Usher Institute",
+        "location": {
+          "lat": -20.383333,
+          "lng": 28.216667
+        },
+        "keyAccentLanguage": "usher_institute"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sheleni",
+        "location": {
+          "lat": -21.083333,
+          "lng": 27.716667
+        },
+        "keyAccentLanguage": "sheleni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hwali",
+        "location": {
+          "lat": -21.6975442,
+          "lng": 29.2015645
+        },
+        "keyAccentLanguage": "hwali"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Shangani",
+        "location": {
+          "lat": -19.7779175,
+          "lng": 29.3617338
+        },
+        "keyAccentLanguage": "shangani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Worringham",
+        "location": {
+          "lat": -21.052337,
+          "lng": 29.0459927
+        },
+        "keyAccentLanguage": "worringham"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Seboza",
+        "location": {
+          "lat": -21.667458,
+          "lng": 29.1261352
+        },
+        "keyAccentLanguage": "seboza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Halale",
+        "location": {
+          "lat": -20.683333,
+          "lng": 28.416667
+        },
+        "keyAccentLanguage": "halale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Makvlela",
+        "location": {
+          "lat": -19.933333,
+          "lng": 27.233333
+        },
+        "keyAccentLanguage": "makvlela"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mbalabala",
+        "location": {
+          "lat": -20.4475915,
+          "lng": 29.041177
+        },
+        "keyAccentLanguage": "mbalabala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Springfontein",
+        "location": {
+          "lat": -21.052337,
+          "lng": 29.0459927
+        },
+        "keyAccentLanguage": "springfontein"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zezani",
+        "location": {
+          "lat": -21.6087025,
+          "lng": 29.4989844
+        },
+        "keyAccentLanguage": "zezani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "West Nicholson",
+        "location": {
+          "lat": -21.0595205,
+          "lng": 29.3615014
+        },
+        "keyAccentLanguage": "west_nicholson"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sitauzis",
+        "location": {
+          "lat": -21.516667,
+          "lng": 29.533333
+        },
+        "keyAccentLanguage": "sitauzis"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sinyoni",
+        "location": {
+          "lat": -22.2,
+          "lng": 30.35
+        },
+        "keyAccentLanguage": "sinyoni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Maramani",
+        "location": {
+          "lat": -22.0077948,
+          "lng": 29.3588276
+        },
+        "keyAccentLanguage": "maramani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chamnanga",
+        "location": {
+          "lat": -22.1156445,
+          "lng": 30.0658015
+        },
+        "keyAccentLanguage": "chamnanga"
+      }
+    ],
+    "enNameLanguage": "Matabeleland South",
+    "keyAccentLanguage": "matabeleland_south"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 38.9318499,
+      "lng": -77.023187
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gweru",
+        "location": {
+          "lat": -19.4656559,
+          "lng": 29.8124125
+        },
+        "keyAccentLanguage": "gweru"
+      }
+    ],
+    "enNameLanguage": "Midlands",
+    "keyAccentLanguage": "midlands"
+  }
+]

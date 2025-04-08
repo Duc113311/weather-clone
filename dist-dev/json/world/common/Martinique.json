@@ -1,0 +1,2619 @@
+[
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 14.6160647,
+      "lng": -61.0587804
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fond Giromond",
+        "location": {
+          "lat": 14.65,
+          "lng": -60.967
+        },
+        "keyAccentLanguage": "fond_giromond"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fond-Zombi",
+        "location": {
+          "lat": 14.65,
+          "lng": -61.05
+        },
+        "keyAccentLanguage": "fond-zombi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Absalon",
+        "location": {
+          "lat": 14.683,
+          "lng": -61.1
+        },
+        "keyAccentLanguage": "absalon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fond Cacao",
+        "location": {
+          "lat": 14.65,
+          "lng": -61.033
+        },
+        "keyAccentLanguage": "fond_cacao"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chambort",
+        "location": {
+          "lat": 14.633,
+          "lng": -61.017
+        },
+        "keyAccentLanguage": "chambort"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jeanne d'Arc",
+        "location": {
+          "lat": 14.633,
+          "lng": -61.017
+        },
+        "keyAccentLanguage": "jeanne_d'arc"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fond Nigaud",
+        "location": {
+          "lat": 14.617,
+          "lng": -61.1
+        },
+        "keyAccentLanguage": "fond_nigaud"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Californie",
+        "location": {
+          "lat": 14.6,
+          "lng": -61.033
+        },
+        "keyAccentLanguage": "la_californie"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cite Dillon",
+        "location": {
+          "lat": 14.6,
+          "lng": -61.05
+        },
+        "keyAccentLanguage": "cite_dillon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pelletier",
+        "location": {
+          "lat": 14.65,
+          "lng": -60.967
+        },
+        "keyAccentLanguage": "pelletier"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chateauboeuf",
+        "location": {
+          "lat": 14.617,
+          "lng": -61.05
+        },
+        "keyAccentLanguage": "chateauboeuf"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Croisee Manioc",
+        "location": {
+          "lat": 14.667,
+          "lng": -61.033
+        },
+        "keyAccentLanguage": "croisee_manioc"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Derriere-Bois",
+        "location": {
+          "lat": 14.65,
+          "lng": -61
+        },
+        "keyAccentLanguage": "derriere-bois"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gondeau-Saint-Joseph",
+        "location": {
+          "lat": 14.633,
+          "lng": -61.033
+        },
+        "keyAccentLanguage": "gondeau-saint-joseph"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fort-de-france",
+        "location": {
+          "lat": 14.605,
+          "lng": -61.071
+        },
+        "keyAccentLanguage": "fort-de-france"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Balata-Tourtet",
+        "location": {
+          "lat": 14.633,
+          "lng": -61.083
+        },
+        "keyAccentLanguage": "balata-tourtet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Daubert",
+        "location": {
+          "lat": 14.667,
+          "lng": -60.983
+        },
+        "keyAccentLanguage": "daubert"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fantaisie",
+        "location": {
+          "lat": 14.617,
+          "lng": -61.05
+        },
+        "keyAccentLanguage": "fantaisie"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fond Collat",
+        "location": {
+          "lat": 14.617,
+          "lng": -61.1
+        },
+        "keyAccentLanguage": "fond_collat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rousseau",
+        "location": {
+          "lat": 14.65,
+          "lng": -61.017
+        },
+        "keyAccentLanguage": "rousseau"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gerbault",
+        "location": {
+          "lat": 14.6,
+          "lng": -61.05
+        },
+        "keyAccentLanguage": "gerbault"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Long Bois",
+        "location": {
+          "lat": 14.633,
+          "lng": -61
+        },
+        "keyAccentLanguage": "long_bois"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sarraut",
+        "location": {
+          "lat": 14.633,
+          "lng": -60.967
+        },
+        "keyAccentLanguage": "sarraut"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Clairiere",
+        "location": {
+          "lat": 14.6,
+          "lng": -61.083
+        },
+        "keyAccentLanguage": "clairiere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bois Du Parc",
+        "location": {
+          "lat": 14.667,
+          "lng": -61.05
+        },
+        "keyAccentLanguage": "bois_du_parc"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fonds Brules",
+        "location": {
+          "lat": 14.65,
+          "lng": -60.967
+        },
+        "keyAccentLanguage": "fonds_brules"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Quartier Roches Carrees",
+        "location": {
+          "lat": 14.633,
+          "lng": -60.967
+        },
+        "keyAccentLanguage": "quartier_roches_carrees"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Morne Serpent",
+        "location": {
+          "lat": 14.617,
+          "lng": -60.95
+        },
+        "keyAccentLanguage": "morne_serpent"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Presqu'ile",
+        "location": {
+          "lat": 14.667,
+          "lng": -61
+        },
+        "keyAccentLanguage": "presqu'ile"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cite Petit Manoir",
+        "location": {
+          "lat": 14.6,
+          "lng": -61
+        },
+        "keyAccentLanguage": "cite_petit_manoir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Poste Colon",
+        "location": {
+          "lat": 14.65,
+          "lng": -61.067
+        },
+        "keyAccentLanguage": "poste_colon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cluny",
+        "location": {
+          "lat": 14.617,
+          "lng": -61.083
+        },
+        "keyAccentLanguage": "cluny"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Case Navire",
+        "location": {
+          "lat": 14.617,
+          "lng": -61.1
+        },
+        "keyAccentLanguage": "case_navire"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Four a Chaux",
+        "location": {
+          "lat": 14.6,
+          "lng": -61
+        },
+        "keyAccentLanguage": "four_a_chaux"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Coridon",
+        "location": {
+          "lat": 14.617,
+          "lng": -61.067
+        },
+        "keyAccentLanguage": "coridon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Floreal",
+        "location": {
+          "lat": 14.617,
+          "lng": -61.05
+        },
+        "keyAccentLanguage": "floreal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Morne Poirier",
+        "location": {
+          "lat": 14.667,
+          "lng": -61.05
+        },
+        "keyAccentLanguage": "morne_poirier"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Favorite",
+        "location": {
+          "lat": 14.633,
+          "lng": -61.033
+        },
+        "keyAccentLanguage": "la_favorite"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acajou",
+        "location": {
+          "lat": 14.617,
+          "lng": -61.017
+        },
+        "keyAccentLanguage": "acajou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Petite Riviere",
+        "location": {
+          "lat": 14.65,
+          "lng": -60.967
+        },
+        "keyAccentLanguage": "petite_riviere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Beleme",
+        "location": {
+          "lat": 14.633,
+          "lng": -61
+        },
+        "keyAccentLanguage": "la_beleme"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Quartier Plateau Tiberge",
+        "location": {
+          "lat": 14.65,
+          "lng": -61.067
+        },
+        "keyAccentLanguage": "quartier_plateau_tiberge"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pont de Chaines",
+        "location": {
+          "lat": 14.617,
+          "lng": -61.067
+        },
+        "keyAccentLanguage": "pont_de_chaines"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Quartier Desbrosses",
+        "location": {
+          "lat": 14.633,
+          "lng": -61.067
+        },
+        "keyAccentLanguage": "quartier_desbrosses"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Long-Bois",
+        "location": {
+          "lat": 14.667,
+          "lng": -61.017
+        },
+        "keyAccentLanguage": "long-bois"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Plateau-Didier",
+        "location": {
+          "lat": 14.617,
+          "lng": -61.083
+        },
+        "keyAccentLanguage": "plateau-didier"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Schoelcher",
+        "location": {
+          "lat": 14.6,
+          "lng": -61.1
+        },
+        "keyAccentLanguage": "schoelcher"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tourtet",
+        "location": {
+          "lat": 14.633,
+          "lng": -61.067
+        },
+        "keyAccentLanguage": "tourtet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lunette-Bouille",
+        "location": {
+          "lat": 14.617,
+          "lng": -61.067
+        },
+        "keyAccentLanguage": "lunette-bouille"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Quartier la Fontaine",
+        "location": {
+          "lat": 14.617,
+          "lng": -61.083
+        },
+        "keyAccentLanguage": "quartier_la_fontaine"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Redoute",
+        "location": {
+          "lat": 14.617,
+          "lng": -61.05
+        },
+        "keyAccentLanguage": "redoute"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ravine Touza",
+        "location": {
+          "lat": 14.633,
+          "lng": -61.083
+        },
+        "keyAccentLanguage": "ravine_touza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Demarche",
+        "location": {
+          "lat": 14.633,
+          "lng": -61.117
+        },
+        "keyAccentLanguage": "la_demarche"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Quartier Dabadie",
+        "location": {
+          "lat": 14.633,
+          "lng": -61.067
+        },
+        "keyAccentLanguage": "quartier_dabadie"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Palmiste",
+        "location": {
+          "lat": 14.633,
+          "lng": -61.033
+        },
+        "keyAccentLanguage": "palmiste"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fontaine de Moutte",
+        "location": {
+          "lat": 14.633,
+          "lng": -61.05
+        },
+        "keyAccentLanguage": "fontaine_de_moutte"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Morne Pavillon",
+        "location": {
+          "lat": 14.617,
+          "lng": -60.95
+        },
+        "keyAccentLanguage": "morne_pavillon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Duchene",
+        "location": {
+          "lat": 14.633,
+          "lng": -60.95
+        },
+        "keyAccentLanguage": "duchene"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Quartier Balata",
+        "location": {
+          "lat": 14.683,
+          "lng": -61.033
+        },
+        "keyAccentLanguage": "quartier_balata"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Chapelle",
+        "location": {
+          "lat": 14.683,
+          "lng": -61.033
+        },
+        "keyAccentLanguage": "la_chapelle"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Quartier Rabuchon",
+        "location": {
+          "lat": 14.667,
+          "lng": -61.067
+        },
+        "keyAccentLanguage": "quartier_rabuchon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Medaille",
+        "location": {
+          "lat": 14.7,
+          "lng": -61.083
+        },
+        "keyAccentLanguage": "la_medaille"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Terres Sainville",
+        "location": {
+          "lat": 14.6,
+          "lng": -61.067
+        },
+        "keyAccentLanguage": "terres_sainville"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Quartier l'Allee",
+        "location": {
+          "lat": 14.667,
+          "lng": -61.017
+        },
+        "keyAccentLanguage": "quartier_l'allee"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint-Joseph",
+        "location": {
+          "lat": 14.667,
+          "lng": -61.033
+        },
+        "keyAccentLanguage": "saint-joseph"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Cesaire",
+        "location": {
+          "lat": 14.617,
+          "lng": -61
+        },
+        "keyAccentLanguage": "la_cesaire"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Serail",
+        "location": {
+          "lat": 14.683,
+          "lng": -61.033
+        },
+        "keyAccentLanguage": "serail"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Volga-Plage",
+        "location": {
+          "lat": 14.6,
+          "lng": -61.067
+        },
+        "keyAccentLanguage": "volga-plage"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Terreville",
+        "location": {
+          "lat": 14.65,
+          "lng": -61.1
+        },
+        "keyAccentLanguage": "terreville"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Quartier Sainte-Catherine",
+        "location": {
+          "lat": 14.617,
+          "lng": -61.1
+        },
+        "keyAccentLanguage": "quartier_sainte-catherine"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Morne des Olives",
+        "location": {
+          "lat": 14.683,
+          "lng": -61.05
+        },
+        "keyAccentLanguage": "le_morne_des_olives"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ravine Vilaine",
+        "location": {
+          "lat": 14.633,
+          "lng": -61.067
+        },
+        "keyAccentLanguage": "ravine_vilaine"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Haut",
+        "location": {
+          "lat": 14.633,
+          "lng": -60.95
+        },
+        "keyAccentLanguage": "la_haut"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Regale",
+        "location": {
+          "lat": 14.633,
+          "lng": -61.05
+        },
+        "keyAccentLanguage": "la_regale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Quartier de la T. S. F.",
+        "location": {
+          "lat": 14.6,
+          "lng": -61.067
+        },
+        "keyAccentLanguage": "quartier_de_la_t._s._f."
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Becouya",
+        "location": {
+          "lat": 14.667,
+          "lng": -60.983
+        },
+        "keyAccentLanguage": "becouya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Durand",
+        "location": {
+          "lat": 14.683,
+          "lng": -61.05
+        },
+        "keyAccentLanguage": "la_durand"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "L'Enclos",
+        "location": {
+          "lat": 14.617,
+          "lng": -61.117
+        },
+        "keyAccentLanguage": "l'enclos"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gondeau",
+        "location": {
+          "lat": 14.617,
+          "lng": -61.033
+        },
+        "keyAccentLanguage": "gondeau"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Morne-Pichevin",
+        "location": {
+          "lat": 14.6,
+          "lng": -61.067
+        },
+        "keyAccentLanguage": "morne-pichevin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fond Nicolas",
+        "location": {
+          "lat": 14.633,
+          "lng": -60.95
+        },
+        "keyAccentLanguage": "fond_nicolas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anse Madame",
+        "location": {
+          "lat": 14.617,
+          "lng": -61.1
+        },
+        "keyAccentLanguage": "anse_madame"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sainte-Therese",
+        "location": {
+          "lat": 14.6,
+          "lng": -61.067
+        },
+        "keyAccentLanguage": "sainte-therese"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belfort",
+        "location": {
+          "lat": 14.65,
+          "lng": -61
+        },
+        "keyAccentLanguage": "belfort"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Quartier Vente",
+        "location": {
+          "lat": 14.633,
+          "lng": -61.083
+        },
+        "keyAccentLanguage": "quartier_vente"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Touza",
+        "location": {
+          "lat": 14.633,
+          "lng": -61.083
+        },
+        "keyAccentLanguage": "touza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bois Carre",
+        "location": {
+          "lat": 14.617,
+          "lng": -61
+        },
+        "keyAccentLanguage": "bois_carre"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "L'Ermitage",
+        "location": {
+          "lat": 14.667,
+          "lng": -61.05
+        },
+        "keyAccentLanguage": "l'ermitage"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bois Zombi",
+        "location": {
+          "lat": 14.65,
+          "lng": -60.967
+        },
+        "keyAccentLanguage": "bois_zombi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Bateliere",
+        "location": {
+          "lat": 14.6,
+          "lng": -61.1
+        },
+        "keyAccentLanguage": "la_bateliere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beauchamp",
+        "location": {
+          "lat": 14.617,
+          "lng": -60.95
+        },
+        "keyAccentLanguage": "beauchamp"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Quartier Morne Calebasse",
+        "location": {
+          "lat": 14.617,
+          "lng": -61.067
+        },
+        "keyAccentLanguage": "quartier_morne_calebasse"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Quartier Pays Mele",
+        "location": {
+          "lat": 14.633,
+          "lng": -61.017
+        },
+        "keyAccentLanguage": "quartier_pays_mele"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Quartier Petit Paradis",
+        "location": {
+          "lat": 14.633,
+          "lng": -61.033
+        },
+        "keyAccentLanguage": "quartier_petit_paradis"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Riviere l'Or",
+        "location": {
+          "lat": 14.667,
+          "lng": -61.067
+        },
+        "keyAccentLanguage": "riviere_l'or"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Riviere Calecon",
+        "location": {
+          "lat": 14.617,
+          "lng": -60.967
+        },
+        "keyAccentLanguage": "riviere_calecon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Quartier Riviere Monsieur",
+        "location": {
+          "lat": 14.617,
+          "lng": -61.05
+        },
+        "keyAccentLanguage": "quartier_riviere_monsieur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Quartier la Sabine",
+        "location": {
+          "lat": 14.667,
+          "lng": -60.983
+        },
+        "keyAccentLanguage": "quartier_la_sabine"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fond Bernier",
+        "location": {
+          "lat": 14.617,
+          "lng": -61.117
+        },
+        "keyAccentLanguage": "fond_bernier"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fond-Lahaye",
+        "location": {
+          "lat": 14.617,
+          "lng": -61.1
+        },
+        "keyAccentLanguage": "fond-lahaye"
+      }
+    ],
+    "enNameLanguage": "Fort-de-France",
+    "keyAccentLanguage": "fort-de-france"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 38.083403,
+      "lng": -122.7633036
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barriere-la-Croix",
+        "location": {
+          "lat": 14.45,
+          "lng": -60.85
+        },
+        "keyAccentLanguage": "barriere-la-croix"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beauregard",
+        "location": {
+          "lat": 14.6,
+          "lng": -60.9
+        },
+        "keyAccentLanguage": "beauregard"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belle Ame",
+        "location": {
+          "lat": 14.617,
+          "lng": -60.933
+        },
+        "keyAccentLanguage": "belle_ame"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anse Figuiers",
+        "location": {
+          "lat": 14.45,
+          "lng": -60.917
+        },
+        "keyAccentLanguage": "anse_figuiers"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Camee",
+        "location": {
+          "lat": 14.467,
+          "lng": -60.9
+        },
+        "keyAccentLanguage": "camee"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Guinee-Fleury",
+        "location": {
+          "lat": 14.517,
+          "lng": -60.933
+        },
+        "keyAccentLanguage": "guinee-fleury"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Croisee Decius",
+        "location": {
+          "lat": 14.467,
+          "lng": -60.85
+        },
+        "keyAccentLanguage": "croisee_decius"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cedalise",
+        "location": {
+          "lat": 14.467,
+          "lng": -60.883
+        },
+        "keyAccentLanguage": "cedalise"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fond Gens Libres",
+        "location": {
+          "lat": 14.483,
+          "lng": -60.85
+        },
+        "keyAccentLanguage": "fond_gens_libres"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chateau Gaillard",
+        "location": {
+          "lat": 14.517,
+          "lng": -61
+        },
+        "keyAccentLanguage": "chateau_gaillard"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fond Moustiques",
+        "location": {
+          "lat": 14.417,
+          "lng": -60.883
+        },
+        "keyAccentLanguage": "fond_moustiques"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bossou",
+        "location": {
+          "lat": 14.583,
+          "lng": -60.917
+        },
+        "keyAccentLanguage": "bossou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Boucan",
+        "location": {
+          "lat": 14.467,
+          "lng": -60.883
+        },
+        "keyAccentLanguage": "boucan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bellay",
+        "location": {
+          "lat": 14.483,
+          "lng": -60.917
+        },
+        "keyAccentLanguage": "bellay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bois-Neuf",
+        "location": {
+          "lat": 14.583,
+          "lng": -60.933
+        },
+        "keyAccentLanguage": "bois-neuf"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cap Cabaret",
+        "location": {
+          "lat": 14.45,
+          "lng": -60.833
+        },
+        "keyAccentLanguage": "cap_cabaret"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Borel",
+        "location": {
+          "lat": 14.483,
+          "lng": -60.917
+        },
+        "keyAccentLanguage": "borel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Boissiere",
+        "location": {
+          "lat": 14.55,
+          "lng": -60.9
+        },
+        "keyAccentLanguage": "la_boissiere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Chopotte",
+        "location": {
+          "lat": 14.617,
+          "lng": -60.917
+        },
+        "keyAccentLanguage": "la_chopotte"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gallochat",
+        "location": {
+          "lat": 14.517,
+          "lng": -61.067
+        },
+        "keyAccentLanguage": "gallochat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bel-Air",
+        "location": {
+          "lat": 14.55,
+          "lng": -60.867
+        },
+        "keyAccentLanguage": "bel-air"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sainte-anne",
+        "location": {
+          "lat": 14.432,
+          "lng": -60.878
+        },
+        "keyAccentLanguage": "sainte-anne"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Concorde-Leyritz",
+        "location": {
+          "lat": 14.517,
+          "lng": -61.033
+        },
+        "keyAccentLanguage": "concorde-leyritz"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barington",
+        "location": {
+          "lat": 14.55,
+          "lng": -60.967
+        },
+        "keyAccentLanguage": "barington"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Desruisseaux",
+        "location": {
+          "lat": 14.517,
+          "lng": -60.883
+        },
+        "keyAccentLanguage": "desruisseaux"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chevalier",
+        "location": {
+          "lat": 14.483,
+          "lng": -60.9
+        },
+        "keyAccentLanguage": "chevalier"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Corps de Garde",
+        "location": {
+          "lat": 14.467,
+          "lng": -60.95
+        },
+        "keyAccentLanguage": "corps_de_garde"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ferre",
+        "location": {
+          "lat": 14.467,
+          "lng": -60.833
+        },
+        "keyAccentLanguage": "ferre"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "L'anse Caffar",
+        "location": {
+          "lat": 14.467,
+          "lng": -61.05
+        },
+        "keyAccentLanguage": "l'anse_caffar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fond Repos",
+        "location": {
+          "lat": 14.45,
+          "lng": -60.85
+        },
+        "keyAccentLanguage": "fond_repos"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Mauny",
+        "location": {
+          "lat": 14.5,
+          "lng": -60.9
+        },
+        "keyAccentLanguage": "la_mauny"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Baume",
+        "location": {
+          "lat": 14.533,
+          "lng": -60.867
+        },
+        "keyAccentLanguage": "la_baume"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belle Languette",
+        "location": {
+          "lat": 14.45,
+          "lng": -60.833
+        },
+        "keyAccentLanguage": "belle_languette"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Balata",
+        "location": {
+          "lat": 14.467,
+          "lng": -60.867
+        },
+        "keyAccentLanguage": "balata"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Carriere",
+        "location": {
+          "lat": 14.5,
+          "lng": -60.85
+        },
+        "keyAccentLanguage": "la_carriere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lescouet",
+        "location": {
+          "lat": 14.483,
+          "lng": -60.883
+        },
+        "keyAccentLanguage": "lescouet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Berry",
+        "location": {
+          "lat": 14.467,
+          "lng": -60.867
+        },
+        "keyAccentLanguage": "la_berry"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Duprey",
+        "location": {
+          "lat": 14.45,
+          "lng": -60.883
+        },
+        "keyAccentLanguage": "la_duprey"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Casse",
+        "location": {
+          "lat": 14.45,
+          "lng": -60.833
+        },
+        "keyAccentLanguage": "la_casse"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Fouquette",
+        "location": {
+          "lat": 14.467,
+          "lng": -60.85
+        },
+        "keyAccentLanguage": "la_fouquette"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Grand-Court",
+        "location": {
+          "lat": 14.45,
+          "lng": -60.85
+        },
+        "keyAccentLanguage": "grand-court"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Pagerie",
+        "location": {
+          "lat": 14.517,
+          "lng": -61.05
+        },
+        "keyAccentLanguage": "la_pagerie"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Richard",
+        "location": {
+          "lat": 14.583,
+          "lng": -60.95
+        },
+        "keyAccentLanguage": "la_richard"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fond Fleury",
+        "location": {
+          "lat": 14.467,
+          "lng": -61.067
+        },
+        "keyAccentLanguage": "fond_fleury"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Monesie",
+        "location": {
+          "lat": 14.483,
+          "lng": -60.933
+        },
+        "keyAccentLanguage": "monesie"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adelaide Maillet",
+        "location": {
+          "lat": 14.517,
+          "lng": -60.9
+        },
+        "keyAccentLanguage": "adelaide_maillet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bois la Charles",
+        "location": {
+          "lat": 14.533,
+          "lng": -60.933
+        },
+        "keyAccentLanguage": "bois_la_charles"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abondance",
+        "location": {
+          "lat": 14.533,
+          "lng": -60.883
+        },
+        "keyAccentLanguage": "abondance"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belle Etoile",
+        "location": {
+          "lat": 14.483,
+          "lng": -60.833
+        },
+        "keyAccentLanguage": "belle_etoile"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jean-Baptiste",
+        "location": {
+          "lat": 14.45,
+          "lng": -60.9
+        },
+        "keyAccentLanguage": "jean-baptiste"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gabourin",
+        "location": {
+          "lat": 14.583,
+          "lng": -60.917
+        },
+        "keyAccentLanguage": "gabourin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bois Neuf",
+        "location": {
+          "lat": 14.467,
+          "lng": -60.833
+        },
+        "keyAccentLanguage": "bois_neuf"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Concorde",
+        "location": {
+          "lat": 14.517,
+          "lng": -61.033
+        },
+        "keyAccentLanguage": "concorde"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baudelle",
+        "location": {
+          "lat": 14.533,
+          "lng": -60.917
+        },
+        "keyAccentLanguage": "baudelle"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hyacinthe",
+        "location": {
+          "lat": 14.65,
+          "lng": -60.903
+        },
+        "keyAccentLanguage": "hyacinthe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Grande Anse",
+        "location": {
+          "lat": 14.5,
+          "lng": -61.083
+        },
+        "keyAccentLanguage": "grande_anse"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bambous",
+        "location": {
+          "lat": 14.517,
+          "lng": -60.883
+        },
+        "keyAccentLanguage": "bambous"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ducos",
+        "location": {
+          "lat": 14.567,
+          "lng": -60.983
+        },
+        "keyAccentLanguage": "ducos"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bellevue",
+        "location": {
+          "lat": 14.467,
+          "lng": -60.933
+        },
+        "keyAccentLanguage": "bellevue"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chapelle Villarson",
+        "location": {
+          "lat": 14.633,
+          "lng": -60.917
+        },
+        "keyAccentLanguage": "chapelle_villarson"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cap Chevalier",
+        "location": {
+          "lat": 14.433,
+          "lng": -60.833
+        },
+        "keyAccentLanguage": "cap_chevalier"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Renee",
+        "location": {
+          "lat": 14.517,
+          "lng": -60.9
+        },
+        "keyAccentLanguage": "la_renee"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fond Panier",
+        "location": {
+          "lat": 14.567,
+          "lng": -60.983
+        },
+        "keyAccentLanguage": "fond_panier"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bois Soldat",
+        "location": {
+          "lat": 14.6,
+          "lng": -60.9
+        },
+        "keyAccentLanguage": "bois_soldat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Caritan",
+        "location": {
+          "lat": 14.433,
+          "lng": -60.883
+        },
+        "keyAccentLanguage": "caritan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Guenot",
+        "location": {
+          "lat": 14.483,
+          "lng": -60.9
+        },
+        "keyAccentLanguage": "guenot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Anses-d'arlets",
+        "location": {
+          "lat": 14.494,
+          "lng": -61.078
+        },
+        "keyAccentLanguage": "les_anses-d'arlets"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mare Poirier",
+        "location": {
+          "lat": 14.483,
+          "lng": -61
+        },
+        "keyAccentLanguage": "mare_poirier"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Champfleury",
+        "location": {
+          "lat": 14.467,
+          "lng": -60.833
+        },
+        "keyAccentLanguage": "champfleury"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Morne Blanc",
+        "location": {
+          "lat": 14.483,
+          "lng": -61.05
+        },
+        "keyAccentLanguage": "morne_blanc"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dumaine",
+        "location": {
+          "lat": 14.583,
+          "lng": -60.9
+        },
+        "keyAccentLanguage": "dumaine"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Desmarinieres",
+        "location": {
+          "lat": 14.5,
+          "lng": -60.95
+        },
+        "keyAccentLanguage": "desmarinieres"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Debuc",
+        "location": {
+          "lat": 14.45,
+          "lng": -60.883
+        },
+        "keyAccentLanguage": "la_debuc"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Josseaud",
+        "location": {
+          "lat": 14.517,
+          "lng": -60.883
+        },
+        "keyAccentLanguage": "josseaud"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Faubourg Schoelcher",
+        "location": {
+          "lat": 14.483,
+          "lng": -60.9
+        },
+        "keyAccentLanguage": "faubourg_schoelcher"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fond Masson",
+        "location": {
+          "lat": 14.533,
+          "lng": -60.933
+        },
+        "keyAccentLanguage": "fond_masson"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fond Hubert",
+        "location": {
+          "lat": 14.55,
+          "lng": -60.867
+        },
+        "keyAccentLanguage": "fond_hubert"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Francois",
+        "location": {
+          "lat": 14.622,
+          "lng": -60.913
+        },
+        "keyAccentLanguage": "le_francois"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Desert",
+        "location": {
+          "lat": 14.467,
+          "lng": -60.95
+        },
+        "keyAccentLanguage": "desert"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Diaka",
+        "location": {
+          "lat": 14.467,
+          "lng": -60.867
+        },
+        "keyAccentLanguage": "diaka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Riviere-pilote",
+        "location": {
+          "lat": 14.476,
+          "lng": -60.906
+        },
+        "keyAccentLanguage": "riviere-pilote"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Taupiniere",
+        "location": {
+          "lat": 14.477,
+          "lng": -60.979
+        },
+        "keyAccentLanguage": "taupiniere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Manzo",
+        "location": {
+          "lat": 14.583,
+          "lng": -60.95
+        },
+        "keyAccentLanguage": "la_manzo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Plaine",
+        "location": {
+          "lat": 14.5,
+          "lng": -61.067
+        },
+        "keyAccentLanguage": "la_plaine"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Trois Rivieres",
+        "location": {
+          "lat": 14.473,
+          "lng": -60.962
+        },
+        "keyAccentLanguage": "trois_rivieres"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Duquesne",
+        "location": {
+          "lat": 14.583,
+          "lng": -60.933
+        },
+        "keyAccentLanguage": "duquesne"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Fontenay",
+        "location": {
+          "lat": 14.533,
+          "lng": -60.933
+        },
+        "keyAccentLanguage": "la_fontenay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Huvet",
+        "location": {
+          "lat": 14.467,
+          "lng": -60.867
+        },
+        "keyAccentLanguage": "la_huvet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cadette",
+        "location": {
+          "lat": 14.567,
+          "lng": -60.883
+        },
+        "keyAccentLanguage": "cadette"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Farelle",
+        "location": {
+          "lat": 14.583,
+          "lng": -60.933
+        },
+        "keyAccentLanguage": "la_farelle"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Californie",
+        "location": {
+          "lat": 14.6,
+          "lng": -60.95
+        },
+        "keyAccentLanguage": "californie"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bernard",
+        "location": {
+          "lat": 14.45,
+          "lng": -60.883
+        },
+        "keyAccentLanguage": "bernard"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Massel",
+        "location": {
+          "lat": 14.5,
+          "lng": -60.867
+        },
+        "keyAccentLanguage": "la_massel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "L'anse Mitan",
+        "location": {
+          "lat": 14.533,
+          "lng": -61.05
+        },
+        "keyAccentLanguage": "l'anse_mitan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Lamentin",
+        "location": {
+          "lat": 14.573,
+          "lng": -60.976
+        },
+        "keyAccentLanguage": "le_lamentin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bareto",
+        "location": {
+          "lat": 14.433,
+          "lng": -60.867
+        },
+        "keyAccentLanguage": "bareto"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Delivry",
+        "location": {
+          "lat": 14.483,
+          "lng": -60.917
+        },
+        "keyAccentLanguage": "delivry"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "St.-pierre",
+        "location": {
+          "lat": 14.583,
+          "lng": -60.933
+        },
+        "keyAccentLanguage": "st.-pierre"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Grande Savane",
+        "location": {
+          "lat": 14.567,
+          "lng": -60.95
+        },
+        "keyAccentLanguage": "grande_savane"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bac",
+        "location": {
+          "lat": 14.583,
+          "lng": -60.967
+        },
+        "keyAccentLanguage": "bac"
+      }
+    ],
+    "enNameLanguage": "Marin",
+    "keyAccentLanguage": "marin"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 46.7758459,
+      "lng": -56.1806363
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bel Event",
+        "location": {
+          "lat": 14.683,
+          "lng": -61.15
+        },
+        "keyAccentLanguage": "bel_event"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint-Maurice",
+        "location": {
+          "lat": 14.7,
+          "lng": -61.133
+        },
+        "keyAccentLanguage": "saint-maurice"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cafe",
+        "location": {
+          "lat": 14.7,
+          "lng": -61.95
+        },
+        "keyAccentLanguage": "cafe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Champ Flore",
+        "location": {
+          "lat": 14.75,
+          "lng": -61.133
+        },
+        "keyAccentLanguage": "champ_flore"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Coin",
+        "location": {
+          "lat": 14.7,
+          "lng": -61.183
+        },
+        "keyAccentLanguage": "le_coin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fond Rose",
+        "location": {
+          "lat": 14.75,
+          "lng": -61.117
+        },
+        "keyAccentLanguage": "fond_rose"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Morne-Vert",
+        "location": {
+          "lat": 14.7,
+          "lng": -61.15
+        },
+        "keyAccentLanguage": "morne-vert"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fond Bourlet",
+        "location": {
+          "lat": 14.633,
+          "lng": -61.133
+        },
+        "keyAccentLanguage": "fond_bourlet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Carbet",
+        "location": {
+          "lat": 14.7,
+          "lng": -61.183
+        },
+        "keyAccentLanguage": "le_carbet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lajus",
+        "location": {
+          "lat": 14.7,
+          "lng": -61.183
+        },
+        "keyAccentLanguage": "lajus"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alma",
+        "location": {
+          "lat": 14.7,
+          "lng": -61.1
+        },
+        "keyAccentLanguage": "alma"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Deux Choux",
+        "location": {
+          "lat": 14.733,
+          "lng": -61.1
+        },
+        "keyAccentLanguage": "deux_choux"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Trou",
+        "location": {
+          "lat": 14.717,
+          "lng": -61.183
+        },
+        "keyAccentLanguage": "le_trou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Morne Rouge",
+        "location": {
+          "lat": 14.767,
+          "lng": -61.133
+        },
+        "keyAccentLanguage": "le_morne_rouge"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fond Marie-Reine",
+        "location": {
+          "lat": 14.75,
+          "lng": -61.117
+        },
+        "keyAccentLanguage": "fond_marie-reine"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fond Capot",
+        "location": {
+          "lat": 14.667,
+          "lng": -61.167
+        },
+        "keyAccentLanguage": "fond_capot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Verrier",
+        "location": {
+          "lat": 14.683,
+          "lng": -61.133
+        },
+        "keyAccentLanguage": "verrier"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Canton Suisse",
+        "location": {
+          "lat": 14.7,
+          "lng": -61.15
+        },
+        "keyAccentLanguage": "canton_suisse"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Quartier du Fort",
+        "location": {
+          "lat": 14.75,
+          "lng": -61.183
+        },
+        "keyAccentLanguage": "quartier_du_fort"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Quartier Piton",
+        "location": {
+          "lat": 14.717,
+          "lng": -61.167
+        },
+        "keyAccentLanguage": "quartier_piton"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Quartier Fond Guillet",
+        "location": {
+          "lat": 14.767,
+          "lng": -61.133
+        },
+        "keyAccentLanguage": "quartier_fond_guillet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Quartier Morne Piton",
+        "location": {
+          "lat": 14.7,
+          "lng": -61.133
+        },
+        "keyAccentLanguage": "quartier_morne_piton"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Precheur",
+        "location": {
+          "lat": 14.8,
+          "lng": -61.217
+        },
+        "keyAccentLanguage": "le_precheur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Union",
+        "location": {
+          "lat": 14.7,
+          "lng": -61.133
+        },
+        "keyAccentLanguage": "union"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Plaisable",
+        "location": {
+          "lat": 14.7,
+          "lng": -61.967
+        },
+        "keyAccentLanguage": "plaisable"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Morne-Vert",
+        "location": {
+          "lat": 14.7,
+          "lng": -61.133
+        },
+        "keyAccentLanguage": "le_morne-vert"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fonds Boheme",
+        "location": {
+          "lat": 14.683,
+          "lng": -61.133
+        },
+        "keyAccentLanguage": "fonds_boheme"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Quartier de l'Ex-voto",
+        "location": {
+          "lat": 14.75,
+          "lng": -61.2
+        },
+        "keyAccentLanguage": "quartier_de_l'ex-voto"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Proprete",
+        "location": {
+          "lat": 14.733,
+          "lng": -61.1
+        },
+        "keyAccentLanguage": "proprete"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fond-Saint-Denis",
+        "location": {
+          "lat": 14.733,
+          "lng": -61.133
+        },
+        "keyAccentLanguage": "fond-saint-denis"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bellefontaine",
+        "location": {
+          "lat": 14.667,
+          "lng": -61.167
+        },
+        "keyAccentLanguage": "bellefontaine"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Morne aux Boeufs",
+        "location": {
+          "lat": 14.683,
+          "lng": -61.167
+        },
+        "keyAccentLanguage": "le_morne_aux_boeufs"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Savane Petit",
+        "location": {
+          "lat": 14.767,
+          "lng": -61.117
+        },
+        "keyAccentLanguage": "savane_petit"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Quartier Monsieur",
+        "location": {
+          "lat": 14.717,
+          "lng": -61.183
+        },
+        "keyAccentLanguage": "quartier_monsieur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Mouillage",
+        "location": {
+          "lat": 14.733,
+          "lng": -61.167
+        },
+        "keyAccentLanguage": "le_mouillage"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "St.-pierre",
+        "location": {
+          "lat": 14.742,
+          "lng": -61.173
+        },
+        "keyAccentLanguage": "st.-pierre"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fond Abattoir",
+        "location": {
+          "lat": 14.767,
+          "lng": -61.133
+        },
+        "keyAccentLanguage": "fond_abattoir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Morne Vente",
+        "location": {
+          "lat": 14.65,
+          "lng": -61.15
+        },
+        "keyAccentLanguage": "morne_vente"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Tranchee",
+        "location": {
+          "lat": 14.733,
+          "lng": -61.133
+        },
+        "keyAccentLanguage": "la_tranchee"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Batterie",
+        "location": {
+          "lat": 14.633,
+          "lng": -61.133
+        },
+        "keyAccentLanguage": "la_batterie"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Abymes",
+        "location": {
+          "lat": 14.8,
+          "lng": -61.217
+        },
+        "keyAccentLanguage": "les_abymes"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Centre",
+        "location": {
+          "lat": 14.75,
+          "lng": -61.183
+        },
+        "keyAccentLanguage": "le_centre"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Parnasse",
+        "location": {
+          "lat": 14.75,
+          "lng": -61.133
+        },
+        "keyAccentLanguage": "parnasse"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fond Mascret",
+        "location": {
+          "lat": 14.733,
+          "lng": -61.133
+        },
+        "keyAccentLanguage": "fond_mascret"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Quartier Beco",
+        "location": {
+          "lat": 14.717,
+          "lng": -61.133
+        },
+        "keyAccentLanguage": "quartier_beco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Quartier Morne Covin",
+        "location": {
+          "lat": 14.683,
+          "lng": -61.133
+        },
+        "keyAccentLanguage": "quartier_morne_covin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fond Boucher",
+        "location": {
+          "lat": 14.65,
+          "lng": -61.15
+        },
+        "keyAccentLanguage": "fond_boucher"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Case-Pilote",
+        "location": {
+          "lat": 14.633,
+          "lng": -61.133
+        },
+        "keyAccentLanguage": "case-pilote"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Quartier Bedzy",
+        "location": {
+          "lat": 14.717,
+          "lng": -61.133
+        },
+        "keyAccentLanguage": "quartier_bedzy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Petite Savane",
+        "location": {
+          "lat": 14.783,
+          "lng": -61.133
+        },
+        "keyAccentLanguage": "petite_savane"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Dessaint",
+        "location": {
+          "lat": 14.717,
+          "lng": -61.183
+        },
+        "keyAccentLanguage": "la_dessaint"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Montjoly",
+        "location": {
+          "lat": 14.7,
+          "lng": -61.133
+        },
+        "keyAccentLanguage": "montjoly"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pointe la Mare",
+        "location": {
+          "lat": 14.767,
+          "lng": -61.217
+        },
+        "keyAccentLanguage": "pointe_la_mare"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Quartier Beauvallon",
+        "location": {
+          "lat": 14.717,
+          "lng": -61.15
+        },
+        "keyAccentLanguage": "quartier_beauvallon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zobeide",
+        "location": {
+          "lat": 14.75,
+          "lng": -61.133
+        },
+        "keyAccentLanguage": "zobeide"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Quartier de l'Orangerie",
+        "location": {
+          "lat": 14.8,
+          "lng": -61.233
+        },
+        "keyAccentLanguage": "quartier_de_l'orangerie"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Trois Ponts",
+        "location": {
+          "lat": 14.75,
+          "lng": -61.167
+        },
+        "keyAccentLanguage": "les_trois_ponts"
+      }
+    ],
+    "enNameLanguage": "Saint-Pierre",
+    "keyAccentLanguage": "saint-pierre"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 14.7480857,
+      "lng": -61.0238481
+    },
+    "districtList": [],
+    "enNameLanguage": "Trinite",
+    "keyAccentLanguage": "trinite"
+  }
+]

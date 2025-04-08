@@ -1,0 +1,24 @@
+[
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -82.862752,
+      "lng": 135
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Artigas Station",
+        "location": {
+          "lat": -62.18508800000001,
+          "lng": -58.9048821
+        },
+        "keyAccentLanguage": "artigas_station"
+      }
+    ],
+    "enNameLanguage": "Antarctica",
+    "keyAccentLanguage": "antarctica"
+  }
+]

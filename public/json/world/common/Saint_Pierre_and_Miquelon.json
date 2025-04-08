@@ -1,0 +1,45 @@
+[
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Petit Barachois",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "petit_barachois"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Miquelon",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "miquelon"
+      }
+    ],
+    "enNameLanguage": "Miquelon-Langlade",
+    "keyAccentLanguage": "miquelon-langlade"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [],
+    "enNameLanguage": "Saint-Pierre",
+    "keyAccentLanguage": "saint-pierre"
+  }
+]

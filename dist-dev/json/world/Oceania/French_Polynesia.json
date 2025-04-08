@@ -1,0 +1,714 @@
+[
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arue",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "arue"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Apihaa",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "apihaa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afaahiti",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "afaahiti"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Araiteva",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "araiteva"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gahutu",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "gahutu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arahiri",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "arahiri"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Atihiva",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "atihiva"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Araito",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "araito"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Atiue",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "atiue"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anganui",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "anganui"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fare",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "fare"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Faanui",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "faanui"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Atirikigaro",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "atirikigaro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amaru",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "amaru"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afatauri",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "afatauri"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fakatopatere",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "fakatopatere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akamaru",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "akamaru"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gataha",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "gataha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Faarumai",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "faarumai"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anua",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "anua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Faatautia",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "faatautia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Apomaoro",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "apomaoro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hakamui",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hakamui"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hanatetena",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hanatetena"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Auti",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "auti"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Haapiti",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "haapiti"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afareaitu",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "afareaitu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fareorea",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "fareorea"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Faremi",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "faremi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aoua",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "aoua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anapoto",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "anapoto"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anapoo",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "anapoo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Atuona",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "atuona"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Atipiti",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "atipiti"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Avae",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "avae"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Faauanu",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "faauanu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Atiaoha",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "atiaoha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fariipiti",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "fariipiti"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anatonu",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "anatonu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ahurei",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ahurei"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Haapape",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "haapape"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Area",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "area"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fareeru",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "fareeru"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Faaa",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "faaa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Atihoi",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "atihoi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Auaue",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "auaue"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Atimaono",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "atimaono"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ganoa",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ganoa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Avatoru",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "avatoru"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akaputu",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "akaputu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Faaone",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "faaone"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anau",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "anau"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hotopuu",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hotopuu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Atituiti",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "atituiti"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hanaui",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hanaui"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Avera",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "avera"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ataiti",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ataiti"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gahutu Tenohu",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "gahutu_tenohu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Apeakava",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "apeakava"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Haapu",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "haapu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Paopao",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "paopao"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Papeari",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "papeari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mahina",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mahina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mataiea",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mataiea"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Papeete",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "papeete"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gatavake",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "gatavake"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Auorotini",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "auorotini"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anaho",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "anaho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Vairao",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "vairao"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hakapehi",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hakapehi"
+      }
+    ],
+    "enNameLanguage": "French Polynesia",
+    "keyAccentLanguage": "french_polynesia"
+  }
+]

@@ -1,0 +1,55 @@
+.pad-big {
+  padding: 14px;
+}
+.pad-small {
+  padding: 10px;
+}
+
+.pad-t-b-l-r {
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.pad-t-b {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.pad-l-r {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.pad-tab {
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+/* Radios */
+
+.bor-radios-big {
+  border-radius: 20px;
+}
+
+.bor-radios-small {
+  border-radius: 14px;
+}
+
+.bor-rim-r {
+  border-right: 1px solid #ffffff;
+}
+
+.bor-c {
+  border: 1px solid #f9f9f9;
+}
+
+.bor-b {
+  border-bottom: 1px solid #ffffff54;
+}
+.card {
+  /* margin-bottom: 24px; */
+  box-shadow: 0 0.25rem 0.75rem rgba(18, 38, 63, 0.08);
+  border: none !important;
+}

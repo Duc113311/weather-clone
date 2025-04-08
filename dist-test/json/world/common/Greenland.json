@@ -1,0 +1,723 @@
+[
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kangersuatsiaq",
+        "location": {
+          "lat": 72.37958239999999,
+          "lng": -55.5483361
+        },
+        "keyAccentLanguage": "kangersuatsiaq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qeqertaq",
+        "location": {
+          "lat": 69.99746739999999,
+          "lng": -51.3032244
+        },
+        "keyAccentLanguage": "qeqertaq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ilulissat",
+        "location": {
+          "lat": 69.2198118,
+          "lng": -51.0986032
+        },
+        "keyAccentLanguage": "ilulissat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nuugaatsiaq",
+        "location": {
+          "lat": 71.5358006,
+          "lng": -53.2120548
+        },
+        "keyAccentLanguage": "nuugaatsiaq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaarsut",
+        "location": {
+          "lat": 70.7178799,
+          "lng": -52.613129
+        },
+        "keyAccentLanguage": "qaarsut"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Savissivik",
+        "location": {
+          "lat": 76.0195293,
+          "lng": -65.1081914
+        },
+        "keyAccentLanguage": "savissivik"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ukkusissat",
+        "location": {
+          "lat": 71.056877,
+          "lng": -51.897018
+        },
+        "keyAccentLanguage": "ukkusissat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Niaqornat",
+        "location": {
+          "lat": 70.78125,
+          "lng": -53.6582409
+        },
+        "keyAccentLanguage": "niaqornat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaanaaq",
+        "location": {
+          "lat": 77.4670434,
+          "lng": -69.2284828
+        },
+        "keyAccentLanguage": "qaanaaq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qeqertat",
+        "location": {
+          "lat": 77.4938794,
+          "lng": -66.685737
+        },
+        "keyAccentLanguage": "qeqertat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kullorsuaq",
+        "location": {
+          "lat": 75.9645208,
+          "lng": -53.3651186
+        },
+        "keyAccentLanguage": "kullorsuaq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Upernavik Kujalleq",
+        "location": {
+          "lat": 72.7862881,
+          "lng": -56.1375527
+        },
+        "keyAccentLanguage": "upernavik_kujalleq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ikerasak",
+        "location": {
+          "lat": 70.494133,
+          "lng": -51.330051
+        },
+        "keyAccentLanguage": "ikerasak"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Uummannaq",
+        "location": {
+          "lat": 70.6766574,
+          "lng": -52.1312606
+        },
+        "keyAccentLanguage": "uummannaq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Innaarsuit",
+        "location": {
+          "lat": 73.1998529,
+          "lng": -56.0109642
+        },
+        "keyAccentLanguage": "innaarsuit"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Upernavik",
+        "location": {
+          "lat": 72.7862881,
+          "lng": -56.1375527
+        },
+        "keyAccentLanguage": "upernavik"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tasiusaq",
+        "location": {
+          "lat": 73.3690131,
+          "lng": -56.0576077
+        },
+        "keyAccentLanguage": "tasiusaq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Oqaatsut",
+        "location": {
+          "lat": 69.329147,
+          "lng": -50.9692
+        },
+        "keyAccentLanguage": "oqaatsut"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Siorapaluk",
+        "location": {
+          "lat": 77.78576740000001,
+          "lng": -70.6389891
+        },
+        "keyAccentLanguage": "siorapaluk"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ilimanaq",
+        "location": {
+          "lat": 69.07927339999999,
+          "lng": -51.11150379999999
+        },
+        "keyAccentLanguage": "ilimanaq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saqqaq",
+        "location": {
+          "lat": 70.01483200000001,
+          "lng": -51.93969000000001
+        },
+        "keyAccentLanguage": "saqqaq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nuussuaq",
+        "location": {
+          "lat": 74.1110678,
+          "lng": -57.0591743
+        },
+        "keyAccentLanguage": "nuussuaq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saattut",
+        "location": {
+          "lat": 70.8109316,
+          "lng": -51.6321606
+        },
+        "keyAccentLanguage": "saattut"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pituffik",
+        "location": {
+          "lat": 76.5293445,
+          "lng": -68.8155898
+        },
+        "keyAccentLanguage": "pituffik"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nutaarmiut",
+        "location": {
+          "lat": 72.7,
+          "lng": -55.4166667
+        },
+        "keyAccentLanguage": "nutaarmiut"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Naajaat",
+        "location": {
+          "lat": 75.9645208,
+          "lng": -53.3651186
+        },
+        "keyAccentLanguage": "naajaat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Illorsuit",
+        "location": {
+          "lat": 71.239502,
+          "lng": -53.508499
+        },
+        "keyAccentLanguage": "illorsuit"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ikerasaarsuk",
+        "location": {
+          "lat": 75.9645208,
+          "lng": -53.3651186
+        },
+        "keyAccentLanguage": "ikerasaarsuk"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aappilattoq",
+        "location": {
+          "lat": 72.8836223,
+          "lng": -55.5985437
+        },
+        "keyAccentLanguage": "aappilattoq"
+      }
+    ],
+    "enNameLanguage": "Avannaata",
+    "keyAccentLanguage": "avannaata"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 61.3850674,
+      "lng": -44.4319034
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Narsaq",
+        "location": {
+          "lat": 60.0054167,
+          "lng": -44.6663593
+        },
+        "keyAccentLanguage": "narsaq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Narsarsuaq",
+        "location": {
+          "lat": 61.156703,
+          "lng": -45.4254299
+        },
+        "keyAccentLanguage": "narsarsuaq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qassiarsuk",
+        "location": {
+          "lat": 61.1496359,
+          "lng": -45.51477089999999
+        },
+        "keyAccentLanguage": "qassiarsuk"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alluitsup Paa",
+        "location": {
+          "lat": 60.46300179999999,
+          "lng": -45.5705699
+        },
+        "keyAccentLanguage": "alluitsup_paa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Narsaq Kujalleq",
+        "location": {
+          "lat": 60.0054167,
+          "lng": -44.6663593
+        },
+        "keyAccentLanguage": "narsaq_kujalleq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ammassivik",
+        "location": {
+          "lat": 60.59690630000001,
+          "lng": -45.3851854
+        },
+        "keyAccentLanguage": "ammassivik"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaqortoq",
+        "location": {
+          "lat": 60.71898640000001,
+          "lng": -46.03534579999999
+        },
+        "keyAccentLanguage": "qaqortoq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qassimiut",
+        "location": {
+          "lat": 60.7813816,
+          "lng": -47.1595217
+        },
+        "keyAccentLanguage": "qassimiut"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saarloq",
+        "location": {
+          "lat": 60.537529,
+          "lng": -46.0274909
+        },
+        "keyAccentLanguage": "saarloq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tasiusaq",
+        "location": {
+          "lat": 61.14425629999999,
+          "lng": -45.6256546
+        },
+        "keyAccentLanguage": "tasiusaq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eqalugaarsuit",
+        "location": {
+          "lat": 60.6232527,
+          "lng": -45.9100022
+        },
+        "keyAccentLanguage": "eqalugaarsuit"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aappilattoq",
+        "location": {
+          "lat": 60.15050879999999,
+          "lng": -44.2849852
+        },
+        "keyAccentLanguage": "aappilattoq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nanortalik",
+        "location": {
+          "lat": 60.143694,
+          "lng": -45.2410539
+        },
+        "keyAccentLanguage": "nanortalik"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Igaliku",
+        "location": {
+          "lat": 60.992,
+          "lng": -45.434
+        },
+        "keyAccentLanguage": "igaliku"
+      }
+    ],
+    "enNameLanguage": "Kujalleq",
+    "keyAccentLanguage": "kujalleq"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 75.99998440000002,
+      "lng": -29.9980739
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zackenberg",
+        "location": {
+          "lat": 74.5,
+          "lng": -20.7666667
+        },
+        "keyAccentLanguage": "zackenberg"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Summit Station",
+        "location": {
+          "lat": 72.57958300000001,
+          "lng": -38.459186
+        },
+        "keyAccentLanguage": "summit_station"
+      }
+    ],
+    "enNameLanguage": "Northeast Greenland National Park",
+    "keyAccentLanguage": "northeast_greenland_national_park"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qeqertarsuaq",
+        "location": {
+          "lat": 69.2437661,
+          "lng": -53.5413188
+        },
+        "keyAccentLanguage": "qeqertarsuaq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kangerluk",
+        "location": {
+          "lat": 69.4837077,
+          "lng": -53.9499284
+        },
+        "keyAccentLanguage": "kangerluk"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kangaatsiaq",
+        "location": {
+          "lat": 68.30737839999999,
+          "lng": -53.4569232
+        },
+        "keyAccentLanguage": "kangaatsiaq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aasiaat",
+        "location": {
+          "lat": 68.70697659999999,
+          "lng": -52.85912219999999
+        },
+        "keyAccentLanguage": "aasiaat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Niaqornaarsuk",
+        "location": {
+          "lat": 68.2055932,
+          "lng": -46.4348782
+        },
+        "keyAccentLanguage": "niaqornaarsuk"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ikerasaarsuk",
+        "location": {
+          "lat": 68.2055932,
+          "lng": -46.4348782
+        },
+        "keyAccentLanguage": "ikerasaarsuk"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kitsissuarsuit",
+        "location": {
+          "lat": 68.8584023,
+          "lng": -53.1199843
+        },
+        "keyAccentLanguage": "kitsissuarsuit"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akunnaaq",
+        "location": {
+          "lat": 68.7441863,
+          "lng": -52.3289999
+        },
+        "keyAccentLanguage": "akunnaaq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ikamiut",
+        "location": {
+          "lat": 68.6344357,
+          "lng": -51.8303118
+        },
+        "keyAccentLanguage": "ikamiut"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qasigiannguit",
+        "location": {
+          "lat": 68.8219742,
+          "lng": -51.1817887
+        },
+        "keyAccentLanguage": "qasigiannguit"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Attu",
+        "location": {
+          "lat": 68.2055932,
+          "lng": -46.4348782
+        },
+        "keyAccentLanguage": "attu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Iginniarfik",
+        "location": {
+          "lat": 68.1472557,
+          "lng": -53.1715752
+        },
+        "keyAccentLanguage": "iginniarfik"
+      }
+    ],
+    "enNameLanguage": "Qeqertalik",
+    "keyAccentLanguage": "qeqertalik"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 66.1763879,
+      "lng": -48.9906533
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sarfannguit",
+        "location": {
+          "lat": 66.8979001,
+          "lng": -52.86007439999999
+        },
+        "keyAccentLanguage": "sarfannguit"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Atammik",
+        "location": {
+          "lat": 64.80379440000002,
+          "lng": -52.17289969999999
+        },
+        "keyAccentLanguage": "atammik"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kangaamiut",
+        "location": {
+          "lat": 65.825195,
+          "lng": -53.3434801
+        },
+        "keyAccentLanguage": "kangaamiut"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Itilleq",
+        "location": {
+          "lat": 66.577337,
+          "lng": -53.49842830000001
+        },
+        "keyAccentLanguage": "itilleq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sisimiut",
+        "location": {
+          "lat": 66.9394119,
+          "lng": -53.6631554
+        },
+        "keyAccentLanguage": "sisimiut"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Napasoq",
+        "location": {
+          "lat": 65.0471605,
+          "lng": -52.3803012
+        },
+        "keyAccentLanguage": "napasoq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kangerlussuaq",
+        "location": {
+          "lat": 67.00933789999999,
+          "lng": -50.70063930000001
+        },
+        "keyAccentLanguage": "kangerlussuaq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Maniitsoq",
+        "location": {
+          "lat": 65.46666669999999,
+          "lng": -52.9833333
+        },
+        "keyAccentLanguage": "maniitsoq"
+      }
+    ],
+    "enNameLanguage": "Qeqqata",
+    "keyAccentLanguage": "qeqqata"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 68.09179809999999,
+      "lng": -39.2845123
+    },
+    "districtList": [],
+    "enNameLanguage": "Sermersooq",
+    "keyAccentLanguage": "sermersooq"
+  }
+]

@@ -1,0 +1,2641 @@
+[
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bishan New Town",
+        "location": {
+          "lat": 1.346,
+          "lng": 103.853
+        },
+        "keyAccentLanguage": "bishan_new_town"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Goldhill Gardens",
+        "location": {
+          "lat": 1.322,
+          "lng": 103.832
+        },
+        "keyAccentLanguage": "goldhill_gardens"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chinese Gardens",
+        "location": {
+          "lat": 1.311,
+          "lng": 103.798
+        },
+        "keyAccentLanguage": "chinese_gardens"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adelphi Park Estate",
+        "location": {
+          "lat": 1.355,
+          "lng": 103.829
+        },
+        "keyAccentLanguage": "adelphi_park_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Henderson Estate",
+        "location": {
+          "lat": 1.289,
+          "lng": 103.823
+        },
+        "keyAccentLanguage": "henderson_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ardmore Flats",
+        "location": {
+          "lat": 1.309,
+          "lng": 103.83
+        },
+        "keyAccentLanguage": "ardmore_flats"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Brickworks Estate",
+        "location": {
+          "lat": 1.287,
+          "lng": 103.808
+        },
+        "keyAccentLanguage": "brickworks_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tanglin",
+        "location": {
+          "lat": 1.317,
+          "lng": 103.817
+        },
+        "keyAccentLanguage": "tanglin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kimlin Park",
+        "location": {
+          "lat": 1.302,
+          "lng": 103.827
+        },
+        "keyAccentLanguage": "kimlin_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lorong Tiga Estate",
+        "location": {
+          "lat": 1.317,
+          "lng": 103.867
+        },
+        "keyAccentLanguage": "lorong_tiga_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Seletar",
+        "location": {
+          "lat": 1.41,
+          "lng": 103.874
+        },
+        "keyAccentLanguage": "seletar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Faber Garden",
+        "location": {
+          "lat": 1.363,
+          "lng": 103.83
+        },
+        "keyAccentLanguage": "faber_garden"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Yio Chu Kang Estate",
+        "location": {
+          "lat": 1.39,
+          "lng": 103.854
+        },
+        "keyAccentLanguage": "yio_chu_kang_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kalang",
+        "location": {
+          "lat": 1.333,
+          "lng": 103.867
+        },
+        "keyAccentLanguage": "kalang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tiong Guan Estate",
+        "location": {
+          "lat": 1.356,
+          "lng": 103.826
+        },
+        "keyAccentLanguage": "tiong_guan_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Soopoo",
+        "location": {
+          "lat": 1.317,
+          "lng": 103.867
+        },
+        "keyAccentLanguage": "kampong_soopoo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Swiss Cottage Estate",
+        "location": {
+          "lat": 1.32,
+          "lng": 103.832
+        },
+        "keyAccentLanguage": "swiss_cottage_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chip Hock Garden",
+        "location": {
+          "lat": 1.32,
+          "lng": 103.814
+        },
+        "keyAccentLanguage": "chip_hock_garden"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Tongkang Pechah",
+        "location": {
+          "lat": 1.39,
+          "lng": 103.876
+        },
+        "keyAccentLanguage": "kampong_tongkang_pechah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tian Guan Estate",
+        "location": {
+          "lat": 1.36,
+          "lng": 103.826
+        },
+        "keyAccentLanguage": "tian_guan_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Serangoon Garden Estate",
+        "location": {
+          "lat": 1.364,
+          "lng": 103.857
+        },
+        "keyAccentLanguage": "serangoon_garden_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Radin Mas",
+        "location": {
+          "lat": 1.274,
+          "lng": 103.824
+        },
+        "keyAccentLanguage": "radin_mas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bukit Ho Swee Estate",
+        "location": {
+          "lat": 1.288,
+          "lng": 103.83
+        },
+        "keyAccentLanguage": "bukit_ho_swee_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Amoy Quee",
+        "location": {
+          "lat": 1.383,
+          "lng": 103.85
+        },
+        "keyAccentLanguage": "kampong_amoy_quee"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Phoenix Park",
+        "location": {
+          "lat": 1.299,
+          "lng": 103.812
+        },
+        "keyAccentLanguage": "phoenix_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "People's Park",
+        "location": {
+          "lat": 1.284,
+          "lng": 103.842
+        },
+        "keyAccentLanguage": "people's_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bukit Sembawang Estate",
+        "location": {
+          "lat": 1.396,
+          "lng": 103.869
+        },
+        "keyAccentLanguage": "bukit_sembawang_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Kuchai",
+        "location": {
+          "lat": 1.317,
+          "lng": 103.867
+        },
+        "keyAccentLanguage": "kampong_kuchai"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Windsor Park Estate",
+        "location": {
+          "lat": 1.357,
+          "lng": 103.825
+        },
+        "keyAccentLanguage": "windsor_park_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Silat Estate",
+        "location": {
+          "lat": 1.279,
+          "lng": 103.826
+        },
+        "keyAccentLanguage": "kampong_silat_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pulau Minyak",
+        "location": {
+          "lat": 1.317,
+          "lng": 103.867
+        },
+        "keyAccentLanguage": "pulau_minyak"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bright Hill Crescent",
+        "location": {
+          "lat": 1.35,
+          "lng": 103.833
+        },
+        "keyAccentLanguage": "bright_hill_crescent"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Pengkalan Petai",
+        "location": {
+          "lat": 1.403,
+          "lng": 103.85
+        },
+        "keyAccentLanguage": "kampong_pengkalan_petai"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong San Teng",
+        "location": {
+          "lat": 1.349,
+          "lng": 103.84
+        },
+        "keyAccentLanguage": "kampong_san_teng"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount Pleasant",
+        "location": {
+          "lat": 1.332,
+          "lng": 103.833
+        },
+        "keyAccentLanguage": "mount_pleasant"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Thomson",
+        "location": {
+          "lat": 1.349,
+          "lng": 103.844
+        },
+        "keyAccentLanguage": "thomson"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ang Mo Kio New Town",
+        "location": {
+          "lat": 1.38,
+          "lng": 103.84
+        },
+        "keyAccentLanguage": "ang_mo_kio_new_town"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jalan Kayu",
+        "location": {
+          "lat": 1.397,
+          "lng": 103.872
+        },
+        "keyAccentLanguage": "jalan_kayu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount Rosie",
+        "location": {
+          "lat": 1.323,
+          "lng": 103.834
+        },
+        "keyAccentLanguage": "mount_rosie"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "McMahon Park",
+        "location": {
+          "lat": 1.314,
+          "lng": 103.785
+        },
+        "keyAccentLanguage": "mcmahon_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dragon View Park",
+        "location": {
+          "lat": 1.296,
+          "lng": 103.824
+        },
+        "keyAccentLanguage": "dragon_view_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Singapore",
+        "location": {
+          "lat": 1.311,
+          "lng": 103.843
+        },
+        "keyAccentLanguage": "singapore"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eden Hall",
+        "location": {
+          "lat": 1.311,
+          "lng": 103.822
+        },
+        "keyAccentLanguage": "eden_hall"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Woodleigh Park",
+        "location": {
+          "lat": 1.342,
+          "lng": 103.868
+        },
+        "keyAccentLanguage": "woodleigh_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint Michael's Estate",
+        "location": {
+          "lat": 1.328,
+          "lng": 103.861
+        },
+        "keyAccentLanguage": "saint_michael's_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Outram Park",
+        "location": {
+          "lat": 1.283,
+          "lng": 103.838
+        },
+        "keyAccentLanguage": "outram_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "York Hill Estate",
+        "location": {
+          "lat": 1.286,
+          "lng": 103.835
+        },
+        "keyAccentLanguage": "york_hill_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Holland Village",
+        "location": {
+          "lat": 1.312,
+          "lng": 103.793
+        },
+        "keyAccentLanguage": "holland_village"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alexandra Estate",
+        "location": {
+          "lat": 1.294,
+          "lng": 103.82
+        },
+        "keyAccentLanguage": "alexandra_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Delta Estate",
+        "location": {
+          "lat": 1.291,
+          "lng": 103.829
+        },
+        "keyAccentLanguage": "delta_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Singapore United Plantation",
+        "location": {
+          "lat": 1.379,
+          "lng": 103.858
+        },
+        "keyAccentLanguage": "singapore_united_plantation"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Thomson Garden Estate",
+        "location": {
+          "lat": 1.354,
+          "lng": 103.839
+        },
+        "keyAccentLanguage": "thomson_garden_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Yio Chu Kang",
+        "location": {
+          "lat": 1.391,
+          "lng": 103.851
+        },
+        "keyAccentLanguage": "yio_chu_kang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Oei Tiong Ham Park",
+        "location": {
+          "lat": 1.315,
+          "lng": 103.794
+        },
+        "keyAccentLanguage": "oei_tiong_ham_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sommerville Estate",
+        "location": {
+          "lat": 1.314,
+          "lng": 103.807
+        },
+        "keyAccentLanguage": "sommerville_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rebecca Park",
+        "location": {
+          "lat": 1.322,
+          "lng": 103.801
+        },
+        "keyAccentLanguage": "rebecca_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Caldecott Hill Estate",
+        "location": {
+          "lat": 1.337,
+          "lng": 103.835
+        },
+        "keyAccentLanguage": "caldecott_hill_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Hock Soon",
+        "location": {
+          "lat": 1.317,
+          "lng": 103.867
+        },
+        "keyAccentLanguage": "kampong_hock_soon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Kopit",
+        "location": {
+          "lat": 1.267,
+          "lng": 103.833
+        },
+        "keyAccentLanguage": "kampong_kopit"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tanjong Pagar",
+        "location": {
+          "lat": 1.283,
+          "lng": 103.833
+        },
+        "keyAccentLanguage": "tanjong_pagar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Thomson Park",
+        "location": {
+          "lat": 1.357,
+          "lng": 103.836
+        },
+        "keyAccentLanguage": "thomson_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Thomson Ridge Estate",
+        "location": {
+          "lat": 1.351,
+          "lng": 103.833
+        },
+        "keyAccentLanguage": "thomson_ridge_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Teacher's Housing Estate",
+        "location": {
+          "lat": 1.383,
+          "lng": 103.829
+        },
+        "keyAccentLanguage": "teacher's_housing_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Woollerton Park",
+        "location": {
+          "lat": 1.316,
+          "lng": 103.809
+        },
+        "keyAccentLanguage": "woollerton_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tanglin Hill",
+        "location": {
+          "lat": 1.302,
+          "lng": 103.815
+        },
+        "keyAccentLanguage": "tanglin_hill"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Queen Astrid Park",
+        "location": {
+          "lat": 1.319,
+          "lng": 103.791
+        },
+        "keyAccentLanguage": "queen_astrid_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sennett Estate",
+        "location": {
+          "lat": 1.332,
+          "lng": 103.872
+        },
+        "keyAccentLanguage": "sennett_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fernhill Gardens",
+        "location": {
+          "lat": 1.314,
+          "lng": 103.822
+        },
+        "keyAccentLanguage": "fernhill_gardens"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Soo Chow Garden",
+        "location": {
+          "lat": 1.353,
+          "lng": 103.831
+        },
+        "keyAccentLanguage": "soo_chow_garden"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Seletar Hills Estate",
+        "location": {
+          "lat": 1.384,
+          "lng": 103.868
+        },
+        "keyAccentLanguage": "seletar_hills_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Queenstown",
+        "location": {
+          "lat": 1.296,
+          "lng": 103.817
+        },
+        "keyAccentLanguage": "queenstown"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Toa Payoh New Town",
+        "location": {
+          "lat": 1.334,
+          "lng": 103.856
+        },
+        "keyAccentLanguage": "toa_payoh_new_town"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bukit Merah Estate",
+        "location": {
+          "lat": 1.284,
+          "lng": 103.823
+        },
+        "keyAccentLanguage": "bukit_merah_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tiong Bahru Estate",
+        "location": {
+          "lat": 1.283,
+          "lng": 103.833
+        },
+        "keyAccentLanguage": "tiong_bahru_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saga",
+        "location": {
+          "lat": 1.267,
+          "lng": 103.833
+        },
+        "keyAccentLanguage": "saga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tyersall Park",
+        "location": {
+          "lat": 1.311,
+          "lng": 103.814
+        },
+        "keyAccentLanguage": "tyersall_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bin Tong Park",
+        "location": {
+          "lat": 1.321,
+          "lng": 103.798
+        },
+        "keyAccentLanguage": "bin_tong_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Leedon Park",
+        "location": {
+          "lat": 1.317,
+          "lng": 103.794
+        },
+        "keyAccentLanguage": "leedon_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Potong Pasir",
+        "location": {
+          "lat": 1.333,
+          "lng": 103.867
+        },
+        "keyAccentLanguage": "kampong_potong_pasir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount Emily Park",
+        "location": {
+          "lat": 1.305,
+          "lng": 103.847
+        },
+        "keyAccentLanguage": "mount_emily_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ang Mo Kio New Town",
+        "location": {
+          "lat": 1.38,
+          "lng": 103.84
+        },
+        "keyAccentLanguage": "ang_mo_kio_new_town"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bukit Sembawang Estate",
+        "location": {
+          "lat": 1.396,
+          "lng": 103.869
+        },
+        "keyAccentLanguage": "bukit_sembawang_estate"
+      }
+    ],
+    "enNameLanguage": "Central Singapore",
+    "keyAccentLanguage": "central_singapore"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 41.9659515,
+      "lng": -90.3746822
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tampines Estate",
+        "location": {
+          "lat": 1.358,
+          "lng": 103.94
+        },
+        "keyAccentLanguage": "tampines_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hun Yeang",
+        "location": {
+          "lat": 1.369,
+          "lng": 103.932
+        },
+        "keyAccentLanguage": "hun_yeang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fish Farming Estate",
+        "location": {
+          "lat": 1.364,
+          "lng": 103.914
+        },
+        "keyAccentLanguage": "fish_farming_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Sungai Tengah",
+        "location": {
+          "lat": 1.383,
+          "lng": 103.9
+        },
+        "keyAccentLanguage": "kampong_sungai_tengah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Punggol Estate",
+        "location": {
+          "lat": 1.363,
+          "lng": 103.908
+        },
+        "keyAccentLanguage": "punggol_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Quemoy Park",
+        "location": {
+          "lat": 1.344,
+          "lng": 103.897
+        },
+        "keyAccentLanguage": "quemoy_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tai Seng",
+        "location": {
+          "lat": 1.336,
+          "lng": 103.904
+        },
+        "keyAccentLanguage": "tai_seng"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Pasir Ris",
+        "location": {
+          "lat": 1.378,
+          "lng": 103.932
+        },
+        "keyAccentLanguage": "kampong_pasir_ris"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Serangoon Kechil",
+        "location": {
+          "lat": 1.39,
+          "lng": 103.907
+        },
+        "keyAccentLanguage": "kampong_serangoon_kechil"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Matilda Estate",
+        "location": {
+          "lat": 1.399,
+          "lng": 103.903
+        },
+        "keyAccentLanguage": "matilda_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Tampines",
+        "location": {
+          "lat": 1.37,
+          "lng": 103.951
+        },
+        "keyAccentLanguage": "kampong_tampines"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Charlton Park",
+        "location": {
+          "lat": 1.356,
+          "lng": 103.901
+        },
+        "keyAccentLanguage": "charlton_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tai Hwan Gardens",
+        "location": {
+          "lat": 1.355,
+          "lng": 103.861
+        },
+        "keyAccentLanguage": "tai_hwan_gardens"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Kebun Baharu",
+        "location": {
+          "lat": 1.367,
+          "lng": 103.867
+        },
+        "keyAccentLanguage": "kampong_kebun_baharu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ulu Bedok",
+        "location": {
+          "lat": 1.333,
+          "lng": 103.933
+        },
+        "keyAccentLanguage": "ulu_bedok"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Teban",
+        "location": {
+          "lat": 1.379,
+          "lng": 103.908
+        },
+        "keyAccentLanguage": "kampong_teban"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Beremban",
+        "location": {
+          "lat": 1.381,
+          "lng": 103.916
+        },
+        "keyAccentLanguage": "kampong_beremban"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Perseverance Estate",
+        "location": {
+          "lat": 1.33,
+          "lng": 103.911
+        },
+        "keyAccentLanguage": "perseverance_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Somapah Serangoon",
+        "location": {
+          "lat": 1.362,
+          "lng": 103.885
+        },
+        "keyAccentLanguage": "somapah_serangoon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chia Keng",
+        "location": {
+          "lat": 1.36,
+          "lng": 103.892
+        },
+        "keyAccentLanguage": "chia_keng"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Sungai Blukar",
+        "location": {
+          "lat": 1.388,
+          "lng": 103.918
+        },
+        "keyAccentLanguage": "kampong_sungai_blukar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ah Soo Garden",
+        "location": {
+          "lat": 1.35,
+          "lng": 103.9
+        },
+        "keyAccentLanguage": "ah_soo_garden"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Siren",
+        "location": {
+          "lat": 1.352,
+          "lng": 103.898
+        },
+        "keyAccentLanguage": "kampong_siren"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hougang",
+        "location": {
+          "lat": 1.357,
+          "lng": 103.891
+        },
+        "keyAccentLanguage": "hougang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Punggol",
+        "location": {
+          "lat": 1.413,
+          "lng": 103.91
+        },
+        "keyAccentLanguage": "kampong_punggol"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Pinang",
+        "location": {
+          "lat": 1.381,
+          "lng": 103.894
+        },
+        "keyAccentLanguage": "kampong_pinang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kangkar",
+        "location": {
+          "lat": 1.376,
+          "lng": 103.902
+        },
+        "keyAccentLanguage": "kangkar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tai Kheng Gardens",
+        "location": {
+          "lat": 1.347,
+          "lng": 103.9
+        },
+        "keyAccentLanguage": "tai_kheng_gardens"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pasir Ris",
+        "location": {
+          "lat": 1.372,
+          "lng": 103.948
+        },
+        "keyAccentLanguage": "pasir_ris"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Serangoon",
+        "location": {
+          "lat": 1.364,
+          "lng": 103.867
+        },
+        "keyAccentLanguage": "serangoon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Raya Garden",
+        "location": {
+          "lat": 1.348,
+          "lng": 103.897
+        },
+        "keyAccentLanguage": "raya_garden"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kaki Bukit Estate",
+        "location": {
+          "lat": 1.337,
+          "lng": 103.909
+        },
+        "keyAccentLanguage": "kaki_bukit_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Lew Lian",
+        "location": {
+          "lat": 1.352,
+          "lng": 103.891
+        },
+        "keyAccentLanguage": "kampong_lew_lian"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Teck Hock",
+        "location": {
+          "lat": 1.367,
+          "lng": 103.916
+        },
+        "keyAccentLanguage": "teck_hock"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Punggol",
+        "location": {
+          "lat": 1.404,
+          "lng": 103.908
+        },
+        "keyAccentLanguage": "punggol"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Peoples Garden",
+        "location": {
+          "lat": 1.369,
+          "lng": 103.905
+        },
+        "keyAccentLanguage": "peoples_garden"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bukit Sembawang Estate",
+        "location": {
+          "lat": 1.386,
+          "lng": 103.895
+        },
+        "keyAccentLanguage": "bukit_sembawang_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Batak",
+        "location": {
+          "lat": 1.344,
+          "lng": 103.922
+        },
+        "keyAccentLanguage": "kampong_batak"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Loyang",
+        "location": {
+          "lat": 1.378,
+          "lng": 103.959
+        },
+        "keyAccentLanguage": "kampong_loyang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Chai Chee",
+        "location": {
+          "lat": 1.333,
+          "lng": 103.933
+        },
+        "keyAccentLanguage": "kampong_chai_chee"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hai Sing Park",
+        "location": {
+          "lat": 1.364,
+          "lng": 103.905
+        },
+        "keyAccentLanguage": "hai_sing_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tampines",
+        "location": {
+          "lat": 1.359,
+          "lng": 103.944
+        },
+        "keyAccentLanguage": "tampines"
+      }
+    ],
+    "enNameLanguage": "North East",
+    "keyAccentLanguage": "north_east"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 34.313,
+      "lng": -78.161
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Chantek Baharu",
+        "location": {
+          "lat": 1.35,
+          "lng": 103.788
+        },
+        "keyAccentLanguage": "kampong_chantek_baharu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tay Keng Loon Estate",
+        "location": {
+          "lat": 1.453,
+          "lng": 103.799
+        },
+        "keyAccentLanguage": "tay_keng_loon_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ghim Moh",
+        "location": {
+          "lat": 1.311,
+          "lng": 103.788
+        },
+        "keyAccentLanguage": "ghim_moh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dunearn Estate",
+        "location": {
+          "lat": 1.325,
+          "lng": 103.823
+        },
+        "keyAccentLanguage": "dunearn_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bukit Panjang New Town",
+        "location": {
+          "lat": 1.38,
+          "lng": 103.765
+        },
+        "keyAccentLanguage": "bukit_panjang_new_town"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bukit Mandai Village",
+        "location": {
+          "lat": 1.412,
+          "lng": 103.757
+        },
+        "keyAccentLanguage": "bukit_mandai_village"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Marsiling",
+        "location": {
+          "lat": 1.441,
+          "lng": 103.771
+        },
+        "keyAccentLanguage": "marsiling"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Kranji",
+        "location": {
+          "lat": 1.433,
+          "lng": 103.75
+        },
+        "keyAccentLanguage": "kampong_kranji"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kam Wak Hassan",
+        "location": {
+          "lat": 1.438,
+          "lng": 103.831
+        },
+        "keyAccentLanguage": "kam_wak_hassan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eng Khong Gardens",
+        "location": {
+          "lat": 1.336,
+          "lng": 103.771
+        },
+        "keyAccentLanguage": "eng_khong_gardens"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sungai Mandai Village",
+        "location": {
+          "lat": 1.411,
+          "lng": 103.777
+        },
+        "keyAccentLanguage": "sungai_mandai_village"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Kitin",
+        "location": {
+          "lat": 1.435,
+          "lng": 103.859
+        },
+        "keyAccentLanguage": "kampong_kitin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Watten Estate",
+        "location": {
+          "lat": 1.327,
+          "lng": 103.811
+        },
+        "keyAccentLanguage": "watten_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Shamrock Park",
+        "location": {
+          "lat": 1.328,
+          "lng": 103.797
+        },
+        "keyAccentLanguage": "shamrock_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Yishun",
+        "location": {
+          "lat": 1.425,
+          "lng": 103.84
+        },
+        "keyAccentLanguage": "yishun"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bukit Timah",
+        "location": {
+          "lat": 1.327,
+          "lng": 103.794
+        },
+        "keyAccentLanguage": "bukit_timah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Teck Chong Estate",
+        "location": {
+          "lat": 1.416,
+          "lng": 103.762
+        },
+        "keyAccentLanguage": "teck_chong_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chong Pang",
+        "location": {
+          "lat": 1.443,
+          "lng": 103.825
+        },
+        "keyAccentLanguage": "chong_pang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Brizay Park",
+        "location": {
+          "lat": 1.33,
+          "lng": 103.787
+        },
+        "keyAccentLanguage": "brizay_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Watten Park",
+        "location": {
+          "lat": 1.333,
+          "lng": 103.81
+        },
+        "keyAccentLanguage": "watten_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Maryland Estate",
+        "location": {
+          "lat": 1.32,
+          "lng": 103.787
+        },
+        "keyAccentLanguage": "maryland_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Holland Grove Park",
+        "location": {
+          "lat": 1.314,
+          "lng": 103.78
+        },
+        "keyAccentLanguage": "holland_grove_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nee Soon Estate",
+        "location": {
+          "lat": 1.403,
+          "lng": 103.818
+        },
+        "keyAccentLanguage": "nee_soon_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pandan Valley",
+        "location": {
+          "lat": 1.318,
+          "lng": 103.776
+        },
+        "keyAccentLanguage": "pandan_valley"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chye Kay",
+        "location": {
+          "lat": 1.426,
+          "lng": 103.824
+        },
+        "keyAccentLanguage": "chye_kay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Camden Park",
+        "location": {
+          "lat": 1.328,
+          "lng": 103.816
+        },
+        "keyAccentLanguage": "camden_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Yew Tee",
+        "location": {
+          "lat": 1.394,
+          "lng": 103.754
+        },
+        "keyAccentLanguage": "yew_tee"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Pengkalan Kundor",
+        "location": {
+          "lat": 1.41,
+          "lng": 103.844
+        },
+        "keyAccentLanguage": "kampong_pengkalan_kundor"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sembawang Hills Estate",
+        "location": {
+          "lat": 1.373,
+          "lng": 103.83
+        },
+        "keyAccentLanguage": "sembawang_hills_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adam Park",
+        "location": {
+          "lat": 1.332,
+          "lng": 103.812
+        },
+        "keyAccentLanguage": "adam_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fuyong Estate",
+        "location": {
+          "lat": 1.359,
+          "lng": 103.768
+        },
+        "keyAccentLanguage": "fuyong_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kilburn Estate",
+        "location": {
+          "lat": 1.34,
+          "lng": 103.781
+        },
+        "keyAccentLanguage": "kilburn_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Bukit Panjang",
+        "location": {
+          "lat": 1.384,
+          "lng": 103.76
+        },
+        "keyAccentLanguage": "kampong_bukit_panjang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Coronation Gardens",
+        "location": {
+          "lat": 1.323,
+          "lng": 103.804
+        },
+        "keyAccentLanguage": "coronation_gardens"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mayflower Estate",
+        "location": {
+          "lat": 1.372,
+          "lng": 103.839
+        },
+        "keyAccentLanguage": "mayflower_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ban Guan Park",
+        "location": {
+          "lat": 1.324,
+          "lng": 103.789
+        },
+        "keyAccentLanguage": "ban_guan_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mok Peng Hiang Estate",
+        "location": {
+          "lat": 1.446,
+          "lng": 103.797
+        },
+        "keyAccentLanguage": "mok_peng_hiang_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Mandai Kechil",
+        "location": {
+          "lat": 1.441,
+          "lng": 103.765
+        },
+        "keyAccentLanguage": "kampong_mandai_kechil"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sembawang Estate",
+        "location": {
+          "lat": 1.451,
+          "lng": 103.829
+        },
+        "keyAccentLanguage": "sembawang_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Raffles Park",
+        "location": {
+          "lat": 1.332,
+          "lng": 103.804
+        },
+        "keyAccentLanguage": "raffles_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hong Kong Park",
+        "location": {
+          "lat": 1.34,
+          "lng": 103.786
+        },
+        "keyAccentLanguage": "hong_kong_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Springleaf Park",
+        "location": {
+          "lat": 1.395,
+          "lng": 103.821
+        },
+        "keyAccentLanguage": "springleaf_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hillcrest Park",
+        "location": {
+          "lat": 1.335,
+          "lng": 103.809
+        },
+        "keyAccentLanguage": "hillcrest_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Wak Hassan",
+        "location": {
+          "lat": 1.461,
+          "lng": 103.836
+        },
+        "keyAccentLanguage": "kampong_wak_hassan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lucky Park",
+        "location": {
+          "lat": 1.329,
+          "lng": 103.791
+        },
+        "keyAccentLanguage": "lucky_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Woodlands New Town",
+        "location": {
+          "lat": 1.444,
+          "lng": 103.777
+        },
+        "keyAccentLanguage": "woodlands_new_town"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Race Course Village",
+        "location": {
+          "lat": 1.333,
+          "lng": 103.8
+        },
+        "keyAccentLanguage": "race_course_village"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Marsiling Estate",
+        "location": {
+          "lat": 1.43,
+          "lng": 103.768
+        },
+        "keyAccentLanguage": "marsiling_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Victoria Park",
+        "location": {
+          "lat": 1.322,
+          "lng": 103.807
+        },
+        "keyAccentLanguage": "victoria_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ewart Park",
+        "location": {
+          "lat": 1.325,
+          "lng": 103.783
+        },
+        "keyAccentLanguage": "ewart_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "King Albert Park",
+        "location": {
+          "lat": 1.334,
+          "lng": 103.78
+        },
+        "keyAccentLanguage": "king_albert_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kingsmead Hall",
+        "location": {
+          "lat": 1.318,
+          "lng": 103.805
+        },
+        "keyAccentLanguage": "kingsmead_hall"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Tanjong Irau",
+        "location": {
+          "lat": 1.457,
+          "lng": 103.847
+        },
+        "keyAccentLanguage": "kampong_tanjong_irau"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sungai Simpang",
+        "location": {
+          "lat": 1.438,
+          "lng": 103.827
+        },
+        "keyAccentLanguage": "sungai_simpang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eden Park",
+        "location": {
+          "lat": 1.331,
+          "lng": 103.793
+        },
+        "keyAccentLanguage": "eden_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tua Kang Lye",
+        "location": {
+          "lat": 1.314,
+          "lng": 103.777
+        },
+        "keyAccentLanguage": "tua_kang_lye"
+      }
+    ],
+    "enNameLanguage": "North West",
+    "keyAccentLanguage": "north_west"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 37.6429447,
+      "lng": -97.18960159999999
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Ayer Samak",
+        "location": {
+          "lat": 1.421,
+          "lng": 104.079
+        },
+        "keyAccentLanguage": "kampong_ayer_samak"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Woodleigh",
+        "location": {
+          "lat": 1.342,
+          "lng": 103.872
+        },
+        "keyAccentLanguage": "kampong_woodleigh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Darat Nanas",
+        "location": {
+          "lat": 1.358,
+          "lng": 103.979
+        },
+        "keyAccentLanguage": "kampong_darat_nanas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bedok Garden",
+        "location": {
+          "lat": 1.323,
+          "lng": 103.958
+        },
+        "keyAccentLanguage": "bedok_garden"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Ayer Gemuruh",
+        "location": {
+          "lat": 1.35,
+          "lng": 103.983
+        },
+        "keyAccentLanguage": "kampong_ayer_gemuruh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bedok New Town",
+        "location": {
+          "lat": 1.325,
+          "lng": 103.95
+        },
+        "keyAccentLanguage": "bedok_new_town"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Geylang Serai",
+        "location": {
+          "lat": 1.32,
+          "lng": 103.908
+        },
+        "keyAccentLanguage": "geylang_serai"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chai Chee Estate",
+        "location": {
+          "lat": 1.327,
+          "lng": 103.933
+        },
+        "keyAccentLanguage": "chai_chee_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Noordin",
+        "location": {
+          "lat": 1.418,
+          "lng": 103.965
+        },
+        "keyAccentLanguage": "kampong_noordin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Changi",
+        "location": {
+          "lat": 1.383,
+          "lng": 104
+        },
+        "keyAccentLanguage": "kampong_changi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Changi Village",
+        "location": {
+          "lat": 1.384,
+          "lng": 103.985
+        },
+        "keyAccentLanguage": "changi_village"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Ubi",
+        "location": {
+          "lat": 1.317,
+          "lng": 103.9
+        },
+        "keyAccentLanguage": "kampong_ubi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Sungai Belang",
+        "location": {
+          "lat": 1.423,
+          "lng": 104.067
+        },
+        "keyAccentLanguage": "kampong_sungai_belang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Wak Tanjong",
+        "location": {
+          "lat": 1.317,
+          "lng": 103.9
+        },
+        "keyAccentLanguage": "kampong_wak_tanjong"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pulau Ubin Village",
+        "location": {
+          "lat": 1.403,
+          "lng": 103.971
+        },
+        "keyAccentLanguage": "pulau_ubin_village"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Jelutong",
+        "location": {
+          "lat": 1.401,
+          "lng": 103.959
+        },
+        "keyAccentLanguage": "kampong_jelutong"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mata Ikan",
+        "location": {
+          "lat": 1.336,
+          "lng": 103.975
+        },
+        "keyAccentLanguage": "mata_ikan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sea View Estate",
+        "location": {
+          "lat": 1.3,
+          "lng": 103.909
+        },
+        "keyAccentLanguage": "sea_view_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Ayer Samak Darat",
+        "location": {
+          "lat": 1.414,
+          "lng": 104.072
+        },
+        "keyAccentLanguage": "kampong_ayer_samak_darat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Siew Lim Park",
+        "location": {
+          "lat": 1.328,
+          "lng": 103.953
+        },
+        "keyAccentLanguage": "siew_lim_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Bahru",
+        "location": {
+          "lat": 1.419,
+          "lng": 103.97
+        },
+        "keyAccentLanguage": "kampong_bahru"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Xilin Estate",
+        "location": {
+          "lat": 1.332,
+          "lng": 103.966
+        },
+        "keyAccentLanguage": "xilin_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Wing Loong",
+        "location": {
+          "lat": 1.35,
+          "lng": 103.972
+        },
+        "keyAccentLanguage": "kampong_wing_loong"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Amber",
+        "location": {
+          "lat": 1.3,
+          "lng": 103.912
+        },
+        "keyAccentLanguage": "kampong_amber"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gay World Park",
+        "location": {
+          "lat": 1.311,
+          "lng": 103.891
+        },
+        "keyAccentLanguage": "gay_world_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Todak",
+        "location": {
+          "lat": 1.421,
+          "lng": 104.022
+        },
+        "keyAccentLanguage": "kampong_todak"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lucky Hills",
+        "location": {
+          "lat": 1.326,
+          "lng": 103.953
+        },
+        "keyAccentLanguage": "lucky_hills"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chia Tong Quah Estate",
+        "location": {
+          "lat": 1.409,
+          "lng": 104.051
+        },
+        "keyAccentLanguage": "chia_tong_quah_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Mamam",
+        "location": {
+          "lat": 1.417,
+          "lng": 103.976
+        },
+        "keyAccentLanguage": "kampong_mamam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "East View Garden",
+        "location": {
+          "lat": 1.346,
+          "lng": 103.965
+        },
+        "keyAccentLanguage": "east_view_garden"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Braddell Heights Estate",
+        "location": {
+          "lat": 1.345,
+          "lng": 103.865
+        },
+        "keyAccentLanguage": "braddell_heights_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Melayu",
+        "location": {
+          "lat": 1.409,
+          "lng": 103.979
+        },
+        "keyAccentLanguage": "kampong_melayu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eastern Gardens",
+        "location": {
+          "lat": 1.318,
+          "lng": 103.945
+        },
+        "keyAccentLanguage": "eastern_gardens"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Paya Lebar",
+        "location": {
+          "lat": 1.347,
+          "lng": 103.886
+        },
+        "keyAccentLanguage": "paya_lebar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Eunos",
+        "location": {
+          "lat": 1.321,
+          "lng": 103.918
+        },
+        "keyAccentLanguage": "kampong_eunos"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bedok Village",
+        "location": {
+          "lat": 1.322,
+          "lng": 103.961
+        },
+        "keyAccentLanguage": "bedok_village"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Happy Gardens",
+        "location": {
+          "lat": 1.331,
+          "lng": 103.896
+        },
+        "keyAccentLanguage": "happy_gardens"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Pengkalan Pakau",
+        "location": {
+          "lat": 1.409,
+          "lng": 104.073
+        },
+        "keyAccentLanguage": "kampong_pengkalan_pakau"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Sanyongkong",
+        "location": {
+          "lat": 1.398,
+          "lng": 104.058
+        },
+        "keyAccentLanguage": "kampong_sanyongkong"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Pachitan",
+        "location": {
+          "lat": 1.322,
+          "lng": 103.924
+        },
+        "keyAccentLanguage": "kampong_pachitan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bedok Ville",
+        "location": {
+          "lat": 1.324,
+          "lng": 103.954
+        },
+        "keyAccentLanguage": "bedok_ville"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Bugis",
+        "location": {
+          "lat": 1.347,
+          "lng": 103.966
+        },
+        "keyAccentLanguage": "kampong_bugis"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Ladang",
+        "location": {
+          "lat": 1.404,
+          "lng": 104.033
+        },
+        "keyAccentLanguage": "kampong_ladang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Che Jevah",
+        "location": {
+          "lat": 1.414,
+          "lng": 103.99
+        },
+        "keyAccentLanguage": "kampong_che_jevah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Simpang Bedok Village",
+        "location": {
+          "lat": 1.334,
+          "lng": 103.952
+        },
+        "keyAccentLanguage": "simpang_bedok_village"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Serangoon New Town",
+        "location": {
+          "lat": 1.351,
+          "lng": 103.871
+        },
+        "keyAccentLanguage": "serangoon_new_town"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Old Kallang Airport Estate",
+        "location": {
+          "lat": 1.309,
+          "lng": 103.907
+        },
+        "keyAccentLanguage": "old_kallang_airport_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Pasir",
+        "location": {
+          "lat": 1.408,
+          "lng": 104.084
+        },
+        "keyAccentLanguage": "kampong_pasir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bena Park",
+        "location": {
+          "lat": 1.352,
+          "lng": 103.975
+        },
+        "keyAccentLanguage": "bena_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Sanyonkong Parit",
+        "location": {
+          "lat": 1.406,
+          "lng": 104.066
+        },
+        "keyAccentLanguage": "kampong_sanyonkong_parit"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Tanah Merah Kechil",
+        "location": {
+          "lat": 1.321,
+          "lng": 103.956
+        },
+        "keyAccentLanguage": "kampong_tanah_merah_kechil"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rose Garden",
+        "location": {
+          "lat": 1.303,
+          "lng": 103.915
+        },
+        "keyAccentLanguage": "rose_garden"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount Vernon",
+        "location": {
+          "lat": 1.336,
+          "lng": 103.897
+        },
+        "keyAccentLanguage": "mount_vernon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Frankel Estate",
+        "location": {
+          "lat": 1.314,
+          "lng": 103.929
+        },
+        "keyAccentLanguage": "frankel_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Harvey",
+        "location": {
+          "lat": 1.344,
+          "lng": 103.959
+        },
+        "keyAccentLanguage": "kampong_harvey"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Pasir Merah",
+        "location": {
+          "lat": 1.429,
+          "lng": 104.047
+        },
+        "keyAccentLanguage": "kampong_pasir_merah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Pahang",
+        "location": {
+          "lat": 1.409,
+          "lng": 104.033
+        },
+        "keyAccentLanguage": "kampong_pahang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Playfair Estate",
+        "location": {
+          "lat": 1.333,
+          "lng": 103.883
+        },
+        "keyAccentLanguage": "playfair_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Spring Park Estate",
+        "location": {
+          "lat": 1.316,
+          "lng": 103.944
+        },
+        "keyAccentLanguage": "spring_park_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Kembangan",
+        "location": {
+          "lat": 1.323,
+          "lng": 103.928
+        },
+        "keyAccentLanguage": "kampong_kembangan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Permatang",
+        "location": {
+          "lat": 1.424,
+          "lng": 104.039
+        },
+        "keyAccentLanguage": "kampong_permatang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Batu Koyok",
+        "location": {
+          "lat": 1.397,
+          "lng": 104.048
+        },
+        "keyAccentLanguage": "kampong_batu_koyok"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Marine Parade Estate",
+        "location": {
+          "lat": 1.304,
+          "lng": 103.925
+        },
+        "keyAccentLanguage": "marine_parade_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Reteh",
+        "location": {
+          "lat": 1.333,
+          "lng": 103.9
+        },
+        "keyAccentLanguage": "kampong_reteh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Unum",
+        "location": {
+          "lat": 1.431,
+          "lng": 104.06
+        },
+        "keyAccentLanguage": "kampong_unum"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Yan Kit",
+        "location": {
+          "lat": 1.357,
+          "lng": 103.972
+        },
+        "keyAccentLanguage": "yan_kit"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Somapah Changi",
+        "location": {
+          "lat": 1.34,
+          "lng": 103.959
+        },
+        "keyAccentLanguage": "somapah_changi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sam Heng Estate",
+        "location": {
+          "lat": 1.414,
+          "lng": 103.976
+        },
+        "keyAccentLanguage": "sam_heng_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Padang Terbakar",
+        "location": {
+          "lat": 1.33,
+          "lng": 103.967
+        },
+        "keyAccentLanguage": "kampong_padang_terbakar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Sireh",
+        "location": {
+          "lat": 1.35,
+          "lng": 103.883
+        },
+        "keyAccentLanguage": "kampong_sireh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Salabin",
+        "location": {
+          "lat": 1.418,
+          "lng": 104.042
+        },
+        "keyAccentLanguage": "kampong_salabin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Simei New Town",
+        "location": {
+          "lat": 1.341,
+          "lng": 103.956
+        },
+        "keyAccentLanguage": "simei_new_town"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sungai Unum Estate",
+        "location": {
+          "lat": 1.421,
+          "lng": 104.05
+        },
+        "keyAccentLanguage": "sungai_unum_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kim Chuan",
+        "location": {
+          "lat": 1.337,
+          "lng": 103.893
+        },
+        "keyAccentLanguage": "kim_chuan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Opera Estate",
+        "location": {
+          "lat": 1.318,
+          "lng": 103.937
+        },
+        "keyAccentLanguage": "opera_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sin Watt Estate",
+        "location": {
+          "lat": 1.414,
+          "lng": 103.951
+        },
+        "keyAccentLanguage": "sin_watt_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Seminei",
+        "location": {
+          "lat": 1.407,
+          "lng": 104.039
+        },
+        "keyAccentLanguage": "kampong_seminei"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kampong Sek Lim",
+        "location": {
+          "lat": 1.332,
+          "lng": 103.962
+        },
+        "keyAccentLanguage": "kampong_sek_lim"
+      }
+    ],
+    "enNameLanguage": "South East",
+    "keyAccentLanguage": "south_east"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 37.09024,
+      "lng": -95.712891
+    },
+    "districtList": [],
+    "enNameLanguage": "South West",
+    "keyAccentLanguage": "south_west"
+  }
+]

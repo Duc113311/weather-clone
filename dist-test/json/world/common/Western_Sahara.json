@@ -1,0 +1,376 @@
+[
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amgala",
+        "location": {
+          "lat": 26.257,
+          "lng": -11.086
+        },
+        "keyAccentLanguage": "amgala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chtoukane",
+        "location": {
+          "lat": 24.799,
+          "lng": -14.841
+        },
+        "keyAccentLanguage": "chtoukane"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cabo Bojador",
+        "location": {
+          "lat": 26.126,
+          "lng": -14.484
+        },
+        "keyAccentLanguage": "cabo_bojador"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Khaoui Naam",
+        "location": {
+          "lat": 27.68,
+          "lng": -12.2
+        },
+        "keyAccentLanguage": "khaoui_naam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Metmarfag",
+        "location": {
+          "lat": 26.433,
+          "lng": -13.433
+        },
+        "keyAccentLanguage": "metmarfag"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dawra",
+        "location": {
+          "lat": 27.403,
+          "lng": -13.02
+        },
+        "keyAccentLanguage": "dawra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Semara",
+        "location": {
+          "lat": 26.734,
+          "lng": -11.678
+        },
+        "keyAccentLanguage": "semara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nouayfadh",
+        "location": {
+          "lat": 25.088,
+          "lng": -14.824
+        },
+        "keyAccentLanguage": "nouayfadh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hagunia",
+        "location": {
+          "lat": 27.438,
+          "lng": -12.436
+        },
+        "keyAccentLanguage": "hagunia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Laayoune Plage",
+        "location": {
+          "lat": 27.065,
+          "lng": -13.428
+        },
+        "keyAccentLanguage": "laayoune_plage"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lemsid",
+        "location": {
+          "lat": 26.522,
+          "lng": -13.842
+        },
+        "keyAccentLanguage": "lemsid"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bu Craa",
+        "location": {
+          "lat": 26.354,
+          "lng": -12.784
+        },
+        "keyAccentLanguage": "bu_craa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ramth Al Lbane",
+        "location": {
+          "lat": 26.527,
+          "lng": -12.356
+        },
+        "keyAccentLanguage": "ramth_al_lbane"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "El Aaiún",
+        "location": {
+          "lat": 27.162,
+          "lng": -13.202
+        },
+        "keyAccentLanguage": "el_aaiún"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Uad Damran",
+        "location": {
+          "lat": 27.462,
+          "lng": -12.992
+        },
+        "keyAccentLanguage": "uad_damran"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jdiriya",
+        "location": {
+          "lat": 27.25,
+          "lng": -10.414
+        },
+        "keyAccentLanguage": "jdiriya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Dchira",
+        "location": {
+          "lat": 27.026,
+          "lng": -13.052
+        },
+        "keyAccentLanguage": "ad_dchira"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Haouza",
+        "location": {
+          "lat": 27.106,
+          "lng": -11.032
+        },
+        "keyAccentLanguage": "haouza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "El Khebita",
+        "location": {
+          "lat": 28.02,
+          "lng": -12.38
+        },
+        "keyAccentLanguage": "el_khebita"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Guelta Zemmur",
+        "location": {
+          "lat": 25.151,
+          "lng": -12.369
+        },
+        "keyAccentLanguage": "guelta_zemmur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "El Farcya",
+        "location": {
+          "lat": 27.217,
+          "lng": -9.509
+        },
+        "keyAccentLanguage": "el_farcya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Samlat el Hafad",
+        "location": {
+          "lat": 27.433,
+          "lng": -12.4
+        },
+        "keyAccentLanguage": "samlat_el_hafad"
+      }
+    ],
+    "enNameLanguage": "Laâyoune-Boujdour-Sakia el Hamra",
+    "keyAccentLanguage": "laâyoune-boujdour-sakia_el_hamra"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tichla",
+        "location": {
+          "lat": 21.624,
+          "lng": -14.991
+        },
+        "keyAccentLanguage": "tichla"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bir Gandus",
+        "location": {
+          "lat": 21.568,
+          "lng": -16.436
+        },
+        "keyAccentLanguage": "bir_gandus"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Guera",
+        "location": {
+          "lat": 20.84,
+          "lng": -17.088
+        },
+        "keyAccentLanguage": "guera"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bir Anzarane",
+        "location": {
+          "lat": 23.892,
+          "lng": -14.526
+        },
+        "keyAccentLanguage": "bir_anzarane"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mijek",
+        "location": {
+          "lat": 23.651,
+          "lng": -12.935
+        },
+        "keyAccentLanguage": "mijek"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aguenit",
+        "location": {
+          "lat": 22.168,
+          "lng": -13.194
+        },
+        "keyAccentLanguage": "aguenit"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Oum Dreyga",
+        "location": {
+          "lat": 24.167,
+          "lng": -13.25
+        },
+        "keyAccentLanguage": "oum_dreyga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ausert",
+        "location": {
+          "lat": 22.616,
+          "lng": -14.299
+        },
+        "keyAccentLanguage": "ausert"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Skaymat",
+        "location": {
+          "lat": 24.486,
+          "lng": -15.088
+        },
+        "keyAccentLanguage": "skaymat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Aguera",
+        "location": {
+          "lat": 20.839,
+          "lng": -17.09
+        },
+        "keyAccentLanguage": "la_aguera"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Dakhla",
+        "location": {
+          "lat": 23.693,
+          "lng": -15.942
+        },
+        "keyAccentLanguage": "ad_dakhla"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "El Aargub",
+        "location": {
+          "lat": 23.588,
+          "lng": -15.791
+        },
+        "keyAccentLanguage": "el_aargub"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zug",
+        "location": {
+          "lat": 21.555,
+          "lng": -14.148
+        },
+        "keyAccentLanguage": "zug"
+      }
+    ],
+    "enNameLanguage": "Oued ed Dahab-Lagouira",
+    "keyAccentLanguage": "oued_ed_dahab-lagouira"
+  }
+]

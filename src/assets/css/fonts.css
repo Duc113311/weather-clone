@@ -1,0 +1,423 @@
+@import "../../assets/css/style.css";
+
+/* regular */
+.txt_regular {
+  font-size: 14px; /* Kích thước chữ mặc định */
+  font-family: "Helvetica Neue", sans-serif;
+  line-height: 20.28px; /* Khoảng cách giữa các dòng */
+  text-align: center; /* Căn trái mặc định */
+  font-weight: 400; /* Corresponds to Regular */
+}
+.txt_regular_17 {
+  font-size: 13px; /* Kích thước chữ mặc định */
+  font-family: "Helvetica Neue", sans-serif;
+  line-height: 20.28px; /* Khoảng cách giữa các dòng */
+  text-align: center; /* Căn trái mặc định */
+  font-weight: 400; /* Corresponds to Regular */
+}
+
+.txt_regular_12 {
+  font-size: 11px; /* Kích thước chữ mặc định */
+  font-family: "Helvetica Neue", sans-serif;
+  line-height: 16.5px; /* Khoảng cách giữa các dòng */
+  font-weight: 400; /* Corresponds to Regular */
+}
+
+.txt_regular_10 {
+  font-size: 10px; /* Kích thước chữ mặc định */
+  font-family: "Helvetica Neue", sans-serif;
+  line-height: 14.32px; /* Khoảng cách giữa các dòng */
+  text-align: center; /* Căn trái mặc định */
+  font-weight: 400; /* Corresponds to Regular */
+}
+.txt_regular_11 {
+  font-size: 11px; /* Kích thước chữ mặc định */
+  font-family: "Helvetica Neue", sans-serif;
+  line-height: 14.32px; /* Khoảng cách giữa các dòng */
+  text-align: center; /* Căn trái mặc định */
+  font-weight: 400; /* Corresponds to Regular */
+}
+
+.txt_regular_40 {
+  font-size: 35px; /* Kích thước chữ mặc định */
+  font-family: "Helvetica Neue", sans-serif;
+  line-height: 14.32px; /* Khoảng cách giữa các dòng */
+  text-align: left; /* Căn trái mặc định */
+  font-weight: 400; /* Corresponds to Regular */
+}
+
+.txt_regular_14_tide {
+  font-size: 12px; /* Kích thước chữ mặc định */
+  font-family: "Helvetica Neue", sans-serif;
+  line-height: 10px; /* Khoảng cách giữa các dòng */
+  text-align: center; /* Căn trái mặc định */
+  font-weight: 400; /* Corresponds to Regular */
+  letter-spacing: 0px;
+}
+
+.txt_regular_14 {
+  font-size: 12px; /* Kích thước chữ mặc định */
+  font-family: "Helvetica Neue", sans-serif;
+  line-height: 16.7px; /* Khoảng cách giữa các dòng */
+  text-align: center; /* Căn trái mặc định */
+  font-weight: 400; /* Corresponds to Regular */
+}
+.txt_regular_15 {
+  font-size: 15px; /* Kích thước chữ mặc định */
+  font-family: "Helvetica Neue", sans-serif;
+  line-height: 16.7px; /* Khoảng cách giữa các dòng */
+  text-align: center; /* Căn trái mặc định */
+  font-weight: 400; /* Corresponds to Regular */
+}
+/* medium */
+
+.txt_medium_14 {
+  font-size: 13px; /* Kích thước chữ mặc định */
+  font-family: "Helvetica Neue", sans-serif;
+  line-height: 20.76px; /* Khoảng cách giữa các dòng */
+  text-align: left; /* Căn trái mặc định */
+  font-weight: 500; /* Corresponds to Regular */
+}
+.txt_medium_17 {
+  font-size: 14px; /* Kích thước chữ mặc định */
+  font-family: "Helvetica Neue", sans-serif;
+  line-height: 20.76px; /* Khoảng cách giữa các dòng */
+  text-align: center; /* Căn trái mặc định */
+  font-weight: 500; /* Corresponds to Regular */
+}
+
+.txt_medium_15 {
+  font-size: 13px; /* Kích thước chữ mặc định */
+  font-family: "Helvetica Neue", sans-serif;
+  line-height: 20.76px; /* Khoảng cách giữa các dòng */
+  text-align: center; /* Căn trái mặc định */
+  font-weight: 500; /* Corresponds to Regular */
+}
+
+.txt_medium_20 {
+  font-size: 20px; /* Kích thước chữ mặc định */
+  font-family: "Helvetica Neue", sans-serif;
+  line-height: 24.42px; /* Khoảng cách giữa các dòng */
+  text-align: center; /* Căn trái mặc định */
+  font-weight: 500; /* Corresponds to Regular */
+}
+.txt_medium_24 {
+  font-size: 24px; /* Kích thước chữ mặc định */
+  font-family: "Helvetica Neue", sans-serif;
+  line-height: 24.42px; /* Khoảng cách giữa các dòng */
+  text-align: center; /* Căn trái mặc định */
+  font-weight: 500; /* Corresponds to Regular */
+}
+/* Bold */
+.txt_bold_24 {
+  font-size: 24px; /* Kích thước chữ mặc định */
+  font-family: "Helvetica Neue", sans-serif;
+  line-height: 29.3px; /* Khoảng cách giữa các dòng */
+  font-weight: 700; /* Corresponds to Regular */
+}
+.txt_bold_34 {
+  font-size: 20px; /* Kích thước chữ mặc định */
+  font-family: "Helvetica Neue", sans-serif;
+  line-height: 41.51px; /* Khoảng cách giữa các dòng */
+  font-weight: 700; /* Corresponds to Regular */
+}
+
+.txt_bold_24 {
+  font-size: 24px; /* Kích thước chữ mặc định */
+  font-family: "Helvetica Neue", sans-serif;
+  line-height: 41.51px; /* Khoảng cách giữa các dòng */
+  font-weight: 700; /* Corresponds to Regular */
+}
+/*  */
+.txt_poppins_87 {
+  font-size: 78px; /* Kích thước chữ mặc định */
+  font-family: "Poppins";
+  line-height: 73px; /* Khoảng cách giữa các dòng */
+  text-align: center; /* Căn trái mặc định */
+  font-weight: 300; /* Corresponds to Regular */
+}
+
+.txt_poppins_68 {
+  font-size: 68px; /* Kích thước chữ mặc định */
+  font-family: "Poppins";
+  line-height: 42px; /* Khoảng cách giữa các dòng */
+  text-align: center; /* Căn trái mặc định */
+  font-weight: 300; /* Corresponds to Regular */
+}
+
+.txt_poppins_40 {
+  font-size: 40px; /* Kích thước chữ mặc định */
+  font-family: "Poppins";
+  line-height: 42px; /* Khoảng cách giữa các dòng */
+  text-align: center; /* Căn trái mặc định */
+  font-weight: 300; /* Corresponds to Regular */
+}
+
+.txt_poppins_30 {
+  font-size: 36px; /* Kích thước chữ mặc định */
+  font-family: "Poppins";
+  line-height: 18px; /* Khoảng cách giữa các dòng */
+  text-align: center; /* Căn trái mặc định */
+  font-weight: 300; /* Corresponds to Regular */
+}
+
+.txt_poppins_24 {
+  font-size: 24px; /* Kích thước chữ mặc định */
+  font-family: "Poppins";
+  line-height: 18px; /* Khoảng cách giữa các dòng */
+  text-align: center; /* Căn trái mặc định */
+  font-weight: 300; /* Corresponds to Regular */
+}
+
+/*  */
+.txt_line_50 {
+  font-size: 20px; /* Kích thước chữ mặc định */
+  font-family: "Helvetica Neue", sans-serif;
+  font-weight: 700; /* Corresponds to Regular */
+  text-decoration: underline;
+}
+.txt_line_48 {
+  font-size: 20px; /* Kích thước chữ mặc định */
+  font-family: "Helvetica Neue", sans-serif;
+  font-weight: 700; /* Corresponds to Regular */
+}
+.txt_line_24 {
+  font-size: 12px; /* Kích thước chữ mặc định */
+  font-family: "Helvetica Neue", sans-serif;
+  font-weight: 400; /* Corresponds to Regular */
+}
+
+.txt_line_20 {
+  font-size: 24px; /* Kích thước chữ mặc định */
+  font-family: "Helvetica Neue", sans-serif;
+  font-weight: 400; /* Corresponds to Regular */
+}
+
+/* Responsive */
+@media (min-width: 576px) {
+  .txt_bold {
+    font-size: 24px;
+  }
+  .txt_medium {
+    font-size: 16px; /* Tăng kích thước chữ trên màn hình lớn hơn 576px */
+  }
+  .txt_regular {
+    font-size: 14px; /* Tăng kích thước cho màn hình nhỏ từ 576px trở lên */
+  }
+  .txt_default {
+    font-size: 16px; /* Tăng kích thước chữ cho màn hình nhỏ */
+  }
+  .txt_bold_34 {
+    font-size: 20px; /* Tăng kích thước chữ cho màn hình nhỏ */
+  }
+  .txt_line_48 {
+    font-size: 20px; /* Kích thước chữ mặc định */
+  }
+  .txt_line_50 {
+    font-size: 20px; /* Kích thước chữ mặc định */
+  }
+
+  .txt_regular_12 {
+    font-size: 11px;
+  }
+  .txt_regular_14 {
+    font-size: 12px;
+  }
+  .txt_regular_17 {
+    font-size: 13px;
+  }
+  .txt_medium_15 {
+    font-size: 13px;
+  }
+  .txt_medium_17 {
+    font-size: 14px;
+  }
+  .txt_medium_14{
+    font-size: 13px;
+  }
+  .txt_line_24 {
+    font-size: 12px;
+  }
+}
+
+@media (min-width: 768px) {
+  .txt_bold {
+    font-size: 24px;
+  }
+  .txt_medium {
+    font-size: 14px; /* Tăng kích thước cho màn hình tablet (768px) */
+  }
+  .txt_regular {
+    font-size: 14px; /* Tăng kích thước cho tablet */
+  }
+  .txt_default {
+    font-size: 18px; /* Kích thước chữ tăng thêm cho tablet */
+  }
+  .txt_regular_16 {
+    font-size: 14px;
+  }
+  .txt_medium_des_18 {
+    font-size: 16px;
+  }
+  .txt_line_48 {
+    font-size: 20px; /* Kích thước chữ mặc định */
+  }
+  .txt_line_50 {
+    font-size: 20px; /* Kích thước chữ mặc định */
+  }
+
+  .txt_regular_12 {
+    font-size: 11px;
+  }
+  .txt_regular_14 {
+    font-size: 12px;
+  }
+  .txt_regular_17 {
+    font-size: 13px;
+  }
+  .txt_medium_15 {
+    font-size: 13px;
+  }
+  .txt_medium_17 {
+    font-size: 14px;
+  }
+  .txt_medium_14{
+    font-size: 13px;
+  }
+  .txt_line_24 {
+    font-size: 12px;
+  }
+}
+
+@media (min-width: 992px) {
+  .txt_bold {
+    font-size: 24px;
+  }
+  .txt_medium {
+    font-size: 14px; /* Kích thước lớn hơn cho màn hình lớn */
+  }
+  .txt_regular {
+    font-size: 16px; /* Tăng kích thước cho màn hình lớn hơn, laptop */
+  }
+  .txt_default {
+    font-size: 20px; /* Tăng kích thước chữ cho laptop/PC */
+  }
+  .txt_line_48 {
+    font-size: 30px; /* Kích thước chữ mặc định */
+  }
+  .txt_line_50 {
+    font-size: 30px; /* Kích thước chữ mặc định */
+  }
+
+  .txt_regular_12 {
+    font-size: 12px;
+  }
+  .txt_regular_14 {
+    font-size: 14px;
+  }
+  .txt_regular_17 {
+    font-size: 17px;
+  }
+  .txt_medium_15 {
+    font-size: 15px;
+  }
+  .txt_medium_17 {
+    font-size: 17px;
+  }
+  .txt_medium_14{
+    font-size: 14px;
+  }
+  .txt_line_24 {
+    font-size: 14px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .txt_bold {
+    font-size: 24px;
+  }
+  .txt_medium {
+    font-size: 16px; /* Kích thước lớn hơn cho màn hình lớn */
+  }
+  .txt_regular {
+    font-size: 16px; /* Kích thước lớn hơn cho màn hình desktop */
+  }
+  .txt_default {
+    font-size: 22px; /* Kích thước lớn hơn cho desktop */
+  }
+  .txt_line_48 {
+    font-size: 48px; /* Kích thước chữ mặc định */
+  }
+  .txt_line_50 {
+    font-size: 50px; /* Kích thước chữ mặc định */
+  }
+
+  .txt_regular_12 {
+    font-size: 12px;
+  }
+  .txt_regular_14 {
+    font-size: 14px;
+  }
+  .txt_regular_17 {
+    font-size: 17px;
+  }
+  .txt_medium_15 {
+    font-size: 15px;
+  }
+  .txt_medium_17 {
+    font-size: 17px;
+  }
+  .txt_medium_14{
+    font-size: 14px;
+  }
+  .txt_line_24 {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 1400px) {
+  .txt_bold {
+    font-size: 24px;
+  }
+  .txt_medium {
+    font-size: 16px; /* Kích thước lớn hơn nữa cho màn hình cực rộng */
+  }
+  .txt_regular {
+    font-size: 16px; /* Kích thước lớn nhất cho màn hình cực rộng */
+  }
+  .txt_default {
+    font-size: 24px; /* Kích thước lớn nhất cho màn hình cực rộng */
+  }
+  .txt_line_48 {
+    font-size: 48px; /* Kích thước chữ mặc định */
+  }
+  .txt_line_50 {
+    font-size: 50px; /* Kích thước chữ mặc định */
+  }
+  .txt_bold_34 {
+    font-size: 34px; /* Tăng kích thước chữ cho màn hình nhỏ */
+  }
+
+  .txt_regular_12 {
+    font-size: 12px;
+  }
+  .txt_regular_14 {
+    font-size: 14px;
+  }
+  .txt_regular_17 {
+    font-size: 17px;
+  }
+  .txt_medium_15 {
+    font-size: 15px;
+  }
+  .txt_medium_17 {
+    font-size: 17px;
+  }
+  .txt_medium_14{
+    font-size: 14px;
+  }
+
+  .txt_line_24 {
+    font-size: 16px;
+  }
+}

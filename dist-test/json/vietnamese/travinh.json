@@ -1,0 +1,1138 @@
+{
+  "code": 0,
+  "type": "City",
+  "location": {
+    "lat": 9.9513316,
+    "lng": 106.3346061
+  },
+  "postalCode": "87000",
+  "keyAccentLanguage": "Tra_Vinh",
+  "districtList": [
+    {
+      "code": 1,
+      "category": null,
+      "type": "City",
+      "viNameLanguage": "Thành phố Trà Vinh",
+      "location": {
+        "lat": 9.9513316,
+        "lng": 106.3346061
+      },
+      "postalCode": "870001",
+      "keyAccentLanguage": "Thanh_pho_Tra_Vinh",
+      "wards": [
+        {
+          "code": 2,
+          "type": "Ward",
+          "location": {
+            "lat": 9.939961799999999,
+            "lng": 106.343911
+          },
+          "viNameLanguage": "Phường 4",
+          "keyAccentLanguage": "Phuong_4"
+        },
+        {
+          "code": 3,
+          "type": "Ward",
+          "location": {
+            "lat": 9.942409699999999,
+            "lng": 106.3397233
+          },
+          "viNameLanguage": "Phường 1",
+          "keyAccentLanguage": "Phuong_1"
+        },
+        {
+          "code": 4,
+          "type": "Ward",
+          "location": {
+            "lat": 9.9353997,
+            "lng": 106.3426999
+          },
+          "viNameLanguage": "Phường 3",
+          "keyAccentLanguage": "Phuong_3"
+        },
+        {
+          "code": 5,
+          "type": "Ward",
+          "location": {
+            "lat": 9.935692999999999,
+            "lng": 106.3368135
+          },
+          "viNameLanguage": "Phường 2",
+          "keyAccentLanguage": "Phuong_2"
+        },
+        {
+          "code": 6,
+          "type": "Ward",
+          "location": {
+            "lat": 9.9321146,
+            "lng": 106.347715
+          },
+          "viNameLanguage": "Phường 5",
+          "keyAccentLanguage": "Phuong_5"
+        },
+        {
+          "code": 7,
+          "type": "Ward",
+          "location": {
+            "lat": 9.9236341,
+            "lng": 106.3409787
+          },
+          "viNameLanguage": "Phường 6",
+          "keyAccentLanguage": "Phuong_6"
+        },
+        {
+          "code": 8,
+          "type": "Ward",
+          "location": {
+            "lat": 9.9277883,
+            "lng": 106.330998
+          },
+          "viNameLanguage": "Phường 7",
+          "keyAccentLanguage": "Phuong_7"
+        },
+        {
+          "code": 9,
+          "type": "Ward",
+          "location": {
+            "lat": 9.9222871,
+            "lng": 106.3103212
+          },
+          "viNameLanguage": "Phường 8",
+          "keyAccentLanguage": "Phuong_8"
+        },
+        {
+          "code": 10,
+          "type": "Ward",
+          "location": {
+            "lat": 9.9038573,
+            "lng": 106.3422865
+          },
+          "viNameLanguage": "Phường 9",
+          "keyAccentLanguage": "Phuong_9"
+        },
+        {
+          "code": 11,
+          "type": "Commune",
+          "location": {
+            "lat": 9.980366600000002,
+            "lng": 106.332906
+          },
+          "viNameLanguage": "Xã Long Đức",
+          "keyAccentLanguage": "Xa_Long_Duc"
+        }
+      ]
+    },
+    {
+      "code": 12,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Càng Long",
+      "location": {
+        "lat": 9.9674087,
+        "lng": 106.22868
+      },
+      "postalCode": "870002",
+      "keyAccentLanguage": "Huyen_Cang_Long",
+      "wards": [
+        {
+          "code": 13,
+          "type": "Commune",
+          "location": {
+            "lat": 10.007886,
+            "lng": 106.1757379
+          },
+          "viNameLanguage": "Xã Mỹ Cẩm",
+          "keyAccentLanguage": "Xa_My_Cam"
+        },
+        {
+          "code": 14,
+          "type": "Commune",
+          "location": {
+            "lat": 9.9823,
+            "lng": 106.1463317
+          },
+          "viNameLanguage": "Xã An Trường A",
+          "keyAccentLanguage": "Xa_An_Truong_A"
+        },
+        {
+          "code": 15,
+          "type": "Commune",
+          "location": {
+            "lat": 9.958346700000002,
+            "lng": 106.1933837
+          },
+          "viNameLanguage": "Xã An Trường",
+          "keyAccentLanguage": "Xa_An_Truong"
+        },
+        {
+          "code": 16,
+          "type": "Commune",
+          "location": {
+            "lat": 9.913954799999999,
+            "lng": 106.2169139
+          },
+          "viNameLanguage": "Xã Huyền Hội",
+          "keyAccentLanguage": "Xa_Huyen_Hoi"
+        },
+        {
+          "code": 17,
+          "type": "Commune",
+          "location": {
+            "lat": 9.8901262,
+            "lng": 106.1522126
+          },
+          "viNameLanguage": "Xã Tân An",
+          "keyAccentLanguage": "Xa_Tan_An"
+        },
+        {
+          "code": 18,
+          "type": "Commune",
+          "location": {
+            "lat": 9.9333526,
+            "lng": 106.1522126
+          },
+          "viNameLanguage": "Xã Tân Bình",
+          "keyAccentLanguage": "Xa_Tan_Binh"
+        },
+        {
+          "code": 19,
+          "type": "Commune",
+          "location": {
+            "lat": 9.9725219,
+            "lng": 106.2345633
+          },
+          "viNameLanguage": "Xã Bình Phú",
+          "keyAccentLanguage": "Xa_Binh_Phu"
+        },
+        {
+          "code": 20,
+          "type": "Commune",
+          "location": {
+            "lat": 9.9491516,
+            "lng": 106.2698669
+          },
+          "viNameLanguage": "Xã Phương Thạnh",
+          "keyAccentLanguage": "Xa_Phuong_Thanh"
+        },
+        {
+          "code": 21,
+          "type": "Commune",
+          "location": {
+            "lat": 9.9804029,
+            "lng": 106.293406
+          },
+          "viNameLanguage": "Xã Đại Phúc",
+          "keyAccentLanguage": "Xa_Dai_Phuc"
+        },
+        {
+          "code": 22,
+          "type": "Commune",
+          "location": {
+            "lat": 10.0128366,
+            "lng": 106.293406
+          },
+          "viNameLanguage": "Xã Đại Phước",
+          "keyAccentLanguage": "Xa_Dai_Phuoc"
+        },
+        {
+          "code": 23,
+          "type": "Commune",
+          "location": {
+            "lat": 10.0288571,
+            "lng": 106.2433886
+          },
+          "viNameLanguage": "Xã Nhị Long Phú",
+          "keyAccentLanguage": "Xa_Nhi_Long_Phu"
+        },
+        {
+          "code": 24,
+          "type": "Commune",
+          "location": {
+            "lat": 10.0037873,
+            "lng": 106.2580983
+          },
+          "viNameLanguage": "Xã Nhị Long",
+          "keyAccentLanguage": "Xa_Nhi_Long"
+        },
+        {
+          "code": 25,
+          "type": "Commune",
+          "location": {
+            "lat": 10.0578738,
+            "lng": 106.2580983
+          },
+          "viNameLanguage": "Xã Đức Mỹ",
+          "keyAccentLanguage": "Xa_Duc_My"
+        }
+      ]
+    },
+    {
+      "code": 26,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Cầu Kè",
+      "location": {
+        "lat": 9.8878863,
+        "lng": 106.0875326
+      },
+      "postalCode": "870003",
+      "keyAccentLanguage": "Huyen_Cau_Ke",
+      "wards": [
+        {
+          "code": 27,
+          "type": "Commune",
+          "location": {
+            "lat": 9.8941502,
+            "lng": 106.0698963
+          },
+          "viNameLanguage": "Xã Hòa Ân",
+          "keyAccentLanguage": "Xa_Hoa_An"
+        },
+        {
+          "code": 28,
+          "type": "Commune",
+          "location": {
+            "lat": 9.871391899999999,
+            "lng": 106.0934117
+          },
+          "viNameLanguage": "Xã Châu Điền",
+          "keyAccentLanguage": "Xa_Chau_Dien"
+        },
+        {
+          "code": 29,
+          "type": "Commune",
+          "location": {
+            "lat": 9.886771,
+            "lng": 105.9993672
+          },
+          "viNameLanguage": "Xã An Phú Tân",
+          "keyAccentLanguage": "Xa_An_Phu_Tan"
+        },
+        {
+          "code": 30,
+          "type": "Commune",
+          "location": {
+            "lat": 9.8520703,
+            "lng": 106.0463837
+          },
+          "viNameLanguage": "Xã Hoà Tân",
+          "keyAccentLanguage": "Xa_Hoa_Tan"
+        },
+        {
+          "code": 31,
+          "type": "Commune",
+          "location": {
+            "lat": 9.7850054,
+            "lng": 106.0934117
+          },
+          "viNameLanguage": "Xã Ninh Thới",
+          "keyAccentLanguage": "Xa_Ninh_Thoi"
+        },
+        {
+          "code": 32,
+          "type": "Commune",
+          "location": {
+            "lat": 9.811706599999999,
+            "lng": 106.099291
+          },
+          "viNameLanguage": "Xã Phong Phú",
+          "keyAccentLanguage": "Xa_Phong_Phu"
+        },
+        {
+          "code": 33,
+          "type": "Commune",
+          "location": {
+            "lat": 9.8480695,
+            "lng": 106.1286901
+          },
+          "viNameLanguage": "Xã Phong Thạnh",
+          "keyAccentLanguage": "Xa_Phong_Thanh"
+        },
+        {
+          "code": 34,
+          "type": "Commune",
+          "location": {
+            "lat": 9.9015592,
+            "lng": 106.0287512
+          },
+          "viNameLanguage": "Xã Tam Ngãi",
+          "keyAccentLanguage": "Xa_Tam_Ngai"
+        },
+        {
+          "code": 35,
+          "type": "Commune",
+          "location": {
+            "lat": 9.9265805,
+            "lng": 106.0698963
+          },
+          "viNameLanguage": "Xã Thông Hòa",
+          "keyAccentLanguage": "Xa_Thong_Hoa"
+        },
+        {
+          "code": 36,
+          "type": "Commune",
+          "location": {
+            "lat": 9.932817199999999,
+            "lng": 106.1081103
+          },
+          "viNameLanguage": "Xã Thạnh Phú",
+          "keyAccentLanguage": "Xa_Thanh_Phu"
+        }
+      ]
+    },
+    {
+      "code": 37,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Tiểu Cần",
+      "location": {
+        "lat": 9.7969156,
+        "lng": 106.1816196
+      },
+      "postalCode": "870004",
+      "keyAccentLanguage": "Huyen_Tieu_Can",
+      "wards": [
+        {
+          "code": 38,
+          "type": "Town",
+          "location": {
+            "lat": 9.770237999999999,
+            "lng": 106.1198699
+          },
+          "viNameLanguage": "Thị trấn Cầu Quan",
+          "keyAccentLanguage": "Thi_tran_Cau_Quan"
+        },
+        {
+          "code": 39,
+          "type": "Commune",
+          "location": {
+            "lat": 9.808279299999999,
+            "lng": 106.1698563
+          },
+          "viNameLanguage": "Xã Phú Cần",
+          "keyAccentLanguage": "Xa_Phu_Can"
+        },
+        {
+          "code": 40,
+          "type": "Commune",
+          "location": {
+            "lat": 9.849156299999999,
+            "lng": 106.2169139
+          },
+          "viNameLanguage": "Xã Hiếu Tử",
+          "keyAccentLanguage": "Xa_Hieu_Tu"
+        },
+        {
+          "code": 41,
+          "type": "Commune",
+          "location": {
+            "lat": 9.8565711,
+            "lng": 106.1757379
+          },
+          "viNameLanguage": "Xã Hiếu Trung",
+          "keyAccentLanguage": "Xa_Hieu_Trung"
+        },
+        {
+          "code": 42,
+          "type": "Commune",
+          "location": {
+            "lat": 9.793520200000001,
+            "lng": 106.140451
+          },
+          "viNameLanguage": "Xã Long Thới",
+          "keyAccentLanguage": "Xa_Long_Thoi"
+        },
+        {
+          "code": 43,
+          "type": "Commune",
+          "location": {
+            "lat": 9.7583026,
+            "lng": 106.199266
+          },
+          "viNameLanguage": "Xã Hùng Hòa",
+          "keyAccentLanguage": "Xa_Hung_Hoa"
+        },
+        {
+          "code": 44,
+          "type": "Commune",
+          "location": {
+            "lat": 9.778729,
+            "lng": 106.2227968
+          },
+          "viNameLanguage": "Xã Tân Hùng",
+          "keyAccentLanguage": "Xa_Tan_Hung"
+        },
+        {
+          "code": 45,
+          "type": "Commune",
+          "location": {
+            "lat": 9.8252625,
+            "lng": 106.2639825
+          },
+          "viNameLanguage": "Xã Tập Ngãi",
+          "keyAccentLanguage": "Xa_Tap_Ngai"
+        },
+        {
+          "code": 46,
+          "type": "Commune",
+          "location": {
+            "lat": 9.7872177,
+            "lng": 106.2698669
+          },
+          "viNameLanguage": "Xã Ngãi Hùng",
+          "keyAccentLanguage": "Xa_Ngai_Hung"
+        },
+        {
+          "code": 47,
+          "type": "Commune",
+          "location": {
+            "lat": 9.7497967,
+            "lng": 106.1522126
+          },
+          "viNameLanguage": "Xã Tân Hòa",
+          "keyAccentLanguage": "Xa_Tan_Hoa"
+        }
+      ]
+    },
+    {
+      "code": 48,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Châu Thành",
+      "location": {
+        "lat": 9.9216255,
+        "lng": 105.8073554
+      },
+      "postalCode": "870005",
+      "keyAccentLanguage": "Huyen_Chau_Thanh",
+      "wards": [
+        {
+          "code": 49,
+          "type": "Commune",
+          "location": {
+            "lat": 9.870636099999999,
+            "lng": 106.3287199
+          },
+          "viNameLanguage": "Xã Đa Lộc",
+          "keyAccentLanguage": "Xa_Da_Loc"
+        },
+        {
+          "code": 50,
+          "type": "Commune",
+          "location": {
+            "lat": 9.826894099999999,
+            "lng": 106.3404925
+          },
+          "viNameLanguage": "Xã Mỹ Chánh",
+          "keyAccentLanguage": "Xa_My_Chanh"
+        },
+        {
+          "code": 51,
+          "type": "Commune",
+          "location": {
+            "lat": 9.8199208,
+            "lng": 106.3000568
+          },
+          "viNameLanguage": "Xã Thanh Mỹ",
+          "keyAccentLanguage": "Xa_Thanh_My"
+        },
+        {
+          "code": 52,
+          "type": "Commune",
+          "location": {
+            "lat": 9.8825953,
+            "lng": 106.3051766
+          },
+          "viNameLanguage": "Xã Lương Hoà A",
+          "keyAccentLanguage": "Xa_Luong_Hoa_A"
+        },
+        {
+          "code": 53,
+          "type": "Commune",
+          "location": {
+            "lat": 9.9104645,
+            "lng": 106.287521
+          },
+          "viNameLanguage": "Xã Lương Hòa",
+          "keyAccentLanguage": "Xa_Luong_Hoa"
+        },
+        {
+          "code": 54,
+          "type": "Commune",
+          "location": {
+            "lat": 9.8747025,
+            "lng": 106.2463305
+          },
+          "viNameLanguage": "Xã Song Lộc",
+          "keyAccentLanguage": "Xa_Song_Loc"
+        },
+        {
+          "code": 55,
+          "type": "Commune",
+          "location": {
+            "lat": 9.9365924,
+            "lng": 106.3051766
+          },
+          "viNameLanguage": "Xã Nguyệt Hóa",
+          "keyAccentLanguage": "Xa_Nguyet_Hoa"
+        },
+        {
+          "code": 56,
+          "type": "Commune",
+          "location": {
+            "lat": 9.939532,
+            "lng": 106.3600156
+          },
+          "viNameLanguage": "Xã Hòa Thuận",
+          "keyAccentLanguage": "Xa_Hoa_Thuan"
+        },
+        {
+          "code": 57,
+          "type": "Commune",
+          "location": {
+            "lat": 9.9006814,
+            "lng": 106.3758145
+          },
+          "viNameLanguage": "Xã Hòa Lợi",
+          "keyAccentLanguage": "Xa_Hoa_Loi"
+        },
+        {
+          "code": 58,
+          "type": "Commune",
+          "location": {
+            "lat": 9.877337599999999,
+            "lng": 106.4111425
+          },
+          "viNameLanguage": "Xã Phước Hảo",
+          "keyAccentLanguage": "Xa_Phuoc_Hao"
+        },
+        {
+          "code": 59,
+          "type": "Commune",
+          "location": {
+            "lat": 9.9210988,
+            "lng": 106.3993658
+          },
+          "viNameLanguage": "Xã Hưng Mỹ",
+          "keyAccentLanguage": "Xa_Hung_My"
+        },
+        {
+          "code": 60,
+          "type": "Commune",
+          "location": {
+            "lat": 9.9187424,
+            "lng": 106.4464766
+          },
+          "viNameLanguage": "Xã Hòa Minh",
+          "keyAccentLanguage": "Xa_Hoa_Minh"
+        },
+        {
+          "code": 61,
+          "type": "Commune",
+          "location": {
+            "lat": 9.832834199999999,
+            "lng": 106.5466221
+          },
+          "viNameLanguage": "Xã Long Hòa",
+          "keyAccentLanguage": "Xa_Long_Hoa"
+        }
+      ]
+    },
+    {
+      "code": 62,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Cầu Ngang",
+      "location": {
+        "lat": 9.7830517,
+        "lng": 106.4641459
+      },
+      "postalCode": "870006",
+      "keyAccentLanguage": "Huyen_Cau_Ngang",
+      "wards": [
+        {
+          "code": 63,
+          "type": "Town",
+          "location": {
+            "lat": 9.8104944,
+            "lng": 106.5083256
+          },
+          "viNameLanguage": "Thị trấn Mỹ Long",
+          "keyAccentLanguage": "Thi_tran_My_Long"
+        },
+        {
+          "code": 64,
+          "type": "Commune",
+          "location": {
+            "lat": 9.8193108,
+            "lng": 106.493598
+          },
+          "viNameLanguage": "Xã Mỹ Long Bắc",
+          "keyAccentLanguage": "Xa_My_Long_Bac"
+        },
+        {
+          "code": 65,
+          "type": "Commune",
+          "location": {
+            "lat": 9.7642664,
+            "lng": 106.5171626
+          },
+          "viNameLanguage": "Xã Mỹ Long Nam",
+          "keyAccentLanguage": "Xa_My_Long_Nam"
+        },
+        {
+          "code": 66,
+          "type": "Commune",
+          "location": {
+            "lat": 9.798924699999999,
+            "lng": 106.470036
+          },
+          "viNameLanguage": "Xã Mỹ Hòa",
+          "keyAccentLanguage": "Xa_My_Hoa"
+        },
+        {
+          "code": 67,
+          "type": "Commune",
+          "location": {
+            "lat": 9.8540028,
+            "lng": 106.4464766
+          },
+          "viNameLanguage": "Xã Vĩnh Kim",
+          "keyAccentLanguage": "Xa_Vinh_Kim"
+        },
+        {
+          "code": 68,
+          "type": "Commune",
+          "location": {
+            "lat": 9.8398719,
+            "lng": 106.4052541
+          },
+          "viNameLanguage": "Xã Kim Hòa",
+          "keyAccentLanguage": "Xa_Kim_Hoa"
+        },
+        {
+          "code": 69,
+          "type": "Commune",
+          "location": {
+            "lat": 9.802421299999999,
+            "lng": 106.3993658
+          },
+          "viNameLanguage": "Xã Hiệp Hòa",
+          "keyAccentLanguage": "Xa_Hiep_Hoa"
+        },
+        {
+          "code": 70,
+          "type": "Commune",
+          "location": {
+            "lat": 9.779119399999999,
+            "lng": 106.4346979
+          },
+          "viNameLanguage": "Xã Thuận Hòa",
+          "keyAccentLanguage": "Xa_Thuan_Hoa"
+        },
+        {
+          "code": 71,
+          "type": "Commune",
+          "location": {
+            "lat": 9.7309293,
+            "lng": 106.4288088
+          },
+          "viNameLanguage": "Xã Long Sơn",
+          "keyAccentLanguage": "Xa_Long_Son"
+        },
+        {
+          "code": 72,
+          "type": "Commune",
+          "location": {
+            "lat": 9.7491118,
+            "lng": 106.3875898
+          },
+          "viNameLanguage": "Xã Nhị Trường",
+          "keyAccentLanguage": "Xa_Nhi_Truong"
+        },
+        {
+          "code": 73,
+          "type": "Commune",
+          "location": {
+            "lat": 9.7775,
+            "lng": 106.3581527
+          },
+          "viNameLanguage": "Xã Trường Thọ",
+          "keyAccentLanguage": "Xa_Truong_Tho"
+        },
+        {
+          "code": 74,
+          "type": "Commune",
+          "location": {
+            "lat": 9.7552447,
+            "lng": 106.4818167
+          },
+          "viNameLanguage": "Xã Hiệp Mỹ Đông",
+          "keyAccentLanguage": "Xa_Hiep_My_Dong"
+        },
+        {
+          "code": 75,
+          "type": "Commune",
+          "location": {
+            "lat": 9.7229378,
+            "lng": 106.4818167
+          },
+          "viNameLanguage": "Xã Hiệp Mỹ Tây",
+          "keyAccentLanguage": "Xa_Hiep_My_Tay"
+        },
+        {
+          "code": 76,
+          "type": "Commune",
+          "location": {
+            "lat": 9.703719500000002,
+            "lng": 106.4346979
+          },
+          "viNameLanguage": "Xã Thạnh Hòa Sơn",
+          "keyAccentLanguage": "Xa_Thanh_Hoa_Son"
+        }
+      ]
+    },
+    {
+      "code": 77,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Trà Cú",
+      "location": {
+        "lat": 9.7060851,
+        "lng": 106.2757514
+      },
+      "postalCode": "870007",
+      "keyAccentLanguage": "Huyen_Tra_Cu",
+      "wards": [
+        {
+          "code": 78,
+          "type": "Town",
+          "location": {
+            "lat": 9.6162575,
+            "lng": 106.2963486
+          },
+          "viNameLanguage": "Thị trấn Định An",
+          "keyAccentLanguage": "Thi_tran_Dinh_An"
+        },
+        {
+          "code": 79,
+          "type": "Commune",
+          "location": {
+            "lat": 9.7639262,
+            "lng": 106.3051766
+          },
+          "viNameLanguage": "Xã Phước Hưng",
+          "keyAccentLanguage": "Xa_Phuoc_Hung"
+        },
+        {
+          "code": 80,
+          "type": "Commune",
+          "location": {
+            "lat": 9.744662,
+            "lng": 106.2580983
+          },
+          "viNameLanguage": "Xã Tập Sơn",
+          "keyAccentLanguage": "Xa_Tap_Son"
+        },
+        {
+          "code": 81,
+          "type": "Commune",
+          "location": {
+            "lat": 9.7350257,
+            "lng": 106.2345633
+          },
+          "viNameLanguage": "Xã Tân Sơn",
+          "keyAccentLanguage": "Xa_Tan_Son"
+        },
+        {
+          "code": 82,
+          "type": "Commune",
+          "location": {
+            "lat": 9.7265249,
+            "lng": 106.1875016
+          },
+          "viNameLanguage": "Xã An Quảng Hữu",
+          "keyAccentLanguage": "Xa_An_Quang_Huu"
+        },
+        {
+          "code": 83,
+          "type": "Commune",
+          "location": {
+            "lat": 9.6992941,
+            "lng": 106.1933837
+          },
+          "viNameLanguage": "Xã Lưu Nghiệp Anh",
+          "keyAccentLanguage": "Xa_Luu_Nghiep_Anh"
+        },
+        {
+          "code": 84,
+          "type": "Commune",
+          "location": {
+            "lat": 9.7117579,
+            "lng": 106.2698669
+          },
+          "viNameLanguage": "Xã Ngãi Xuyên",
+          "keyAccentLanguage": "Xa_Ngai_Xuyen"
+        },
+        {
+          "code": 85,
+          "type": "Commune",
+          "location": {
+            "lat": 9.670373399999999,
+            "lng": 106.2345633
+          },
+          "viNameLanguage": "Xã Kim Sơn",
+          "keyAccentLanguage": "Xa_Kim_Son"
+        },
+        {
+          "code": 86,
+          "type": "Commune",
+          "location": {
+            "lat": 9.678869899999999,
+            "lng": 106.2816361
+          },
+          "viNameLanguage": "Xã Thanh Sơn",
+          "keyAccentLanguage": "Xa_Thanh_Son"
+        },
+        {
+          "code": 87,
+          "type": "Commune",
+          "location": {
+            "lat": 9.6573326,
+            "lng": 106.2816361
+          },
+          "viNameLanguage": "Xã Hàm Giang",
+          "keyAccentLanguage": "Xa_Ham_Giang"
+        },
+        {
+          "code": 88,
+          "type": "Commune",
+          "location": {
+            "lat": 9.6547485,
+            "lng": 106.2668095
+          },
+          "viNameLanguage": "Xã Hàm Tân",
+          "keyAccentLanguage": "Xa_Ham_Tan"
+        },
+        {
+          "code": 89,
+          "type": "Commune",
+          "location": {
+            "lat": 9.6346656,
+            "lng": 106.3051766
+          },
+          "viNameLanguage": "Xã Đại An",
+          "keyAccentLanguage": "Xa_Dai_An"
+        },
+        {
+          "code": 90,
+          "type": "Commune",
+          "location": {
+            "lat": 9.6256038,
+            "lng": 106.2698669
+          },
+          "viNameLanguage": "Xã Định An",
+          "keyAccentLanguage": "Xa_Dinh_An"
+        },
+        {
+          "code": 91,
+          "type": "Commune",
+          "location": {
+            "lat": 9.6964056,
+            "lng": 106.3640398
+          },
+          "viNameLanguage": "Xã Ngọc Biên",
+          "keyAccentLanguage": "Xa_Ngoc_Bien"
+        },
+        {
+          "code": 92,
+          "type": "Commune",
+          "location": {
+            "lat": 9.6986981,
+            "lng": 106.3169479
+          },
+          "viNameLanguage": "Xã Long Hiệp",
+          "keyAccentLanguage": "Xa_Long_Hiep"
+        },
+        {
+          "code": 93,
+          "type": "Commune",
+          "location": {
+            "lat": 9.7355437,
+            "lng": 106.3346061
+          },
+          "viNameLanguage": "Xã Tân Hiệp",
+          "keyAccentLanguage": "Xa_Tan_Hiep"
+        }
+      ]
+    },
+    {
+      "code": 94,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Duyên Hải",
+      "location": {
+        "lat": 9.6108254,
+        "lng": 106.4641459
+      },
+      "postalCode": "870008",
+      "keyAccentLanguage": "Huyen_Duyen_Hai",
+      "wards": [
+        {
+          "code": 95,
+          "type": "Commune",
+          "location": {
+            "lat": 9.6431509,
+            "lng": 106.3522658
+          },
+          "viNameLanguage": "Xã Đôn Xuân",
+          "keyAccentLanguage": "Xa_Don_Xuan"
+        },
+        {
+          "code": 96,
+          "type": "Commune",
+          "location": {
+            "lat": 9.6686293,
+            "lng": 106.3817021
+          },
+          "viNameLanguage": "Xã Đôn Châu",
+          "keyAccentLanguage": "Xa_Don_Chau"
+        },
+        {
+          "code": 97,
+          "type": "Town",
+          "location": {
+            "lat": 9.762666,
+            "lng": 106.4405872
+          },
+          "viNameLanguage": "Thị trấn Long Thành",
+          "keyAccentLanguage": "Thi_tran_Long_Thanh"
+        },
+        {
+          "code": 98,
+          "type": "Commune",
+          "location": {
+            "lat": 9.601788899999999,
+            "lng": 106.4288088
+          },
+          "viNameLanguage": "Xã Long Khánh",
+          "keyAccentLanguage": "Xa_Long_Khanh"
+        },
+        {
+          "code": 99,
+          "type": "Commune",
+          "location": {
+            "lat": 9.6663333,
+            "lng": 106.4288088
+          },
+          "viNameLanguage": "Xã Ngũ Lạc",
+          "keyAccentLanguage": "Xa_Ngu_Lac"
+        },
+        {
+          "code": 100,
+          "type": "Commune",
+          "location": {
+            "lat": 9.5836975,
+            "lng": 106.3581527
+          },
+          "viNameLanguage": "Xã Long Vĩnh",
+          "keyAccentLanguage": "Xa_Long_Vinh"
+        },
+        {
+          "code": 101,
+          "type": "Commune",
+          "location": {
+            "lat": 9.537296399999999,
+            "lng": 106.4288088
+          },
+          "viNameLanguage": "Xã Đông Hải",
+          "keyAccentLanguage": "Xa_Dong_Hai"
+        }
+      ]
+    },
+    {
+      "code": 101,
+      "category": null,
+      "type": "Town",
+      "viNameLanguage": "Thị xã Duyên Hải",
+      "location": {
+        "lat": 9.635697799999999,
+        "lng": 106.50538
+      },
+      "postalCode": "870009",
+      "keyAccentLanguage": "Thi_xa_Duyen_Hai",
+      "wards": [
+        {
+          "code": 102,
+          "type": "Ward",
+          "location": {
+            "lat": 9.942409699999999,
+            "lng": 106.3397233
+          },
+          "viNameLanguage": "Phường 1",
+          "keyAccentLanguage": "Phuong_1"
+        },
+        {
+          "code": 103,
+          "type": "Commune",
+          "location": {
+            "lat": 9.6476053,
+            "lng": 106.4818167
+          },
+          "viNameLanguage": "Xã Long Toàn",
+          "keyAccentLanguage": "Xa_Long_Toan"
+        },
+        {
+          "code": 104,
+          "type": "Ward",
+          "location": {
+            "lat": 9.935692999999999,
+            "lng": 106.3368135
+          },
+          "viNameLanguage": "Phường 2",
+          "keyAccentLanguage": "Phuong_2"
+        },
+        {
+          "code": 105,
+          "type": "Commune",
+          "location": {
+            "lat": 9.690065299999999,
+            "lng": 106.493598
+          },
+          "viNameLanguage": "Xã Long Hữu",
+          "keyAccentLanguage": "Xa_Long_Huu"
+        },
+        {
+          "code": 106,
+          "type": "Commune",
+          "location": {
+            "lat": 9.5972058,
+            "lng": 106.5230542
+          },
+          "viNameLanguage": "Xã Dân Thành",
+          "keyAccentLanguage": "Xa_Dan_Thanh"
+        },
+        {
+          "code": 107,
+          "type": "Commune",
+          "location": {
+            "lat": 9.660563,
+            "lng": 106.5466221
+          },
+          "viNameLanguage": "Xã Trường Long Hòa",
+          "keyAccentLanguage": "Xa_Truong_Long_Hoa"
+        },
+        {
+          "code": 108,
+          "type": "Commune",
+          "location": {
+            "lat": 9.7302125,
+            "lng": 106.5525145
+          },
+          "viNameLanguage": "Xã Hiệp Thạnh",
+          "keyAccentLanguage": "Xa_Hiep_Thanh"
+        }
+      ]
+    }
+  ]
+}

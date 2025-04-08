@@ -1,0 +1,123 @@
+.bg-header {
+  background: #DFECFF;
+  color: #0D2952;
+}
+.bg-body {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #234063;
+  color: #ffffff;
+}
+
+.bg-body-v2 { 
+  background-position: top;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #234063;
+  color: #ffffff;
+}
+.bg-ads {
+  background-position: center;
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-color: #234063;
+  color: #ffffff;
+}
+
+.bg-ads {
+  background-color: #e6eaef;
+}
+
+.bg-from {
+  /* background-color: rgba(0, 0, 0, 0.4); */
+  background-color: #ffffff;
+  /* background: linear-gradient(to bottom, #ffffff, #a5c3e1); */
+  /* background-color:rgb(12 2 33 / 80%) */
+}
+
+.txt_color_uv {
+  color: #003870;
+}
+
+.txt_color_rain {
+  color: #00cfff;
+}
+
+.txt_color_summer {
+  color: #86f66e;
+}
+
+.bg-title-footer {
+  background-color: #f5f5f5;
+  color: #878787;
+}
+
+.color-title {
+  color: #003a70;
+}
+.color-footer {
+  color: #878787;
+}
+
+.bg-default {
+  background: #242851;
+  color: #ffffff;
+}
+
+.color-snow {
+  color: #fb6a00;
+}
+.color-rain {
+  color: #15ABC3;
+}
+
+.bg-title{
+  background-color: #02030f43;
+}
+
+.color-title-next {
+  color: #4a4a6c;
+}
+
+.txt-form{
+  color: rgb(230 255 244);
+}
+
+.txt-v2{
+  color:#003576
+}
+
+
+.bg-rain{
+  background-color: #60A5FA;
+}
+.bg-snow{
+  background-color: #c79062;
+}
+
+.txt-snow{
+  color: #c79062;
+}
+.txt-rain{
+  color: #60A5FA;
+}
+
+.bg-temp{
+  background-color: #B6CE90;
+}
+.txt-temp{
+  color: #B6CE90;
+}
+
+.txt-uv{
+  color: #4bbf24;
+}
+
+.bg-uv{
+  background-color: #4bbf24;
+}
+
+.bg-breadcums{
+  background-color: #edeaea;
+}

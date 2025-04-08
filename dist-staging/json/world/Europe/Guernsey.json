@@ -1,0 +1,2434 @@
+[
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Butes",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "butes"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Roque Tourgis",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "roque_tourgis"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Braye",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "braye"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint Anne",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "saint_anne"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Crabby",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "crabby"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Newtown",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "newtown"
+      }
+    ],
+    "enNameLanguage": "Alderney",
+    "keyAccentLanguage": "alderney"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Brecqhou Island",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "brecqhou_island"
+      }
+    ],
+    "enNameLanguage": "Brecqhou",
+    "keyAccentLanguage": "brecqhou"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Groignet",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "groignet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Genats",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_genats"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Blanches Rocques",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "blanches_rocques"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Tertre",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "le_tertre"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Albecq",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "albecq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Planque",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_planque"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beaucamps de Bas",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "beaucamps_de_bas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beaucamps",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "beaucamps"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint George",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "saint_george"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Preel",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "le_preel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saumarez",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "saumarez"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Houmets",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "houmets"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Sergentee",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_sergentee"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint Germain",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "saint_germain"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Gele",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "le_gele"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mare de Carteret",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mare_de_carteret"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cobo",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "cobo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Touillets",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_touillets"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Vazon",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "vazon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hall",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hall"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Marais",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "le_marais"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mont Plaisant",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mont_plaisant"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Grandes Rocques",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "grandes_rocques"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Villocq",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "le_villocq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Woodlands",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "woodlands"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Mourains",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_mourains"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Porte",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_porte"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Grantez",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_grantez"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "King's Mills",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "king's_mills"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "L'Aumone",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "l'aumone"
+      }
+    ],
+    "enNameLanguage": "Castel",
+    "keyAccentLanguage": "castel"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Nicolles",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_nicolles"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Vrangue",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_vrangue"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Roussel",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "le_roussel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Fontenelles",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_fontenelles"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Bigard",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "le_bigard"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hatnez",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hatnez"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Bordage",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "le_bordage"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Landes",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "le_landes"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Houards",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_houards"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Pieces",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_pieces"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Manoir",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "le_manoir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Villiaze",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_villiaze"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mont Plaisir",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mont_plaisir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Gouffre",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "le_gouffre"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Tourgie",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_tourgie"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Planque",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_planque"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Roberge",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_roberge"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Nouettes",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_nouettes"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Chene",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "le_chene"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Bourg",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "le_bourg"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Villets",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_villets"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Variouf",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "le_variouf"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hautnez",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hautnez"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "L'Epinel",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "l'epinel"
+      }
+    ],
+    "enNameLanguage": "Forest",
+    "keyAccentLanguage": "forest"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Herm",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "herm"
+      }
+    ],
+    "enNameLanguage": "Herm",
+    "keyAccentLanguage": "herm"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jethou",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "jethou"
+      }
+    ],
+    "enNameLanguage": "Jethou",
+    "keyAccentLanguage": "jethou"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lihou",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "lihou"
+      }
+    ],
+    "enNameLanguage": "Lihou",
+    "keyAccentLanguage": "lihou"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Icart",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "icart"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Beilleuse",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_beilleuse"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Bouvee",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_bouvee"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Camps du Moulin",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_camps_du_moulin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Val au Bourg",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "val_au_bourg"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Fosse",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_fosse"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Calais",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "calais"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Courtes Fallaizes",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "courtes_fallaizes"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Colombelle",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_colombelle"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Vallon",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "le_vallon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Carmel",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "carmel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Hubits",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_hubits"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Pages",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_pages"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Village de Putron",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "village_de_putron"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jerbourg",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "jerbourg"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Villette",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_villette"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mouilpied",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mouilpied"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint Martin",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "saint_martin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ville au Roi",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ville_au_roi"
+      }
+    ],
+    "enNameLanguage": "Saint Martin",
+    "keyAccentLanguage": "saint_martin"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Coutanchez",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "coutanchez"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Ramee",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_ramee"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Braye",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "braye"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint Peter Port",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "saint_peter_port"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amherst",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "amherst"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Mont Durand",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "le_mont_durand"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Choisi",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "choisi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint Johns",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "saint_johns"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Quartiers",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_quartiers"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fort George",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "fort_george"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Salerie",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "salerie"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Longstore",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "longstore"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bouet",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "bouet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Terres",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_terres"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rozel",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "rozel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Baissieres",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_baissieres"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Foulon",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "le_foulon"
+      }
+    ],
+    "enNameLanguage": "Saint Peter Port",
+    "keyAccentLanguage": "saint_peter_port"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Croix",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_croix"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Buttes",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_buttes"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Arquets",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_arquets"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Coudre",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "le_coudre"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Martins",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_martins"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Paysans",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_paysans"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Pont",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "le_pont"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Houguette",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_houguette"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Hougue Falle",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_hougue_falle"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Pomare",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_pomare"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Heches",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_heches"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hougue Anthan",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hougue_anthan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Bruliaux",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_bruliaux"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Torteval",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "torteval"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Vinaires",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_vinaires"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Saline",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_saline"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Corbiere",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_corbiere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Adams",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_adams"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Catillion",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "le_catillion"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Marchez",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_marchez"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Douit",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "le_douit"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Rocque",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_rocque"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Marais",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_marais"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Brehauts",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_brehauts"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Clercs",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_clercs"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Reveaux",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_reveaux"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Claire Mare",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "claire_mare"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rocque Poisson",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "rocque_poisson"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Islets",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_islets"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "L'Eree",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "l'eree"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "L'Eclet",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "l'eclet"
+      }
+    ],
+    "enNameLanguage": "Saint Pierre du Bois",
+    "keyAccentLanguage": "saint_pierre_du_bois"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Grand Fort",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "grand_fort"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Capelles",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_capelles"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Braeside",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "braeside"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Vardes",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_vardes"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Robergerie",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_robergerie"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Richmond",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "richmond"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hougues Magues",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hougues_magues"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hougue Nicolle",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hougue_nicolle"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Passee",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_passee"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baubigny",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "baubigny"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Gigands",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_gigands"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Grandes Capelles",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "grandes_capelles"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Tonelle",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_tonelle"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Braye du Valle",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "braye_du_valle"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "The Bridge",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "the_bridge"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pulais",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "pulais"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Marais",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "le_marais"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Salines",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_salines"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "South Side",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "south_side"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Picquerel",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "le_picquerel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint Sampson",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "saint_sampson"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Sauvagees",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_sauvagees"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Martins",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_martins"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "L'Islet",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "l'islet"
+      }
+    ],
+    "enNameLanguage": "Saint Sampson",
+    "keyAccentLanguage": "saint_sampson"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Lohiers",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_lohiers"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Frie Baton",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "frie_baton"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fauxquets",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "fauxquets"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Jaonnets",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_jaonnets"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Bas Courtils",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_bas_courtils"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Catioroc",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "le_catioroc"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Clos Landais",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_clos_landais"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mont Saint",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mont_saint"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Richmond",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "richmond"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Gron",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "le_gron"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Neuf Chemin",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "neuf_chemin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Padins",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_padins"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Buttes",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_buttes"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Perelle",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "perelle"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Girouette",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "girouette"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint Saviour",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "saint_saviour"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sous l'Eglise",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "sous_l'eglise"
+      }
+    ],
+    "enNameLanguage": "Saint Saviour",
+    "keyAccentLanguage": "saint_saviour"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Vaurocque",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_vaurocque"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Tour",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_tour"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Fregondee",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_fregondee"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Clos Bourel",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "le_clos_bourel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Ville Roussel",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_ville_roussel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Duval",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "duval"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Grand Fort",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "le_grand_fort"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beauregard",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "beauregard"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Collinette",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_collinette"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Genetiere",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_genetiere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Forge",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_forge"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Fort",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "le_fort"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Seigneurie",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_seigneurie"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Donnellerie",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_donnellerie"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Dos d'Ane",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "le_dos_d'ane"
+      }
+    ],
+    "enNameLanguage": "Sark",
+    "keyAccentLanguage": "sark"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bailiffs Cross",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "bailiffs_cross"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Four Cabot",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "four_cabot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint Andrew",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "saint_andrew"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Vauxbelets",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_vauxbelets"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Hurlaux",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_hurlaux"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rohais Manor",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "rohais_manor"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Villiaze",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_villiaze"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Gouies",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_gouies"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Chaumiere",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_chaumiere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Varendes",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_varendes"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Niaux",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_niaux"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Camptrehard",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "camptrehard"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Monnaie",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_monnaie"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Bouillon",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "le_bouillon"
+      }
+    ],
+    "enNameLanguage": "St Andrew",
+    "keyAccentLanguage": "st_andrew"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Simons",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_simons"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Sages",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_sages"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pleinmont",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "pleinmont"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Fontaines",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_fontaines"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Jehans",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_jehans"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Falles",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_falles"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Lague",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_lague"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Galliennes",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_galliennes"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Le Planel",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "le_planel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Laurens",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_laurens"
+      }
+    ],
+    "enNameLanguage": "Torteval",
+    "keyAccentLanguage": "torteval"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Miellette",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_miellette"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Rochelle",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_rochelle"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bailloterie",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "bailloterie"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fortebrie",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "fortebrie"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Friquet",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "friquet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Goubeys",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "goubeys"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Mielles",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_mielles"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Annevilles",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_annevilles"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Clos du Valle",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "clos_du_valle"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Greve",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_greve"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cocagne",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "cocagne"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Moye",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "la_moye"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Les Rouvets",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "les_rouvets"
+      }
+    ],
+    "enNameLanguage": "Vale",
+    "keyAccentLanguage": "vale"
+  }
+]

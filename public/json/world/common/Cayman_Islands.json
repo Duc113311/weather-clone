@@ -1,0 +1,604 @@
+[
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 19.2745294,
+      "lng": -81.2590218
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint James",
+        "location": {
+          "lat": 19.2745294,
+          "lng": -81.2590218
+        },
+        "keyAccentLanguage": "saint_james"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cayman Palms",
+        "location": {
+          "lat": 19.2745294,
+          "lng": -81.2590218
+        },
+        "keyAccentLanguage": "cayman_palms"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Savannah",
+        "location": {
+          "lat": 19.2807166,
+          "lng": -81.2986767
+        },
+        "keyAccentLanguage": "savannah"
+      }
+    ],
+    "enNameLanguage": "Bodden Town",
+    "keyAccentLanguage": "bodden_town"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 39.4471354,
+      "lng": -83.8153239
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gun Bay",
+        "location": {
+          "lat": 19.3170573,
+          "lng": -81.0899525
+        },
+        "keyAccentLanguage": "gun_bay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Half Moon Bay",
+        "location": {
+          "lat": 37.4635519,
+          "lng": -122.4285862
+        },
+        "keyAccentLanguage": "half_moon_bay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "East End",
+        "location": {
+          "lat": 37.5441972,
+          "lng": -77.41689819999999
+        },
+        "keyAccentLanguage": "east_end"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "High Rock Estates",
+        "location": {
+          "lat": 19.283,
+          "lng": -81.133
+        },
+        "keyAccentLanguage": "high_rock_estates"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sand Bluff",
+        "location": {
+          "lat": 19.317,
+          "lng": -81.083
+        },
+        "keyAccentLanguage": "sand_bluff"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Blakes",
+        "location": {
+          "lat": 19.3,
+          "lng": -81.1
+        },
+        "keyAccentLanguage": "blakes"
+      }
+    ],
+    "enNameLanguage": "East End",
+    "keyAccentLanguage": "east_end"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 38.9076089,
+      "lng": -77.07225849999999
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rock Hole",
+        "location": {
+          "lat": 19.2994304,
+          "lng": -81.3792192
+        },
+        "keyAccentLanguage": "rock_hole"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Breezy Castle",
+        "location": {
+          "lat": 19.2965778,
+          "lng": -81.3819158
+        },
+        "keyAccentLanguage": "breezy_castle"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Omega Gardens",
+        "location": {
+          "lat": 19.2965778,
+          "lng": -81.3819158
+        },
+        "keyAccentLanguage": "omega_gardens"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "George Town",
+        "location": {
+          "lat": 19.2965778,
+          "lng": -81.3819158
+        },
+        "keyAccentLanguage": "george_town"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Whitehall Estate",
+        "location": {
+          "lat": 19.2965778,
+          "lng": -81.3819158
+        },
+        "keyAccentLanguage": "whitehall_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dog City",
+        "location": {
+          "lat": 19.2965778,
+          "lng": -81.3819158
+        },
+        "keyAccentLanguage": "dog_city"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lambert House",
+        "location": {
+          "lat": -41.1057634,
+          "lng": 146.8265348
+        },
+        "keyAccentLanguage": "lambert_house"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Red Bay Estate",
+        "location": {
+          "lat": 19.2798836,
+          "lng": -81.3489651
+        },
+        "keyAccentLanguage": "red_bay_estate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Prospect Park",
+        "location": {
+          "lat": 19.2965778,
+          "lng": -81.3819158
+        },
+        "keyAccentLanguage": "prospect_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Spotts",
+        "location": {
+          "lat": -41.1057634,
+          "lng": 146.8265348
+        },
+        "keyAccentLanguage": "spotts"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Half Way Pond",
+        "location": {
+          "lat": 19.28397,
+          "lng": -81.367565
+        },
+        "keyAccentLanguage": "half_way_pond"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tropical Gardens",
+        "location": {
+          "lat": 19.2888815,
+          "lng": -81.3500159
+        },
+        "keyAccentLanguage": "tropical_gardens"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Prospect",
+        "location": {
+          "lat": 19.267,
+          "lng": -81.35
+        },
+        "keyAccentLanguage": "prospect"
+      }
+    ],
+    "enNameLanguage": "George Town",
+    "keyAccentLanguage": "george_town"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 32.783,
+      "lng": -97.358
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belford Estates",
+        "location": {
+          "lat": 19.2843571,
+          "lng": -81.248099
+        },
+        "keyAccentLanguage": "belford_estates"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pease Bay",
+        "location": {
+          "lat": 55.9335233,
+          "lng": -2.3292691
+        },
+        "keyAccentLanguage": "pease_bay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bodden Town",
+        "location": {
+          "lat": 19.2745294,
+          "lng": -81.2590218
+        },
+        "keyAccentLanguage": "bodden_town"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Midland Acres",
+        "location": {
+          "lat": 33.9254358,
+          "lng": -80.2900791
+        },
+        "keyAccentLanguage": "midland_acres"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hutland",
+        "location": {
+          "lat": 19.3500296,
+          "lng": -81.2130243
+        },
+        "keyAccentLanguage": "hutland"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Old Man Bay",
+        "location": {
+          "lat": 19.3441,
+          "lng": -81.1761279
+        },
+        "keyAccentLanguage": "old_man_bay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "North Sound Estates",
+        "location": {
+          "lat": 19.2933918,
+          "lng": -81.2993898
+        },
+        "keyAccentLanguage": "north_sound_estates"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "North Ward",
+        "location": {
+          "lat": 19.283,
+          "lng": -81.267
+        },
+        "keyAccentLanguage": "north_ward"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pedro",
+        "location": {
+          "lat": 19.283,
+          "lng": -81.267
+        },
+        "keyAccentLanguage": "pedro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Savannah Acres",
+        "location": {
+          "lat": 19.283,
+          "lng": -81.3
+        },
+        "keyAccentLanguage": "savannah_acres"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "North Side",
+        "location": {
+          "lat": 19.35,
+          "lng": -81.2
+        },
+        "keyAccentLanguage": "north_side"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lower Valley",
+        "location": {
+          "lat": 19.283,
+          "lng": -81.283
+        },
+        "keyAccentLanguage": "lower_valley"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Newlands",
+        "location": {
+          "lat": 19.283,
+          "lng": -81.3
+        },
+        "keyAccentLanguage": "newlands"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Brinkleys",
+        "location": {
+          "lat": 19.346,
+          "lng": -81.218
+        },
+        "keyAccentLanguage": "brinkleys"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Driftwood Village",
+        "location": {
+          "lat": 19.35,
+          "lng": -81.233
+        },
+        "keyAccentLanguage": "driftwood_village"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Breakers",
+        "location": {
+          "lat": 19.3,
+          "lng": -81.2
+        },
+        "keyAccentLanguage": "breakers"
+      }
+    ],
+    "enNameLanguage": "North Side",
+    "keyAccentLanguage": "north_side"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 45.2244316,
+      "lng": -87.14622399999999
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Creek",
+        "location": {
+          "lat": 45.2244316,
+          "lng": -87.14622399999999
+        },
+        "keyAccentLanguage": "creek"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Head of Bay",
+        "location": {
+          "lat": 45.2244316,
+          "lng": -87.14622399999999
+        },
+        "keyAccentLanguage": "head_of_bay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Knob Hill",
+        "location": {
+          "lat": 45.2244316,
+          "lng": -87.14622399999999
+        },
+        "keyAccentLanguage": "knob_hill"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Molusca Heights",
+        "location": {
+          "lat": 45.2244316,
+          "lng": -87.14622399999999
+        },
+        "keyAccentLanguage": "molusca_heights"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Banksville",
+        "location": {
+          "lat": 40.4100173,
+          "lng": -80.0395704
+        },
+        "keyAccentLanguage": "banksville"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Blossom Village",
+        "location": {
+          "lat": 19.6629376,
+          "lng": -80.0775884
+        },
+        "keyAccentLanguage": "blossom_village"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Blossom Point",
+        "location": {
+          "lat": 19.660991,
+          "lng": -80.086902
+        },
+        "keyAccentLanguage": "blossom_point"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tibbetts Turn",
+        "location": {
+          "lat": 19.7335606,
+          "lng": -79.78414149999999
+        },
+        "keyAccentLanguage": "tibbetts_turn"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "West End",
+        "location": {
+          "lat": 45.2244316,
+          "lng": -87.14622399999999
+        },
+        "keyAccentLanguage": "west_end"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Spot Bay",
+        "location": {
+          "lat": 19.7548369,
+          "lng": -79.7448946
+        },
+        "keyAccentLanguage": "spot_bay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Frenchman's Fort",
+        "location": {
+          "lat": 19.7,
+          "lng": -79.883
+        },
+        "keyAccentLanguage": "frenchman's_fort"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "The Moorings",
+        "location": {
+          "lat": 19.733,
+          "lng": -79.783
+        },
+        "keyAccentLanguage": "the_moorings"
+      }
+    ],
+    "enNameLanguage": "Sister Islands",
+    "keyAccentLanguage": "sister_islands"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 50.711711,
+      "lng": -2.7636358
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Botabano",
+        "location": {
+          "lat": 22.6875359,
+          "lng": -82.29362929999999
+        },
+        "keyAccentLanguage": "botabano"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Coral Gables",
+        "location": {
+          "lat": 25.7491968,
+          "lng": -80.2635411
+        },
+        "keyAccentLanguage": "coral_gables"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Upper Land",
+        "location": {
+          "lat": 25.3219677,
+          "lng": 51.532823
+        },
+        "keyAccentLanguage": "upper_land"
+      }
+    ],
+    "enNameLanguage": "West Bay",
+    "keyAccentLanguage": "west_bay"
+  }
+]

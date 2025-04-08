@@ -1,0 +1,3021 @@
+[
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ak-Tash",
+        "location": {
+          "lat": 40.668436,
+          "lng": 72.8175748
+        },
+        "keyAccentLanguage": "ak-tash"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anderavdzh",
+        "location": {
+          "lat": 37.763119,
+          "lng": 72.596718
+        },
+        "keyAccentLanguage": "anderavdzh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Badom-Dara",
+        "location": {
+          "lat": 37.083333,
+          "lng": 71.816667
+        },
+        "keyAccentLanguage": "badom-dara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akbaytal",
+        "location": {
+          "lat": 43.1762963,
+          "lng": 64.27470439999999
+        },
+        "keyAccentLanguage": "akbaytal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chuk Sang",
+        "location": {
+          "lat": 37.237487,
+          "lng": 71.47102
+        },
+        "keyAccentLanguage": "chuk_sang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Buguz",
+        "location": {
+          "lat": 39.377459,
+          "lng": 33.435872
+        },
+        "keyAccentLanguage": "buguz"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baradzh",
+        "location": {
+          "lat": 37.283333,
+          "lng": 71.783333
+        },
+        "keyAccentLanguage": "baradzh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Murghob",
+        "location": {
+          "lat": 38.1741295,
+          "lng": 73.9672411
+        },
+        "keyAccentLanguage": "murghob"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baravni Tor",
+        "location": {
+          "lat": 38.3133398,
+          "lng": 71.3172716
+        },
+        "keyAccentLanguage": "baravni_tor"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ishkashim",
+        "location": {
+          "lat": 36.7009541,
+          "lng": 71.560526
+        },
+        "keyAccentLanguage": "ishkashim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bartang",
+        "location": {
+          "lat": 38.126203641877,
+          "lng": 72.37727880098377
+        },
+        "keyAccentLanguage": "bartang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bulunqul",
+        "location": {
+          "lat": 37.7230556,
+          "lng": 72.96
+        },
+        "keyAccentLanguage": "bulunqul"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Garmchashma",
+        "location": {
+          "lat": 35.9974666,
+          "lng": 71.56349329999999
+        },
+        "keyAccentLanguage": "garmchashma"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dzharty-Rabat",
+        "location": {
+          "lat": 34.0083637,
+          "lng": -6.8538748
+        },
+        "keyAccentLanguage": "dzharty-rabat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Khorog",
+        "location": {
+          "lat": 37.4882943,
+          "lng": 71.5901986
+        },
+        "keyAccentLanguage": "khorog"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dzhangal'",
+        "location": {
+          "lat": 41.706667,
+          "lng": 23.497778
+        },
+        "keyAccentLanguage": "dzhangal'"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Drobak",
+        "location": {
+          "lat": 59.6633327,
+          "lng": 10.6307414
+        },
+        "keyAccentLanguage": "drobak"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Shaymak",
+        "location": {
+          "lat": 37.535671,
+          "lng": 74.82253299999999
+        },
+        "keyAccentLanguage": "shaymak"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Darvaz",
+        "location": {
+          "lat": 36.7347725,
+          "lng": 70.81199529999999
+        },
+        "keyAccentLanguage": "darvaz"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Goch",
+        "location": {
+          "lat": 51.679984,
+          "lng": 6.156552200000001
+        },
+        "keyAccentLanguage": "goch"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gishun",
+        "location": {
+          "lat": 1.430368,
+          "lng": 103.8353628
+        },
+        "keyAccentLanguage": "gishun"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barfunt",
+        "location": {
+          "lat": 10.3692443,
+          "lng": 106.3287833
+        },
+        "keyAccentLanguage": "barfunt"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Garnavat",
+        "location": {
+          "lat": 23.6623537,
+          "lng": 74.3910222
+        },
+        "keyAccentLanguage": "garnavat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dzhaushangoz",
+        "location": {
+          "lat": 37.35992100000001,
+          "lng": 72.45530699999999
+        },
+        "keyAccentLanguage": "dzhaushangoz"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qyzylrabot",
+        "location": {
+          "lat": 38.97043499999999,
+          "lng": 56.31530129999999
+        },
+        "keyAccentLanguage": "qyzylrabot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rushan",
+        "location": {
+          "lat": 36.9202099,
+          "lng": 121.5402
+        },
+        "keyAccentLanguage": "rushan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Markansu",
+        "location": {
+          "lat": 39.6419444,
+          "lng": 74.6372222
+        },
+        "keyAccentLanguage": "markansu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alichur",
+        "location": {
+          "lat": 37.745,
+          "lng": 73.257
+        },
+        "keyAccentLanguage": "alichur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bene",
+        "location": {
+          "lat": 37.667,
+          "lng": 71.55
+        },
+        "keyAccentLanguage": "bene"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amdarbog",
+        "location": {
+          "lat": 38.232,
+          "lng": 71.558
+        },
+        "keyAccentLanguage": "amdarbog"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barushan",
+        "location": {
+          "lat": 37.933,
+          "lng": 71.433
+        },
+        "keyAccentLanguage": "barushan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bisav",
+        "location": {
+          "lat": 38.037,
+          "lng": 71.874
+        },
+        "keyAccentLanguage": "bisav"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chatyr-Tash",
+        "location": {
+          "lat": 37.85,
+          "lng": 73.65
+        },
+        "keyAccentLanguage": "chatyr-tash"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kevron",
+        "location": {
+          "lat": 38.471,
+          "lng": 70.87
+        },
+        "keyAccentLanguage": "kevron"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baravn",
+        "location": {
+          "lat": 38.486,
+          "lng": 71.646
+        },
+        "keyAccentLanguage": "baravn"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ak-Mamad",
+        "location": {
+          "lat": 37.7,
+          "lng": 72.233
+        },
+        "keyAccentLanguage": "ak-mamad"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Darshay",
+        "location": {
+          "lat": 36.783,
+          "lng": 71.983
+        },
+        "keyAccentLanguage": "darshay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dokhashi",
+        "location": {
+          "lat": 38.033,
+          "lng": 71.833
+        },
+        "keyAccentLanguage": "dokhashi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Boud",
+        "location": {
+          "lat": 38.383,
+          "lng": 71.467
+        },
+        "keyAccentLanguage": "boud"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cheshteppa",
+        "location": {
+          "lat": 37.721,
+          "lng": 74.358
+        },
+        "keyAccentLanguage": "cheshteppa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dashtak",
+        "location": {
+          "lat": 38.461,
+          "lng": 70.775
+        },
+        "keyAccentLanguage": "dashtak"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Budun",
+        "location": {
+          "lat": 38.22,
+          "lng": 71.489
+        },
+        "keyAccentLanguage": "budun"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dana",
+        "location": {
+          "lat": 37.983,
+          "lng": 71.933
+        },
+        "keyAccentLanguage": "dana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bogev",
+        "location": {
+          "lat": 37.531,
+          "lng": 71.66
+        },
+        "keyAccentLanguage": "bogev"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Deu",
+        "location": {
+          "lat": 38.506,
+          "lng": 70.796
+        },
+        "keyAccentLanguage": "deu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Basid",
+        "location": {
+          "lat": 38.105,
+          "lng": 72.154
+        },
+        "keyAccentLanguage": "basid"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anjirak",
+        "location": {
+          "lat": 38.478,
+          "lng": 70.779
+        },
+        "keyAccentLanguage": "anjirak"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bichkhari",
+        "location": {
+          "lat": 38.35,
+          "lng": 71.383
+        },
+        "keyAccentLanguage": "bichkhari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akhdzev",
+        "location": {
+          "lat": 37.95,
+          "lng": 71.617
+        },
+        "keyAccentLanguage": "akhdzev"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ak-Taylyak",
+        "location": {
+          "lat": 37.667,
+          "lng": 72.517
+        },
+        "keyAccentLanguage": "ak-taylyak"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chadegiv",
+        "location": {
+          "lat": 38.114,
+          "lng": 72.036
+        },
+        "keyAccentLanguage": "chadegiv"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tokhtamish",
+        "location": {
+          "lat": 37.829,
+          "lng": 74.642
+        },
+        "keyAccentLanguage": "tokhtamish"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gordzhak",
+        "location": {
+          "lat": 37.4,
+          "lng": 71.483
+        },
+        "keyAccentLanguage": "gordzhak"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rovand",
+        "location": {
+          "lat": 38.579,
+          "lng": 71.84
+        },
+        "keyAccentLanguage": "rovand"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Shudzhand",
+        "location": {
+          "lat": 37.983,
+          "lng": 71.617
+        },
+        "keyAccentLanguage": "shudzhand"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bardara",
+        "location": {
+          "lat": 38.109,
+          "lng": 72.286
+        },
+        "keyAccentLanguage": "bardara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Vir",
+        "location": {
+          "lat": 37.721,
+          "lng": 72.073
+        },
+        "keyAccentLanguage": "vir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barsem",
+        "location": {
+          "lat": 37.55,
+          "lng": 71.733
+        },
+        "keyAccentLanguage": "barsem"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Darjomch",
+        "location": {
+          "lat": 38.124,
+          "lng": 71.946
+        },
+        "keyAccentLanguage": "darjomch"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gardzhvin",
+        "location": {
+          "lat": 37.65,
+          "lng": 71.85
+        },
+        "keyAccentLanguage": "gardzhvin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Farkingy",
+        "location": {
+          "lat": 38.694,
+          "lng": 70.728
+        },
+        "keyAccentLanguage": "farkingy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ataugor",
+        "location": {
+          "lat": 38.55,
+          "lng": 70.833
+        },
+        "keyAccentLanguage": "ataugor"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dich",
+        "location": {
+          "lat": 38.55,
+          "lng": 71.7
+        },
+        "keyAccentLanguage": "dich"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barnavad",
+        "location": {
+          "lat": 38.413,
+          "lng": 71.941
+        },
+        "keyAccentLanguage": "barnavad"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dzhafak",
+        "location": {
+          "lat": 38.333,
+          "lng": 71.683
+        },
+        "keyAccentLanguage": "dzhafak"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Buved",
+        "location": {
+          "lat": 37.583,
+          "lng": 71.511
+        },
+        "keyAccentLanguage": "buved"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dzhunt",
+        "location": {
+          "lat": 37.217,
+          "lng": 71.533
+        },
+        "keyAccentLanguage": "dzhunt"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Duzakh-Dara",
+        "location": {
+          "lat": 37.7,
+          "lng": 72.417
+        },
+        "keyAccentLanguage": "duzakh-dara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dash",
+        "location": {
+          "lat": 38.317,
+          "lng": 71.667
+        },
+        "keyAccentLanguage": "dash"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dekh",
+        "location": {
+          "lat": 38.057,
+          "lng": 71.326
+        },
+        "keyAccentLanguage": "dekh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bodaud",
+        "location": {
+          "lat": 38.353,
+          "lng": 71.422
+        },
+        "keyAccentLanguage": "bodaud"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bachor",
+        "location": {
+          "lat": 37.75,
+          "lng": 72.533
+        },
+        "keyAccentLanguage": "bachor"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barchadiv",
+        "location": {
+          "lat": 38.295,
+          "lng": 72.478
+        },
+        "keyAccentLanguage": "barchadiv"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chechekti",
+        "location": {
+          "lat": 38.336,
+          "lng": 74.014
+        },
+        "keyAccentLanguage": "chechekti"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Badzhuv",
+        "location": {
+          "lat": 37.767,
+          "lng": 71.633
+        },
+        "keyAccentLanguage": "badzhuv"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Badurt",
+        "location": {
+          "lat": 38.167,
+          "lng": 72.167
+        },
+        "keyAccentLanguage": "badurt"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Brovg",
+        "location": {
+          "lat": 38.497,
+          "lng": 71.036
+        },
+        "keyAccentLanguage": "brovg"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ardobag",
+        "location": {
+          "lat": 38.444,
+          "lng": 71.593
+        },
+        "keyAccentLanguage": "ardobag"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bdavn",
+        "location": {
+          "lat": 38.417,
+          "lng": 71.767
+        },
+        "keyAccentLanguage": "bdavn"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dastkhuf",
+        "location": {
+          "lat": 37.86,
+          "lng": 71.605
+        },
+        "keyAccentLanguage": "dastkhuf"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amaler",
+        "location": {
+          "lat": 36.794,
+          "lng": 71.581
+        },
+        "keyAccentLanguage": "amaler"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Emts",
+        "location": {
+          "lat": 38.005,
+          "lng": 71.669
+        },
+        "keyAccentLanguage": "emts"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Boshgumbez",
+        "location": {
+          "lat": 37.771,
+          "lng": 73.549
+        },
+        "keyAccentLanguage": "boshgumbez"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dursher",
+        "location": {
+          "lat": 38.579,
+          "lng": 71.787
+        },
+        "keyAccentLanguage": "dursher"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Debasta",
+        "location": {
+          "lat": 37.683,
+          "lng": 71.85
+        },
+        "keyAccentLanguage": "debasta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bijrav",
+        "location": {
+          "lat": 38.189,
+          "lng": 71.992
+        },
+        "keyAccentLanguage": "bijrav"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Badzhu-Pavdiv",
+        "location": {
+          "lat": 37.867,
+          "lng": 71.6
+        },
+        "keyAccentLanguage": "badzhu-pavdiv"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gidzhovast",
+        "location": {
+          "lat": 38.548,
+          "lng": 71.753
+        },
+        "keyAccentLanguage": "gidzhovast"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dzharty-Gumbez",
+        "location": {
+          "lat": 37.559,
+          "lng": 74.142
+        },
+        "keyAccentLanguage": "dzharty-gumbez"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chikhokh",
+        "location": {
+          "lat": 38.519,
+          "lng": 71.698
+        },
+        "keyAccentLanguage": "chikhokh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dal'neye",
+        "location": {
+          "lat": 38.617,
+          "lng": 72.133
+        },
+        "keyAccentLanguage": "dal'neye"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rabot",
+        "location": {
+          "lat": 38.567,
+          "lng": 70.8
+        },
+        "keyAccentLanguage": "rabot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rang-Kul",
+        "location": {
+          "lat": 38.477,
+          "lng": 74.38
+        },
+        "keyAccentLanguage": "rang-kul"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bunay",
+        "location": {
+          "lat": 38.43,
+          "lng": 71.556
+        },
+        "keyAccentLanguage": "bunay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Charsem",
+        "location": {
+          "lat": 37.718,
+          "lng": 72.161
+        },
+        "keyAccentLanguage": "charsem"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Vankala",
+        "location": {
+          "lat": 37.711,
+          "lng": 72.277
+        },
+        "keyAccentLanguage": "vankala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rubot",
+        "location": {
+          "lat": 37.359,
+          "lng": 72.31
+        },
+        "keyAccentLanguage": "rubot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Khargush",
+        "location": {
+          "lat": 37.378,
+          "lng": 73.117
+        },
+        "keyAccentLanguage": "khargush"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chadud",
+        "location": {
+          "lat": 38.126,
+          "lng": 72.2
+        },
+        "keyAccentLanguage": "chadud"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dzhilyandy",
+        "location": {
+          "lat": 37.577,
+          "lng": 72.589
+        },
+        "keyAccentLanguage": "dzhilyandy"
+      }
+    ],
+    "enNameLanguage": "Badakhshoni Kuni",
+    "keyAccentLanguage": "badakhshoni_kuni"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 38.5597722,
+      "lng": 68.7870384
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dushanbe",
+        "location": {
+          "lat": 38.5597722,
+          "lng": 68.7870384
+        },
+        "keyAccentLanguage": "dushanbe"
+      }
+    ],
+    "enNameLanguage": "Dushanbe",
+    "keyAccentLanguage": "dushanbe"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 37.9113562,
+      "lng": 69.097023
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Vose",
+        "location": {
+          "lat": 37.8038994,
+          "lng": 69.63635099999999
+        },
+        "keyAccentLanguage": "vose"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akteri",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "akteri"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afgan-Kishlak",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "afgan-kishlak"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arab",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "arab"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alijon",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "alijon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arpatuguldi",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "arpatuguldi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alchin",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "alchin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ak-Su",
+        "location": {
+          "lat": 38.116667,
+          "lng": 68.566667
+        },
+        "keyAccentLanguage": "ak-su"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Archa",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "archa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akcha",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "akcha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Askari Surkh",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "askari_surkh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afandi",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "afandi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Oktyabr",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "oktyabr"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Batyrkhan",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "batyrkhan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beshbulok",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "beshbulok"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aflotuk",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "aflotuk"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anjirobi Bolo",
+        "location": {
+          "lat": 37.8250436,
+          "lng": 70.19469670000001
+        },
+        "keyAccentLanguage": "anjirobi_bolo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andizhan",
+        "location": {
+          "lat": 40.8153561,
+          "lng": 72.28375
+        },
+        "keyAccentLanguage": "andizhan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ak-Dzhar",
+        "location": {
+          "lat": 40.8001624,
+          "lng": 73.4916744
+        },
+        "keyAccentLanguage": "ak-dzhar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anatrosh",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "anatrosh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akshivan",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "akshivan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Almyshabad",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "almyshabad"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Avzali",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "avzali"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aksa-Rovat",
+        "location": {
+          "lat": 38.266667,
+          "lng": 68.8
+        },
+        "keyAccentLanguage": "aksa-rovat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alkamazhar",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "alkamazhar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alipberdy",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "alipberdy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beshtemir",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "beshtemir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alovuddin",
+        "location": {
+          "lat": 37.4638414,
+          "lng": 69.3674644
+        },
+        "keyAccentLanguage": "alovuddin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Besh-Khabib",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "besh-khabib"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Balagdash",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "balagdash"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aral",
+        "location": {
+          "lat": 38.0067105,
+          "lng": 68.8272793
+        },
+        "keyAccentLanguage": "aral"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bachamazor",
+        "location": {
+          "lat": 37.9807943,
+          "lng": 69.6325774
+        },
+        "keyAccentLanguage": "bachamazor"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arzanion",
+        "location": {
+          "lat": 38.366667,
+          "lng": 69.86666699999999
+        },
+        "keyAccentLanguage": "arzanion"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Avzikent",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "avzikent"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Besharik",
+        "location": {
+          "lat": 40.4374731,
+          "lng": 70.5978846
+        },
+        "keyAccentLanguage": "besharik"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Balkhoby",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "balkhoby"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arabo",
+        "location": {
+          "lat": 37.49709319999999,
+          "lng": 69.346606
+        },
+        "keyAccentLanguage": "arabo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kulob",
+        "location": {
+          "lat": 37.9273983,
+          "lng": 69.8001762
+        },
+        "keyAccentLanguage": "kulob"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Moskovskiy",
+        "location": {
+          "lat": 37.6570059,
+          "lng": 69.6274141
+        },
+        "keyAccentLanguage": "moskovskiy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bobokhonshaid",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "bobokhonshaid"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Atchanar",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "atchanar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Panj",
+        "location": {
+          "lat": 37.2143471,
+          "lng": 69.1327869
+        },
+        "keyAccentLanguage": "panj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akarbulok",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "akarbulok"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kabodiyen",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "kabodiyen"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akmazar",
+        "location": {
+          "lat": 37.6244836,
+          "lng": 69.6452877
+        },
+        "keyAccentLanguage": "akmazar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qurghonteppa",
+        "location": {
+          "lat": 37.8456119,
+          "lng": 68.79896169999999
+        },
+        "keyAccentLanguage": "qurghonteppa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anjirkhon",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "anjirkhon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Khovaling",
+        "location": {
+          "lat": 38.5056596,
+          "lng": 70.1455805
+        },
+        "keyAccentLanguage": "khovaling"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bay-Kuchkar",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "bay-kuchkar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Birbuloq",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "birbuloq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arpatuguldy",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "arpatuguldy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arabkhonai Kalon",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "arabkhonai_kalon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Talbar",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "talbar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Atochibulok",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "atochibulok"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bash-Gunash",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "bash-gunash"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ayvadzh",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "ayvadzh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beshcheulok",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "beshcheulok"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amring",
+        "location": {
+          "lat": 25.7438753,
+          "lng": 92.8151554
+        },
+        "keyAccentLanguage": "amring"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chorbog",
+        "location": {
+          "lat": 37.9563916,
+          "lng": 68.6812168
+        },
+        "keyAccentLanguage": "chorbog"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gurdora",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "gurdora"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beshquduq",
+        "location": {
+          "lat": 42.1534906,
+          "lng": 63.5617685
+        },
+        "keyAccentLanguage": "beshquduq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baljuvon",
+        "location": {
+          "lat": 38.3076373,
+          "lng": 69.6720974
+        },
+        "keyAccentLanguage": "baljuvon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beshtentak",
+        "location": {
+          "lat": 38.3021105,
+          "lng": 69.7130956
+        },
+        "keyAccentLanguage": "beshtentak"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beshkent",
+        "location": {
+          "lat": 37.3081316,
+          "lng": 67.9821714
+        },
+        "keyAccentLanguage": "beshkent"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al'mabulak",
+        "location": {
+          "lat": 38.066667,
+          "lng": 69.483333
+        },
+        "keyAccentLanguage": "al'mabulak"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Shuroabad",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "shuroabad"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dusti",
+        "location": {
+          "lat": 37.3520055,
+          "lng": 68.6767454
+        },
+        "keyAccentLanguage": "dusti"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bedanibedak",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "bedanibedak"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Batan",
+        "location": {
+          "lat": 20.4485074,
+          "lng": 121.9708129
+        },
+        "keyAccentLanguage": "batan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bolshevik",
+        "location": {
+          "lat": 37.1636737,
+          "lng": 68.22362869999999
+        },
+        "keyAccentLanguage": "bolshevik"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Berencha",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "berencha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dangara",
+        "location": {
+          "lat": 38.09321509999999,
+          "lng": 69.3413913
+        },
+        "keyAccentLanguage": "dangara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beshtegirmon",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "beshtegirmon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sovetskiy",
+        "location": {
+          "lat": 38.0494682,
+          "lng": 69.58868679999999
+        },
+        "keyAccentLanguage": "sovetskiy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anzhirou-Poyen",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "anzhirou-poyen"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kuybyshevsk",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "kuybyshevsk"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al'ma-Bulak",
+        "location": {
+          "lat": 38.066667,
+          "lng": 69.483333
+        },
+        "keyAccentLanguage": "al'ma-bulak"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pyandzh",
+        "location": {
+          "lat": 37.2143471,
+          "lng": 69.1327869
+        },
+        "keyAccentLanguage": "pyandzh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jilikul",
+        "location": {
+          "lat": 37.4911832,
+          "lng": 68.536639
+        },
+        "keyAccentLanguage": "jilikul"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Besharyk",
+        "location": {
+          "lat": 40.4374731,
+          "lng": 70.5978846
+        },
+        "keyAccentLanguage": "besharyk"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beshkapa",
+        "location": {
+          "lat": 37.2335892,
+          "lng": 68.0179418
+        },
+        "keyAccentLanguage": "beshkapa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kolkhozobod",
+        "location": {
+          "lat": 37.5940751,
+          "lng": 68.5962593
+        },
+        "keyAccentLanguage": "kolkhozobod"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Muminobod",
+        "location": {
+          "lat": 38.1058452,
+          "lng": 70.03245
+        },
+        "keyAccentLanguage": "muminobod"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bobosafol",
+        "location": {
+          "lat": 37.6130071,
+          "lng": 69.42258819999999
+        },
+        "keyAccentLanguage": "bobosafol"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Besh-Kapa",
+        "location": {
+          "lat": 37.82172509999999,
+          "lng": 68.6588598
+        },
+        "keyAccentLanguage": "besh-kapa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Khanabad",
+        "location": {
+          "lat": 38.1174902,
+          "lng": 69.8761201
+        },
+        "keyAccentLanguage": "khanabad"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bishkent",
+        "location": {
+          "lat": 42.8746212,
+          "lng": 74.5697617
+        },
+        "keyAccentLanguage": "bishkent"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Yovan",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "yovan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bahorak",
+        "location": {
+          "lat": 3.465968,
+          "lng": 98.04651849999999
+        },
+        "keyAccentLanguage": "bahorak"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Parkhar",
+        "location": {
+          "lat": 37.4830444,
+          "lng": 69.371189
+        },
+        "keyAccentLanguage": "parkhar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beshkappa",
+        "location": {
+          "lat": 38.0075605,
+          "lng": 69.560385
+        },
+        "keyAccentLanguage": "beshkappa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Shaartuz",
+        "location": {
+          "lat": 37.2669052,
+          "lng": 68.1371795
+        },
+        "keyAccentLanguage": "shaartuz"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Balga-Boskan Vtoroy",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "balga-boskan_vtoroy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arabkhana",
+        "location": {
+          "lat": 37.2053168,
+          "lng": 68.02986539999999
+        },
+        "keyAccentLanguage": "arabkhana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Vakhsh",
+        "location": {
+          "lat": 37.6796771,
+          "lng": 68.8347313
+        },
+        "keyAccentLanguage": "vakhsh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qumsangir",
+        "location": {
+          "lat": 37.335692,
+          "lng": 68.7393446
+        },
+        "keyAccentLanguage": "qumsangir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ay-Botkan",
+        "location": {
+          "lat": 38.083,
+          "lng": 68.55
+        },
+        "keyAccentLanguage": "ay-botkan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akhteraki Bolo",
+        "location": {
+          "lat": 38.383,
+          "lng": 70.017
+        },
+        "keyAccentLanguage": "akhteraki_bolo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beshbulok",
+        "location": {
+          "lat": 37.9113562,
+          "lng": 69.097023
+        },
+        "keyAccentLanguage": "beshbulok"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beshkappa",
+        "location": {
+          "lat": 38.0075605,
+          "lng": 69.560385
+        },
+        "keyAccentLanguage": "beshkappa"
+      }
+    ],
+    "enNameLanguage": "Khatlon",
+    "keyAccentLanguage": "khatlon"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 39.0857902,
+      "lng": 70.2408325
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ak-Bulak",
+        "location": {
+          "lat": 37.966667,
+          "lng": 68.39999999999999
+        },
+        "keyAccentLanguage": "ak-bulak"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abdu",
+        "location": {
+          "lat": 38.716667,
+          "lng": 68.36666699999999
+        },
+        "keyAccentLanguage": "abdu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Askerabad",
+        "location": {
+          "lat": 39.4290809,
+          "lng": 48.5638675
+        },
+        "keyAccentLanguage": "askerabad"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andigon",
+        "location": {
+          "lat": 38.5695821,
+          "lng": 69.05976799999999
+        },
+        "keyAccentLanguage": "andigon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amonshaykhi",
+        "location": {
+          "lat": 38.6111151,
+          "lng": 69.10745419999999
+        },
+        "keyAccentLanguage": "amonshaykhi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Almosi",
+        "location": {
+          "lat": 39.0857902,
+          "lng": 70.2408325
+        },
+        "keyAccentLanguage": "almosi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jirgatol",
+        "location": {
+          "lat": 39.2213412,
+          "lng": 71.2006758
+        },
+        "keyAccentLanguage": "jirgatol"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Batosh",
+        "location": {
+          "lat": 38.5600167,
+          "lng": 68.4543425
+        },
+        "keyAccentLanguage": "batosh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hisor",
+        "location": {
+          "lat": 38.5305761,
+          "lng": 68.5545252
+        },
+        "keyAccentLanguage": "hisor"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pashimgar",
+        "location": {
+          "lat": 38.876251,
+          "lng": 71.51107
+        },
+        "keyAccentLanguage": "pashimgar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bagalok",
+        "location": {
+          "lat": 16.1691096,
+          "lng": 75.6615029
+        },
+        "keyAccentLanguage": "bagalok"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ardzhanak",
+        "location": {
+          "lat": 38.75,
+          "lng": 68.583333
+        },
+        "keyAccentLanguage": "ardzhanak"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ayni",
+        "location": {
+          "lat": 38.9046832,
+          "lng": 68.81088489999999
+        },
+        "keyAccentLanguage": "ayni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Azikeng",
+        "location": {
+          "lat": 38.433333,
+          "lng": 68.483333
+        },
+        "keyAccentLanguage": "azikeng"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baldirgon",
+        "location": {
+          "lat": 38.5098549,
+          "lng": 68.90179789999999
+        },
+        "keyAccentLanguage": "baldirgon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fayzabad",
+        "location": {
+          "lat": 38.54849,
+          "lng": 69.3181226
+        },
+        "keyAccentLanguage": "fayzabad"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arbobi",
+        "location": {
+          "lat": 38.6105294,
+          "lng": 68.99344690000001
+        },
+        "keyAccentLanguage": "arbobi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arbobkhotun",
+        "location": {
+          "lat": 38.5488659,
+          "lng": 68.7185607
+        },
+        "keyAccentLanguage": "arbobkhotun"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ayni-Khojayni",
+        "location": {
+          "lat": 38.9046832,
+          "lng": 68.81088489999999
+        },
+        "keyAccentLanguage": "ayni-khojayni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Khodzhimard",
+        "location": {
+          "lat": 38.5755569,
+          "lng": 69.329472
+        },
+        "keyAccentLanguage": "khodzhimard"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Blagodarnyy",
+        "location": {
+          "lat": 45.1023646,
+          "lng": 43.43686539999999
+        },
+        "keyAccentLanguage": "blagodarnyy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nurek",
+        "location": {
+          "lat": 38.3833041,
+          "lng": 69.26987369999999
+        },
+        "keyAccentLanguage": "nurek"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Karakendzha",
+        "location": {
+          "lat": 39.24299999999999,
+          "lng": 71.527924
+        },
+        "keyAccentLanguage": "karakendzha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ak-Kurgan",
+        "location": {
+          "lat": 40.8812472,
+          "lng": 69.0433755
+        },
+        "keyAccentLanguage": "ak-kurgan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Borshi",
+        "location": {
+          "lat": 38.683333,
+          "lng": 71.36666699999999
+        },
+        "keyAccentLanguage": "borshi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bulbulchashma",
+        "location": {
+          "lat": 38.4342398,
+          "lng": 68.5560157
+        },
+        "keyAccentLanguage": "bulbulchashma"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Garm",
+        "location": {
+          "lat": 39.0214751,
+          "lng": 70.3673152
+        },
+        "keyAccentLanguage": "garm"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arzing",
+        "location": {
+          "lat": 38.866667,
+          "lng": 71.35
+        },
+        "keyAccentLanguage": "arzing"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bish-Bulak",
+        "location": {
+          "lat": 38.316667,
+          "lng": 68.36666699999999
+        },
+        "keyAccentLanguage": "bish-bulak"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Navabad",
+        "location": {
+          "lat": 38.5630849,
+          "lng": 68.5083192
+        },
+        "keyAccentLanguage": "navabad"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Novobod",
+        "location": {
+          "lat": 39.0154045,
+          "lng": 70.147069
+        },
+        "keyAccentLanguage": "novobod"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tursunzoda",
+        "location": {
+          "lat": 38.5301118,
+          "lng": 68.2146857
+        },
+        "keyAccentLanguage": "tursunzoda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Varzob",
+        "location": {
+          "lat": 38.7750545,
+          "lng": 68.82578889999999
+        },
+        "keyAccentLanguage": "varzob"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alkhuch",
+        "location": {
+          "lat": 38.733333,
+          "lng": 68.7
+        },
+        "keyAccentLanguage": "alkhuch"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tadzhikabad",
+        "location": {
+          "lat": 39.1175077,
+          "lng": 70.8446979
+        },
+        "keyAccentLanguage": "tadzhikabad"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Besh-Tepa",
+        "location": {
+          "lat": 38.516667,
+          "lng": 68.1333329
+        },
+        "keyAccentLanguage": "besh-tepa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alisurkhon",
+        "location": {
+          "lat": 38.9166669,
+          "lng": 70.983333
+        },
+        "keyAccentLanguage": "alisurkhon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sangvor",
+        "location": {
+          "lat": 38.773911,
+          "lng": 71.224152
+        },
+        "keyAccentLanguage": "sangvor"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akuyli",
+        "location": {
+          "lat": 38.482021,
+          "lng": 68.59906
+        },
+        "keyAccentLanguage": "akuyli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Shahrinav",
+        "location": {
+          "lat": 38.5713745,
+          "lng": 68.3369086
+        },
+        "keyAccentLanguage": "shahrinav"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Roghun",
+        "location": {
+          "lat": 38.6309837,
+          "lng": 69.7167783
+        },
+        "keyAccentLanguage": "roghun"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Komsomolabad",
+        "location": {
+          "lat": 38.8707834,
+          "lng": 69.9609892
+        },
+        "keyAccentLanguage": "komsomolabad"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kofarnihon",
+        "location": {
+          "lat": 38.560256,
+          "lng": 69.0165511
+        },
+        "keyAccentLanguage": "kofarnihon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Angurli",
+        "location": {
+          "lat": 38.2,
+          "lng": 68.45
+        },
+        "keyAccentLanguage": "angurli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anjir",
+        "location": {
+          "lat": 38.446,
+          "lng": 69.004
+        },
+        "keyAccentLanguage": "anjir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bedgun",
+        "location": {
+          "lat": 38.733,
+          "lng": 68.383
+        },
+        "keyAccentLanguage": "bedgun"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beshbulok-Bolo",
+        "location": {
+          "lat": 38.594,
+          "lng": 68.59
+        },
+        "keyAccentLanguage": "beshbulok-bolo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Botanicheskiy",
+        "location": {
+          "lat": 38.58,
+          "lng": 68.693
+        },
+        "keyAccentLanguage": "botanicheskiy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bongura",
+        "location": {
+          "lat": 38.613,
+          "lng": 69.095
+        },
+        "keyAccentLanguage": "bongura"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abdulay",
+        "location": {
+          "lat": 38.317,
+          "lng": 68.567
+        },
+        "keyAccentLanguage": "abdulay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Argankul",
+        "location": {
+          "lat": 38.868,
+          "lng": 70.896
+        },
+        "keyAccentLanguage": "argankul"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andreyev",
+        "location": {
+          "lat": 38.516,
+          "lng": 68.643
+        },
+        "keyAccentLanguage": "andreyev"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anna-Khudzha",
+        "location": {
+          "lat": 38.55,
+          "lng": 68.1
+        },
+        "keyAccentLanguage": "anna-khudzha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bibi-Khurum",
+        "location": {
+          "lat": 38.217,
+          "lng": 68.567
+        },
+        "keyAccentLanguage": "bibi-khurum"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bulokisaidon",
+        "location": {
+          "lat": 38.649,
+          "lng": 68.611
+        },
+        "keyAccentLanguage": "bulokisaidon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bobosurkhon",
+        "location": {
+          "lat": 38.661,
+          "lng": 68.63
+        },
+        "keyAccentLanguage": "bobosurkhon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ak-Tak",
+        "location": {
+          "lat": 38.617,
+          "lng": 68.867
+        },
+        "keyAccentLanguage": "ak-tak"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Almasi",
+        "location": {
+          "lat": 38.683,
+          "lng": 68.617
+        },
+        "keyAccentLanguage": "almasi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bogak",
+        "location": {
+          "lat": 38.187,
+          "lng": 68.539
+        },
+        "keyAccentLanguage": "bogak"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agaravak",
+        "location": {
+          "lat": 37.983,
+          "lng": 68.567
+        },
+        "keyAccentLanguage": "agaravak"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arpa-Bulak",
+        "location": {
+          "lat": 38.467,
+          "lng": 68.883
+        },
+        "keyAccentLanguage": "arpa-bulak"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Annakul-Rovat",
+        "location": {
+          "lat": 38.4,
+          "lng": 68.75
+        },
+        "keyAccentLanguage": "annakul-rovat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alibegi",
+        "location": {
+          "lat": 38.635,
+          "lng": 68.571
+        },
+        "keyAccentLanguage": "alibegi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alakchin",
+        "location": {
+          "lat": 38.675,
+          "lng": 68.769
+        },
+        "keyAccentLanguage": "alakchin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arshi",
+        "location": {
+          "lat": 38.65,
+          "lng": 68.367
+        },
+        "keyAccentLanguage": "arshi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bolo-Nazar",
+        "location": {
+          "lat": 38.514,
+          "lng": 68.858
+        },
+        "keyAccentLanguage": "bolo-nazar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aknakhodzha",
+        "location": {
+          "lat": 38.571,
+          "lng": 68.106
+        },
+        "keyAccentLanguage": "aknakhodzha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abdan",
+        "location": {
+          "lat": 38.467,
+          "lng": 68.933
+        },
+        "keyAccentLanguage": "abdan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Batrak",
+        "location": {
+          "lat": 37.967,
+          "lng": 68.533
+        },
+        "keyAccentLanguage": "batrak"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aligalabon",
+        "location": {
+          "lat": 38.763,
+          "lng": 69.834
+        },
+        "keyAccentLanguage": "aligalabon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aksay",
+        "location": {
+          "lat": 39.383,
+          "lng": 71.6
+        },
+        "keyAccentLanguage": "aksay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Boshkengash",
+        "location": {
+          "lat": 38.435,
+          "lng": 68.768
+        },
+        "keyAccentLanguage": "boshkengash"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Asvob",
+        "location": {
+          "lat": 38.583,
+          "lng": 68.217
+        },
+        "keyAccentLanguage": "asvob"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agurty",
+        "location": {
+          "lat": 38.66,
+          "lng": 68.871
+        },
+        "keyAccentLanguage": "agurty"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bakhor",
+        "location": {
+          "lat": 38.549,
+          "lng": 68.986
+        },
+        "keyAccentLanguage": "bakhor"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Askari",
+        "location": {
+          "lat": 38.541,
+          "lng": 68.512
+        },
+        "keyAccentLanguage": "askari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lenin",
+        "location": {
+          "lat": 38.433,
+          "lng": 68.767
+        },
+        "keyAccentLanguage": "lenin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ak-Buryu",
+        "location": {
+          "lat": 38.4,
+          "lng": 68.633
+        },
+        "keyAccentLanguage": "ak-buryu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qulobod",
+        "location": {
+          "lat": 38.686,
+          "lng": 69.578
+        },
+        "keyAccentLanguage": "qulobod"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Begar",
+        "location": {
+          "lat": 38.8,
+          "lng": 68.817
+        },
+        "keyAccentLanguage": "begar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bakoron",
+        "location": {
+          "lat": 38.614,
+          "lng": 69.027
+        },
+        "keyAccentLanguage": "bakoron"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Oktabrsk",
+        "location": {
+          "lat": 38.522,
+          "lng": 68.324
+        },
+        "keyAccentLanguage": "oktabrsk"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baqoy",
+        "location": {
+          "lat": 38.502,
+          "lng": 68.162
+        },
+        "keyAccentLanguage": "baqoy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beydikho",
+        "location": {
+          "lat": 38.749,
+          "lng": 69.845
+        },
+        "keyAccentLanguage": "beydikho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alobaytal",
+        "location": {
+          "lat": 38.379,
+          "lng": 68.731
+        },
+        "keyAccentLanguage": "alobaytal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tovildara",
+        "location": {
+          "lat": 38.717,
+          "lng": 70.467
+        },
+        "keyAccentLanguage": "tovildara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akalchin",
+        "location": {
+          "lat": 38.517,
+          "lng": 68.483
+        },
+        "keyAccentLanguage": "akalchin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bugolyak",
+        "location": {
+          "lat": 38.45,
+          "lng": 68.15
+        },
+        "keyAccentLanguage": "bugolyak"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beshkapai Poyon",
+        "location": {
+          "lat": 38.117,
+          "lng": 68.381
+        },
+        "keyAccentLanguage": "beshkapai_poyon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bakaul",
+        "location": {
+          "lat": 38.667,
+          "lng": 68.8
+        },
+        "keyAccentLanguage": "bakaul"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arkhu",
+        "location": {
+          "lat": 39.017,
+          "lng": 69.267
+        },
+        "keyAccentLanguage": "arkhu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bulokchinor",
+        "location": {
+          "lat": 38.521,
+          "lng": 68.595
+        },
+        "keyAccentLanguage": "bulokchinor"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alkhitoy",
+        "location": {
+          "lat": 38.672,
+          "lng": 68.803
+        },
+        "keyAccentLanguage": "alkhitoy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alchagy",
+        "location": {
+          "lat": 38.419,
+          "lng": 69.083
+        },
+        "keyAccentLanguage": "alchagy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Babagabib",
+        "location": {
+          "lat": 38.917,
+          "lng": 69.817
+        },
+        "keyAccentLanguage": "babagabib"
+      }
+    ],
+    "enNameLanguage": "Regions of Republican Subordination",
+    "keyAccentLanguage": "regions_of_republican_subordination"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 39.5155326,
+      "lng": 69.097023
+    },
+    "districtList": [],
+    "enNameLanguage": "Sogd",
+    "keyAccentLanguage": "sogd"
+  }
+]

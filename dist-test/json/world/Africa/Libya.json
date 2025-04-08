@@ -1,0 +1,7325 @@
+[
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 29.0466808,
+      "lng": 21.8568586
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ajdabiya",
+        "location": {
+          "lat": 30.757528,
+          "lng": 20.2230039
+        },
+        "keyAccentLanguage": "ajdabiya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Awjilah",
+        "location": {
+          "lat": 29.1367922,
+          "lng": 21.2934101
+        },
+        "keyAccentLanguage": "awjilah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jakharrah",
+        "location": {
+          "lat": 29.301294,
+          "lng": 21.6443104
+        },
+        "keyAccentLanguage": "jakharrah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bishr",
+        "location": {
+          "lat": 30.2572561,
+          "lng": 19.1984106
+        },
+        "keyAccentLanguage": "bishr"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sultan",
+        "location": {
+          "lat": 31.095833,
+          "lng": 20.230833
+        },
+        "keyAccentLanguage": "sultan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Mawahi",
+        "location": {
+          "lat": 29.3833333,
+          "lng": 22.3333333
+        },
+        "keyAccentLanguage": "al_mawahi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Masliwah",
+        "location": {
+          "lat": 29.0466808,
+          "lng": 21.8568586
+        },
+        "keyAccentLanguage": "masliwah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bi`r Zaltan",
+        "location": {
+          "lat": 28.4361111,
+          "lng": 19.7577778
+        },
+        "keyAccentLanguage": "bi`r_zaltan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Hiri",
+        "location": {
+          "lat": 29.0466808,
+          "lng": 21.8568586
+        },
+        "keyAccentLanguage": "al_hiri"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al `Uqaylah",
+        "location": {
+          "lat": 30.26132,
+          "lng": 19.18885
+        },
+        "keyAccentLanguage": "al_`uqaylah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat Bishr",
+        "location": {
+          "lat": 29.0466808,
+          "lng": 21.8568586
+        },
+        "keyAccentLanguage": "qaryat_bishr"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Uqaylah",
+        "location": {
+          "lat": 30.26132,
+          "lng": 19.18885
+        },
+        "keyAccentLanguage": "al_uqaylah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ash Shurraf",
+        "location": {
+          "lat": 29.0466808,
+          "lng": 21.8568586
+        },
+        "keyAccentLanguage": "ash_shurraf"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ash Shawashinah",
+        "location": {
+          "lat": 29.169966,
+          "lng": 21.294054
+        },
+        "keyAccentLanguage": "ash_shawashinah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Labbah",
+        "location": {
+          "lat": 29.0333333,
+          "lng": 21.5666667
+        },
+        "keyAccentLanguage": "al_labbah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Burayqah",
+        "location": {
+          "lat": 30.41,
+          "lng": 19.57
+        },
+        "keyAccentLanguage": "al_burayqah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bi'r Bin Ghunaymah",
+        "location": {
+          "lat": 31.183333,
+          "lng": 21.883333
+        },
+        "keyAccentLanguage": "bi'r_bin_ghunaymah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Az Zuwaytinah",
+        "location": {
+          "lat": 30.95412949999999,
+          "lng": 20.1194129
+        },
+        "keyAccentLanguage": "az_zuwaytinah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jalu",
+        "location": {
+          "lat": 29.0429159,
+          "lng": 21.5283823
+        },
+        "keyAccentLanguage": "jalu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Maradah",
+        "location": {
+          "lat": 29.2187967,
+          "lng": 19.2058436
+        },
+        "keyAccentLanguage": "maradah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jikharrah",
+        "location": {
+          "lat": 29.283,
+          "lng": 21.633
+        },
+        "keyAccentLanguage": "jikharrah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rashidah",
+        "location": {
+          "lat": 29.017,
+          "lng": 21.517
+        },
+        "keyAccentLanguage": "rashidah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bir Umm al Gharaniq",
+        "location": {
+          "lat": 30.347,
+          "lng": 18.801
+        },
+        "keyAccentLanguage": "bir_umm_al_gharaniq"
+      }
+    ],
+    "enNameLanguage": "Al Wahat",
+    "keyAccentLanguage": "al_wahat"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 32.1194242,
+      "lng": 20.0867909
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Urubah",
+        "location": {
+          "lat": 32.1414774,
+          "lng": 20.1194129
+        },
+        "keyAccentLanguage": "al_urubah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Benghazi",
+        "location": {
+          "lat": 32.1194242,
+          "lng": 20.0867909
+        },
+        "keyAccentLanguage": "benghazi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Qawarishah",
+        "location": {
+          "lat": 32.032532,
+          "lng": 20.0625709
+        },
+        "keyAccentLanguage": "al_qawarishah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al `Izziyat",
+        "location": {
+          "lat": 32.1194242,
+          "lng": 20.0867909
+        },
+        "keyAccentLanguage": "al_`izziyat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Ghaddarah",
+        "location": {
+          "lat": 31.807778,
+          "lng": 20.056111
+        },
+        "keyAccentLanguage": "al_ghaddarah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al `Urubah",
+        "location": {
+          "lat": 32.1414774,
+          "lng": 20.1194129
+        },
+        "keyAccentLanguage": "al_`urubah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Birkah",
+        "location": {
+          "lat": 32.0716688,
+          "lng": 20.1134569
+        },
+        "keyAccentLanguage": "al_birkah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Magrun",
+        "location": {
+          "lat": 31.4376868,
+          "lng": 20.1491937
+        },
+        "keyAccentLanguage": "al_magrun"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hishan al `Arabat",
+        "location": {
+          "lat": 32.283333,
+          "lng": 20.2333329
+        },
+        "keyAccentLanguage": "hishan_al_`arabat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Qadhadhimah",
+        "location": {
+          "lat": 31.633333,
+          "lng": 20.133333
+        },
+        "keyAccentLanguage": "al_qadhadhimah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat Qunfudhah",
+        "location": {
+          "lat": 32.1194242,
+          "lng": 20.0867909
+        },
+        "keyAccentLanguage": "qaryat_qunfudhah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baninah",
+        "location": {
+          "lat": 32.09166,
+          "lng": 20.246889
+        },
+        "keyAccentLanguage": "baninah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "As Saq`abi",
+        "location": {
+          "lat": 32.1194242,
+          "lng": 20.0867909
+        },
+        "keyAccentLanguage": "as_saq`abi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "As Sabiri",
+        "location": {
+          "lat": 32.1194242,
+          "lng": 20.0867909
+        },
+        "keyAccentLanguage": "as_sabiri"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hawsh Warid",
+        "location": {
+          "lat": 32.1194242,
+          "lng": 20.0867909
+        },
+        "keyAccentLanguage": "hawsh_warid"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Karmah",
+        "location": {
+          "lat": 31.97,
+          "lng": 19.98
+        },
+        "keyAccentLanguage": "al_karmah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hishan `A'ilat Baqi",
+        "location": {
+          "lat": 32.1194242,
+          "lng": 20.0867909
+        },
+        "keyAccentLanguage": "hishan_`a'ilat_baqi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Daryanah",
+        "location": {
+          "lat": 32.3482898,
+          "lng": 20.3139489
+        },
+        "keyAccentLanguage": "daryanah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kamb al `Ajjaj",
+        "location": {
+          "lat": 32.1194242,
+          "lng": 20.0867909
+        },
+        "keyAccentLanguage": "kamb_al_`ajjaj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "At Taribjah",
+        "location": {
+          "lat": 31.883333,
+          "lng": 19.95
+        },
+        "keyAccentLanguage": "at_taribjah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat Abu al Ahnash",
+        "location": {
+          "lat": 32.1194242,
+          "lng": 20.0867909
+        },
+        "keyAccentLanguage": "qaryat_abu_al_ahnash"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dakakin Hamid",
+        "location": {
+          "lat": 32.1194242,
+          "lng": 20.0867909
+        },
+        "keyAccentLanguage": "dakakin_hamid"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Garden City",
+        "location": {
+          "lat": 32.1194242,
+          "lng": 20.0867909
+        },
+        "keyAccentLanguage": "garden_city"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Mabni",
+        "location": {
+          "lat": 32.462959,
+          "lng": 20.48678
+        },
+        "keyAccentLanguage": "al_mabni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "An Nawwaqiyah",
+        "location": {
+          "lat": 31.934191,
+          "lng": 20.16712
+        },
+        "keyAccentLanguage": "an_nawwaqiyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat Qasr al `Ajuz",
+        "location": {
+          "lat": 32.1194242,
+          "lng": 20.0867909
+        },
+        "keyAccentLanguage": "qaryat_qasr_al_`ajuz"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mintaqat al Lathamah",
+        "location": {
+          "lat": 32.1194242,
+          "lng": 20.0867909
+        },
+        "keyAccentLanguage": "mintaqat_al_lathamah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hawsh Barji",
+        "location": {
+          "lat": 32.1194242,
+          "lng": 20.0867909
+        },
+        "keyAccentLanguage": "hawsh_barji"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sawani al Qawarishah",
+        "location": {
+          "lat": 31.98559,
+          "lng": 20.078951
+        },
+        "keyAccentLanguage": "sawani_al_qawarishah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat al Halibiyah",
+        "location": {
+          "lat": 32.1194242,
+          "lng": 20.0867909
+        },
+        "keyAccentLanguage": "qaryat_al_halibiyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jaruthah",
+        "location": {
+          "lat": 32.1194242,
+          "lng": 20.0867909
+        },
+        "keyAccentLanguage": "jaruthah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat Bu Fakhirah",
+        "location": {
+          "lat": 32.1194242,
+          "lng": 20.0867909
+        },
+        "keyAccentLanguage": "qaryat_bu_fakhirah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hishan al `Aryat",
+        "location": {
+          "lat": 32.1194242,
+          "lng": 20.0867909
+        },
+        "keyAccentLanguage": "hishan_al_`aryat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Fuwayhat",
+        "location": {
+          "lat": 32.08000000000001,
+          "lng": 20.1
+        },
+        "keyAccentLanguage": "al_fuwayhat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tukrah",
+        "location": {
+          "lat": 32.1194242,
+          "lng": 20.0867909
+        },
+        "keyAccentLanguage": "tukrah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Suluq",
+        "location": {
+          "lat": 31.6774341,
+          "lng": 20.2713072
+        },
+        "keyAccentLanguage": "suluq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ri'asat Difa` Barqah",
+        "location": {
+          "lat": 32.1194242,
+          "lng": 20.0867909
+        },
+        "keyAccentLanguage": "ri'asat_difa`_barqah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Kuwayfiyah",
+        "location": {
+          "lat": 32.201127,
+          "lng": 20.170041
+        },
+        "keyAccentLanguage": "al_kuwayfiyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat al Majaris",
+        "location": {
+          "lat": 32.1194242,
+          "lng": 20.0867909
+        },
+        "keyAccentLanguage": "qaryat_al_majaris"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kurkurah",
+        "location": {
+          "lat": 32.1194242,
+          "lng": 20.0867909
+        },
+        "keyAccentLanguage": "kurkurah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaminis",
+        "location": {
+          "lat": 31.661538,
+          "lng": 20.0181673
+        },
+        "keyAccentLanguage": "qaminis"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Khishan al Budur",
+        "location": {
+          "lat": 32.1194242,
+          "lng": 20.0867909
+        },
+        "keyAccentLanguage": "khishan_al_budur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tikah",
+        "location": {
+          "lat": 31.946289,
+          "lng": 20.0252209
+        },
+        "keyAccentLanguage": "tikah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antalat",
+        "location": {
+          "lat": 32.1194242,
+          "lng": 20.0867909
+        },
+        "keyAccentLanguage": "antalat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Maqarin",
+        "location": {
+          "lat": 32.15,
+          "lng": 20.133333
+        },
+        "keyAccentLanguage": "al_maqarin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`A'ilat Lamwis",
+        "location": {
+          "lat": 32.1194242,
+          "lng": 20.0867909
+        },
+        "keyAccentLanguage": "`a'ilat_lamwis"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qasr al `Urayyid",
+        "location": {
+          "lat": 32.1194242,
+          "lng": 20.0867909
+        },
+        "keyAccentLanguage": "qasr_al_`urayyid"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat al Barakat",
+        "location": {
+          "lat": 31.76,
+          "lng": 20.03
+        },
+        "keyAccentLanguage": "qaryat_al_barakat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat al Malihah",
+        "location": {
+          "lat": 32.1194242,
+          "lng": 20.0867909
+        },
+        "keyAccentLanguage": "qaryat_al_malihah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dar al Kish",
+        "location": {
+          "lat": 32.0832984,
+          "lng": 20.0689445
+        },
+        "keyAccentLanguage": "dar_al_kish"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Madrasat Thalath",
+        "location": {
+          "lat": 31.13327,
+          "lng": 20.6028309
+        },
+        "keyAccentLanguage": "madrasat_thalath"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tansulukh",
+        "location": {
+          "lat": 32.383333,
+          "lng": 20.366667
+        },
+        "keyAccentLanguage": "tansulukh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jardinah",
+        "location": {
+          "lat": 31.80324,
+          "lng": 20.204639
+        },
+        "keyAccentLanguage": "jardinah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Furti ash Shalizinah",
+        "location": {
+          "lat": 31.552589,
+          "lng": 20.53603
+        },
+        "keyAccentLanguage": "furti_ash_shalizinah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat Qaryunis",
+        "location": {
+          "lat": 32.0222153,
+          "lng": 20.0330554
+        },
+        "keyAccentLanguage": "qaryat_qaryunis"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat al `Unayzi",
+        "location": {
+          "lat": 26.090731,
+          "lng": 43.9875457
+        },
+        "keyAccentLanguage": "qaryat_al_`unayzi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mantiqat al Lathamah",
+        "location": {
+          "lat": 32.1194242,
+          "lng": 20.0867909
+        },
+        "keyAccentLanguage": "mantiqat_al_lathamah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat Umm as Safa'",
+        "location": {
+          "lat": 31.840278,
+          "lng": 20.1075
+        },
+        "keyAccentLanguage": "qaryat_umm_as_safa'"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hawsh ash Shuwayyim",
+        "location": {
+          "lat": 32.1194242,
+          "lng": 20.0867909
+        },
+        "keyAccentLanguage": "hawsh_ash_shuwayyim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat Umm ad Dananir",
+        "location": {
+          "lat": 32.1194242,
+          "lng": 20.0867909
+        },
+        "keyAccentLanguage": "qaryat_umm_ad_dananir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Manazil Miftah al Kara`iyah",
+        "location": {
+          "lat": 32.1194242,
+          "lng": 20.0867909
+        },
+        "keyAccentLanguage": "manazil_miftah_al_kara`iyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Madrasat ar Raqtah",
+        "location": {
+          "lat": 31.2703,
+          "lng": 20.149269
+        },
+        "keyAccentLanguage": "madrasat_ar_raqtah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zawiyat at Tilimun",
+        "location": {
+          "lat": 31.592159,
+          "lng": 20.172621
+        },
+        "keyAccentLanguage": "zawiyat_at_tilimun"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sidi Khalifah",
+        "location": {
+          "lat": 32.2384587,
+          "lng": 20.1908889
+        },
+        "keyAccentLanguage": "sidi_khalifah"
+      }
+    ],
+    "enNameLanguage": "Benghazi",
+    "keyAccentLanguage": "benghazi"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 29.7579854,
+      "lng": 23.7632828
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tobruk",
+        "location": {
+          "lat": 32.0779073,
+          "lng": 23.9407138
+        },
+        "keyAccentLanguage": "tobruk"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zawiyat Zanzur",
+        "location": {
+          "lat": 31.966667,
+          "lng": 24.75
+        },
+        "keyAccentLanguage": "zawiyat_zanzur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Burdi",
+        "location": {
+          "lat": 29.7579854,
+          "lng": 23.7632828
+        },
+        "keyAccentLanguage": "al_burdi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Az Zawiyah",
+        "location": {
+          "lat": 31.983333,
+          "lng": 24.666667
+        },
+        "keyAccentLanguage": "az_zawiyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bi'r al Ashhab",
+        "location": {
+          "lat": 31.8848979,
+          "lng": 24.6608562
+        },
+        "keyAccentLanguage": "bi'r_al_ashhab"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat al `Imamah",
+        "location": {
+          "lat": 29.7579854,
+          "lng": 23.7632828
+        },
+        "keyAccentLanguage": "qaryat_al_`imamah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Musaid",
+        "location": {
+          "lat": 31.605101,
+          "lng": 25.04965
+        },
+        "keyAccentLanguage": "musaid"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Suq al `Ajaj",
+        "location": {
+          "lat": 29.7579854,
+          "lng": 23.7632828
+        },
+        "keyAccentLanguage": "suq_al_`ajaj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Ashhab",
+        "location": {
+          "lat": 31.883333,
+          "lng": 24.65
+        },
+        "keyAccentLanguage": "al_ashhab"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qasr al Jady",
+        "location": {
+          "lat": 31.8505383,
+          "lng": 24.7884949
+        },
+        "keyAccentLanguage": "qasr_al_jady"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat Maqrun",
+        "location": {
+          "lat": 32.116667,
+          "lng": 23.833333
+        },
+        "keyAccentLanguage": "qaryat_maqrun"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Madinat Bayad",
+        "location": {
+          "lat": 32.016667,
+          "lng": 23.9833329
+        },
+        "keyAccentLanguage": "madinat_bayad"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Jaghbub",
+        "location": {
+          "lat": 29.7417348,
+          "lng": 24.5168391
+        },
+        "keyAccentLanguage": "al_jaghbub"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nuqtat al Khattabiyah",
+        "location": {
+          "lat": 29.7579854,
+          "lng": 23.7632828
+        },
+        "keyAccentLanguage": "nuqtat_al_khattabiyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Adam",
+        "location": {
+          "lat": 31.85869739999999,
+          "lng": 23.9179589
+        },
+        "keyAccentLanguage": "al_adam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kambut",
+        "location": {
+          "lat": 31.9021432,
+          "lng": 24.485653
+        },
+        "keyAccentLanguage": "kambut"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bardiyah",
+        "location": {
+          "lat": 31.7579946,
+          "lng": 25.0792189
+        },
+        "keyAccentLanguage": "bardiyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al `Adam",
+        "location": {
+          "lat": 31.85869739999999,
+          "lng": 23.9179589
+        },
+        "keyAccentLanguage": "al_`adam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zawiyat al Manastir",
+        "location": {
+          "lat": 31.8,
+          "lng": 24.933333
+        },
+        "keyAccentLanguage": "zawiyat_al_manastir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zawiyat Umm Rukbah",
+        "location": {
+          "lat": 31.9371512,
+          "lng": 24.9776421
+        },
+        "keyAccentLanguage": "zawiyat_umm_rukbah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zawiyat al Murassas",
+        "location": {
+          "lat": 32.128101,
+          "lng": 23.668159
+        },
+        "keyAccentLanguage": "zawiyat_al_murassas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Qardabah",
+        "location": {
+          "lat": 32.1389875,
+          "lng": 23.4820745
+        },
+        "keyAccentLanguage": "al_qardabah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat `Ayt Zaydan",
+        "location": {
+          "lat": 32.1,
+          "lng": 23.9
+        },
+        "keyAccentLanguage": "qaryat_`ayt_zaydan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Qa`rah",
+        "location": {
+          "lat": 31.9493726,
+          "lng": 24.200412
+        },
+        "keyAccentLanguage": "al_qa`rah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`Akramah",
+        "location": {
+          "lat": 32.033,
+          "lng": 23.683
+        },
+        "keyAccentLanguage": "`akramah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat at Tayrah",
+        "location": {
+          "lat": 32.063,
+          "lng": 23.984
+        },
+        "keyAccentLanguage": "qaryat_at_tayrah"
+      }
+    ],
+    "enNameLanguage": "Butnan",
+    "keyAccentLanguage": "butnan"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 32.755613,
+      "lng": 22.6377432
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Qubbah",
+        "location": {
+          "lat": 32.7674911,
+          "lng": 22.2324406
+        },
+        "keyAccentLanguage": "al_qubbah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Abraq",
+        "location": {
+          "lat": 32.7846492,
+          "lng": 22.0011339
+        },
+        "keyAccentLanguage": "al_abraq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Derna",
+        "location": {
+          "lat": 32.7582618,
+          "lng": 22.649677
+        },
+        "keyAccentLanguage": "derna"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zawiyat Bisharah",
+        "location": {
+          "lat": 32.7582618,
+          "lng": 22.649677
+        },
+        "keyAccentLanguage": "zawiyat_bisharah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Fajir",
+        "location": {
+          "lat": 32.7582618,
+          "lng": 22.649677
+        },
+        "keyAccentLanguage": "al_fajir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bamba",
+        "location": {
+          "lat": 32.7582618,
+          "lng": 22.649677
+        },
+        "keyAccentLanguage": "bamba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "At Tamimi",
+        "location": {
+          "lat": 32.3331143,
+          "lng": 23.0548108
+        },
+        "keyAccentLanguage": "at_tamimi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sidi Abbas",
+        "location": {
+          "lat": 32.7582618,
+          "lng": 22.649677
+        },
+        "keyAccentLanguage": "sidi_abbas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ra's al Hilal",
+        "location": {
+          "lat": 32.883027,
+          "lng": 22.1802799
+        },
+        "keyAccentLanguage": "ra's_al_hilal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Athrun",
+        "location": {
+          "lat": 32.8668224,
+          "lng": 22.2816193
+        },
+        "keyAccentLanguage": "al_athrun"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zawiyat al `Izziyat",
+        "location": {
+          "lat": 32.2476396,
+          "lng": 22.6647406
+        },
+        "keyAccentLanguage": "zawiyat_al_`izziyat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zawiyat al Izziyat",
+        "location": {
+          "lat": 32.2476396,
+          "lng": 22.6647406
+        },
+        "keyAccentLanguage": "zawiyat_al_izziyat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zawiyat al Habib",
+        "location": {
+          "lat": 32.7582618,
+          "lng": 22.649677
+        },
+        "keyAccentLanguage": "zawiyat_al_habib"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zahrah",
+        "location": {
+          "lat": 47.20330939999999,
+          "lng": 22.3124842
+        },
+        "keyAccentLanguage": "zahrah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Qayqab",
+        "location": {
+          "lat": 32.733333,
+          "lng": 22.016667
+        },
+        "keyAccentLanguage": "al_qayqab"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`Ayn Marrah",
+        "location": {
+          "lat": 32.7599879,
+          "lng": 22.387423
+        },
+        "keyAccentLanguage": "`ayn_marrah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zawiyat at Tart",
+        "location": {
+          "lat": 32.8,
+          "lng": 22.066667
+        },
+        "keyAccentLanguage": "zawiyat_at_tart"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bir Bu Abid",
+        "location": {
+          "lat": 32.7582618,
+          "lng": 22.649677
+        },
+        "keyAccentLanguage": "bir_bu_abid"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qusur al Bumbah",
+        "location": {
+          "lat": 32.7582618,
+          "lng": 22.649677
+        },
+        "keyAccentLanguage": "qusur_al_bumbah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Umm ar Rizam",
+        "location": {
+          "lat": 32.5343886,
+          "lng": 23.0013931
+        },
+        "keyAccentLanguage": "umm_ar_rizam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kuhuf Bu Qalbut",
+        "location": {
+          "lat": 32.7582618,
+          "lng": 22.649677
+        },
+        "keyAccentLanguage": "kuhuf_bu_qalbut"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Mukhayli",
+        "location": {
+          "lat": 32.7582618,
+          "lng": 22.649677
+        },
+        "keyAccentLanguage": "al_mukhayli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lamludah",
+        "location": {
+          "lat": 32.7582618,
+          "lng": 22.649677
+        },
+        "keyAccentLanguage": "lamludah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bu ath Thamir",
+        "location": {
+          "lat": 32.7582618,
+          "lng": 22.649677
+        },
+        "keyAccentLanguage": "bu_ath_thamir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Martubah",
+        "location": {
+          "lat": 32.577648,
+          "lng": 22.76326
+        },
+        "keyAccentLanguage": "martubah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zawiyat al Mukhayla",
+        "location": {
+          "lat": 32.16058,
+          "lng": 22.283899
+        },
+        "keyAccentLanguage": "zawiyat_al_mukhayla"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zawiyat Umm Hufayn",
+        "location": {
+          "lat": 32.566667,
+          "lng": 23.083333
+        },
+        "keyAccentLanguage": "zawiyat_umm_hufayn"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Karsah",
+        "location": {
+          "lat": 32.85,
+          "lng": 22.417
+        },
+        "keyAccentLanguage": "karsah"
+      }
+    ],
+    "enNameLanguage": "Derna",
+    "keyAccentLanguage": "derna"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 24.964,
+      "lng": 10.168
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Birkah",
+        "location": {
+          "lat": 26.4681671,
+          "lng": 41.1048991
+        },
+        "keyAccentLanguage": "al_birkah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sardalas",
+        "location": {
+          "lat": 25.7686362,
+          "lng": 10.5577407
+        },
+        "keyAccentLanguage": "sardalas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ghat",
+        "location": {
+          "lat": 24.964,
+          "lng": 10.168
+        },
+        "keyAccentLanguage": "ghat"
+      }
+    ],
+    "enNameLanguage": "Ghat",
+    "keyAccentLanguage": "ghat"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 23.1856081,
+      "lng": 57.3713879
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ra's al Hamamah",
+        "location": {
+          "lat": 32.92,
+          "lng": 21.64
+        },
+        "keyAccentLanguage": "ra's_al_hamamah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Marawah",
+        "location": {
+          "lat": 32.4846379,
+          "lng": 21.4067217
+        },
+        "keyAccentLanguage": "marawah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qirnadah",
+        "location": {
+          "lat": 23.1856081,
+          "lng": 57.3713879
+        },
+        "keyAccentLanguage": "qirnadah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Shahhat",
+        "location": {
+          "lat": 32.8035826,
+          "lng": 21.8621694
+        },
+        "keyAccentLanguage": "shahhat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zawiyat al `Urqub",
+        "location": {
+          "lat": 32.833333,
+          "lng": 21.6
+        },
+        "keyAccentLanguage": "zawiyat_al_`urqub"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`Umar al Mukhtar",
+        "location": {
+          "lat": 32.6306052,
+          "lng": 21.6750157
+        },
+        "keyAccentLanguage": "`umar_al_mukhtar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Khadra'",
+        "location": {
+          "lat": 32.55,
+          "lng": 21.783333
+        },
+        "keyAccentLanguage": "khadra'"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Massah",
+        "location": {
+          "lat": 32.7521814,
+          "lng": 21.6273187
+        },
+        "keyAccentLanguage": "massah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat `Umar al Mukhtar",
+        "location": {
+          "lat": 32.6306052,
+          "lng": 21.6750157
+        },
+        "keyAccentLanguage": "qaryat_`umar_al_mukhtar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Suluntah",
+        "location": {
+          "lat": 32.5907722,
+          "lng": 21.7167504
+        },
+        "keyAccentLanguage": "suluntah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Fa'idiyah",
+        "location": {
+          "lat": 23.1856081,
+          "lng": 57.3713879
+        },
+        "keyAccentLanguage": "al_fa'idiyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qandulah",
+        "location": {
+          "lat": 23.1856081,
+          "lng": 57.3713879
+        },
+        "keyAccentLanguage": "qandulah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "At Taban",
+        "location": {
+          "lat": 32.2,
+          "lng": 21.533333
+        },
+        "keyAccentLanguage": "at_taban"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Susah",
+        "location": {
+          "lat": 32.8953986,
+          "lng": 21.9611919
+        },
+        "keyAccentLanguage": "susah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kaf Miyas",
+        "location": {
+          "lat": 32.4032332,
+          "lng": 21.6660725
+        },
+        "keyAccentLanguage": "kaf_miyas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bayda",
+        "location": {
+          "lat": 32.7595464,
+          "lng": 21.7502926
+        },
+        "keyAccentLanguage": "bayda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kuhuf Tuhudiyah",
+        "location": {
+          "lat": 32.4032332,
+          "lng": 21.6660725
+        },
+        "keyAccentLanguage": "kuhuf_tuhudiyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ahqaf al Jabhiyah",
+        "location": {
+          "lat": 32.72,
+          "lng": 21.72
+        },
+        "keyAccentLanguage": "ahqaf_al_jabhiyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Haniyah",
+        "location": {
+          "lat": 32.8397788,
+          "lng": 21.5214912
+        },
+        "keyAccentLanguage": "al_haniyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "As Safsaf",
+        "location": {
+          "lat": 32.778591,
+          "lng": 21.955271
+        },
+        "keyAccentLanguage": "as_safsaf"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ahqaf al Jabbarat",
+        "location": {
+          "lat": 32.4032332,
+          "lng": 21.6660725
+        },
+        "keyAccentLanguage": "ahqaf_al_jabbarat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mansurah",
+        "location": {
+          "lat": 32.833,
+          "lng": 21.85
+        },
+        "keyAccentLanguage": "mansurah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ahqaf ar Ruzat",
+        "location": {
+          "lat": 32.832,
+          "lng": 21.904
+        },
+        "keyAccentLanguage": "ahqaf_ar_ruzat"
+      }
+    ],
+    "enNameLanguage": "Jabal al Akhdar",
+    "keyAccentLanguage": "jabal_al_akhdar"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 34.3588889,
+      "lng": 36.3594444
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al `Urban",
+        "location": {
+          "lat": 32.1668693,
+          "lng": 13.1533625
+        },
+        "keyAccentLanguage": "al_`urban"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al La`aqib",
+        "location": {
+          "lat": 30.26380319999999,
+          "lng": 12.8054753
+        },
+        "keyAccentLanguage": "al_la`aqib"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Buhur",
+        "location": {
+          "lat": 30.26380319999999,
+          "lng": 12.8054753
+        },
+        "keyAccentLanguage": "al_buhur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abu Ghaylan",
+        "location": {
+          "lat": 34.3588889,
+          "lng": 36.3594444
+        },
+        "keyAccentLanguage": "abu_ghaylan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Bakhabikhah",
+        "location": {
+          "lat": 34.3588889,
+          "lng": 36.3594444
+        },
+        "keyAccentLanguage": "al_bakhabikhah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Barahimah",
+        "location": {
+          "lat": 30.26380319999999,
+          "lng": 12.8054753
+        },
+        "keyAccentLanguage": "al_barahimah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Dayasir",
+        "location": {
+          "lat": 30.26380319999999,
+          "lng": 12.8054753
+        },
+        "keyAccentLanguage": "ad_dayasir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Qahasat",
+        "location": {
+          "lat": 30.26380319999999,
+          "lng": 12.8054753
+        },
+        "keyAccentLanguage": "al_qahasat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al `Alawinah",
+        "location": {
+          "lat": 30.26380319999999,
+          "lng": 12.8054753
+        },
+        "keyAccentLanguage": "al_`alawinah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al `Urqub",
+        "location": {
+          "lat": 31.95,
+          "lng": 12.216667
+        },
+        "keyAccentLanguage": "al_`urqub"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Masufiyin",
+        "location": {
+          "lat": 34.3588889,
+          "lng": 36.3594444
+        },
+        "keyAccentLanguage": "al_masufiyin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Lamamish",
+        "location": {
+          "lat": 34.3588889,
+          "lng": 36.3594444
+        },
+        "keyAccentLanguage": "al_lamamish"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Hajarah",
+        "location": {
+          "lat": 34.3588889,
+          "lng": 36.3594444
+        },
+        "keyAccentLanguage": "al_hajarah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Ya`aqib",
+        "location": {
+          "lat": 30.26380319999999,
+          "lng": 12.8054753
+        },
+        "keyAccentLanguage": "al_ya`aqib"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Kulaybah",
+        "location": {
+          "lat": 32.0475,
+          "lng": 13.0038889
+        },
+        "keyAccentLanguage": "al_kulaybah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Kashalifah",
+        "location": {
+          "lat": 34.3588889,
+          "lng": 36.3594444
+        },
+        "keyAccentLanguage": "al_kashalifah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Awlad `Abd al Jalil",
+        "location": {
+          "lat": 30.26380319999999,
+          "lng": 12.8054753
+        },
+        "keyAccentLanguage": "awlad_`abd_al_jalil"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ar Rumiyah",
+        "location": {
+          "lat": 30.26380319999999,
+          "lng": 12.8054753
+        },
+        "keyAccentLanguage": "ar_rumiyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al `Ubayyat",
+        "location": {
+          "lat": 34.3588889,
+          "lng": 36.3594444
+        },
+        "keyAccentLanguage": "al_`ubayyat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Mashwashin",
+        "location": {
+          "lat": 34.3588889,
+          "lng": 36.3594444
+        },
+        "keyAccentLanguage": "al_mashwashin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "An Nakhlayn",
+        "location": {
+          "lat": 34.3588889,
+          "lng": 36.3594444
+        },
+        "keyAccentLanguage": "an_nakhlayn"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ash Shabari",
+        "location": {
+          "lat": 34.3588889,
+          "lng": 36.3594444
+        },
+        "keyAccentLanguage": "ash_shabari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Qawasim",
+        "location": {
+          "lat": 32.2108579,
+          "lng": 13.0401343
+        },
+        "keyAccentLanguage": "al_qawasim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Juhaysh",
+        "location": {
+          "lat": 34.3588889,
+          "lng": 36.3594444
+        },
+        "keyAccentLanguage": "al_juhaysh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jinawin",
+        "location": {
+          "lat": 34.3588889,
+          "lng": 36.3594444
+        },
+        "keyAccentLanguage": "jinawin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ahl al Wadi",
+        "location": {
+          "lat": 32.005,
+          "lng": 12.471389
+        },
+        "keyAccentLanguage": "ahl_al_wadi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abu Zayyan",
+        "location": {
+          "lat": 32.100355,
+          "lng": 12.9809772
+        },
+        "keyAccentLanguage": "abu_zayyan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Asabi`ah",
+        "location": {
+          "lat": 32.033333,
+          "lng": 12.866667
+        },
+        "keyAccentLanguage": "al_asabi`ah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Qusayr",
+        "location": {
+          "lat": 31.966667,
+          "lng": 12.016667
+        },
+        "keyAccentLanguage": "al_qusayr"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ash Shuwayrif",
+        "location": {
+          "lat": 30.26380319999999,
+          "lng": 12.8054753
+        },
+        "keyAccentLanguage": "ash_shuwayrif"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anzu",
+        "location": {
+          "lat": 34.3588889,
+          "lng": 36.3594444
+        },
+        "keyAccentLanguage": "anzu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ar Rujban",
+        "location": {
+          "lat": 34.3588889,
+          "lng": 36.3594444
+        },
+        "keyAccentLanguage": "ar_rujban"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Ma`murah",
+        "location": {
+          "lat": 30.26380319999999,
+          "lng": 12.8054753
+        },
+        "keyAccentLanguage": "al_ma`murah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Quradiyin",
+        "location": {
+          "lat": 34.3588889,
+          "lng": 36.3594444
+        },
+        "keyAccentLanguage": "al_quradiyin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Urqub",
+        "location": {
+          "lat": 31.95,
+          "lng": 12.216667
+        },
+        "keyAccentLanguage": "al_urqub"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amzir",
+        "location": {
+          "lat": 34.3588889,
+          "lng": 36.3594444
+        },
+        "keyAccentLanguage": "amzir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ar Rabitah",
+        "location": {
+          "lat": 30.26380319999999,
+          "lng": 12.8054753
+        },
+        "keyAccentLanguage": "ar_rabitah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ash Shaqqi",
+        "location": {
+          "lat": 32,
+          "lng": 12.083333
+        },
+        "keyAccentLanguage": "ash_shaqqi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Khazur",
+        "location": {
+          "lat": 32.09,
+          "lng": 12.6199999
+        },
+        "keyAccentLanguage": "al_khazur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Qabil",
+        "location": {
+          "lat": 30.26380319999999,
+          "lng": 12.8054753
+        },
+        "keyAccentLanguage": "al_qabil"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`Uwaynat Wanin",
+        "location": {
+          "lat": 28.5,
+          "lng": 12.7
+        },
+        "keyAccentLanguage": "`uwaynat_wanin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Qawati",
+        "location": {
+          "lat": 34.3588889,
+          "lng": 36.3594444
+        },
+        "keyAccentLanguage": "al_qawati"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "As Saqa'if",
+        "location": {
+          "lat": 34.3588889,
+          "lng": 36.3594444
+        },
+        "keyAccentLanguage": "as_saqa'if"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "At Tala'i`iyah",
+        "location": {
+          "lat": 34.3588889,
+          "lng": 36.3594444
+        },
+        "keyAccentLanguage": "at_tala'i`iyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tabaqah",
+        "location": {
+          "lat": 30.43333299999999,
+          "lng": 13.316667
+        },
+        "keyAccentLanguage": "tabaqah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "As Sawa`idiyah",
+        "location": {
+          "lat": 30.26380319999999,
+          "lng": 12.8054753
+        },
+        "keyAccentLanguage": "as_sawa`idiyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Awlad Jarbu`",
+        "location": {
+          "lat": 34.3588889,
+          "lng": 36.3594444
+        },
+        "keyAccentLanguage": "awlad_jarbu`"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "An Naqur",
+        "location": {
+          "lat": 30.26380319999999,
+          "lng": 12.8054753
+        },
+        "keyAccentLanguage": "an_naqur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Awlad Hamad",
+        "location": {
+          "lat": 30.26380319999999,
+          "lng": 12.8054753
+        },
+        "keyAccentLanguage": "awlad_hamad"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Wifat",
+        "location": {
+          "lat": 34.3588889,
+          "lng": 36.3594444
+        },
+        "keyAccentLanguage": "wifat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Qaryah ash Sharqiyah",
+        "location": {
+          "lat": 30.4,
+          "lng": 13.6
+        },
+        "keyAccentLanguage": "al_qaryah_ash_sharqiyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ar Ruhaybat",
+        "location": {
+          "lat": 34.3588889,
+          "lng": 36.3594444
+        },
+        "keyAccentLanguage": "ar_ruhaybat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Ja`afirah",
+        "location": {
+          "lat": 30.26380319999999,
+          "lng": 12.8054753
+        },
+        "keyAccentLanguage": "al_ja`afirah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Awlad `Abd ad Da'im",
+        "location": {
+          "lat": 30.26380319999999,
+          "lng": 12.8054753
+        },
+        "keyAccentLanguage": "awlad_`abd_ad_da'im"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat Jital",
+        "location": {
+          "lat": 30.3824128,
+          "lng": 13.5841871
+        },
+        "keyAccentLanguage": "qaryat_jital"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Fawadil",
+        "location": {
+          "lat": 32.08000000000001,
+          "lng": 12.3
+        },
+        "keyAccentLanguage": "al_fawadil"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "As Salahat",
+        "location": {
+          "lat": 31.0033946,
+          "lng": 31.6264255
+        },
+        "keyAccentLanguage": "as_salahat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Awlad `Azzam",
+        "location": {
+          "lat": 32.1474174,
+          "lng": 13.0047328
+        },
+        "keyAccentLanguage": "awlad_`azzam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Awlad `Isa",
+        "location": {
+          "lat": 30.26380319999999,
+          "lng": 12.8054753
+        },
+        "keyAccentLanguage": "awlad_`isa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Wadi Fassanu",
+        "location": {
+          "lat": 34.3588889,
+          "lng": 36.3594444
+        },
+        "keyAccentLanguage": "wadi_fassanu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Awlad Jabir",
+        "location": {
+          "lat": 31.9483007,
+          "lng": 12.1546957
+        },
+        "keyAccentLanguage": "awlad_jabir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Bayatinah",
+        "location": {
+          "lat": 32.008889,
+          "lng": 12.550278
+        },
+        "keyAccentLanguage": "al_bayatinah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Scecsciuch",
+        "location": {
+          "lat": 34.3588889,
+          "lng": 36.3594444
+        },
+        "keyAccentLanguage": "scecsciuch"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gharyan",
+        "location": {
+          "lat": 32.1712038,
+          "lng": 13.0209924
+        },
+        "keyAccentLanguage": "gharyan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Qal`ah",
+        "location": {
+          "lat": 24.5007093,
+          "lng": 39.6442459
+        },
+        "keyAccentLanguage": "al_qal`ah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Manasir",
+        "location": {
+          "lat": 32.162289,
+          "lng": 12.83647
+        },
+        "keyAccentLanguage": "al_manasir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baldat Ad Duwayb",
+        "location": {
+          "lat": 30.26380319999999,
+          "lng": 12.8054753
+        },
+        "keyAccentLanguage": "baldat_ad_duwayb"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Awlad Bin Ya`qub",
+        "location": {
+          "lat": 34.3588889,
+          "lng": 36.3594444
+        },
+        "keyAccentLanguage": "awlad_bin_ya`qub"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Qaryat al Gharbiyah",
+        "location": {
+          "lat": 30.26380319999999,
+          "lng": 12.8054753
+        },
+        "keyAccentLanguage": "al_qaryat_al_gharbiyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Awlad `Abd al Mawla",
+        "location": {
+          "lat": 30.26380319999999,
+          "lng": 12.8054753
+        },
+        "keyAccentLanguage": "awlad_`abd_al_mawla"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Awlad Badr",
+        "location": {
+          "lat": 32.016667,
+          "lng": 11.966667
+        },
+        "keyAccentLanguage": "awlad_badr"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Awlad Bu Ra's",
+        "location": {
+          "lat": 30.26380319999999,
+          "lng": 12.8054753
+        },
+        "keyAccentLanguage": "awlad_bu_ra's"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Awlad Bu Jadid",
+        "location": {
+          "lat": 31.874722,
+          "lng": 11.8866669
+        },
+        "keyAccentLanguage": "awlad_bu_jadid"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "As Sawadinah",
+        "location": {
+          "lat": 32.033333,
+          "lng": 12.666667
+        },
+        "keyAccentLanguage": "as_sawadinah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mizdah",
+        "location": {
+          "lat": 31.4478222,
+          "lng": 12.9838564
+        },
+        "keyAccentLanguage": "mizdah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Awlad `Ali",
+        "location": {
+          "lat": 32.01,
+          "lng": 12.3699999
+        },
+        "keyAccentLanguage": "awlad_`ali"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Magharibah",
+        "location": {
+          "lat": 13.8287565,
+          "lng": 43.9698986
+        },
+        "keyAccentLanguage": "al_magharibah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bu Gheilan",
+        "location": {
+          "lat": 32.2561158,
+          "lng": 13.0385745
+        },
+        "keyAccentLanguage": "bu_gheilan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Az Zintan",
+        "location": {
+          "lat": 31.9319302,
+          "lng": 12.2524169
+        },
+        "keyAccentLanguage": "az_zintan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Awlad `Abd al `Aziz `Inan",
+        "location": {
+          "lat": 32.003611,
+          "lng": 12.315
+        },
+        "keyAccentLanguage": "awlad_`abd_al_`aziz_`inan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Yafran",
+        "location": {
+          "lat": 32.053558,
+          "lng": 12.5355393
+        },
+        "keyAccentLanguage": "yafran"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Awlad `Ali Bu al Qasim",
+        "location": {
+          "lat": 32.01,
+          "lng": 12.3699999
+        },
+        "keyAccentLanguage": "awlad_`ali_bu_al_qasim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Awlad `Atiyah",
+        "location": {
+          "lat": 31.936543,
+          "lng": 12.1604131
+        },
+        "keyAccentLanguage": "awlad_`atiyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ar Rayayinah",
+        "location": {
+          "lat": 31.0092384,
+          "lng": 30.95285
+        },
+        "keyAccentLanguage": "ar_rayayinah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Awlad `Inan",
+        "location": {
+          "lat": 30.26380319999999,
+          "lng": 12.8054753
+        },
+        "keyAccentLanguage": "awlad_`inan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Qanafidh",
+        "location": {
+          "lat": 31.841944,
+          "lng": 11.831944
+        },
+        "keyAccentLanguage": "al_qanafidh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bir at Tishlyah",
+        "location": {
+          "lat": 34.3588889,
+          "lng": 36.3594444
+        },
+        "keyAccentLanguage": "bir_at_tishlyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Mallahah al Gharbiyah",
+        "location": {
+          "lat": 30.45,
+          "lng": 11.933
+        },
+        "keyAccentLanguage": "al_mallahah_al_gharbiyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Mallahah al Bahriyah",
+        "location": {
+          "lat": 30.683,
+          "lng": 12.067
+        },
+        "keyAccentLanguage": "al_mallahah_al_bahriyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Awlad `Abd Allah",
+        "location": {
+          "lat": 32.051,
+          "lng": 12.571
+        },
+        "keyAccentLanguage": "awlad_`abd_allah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ash Shaqarinah",
+        "location": {
+          "lat": 32.073,
+          "lng": 12.523
+        },
+        "keyAccentLanguage": "ash_shaqarinah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Jawahiliyah",
+        "location": {
+          "lat": 32.208,
+          "lng": 13.038
+        },
+        "keyAccentLanguage": "al_jawahiliyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Awlad Hamid",
+        "location": {
+          "lat": 31.95,
+          "lng": 12.233
+        },
+        "keyAccentLanguage": "awlad_hamid"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Khala'ifah",
+        "location": {
+          "lat": 32.01,
+          "lng": 12.478
+        },
+        "keyAccentLanguage": "al_khala'ifah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ash Shi`taf",
+        "location": {
+          "lat": 32.078,
+          "lng": 13.02
+        },
+        "keyAccentLanguage": "ash_shi`taf"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Awlad Abu Salamah",
+        "location": {
+          "lat": 32.25,
+          "lng": 13.033
+        },
+        "keyAccentLanguage": "awlad_abu_salamah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ash Sha`biniyah",
+        "location": {
+          "lat": 31.95,
+          "lng": 12.233
+        },
+        "keyAccentLanguage": "ash_sha`biniyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Qusayr",
+        "location": {
+          "lat": 31.966667,
+          "lng": 12.016667
+        },
+        "keyAccentLanguage": "al_qusayr"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Awlad `Ali",
+        "location": {
+          "lat": 32.01,
+          "lng": 12.3699999
+        },
+        "keyAccentLanguage": "awlad_`ali"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Awlad `Isa",
+        "location": {
+          "lat": 30.26380319999999,
+          "lng": 12.8054753
+        },
+        "keyAccentLanguage": "awlad_`isa"
+      }
+    ],
+    "enNameLanguage": "Jabal al Gharbi",
+    "keyAccentLanguage": "jabal_al_gharbi"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 32.4525904,
+      "lng": 12.9435536
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aziziya",
+        "location": {
+          "lat": 32.532396,
+          "lng": 13.0159079
+        },
+        "keyAccentLanguage": "aziziya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "As Sawani",
+        "location": {
+          "lat": 34.9209267,
+          "lng": -1.9139087
+        },
+        "keyAccentLanguage": "as_sawani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bin Ghashir",
+        "location": {
+          "lat": 32.687778,
+          "lng": 13.173889
+        },
+        "keyAccentLanguage": "bin_ghashir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qasr Bin Ghashir",
+        "location": {
+          "lat": 32.687778,
+          "lng": 13.173889
+        },
+        "keyAccentLanguage": "qasr_bin_ghashir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Suq as Sabt",
+        "location": {
+          "lat": 14.0572732,
+          "lng": 44.1714333
+        },
+        "keyAccentLanguage": "suq_as_sabt"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Suq al Ahad",
+        "location": {
+          "lat": 16.711269,
+          "lng": 42.954048
+        },
+        "keyAccentLanguage": "suq_al_ahad"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Suq al Khamis",
+        "location": {
+          "lat": 19.133333,
+          "lng": 41.75
+        },
+        "keyAccentLanguage": "suq_al_khamis"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Asbi`ah",
+        "location": {
+          "lat": 32.516667,
+          "lng": 13.166667
+        },
+        "keyAccentLanguage": "asbi`ah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Suani Ben Adem",
+        "location": {
+          "lat": 32.7128304,
+          "lng": 13.0717052
+        },
+        "keyAccentLanguage": "suani_ben_adem"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sidi as Sa'ih",
+        "location": {
+          "lat": 32.555,
+          "lng": 13.241
+        },
+        "keyAccentLanguage": "sidi_as_sa'ih"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Funduq ash Shaybani",
+        "location": {
+          "lat": 32.383,
+          "lng": 13.05
+        },
+        "keyAccentLanguage": "funduq_ash_shaybani"
+      }
+    ],
+    "enNameLanguage": "Jafara",
+    "keyAccentLanguage": "jafara"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 27.9835135,
+      "lng": 16.912251
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fuqaha",
+        "location": {
+          "lat": 27.8107281,
+          "lng": 16.3890618
+        },
+        "keyAccentLanguage": "fuqaha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hun",
+        "location": {
+          "lat": 29.1246835,
+          "lng": 15.9419792
+        },
+        "keyAccentLanguage": "hun"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zillah",
+        "location": {
+          "lat": 28.5483063,
+          "lng": 17.5386809
+        },
+        "keyAccentLanguage": "zillah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Waddan",
+        "location": {
+          "lat": 29.1617805,
+          "lng": 16.1358771
+        },
+        "keyAccentLanguage": "waddan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat Sawwan",
+        "location": {
+          "lat": 29.17005,
+          "lng": 16.15045
+        },
+        "keyAccentLanguage": "qaryat_sawwan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sawknah",
+        "location": {
+          "lat": 29.0630935,
+          "lng": 15.7938069
+        },
+        "keyAccentLanguage": "sawknah"
+      }
+    ],
+    "enNameLanguage": "Jufra",
+    "keyAccentLanguage": "jufra"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 23.3112389,
+      "lng": 21.8568586
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "At Taj",
+        "location": {
+          "lat": 24.2233588,
+          "lng": 23.3005731
+        },
+        "keyAccentLanguage": "at_taj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Posto Trucchi",
+        "location": {
+          "lat": 26.016667,
+          "lng": 22.2333329
+        },
+        "keyAccentLanguage": "posto_trucchi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bazimah",
+        "location": {
+          "lat": 24.9136111,
+          "lng": 22.0386111
+        },
+        "keyAccentLanguage": "bazimah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Jawf",
+        "location": {
+          "lat": 24.2051991,
+          "lng": 23.2917074
+        },
+        "keyAccentLanguage": "al_jawf"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "At Tallab",
+        "location": {
+          "lat": 24.0259563,
+          "lng": 23.1292657
+        },
+        "keyAccentLanguage": "at_tallab"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Hawwari",
+        "location": {
+          "lat": 24.316604,
+          "lng": 23.1858464
+        },
+        "keyAccentLanguage": "al_hawwari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al `Awaynat",
+        "location": {
+          "lat": 21.566667,
+          "lng": 24.833333
+        },
+        "keyAccentLanguage": "al_`awaynat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tazirbu",
+        "location": {
+          "lat": 25.6712877,
+          "lng": 21.0728664
+        },
+        "keyAccentLanguage": "tazirbu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tuzugu",
+        "location": {
+          "lat": 23.3112389,
+          "lng": 21.8568586
+        },
+        "keyAccentLanguage": "tuzugu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Buwaymah",
+        "location": {
+          "lat": 24.2294444,
+          "lng": 23.3627778
+        },
+        "keyAccentLanguage": "buwaymah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "El Gezira",
+        "location": {
+          "lat": 25.69244,
+          "lng": 21.0879
+        },
+        "keyAccentLanguage": "el_gezira"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rabyanah",
+        "location": {
+          "lat": 24.2333333,
+          "lng": 21.9833333
+        },
+        "keyAccentLanguage": "rabyanah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`Eoj Wahs",
+        "location": {
+          "lat": 22.283333,
+          "lng": 19.766667
+        },
+        "keyAccentLanguage": "`eoj_wahs"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ain El-Giuluat",
+        "location": {
+          "lat": 25.70927,
+          "lng": 21.12792
+        },
+        "keyAccentLanguage": "ain_el-giuluat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ma`bus Yusuf",
+        "location": {
+          "lat": 25.6666667,
+          "lng": 21.0619444
+        },
+        "keyAccentLanguage": "ma`bus_yusuf"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zighan",
+        "location": {
+          "lat": 25.4833329,
+          "lng": 22.133333
+        },
+        "keyAccentLanguage": "zighan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ma`tan as Sarah",
+        "location": {
+          "lat": 21.6667401,
+          "lng": 21.8419536
+        },
+        "keyAccentLanguage": "ma`tan_as_sarah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Matan as Sarah",
+        "location": {
+          "lat": 21.6667401,
+          "lng": 21.8419536
+        },
+        "keyAccentLanguage": "matan_as_sarah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kufra",
+        "location": {
+          "lat": 24.16,
+          "lng": 23.365
+        },
+        "keyAccentLanguage": "kufra"
+      }
+    ],
+    "enNameLanguage": "Kufra",
+    "keyAccentLanguage": "kufra"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 32.4982249,
+      "lng": 20.8195292
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Battah",
+        "location": {
+          "lat": 32.6592832,
+          "lng": 21.110013
+        },
+        "keyAccentLanguage": "battah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Marj",
+        "location": {
+          "lat": 14.0139971,
+          "lng": 121.1868787
+        },
+        "keyAccentLanguage": "marj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Masil",
+        "location": {
+          "lat": 13.9766514,
+          "lng": 43.74298630000001
+        },
+        "keyAccentLanguage": "al_masil"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Abyar",
+        "location": {
+          "lat": 32.1856272,
+          "lng": 20.5870955
+        },
+        "keyAccentLanguage": "al_abyar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ar Rajmah",
+        "location": {
+          "lat": 32.0712594,
+          "lng": 20.3457756
+        },
+        "keyAccentLanguage": "ar_rajmah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Milaytaniyah",
+        "location": {
+          "lat": 32.366667,
+          "lng": 20.633333
+        },
+        "keyAccentLanguage": "al_milaytaniyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al `Uwayliyah ash Sharqiyah",
+        "location": {
+          "lat": 32.56,
+          "lng": 21.03
+        },
+        "keyAccentLanguage": "al_`uwayliyah_ash_sharqiyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Dirsiyah",
+        "location": {
+          "lat": 32.7012869,
+          "lng": 20.9417222
+        },
+        "keyAccentLanguage": "ad_dirsiyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Bayyadah",
+        "location": {
+          "lat": 32.5606394,
+          "lng": 21.2517127
+        },
+        "keyAccentLanguage": "al_bayyadah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zawiyat Masus",
+        "location": {
+          "lat": 31.57884,
+          "lng": 21.007879
+        },
+        "keyAccentLanguage": "zawiyat_masus"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jardas al Abid",
+        "location": {
+          "lat": 32.3037938,
+          "lng": 20.9894099
+        },
+        "keyAccentLanguage": "jardas_al_abid"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qasr Libiya",
+        "location": {
+          "lat": 32.618349,
+          "lng": 21.3977787
+        },
+        "keyAccentLanguage": "qasr_libiya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jardas al `Abid",
+        "location": {
+          "lat": 32.3037938,
+          "lng": 20.9894099
+        },
+        "keyAccentLanguage": "jardas_al_`abid"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Taknis",
+        "location": {
+          "lat": 32.4800492,
+          "lng": 21.1265189
+        },
+        "keyAccentLanguage": "taknis"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bu Maryam",
+        "location": {
+          "lat": 32.133,
+          "lng": 20.5
+        },
+        "keyAccentLanguage": "bu_maryam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Farzughah",
+        "location": {
+          "lat": 32.5,
+          "lng": 20.7
+        },
+        "keyAccentLanguage": "farzughah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Himadah",
+        "location": {
+          "lat": 32.417,
+          "lng": 20.617
+        },
+        "keyAccentLanguage": "al_himadah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sidi Mahyus",
+        "location": {
+          "lat": 32.25,
+          "lng": 20.733
+        },
+        "keyAccentLanguage": "sidi_mahyus"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mazra`at Albu Qabw",
+        "location": {
+          "lat": 32.15,
+          "lng": 20.567
+        },
+        "keyAccentLanguage": "mazra`at_albu_qabw"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat Sidi Shahir ad Din",
+        "location": {
+          "lat": 32.667,
+          "lng": 20.85
+        },
+        "keyAccentLanguage": "qaryat_sidi_shahir_ad_din"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ghawt al Hisan",
+        "location": {
+          "lat": 32.183,
+          "lng": 20.617
+        },
+        "keyAccentLanguage": "ghawt_al_hisan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jardas al Ahrar",
+        "location": {
+          "lat": 32.283,
+          "lng": 20.983
+        },
+        "keyAccentLanguage": "jardas_al_ahrar"
+      }
+    ],
+    "enNameLanguage": "Marj",
+    "keyAccentLanguage": "marj"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 32.3255884,
+      "lng": 15.0992556
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Fuqaha'",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "al_fuqaha'"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ar Rajubat",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "ar_rajubat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bani Walid",
+        "location": {
+          "lat": 31.75153659999999,
+          "lng": 14.0168332
+        },
+        "keyAccentLanguage": "bani_walid"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat Awlad Hamid",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qabilat_awlad_hamid"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ash Shawati",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "ash_shawati"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat Awlad ath Thamad",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qabilat_awlad_ath_thamad"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat Mantar",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qabilat_mantar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Az Zarruq",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "az_zarruq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat Dajajirah",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_dajajirah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat `Ayn az Zayt",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_`ayn_az_zayt"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat al Maqsabah",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qabilat_al_maqsabah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat al Magharibah",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_al_magharibah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bi'r Dufan",
+        "location": {
+          "lat": 31.966667,
+          "lng": 14.6
+        },
+        "keyAccentLanguage": "bi'r_dufan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Ghiran",
+        "location": {
+          "lat": 32.35,
+          "lng": 15.033333
+        },
+        "keyAccentLanguage": "al_ghiran"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat `Ayn al Madham",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_`ayn_al_madham"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Mahjub",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "al_mahjub"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Misrata",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "misrata"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat al Ja`afirah",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_al_ja`afirah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat as Subaykhat",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_as_subaykhat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abu Qurayn",
+        "location": {
+          "lat": 31.45192369999999,
+          "lng": 15.2546916
+        },
+        "keyAccentLanguage": "abu_qurayn"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bu Nujaym",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "bu_nujaym"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Hadari`ah",
+        "location": {
+          "lat": 32.016667,
+          "lng": 15.183333
+        },
+        "keyAccentLanguage": "al_hadari`ah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat al Ghawil",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_al_ghawil"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat `Ayn Makhluf",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_`ayn_makhluf"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat as Sawadiq",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_as_sawadiq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Maqasibah al Qibliyah",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "al_maqasibah_al_qibliyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat Ballalah",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_ballalah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat al Qazzir",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qabilat_al_qazzir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat al Tawalikiyah",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_al_tawalikiyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat al Ghut",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_al_ghut"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zawiyat al Mahjub",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "zawiyat_al_mahjub"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat Sur al `Ud",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_sur_al_`ud"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat al `Awa'idah",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_al_`awa'idah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gioda",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "gioda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat `Ayn Abu Shaybah",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_`ayn_abu_shaybah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat Qararah",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_qararah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat al Mala'itah",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qabilat_al_mala'itah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat Rufaydah",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_rufaydah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Dafniyah",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "ad_dafniyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat Abu Sharwal",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_abu_sharwal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat Sur A`rabi",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_sur_a`rabi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat al Wafawat",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_al_wafawat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat al Karran",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_al_karran"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat ar Ra`itat",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_ar_ra`itat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat `Ayn al Kabir",
+        "location": {
+          "lat": 32.316667,
+          "lng": 15.116667
+        },
+        "keyAccentLanguage": "qaryat_`ayn_al_kabir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat al `Arimah",
+        "location": {
+          "lat": 31.437772,
+          "lng": 13.996634
+        },
+        "keyAccentLanguage": "qaryat_al_`arimah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat `Ayn Kurayyim",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_`ayn_kurayyim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat Awlad Abu Sha``alah",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_awlad_abu_sha``alah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat Ra's Ath Thumah",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_ra's_ath_thumah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat Su`ud",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_su`ud"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat Hasan al Hajj",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_hasan_al_hajj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat Awlad Ba`ayyu",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qabilat_awlad_ba`ayyu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat Isma`il",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_isma`il"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat al Habarah",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_al_habarah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat Bin Tallis",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_bin_tallis"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Maqasibah al Bahriyah",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "al_maqasibah_al_bahriyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tawurgha'",
+        "location": {
+          "lat": 32.0171895,
+          "lng": 15.0429695
+        },
+        "keyAccentLanguage": "tawurgha'"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat al `Abadinah",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qabilat_al_`abadinah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat ar Rus",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_ar_rus"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat Ra's `Alii",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_ra's_`alii"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat ad Dababisah",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_ad_dababisah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Taminah",
+        "location": {
+          "lat": 32.2784605,
+          "lng": 15.1017185
+        },
+        "keyAccentLanguage": "taminah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat `Ayn Abu Ghulah",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_`ayn_abu_ghulah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bu'ayrat al Hasun",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "bu'ayrat_al_hasun"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat ar Ramlah",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_ar_ramlah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qasr Ahmad",
+        "location": {
+          "lat": 32.3581727,
+          "lng": 15.2059983
+        },
+        "keyAccentLanguage": "qasr_ahmad"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat Ra's Abu Hammar",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_ra's_abu_hammar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "As Saddadah",
+        "location": {
+          "lat": 31.483333,
+          "lng": 14.75
+        },
+        "keyAccentLanguage": "as_saddadah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat al Jataliwah",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_al_jataliwah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Hayshah",
+        "location": {
+          "lat": 31.637206,
+          "lng": 15.258488
+        },
+        "keyAccentLanguage": "al_hayshah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat `Ayn Bu al Qa'id",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_`ayn_bu_al_qa'id"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat al Qusaybat",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_al_qusaybat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat Awla Bin Shayyah",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_awla_bin_shayyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Qaddahiyah",
+        "location": {
+          "lat": 31.370804,
+          "lng": 15.231307
+        },
+        "keyAccentLanguage": "al_qaddahiyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat as Suwak `Ayn Ghulu",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_as_suwak_`ayn_ghulu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat ar Ru'aysat",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_ar_ru'aysat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat `Ayn Fakrunah",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_`ayn_fakrunah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qirdah",
+        "location": {
+          "lat": 30.95,
+          "lng": 14.566667
+        },
+        "keyAccentLanguage": "qirdah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat az Zurayqi",
+        "location": {
+          "lat": 32.433333,
+          "lng": 14.9
+        },
+        "keyAccentLanguage": "qaryat_az_zurayqi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat as as Sawabiyah",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "qaryat_as_as_sawabiyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat Bu Ruwayyah",
+        "location": {
+          "lat": 32.383333,
+          "lng": 14.933333
+        },
+        "keyAccentLanguage": "qaryat_bu_ruwayyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Halamah",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "al_halamah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat as Saba'ih",
+        "location": {
+          "lat": 31.4,
+          "lng": 14.233333
+        },
+        "keyAccentLanguage": "qaryat_as_saba'ih"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat Shumaykh",
+        "location": {
+          "lat": 31.436497,
+          "lng": 13.957908
+        },
+        "keyAccentLanguage": "qaryat_shumaykh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat ad Dawa'irah",
+        "location": {
+          "lat": 31.383333,
+          "lng": 14.533333
+        },
+        "keyAccentLanguage": "qaryat_ad_dawa'irah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zawiyat al Mahjub",
+        "location": {
+          "lat": 32.3255884,
+          "lng": 15.0992556
+        },
+        "keyAccentLanguage": "zawiyat_al_mahjub"
+      }
+    ],
+    "enNameLanguage": "Misrata",
+    "keyAccentLanguage": "misrata"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 32.4599677,
+      "lng": 14.1001326
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat Awlad `Arif",
+        "location": {
+          "lat": 32.65,
+          "lng": 14.2
+        },
+        "keyAccentLanguage": "qabilat_awlad_`arif"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat Bani Musallam",
+        "location": {
+          "lat": 32.65,
+          "lng": 14.2
+        },
+        "keyAccentLanguage": "qabilat_bani_musallam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat al Jawabir",
+        "location": {
+          "lat": 32.65,
+          "lng": 14.2
+        },
+        "keyAccentLanguage": "qabilat_al_jawabir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat Indarah",
+        "location": {
+          "lat": 32.65,
+          "lng": 14.2
+        },
+        "keyAccentLanguage": "qabilat_indarah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat Awlad `Umar",
+        "location": {
+          "lat": 32.65,
+          "lng": 14.2
+        },
+        "keyAccentLanguage": "qabilat_awlad_`umar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat Bani Salim",
+        "location": {
+          "lat": 32.65,
+          "lng": 14.2
+        },
+        "keyAccentLanguage": "qabilat_bani_salim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cussabat",
+        "location": {
+          "lat": 32.5836375,
+          "lng": 14.0362587
+        },
+        "keyAccentLanguage": "cussabat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Dawun",
+        "location": {
+          "lat": 32.433333,
+          "lng": 13.466667
+        },
+        "keyAccentLanguage": "ad_dawun"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Fawatir",
+        "location": {
+          "lat": 32.4599677,
+          "lng": 14.1001326
+        },
+        "keyAccentLanguage": "al_fawatir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat al Mu`ammariyin",
+        "location": {
+          "lat": 32.65,
+          "lng": 14.2
+        },
+        "keyAccentLanguage": "qabilat_al_mu`ammariyin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat al Khums",
+        "location": {
+          "lat": 32.65,
+          "lng": 14.2
+        },
+        "keyAccentLanguage": "qabilat_al_khums"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat Bani Layth",
+        "location": {
+          "lat": 32.65,
+          "lng": 14.2
+        },
+        "keyAccentLanguage": "qabilat_bani_layth"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al `Amamirah",
+        "location": {
+          "lat": 32.45,
+          "lng": 14.116667
+        },
+        "keyAccentLanguage": "al_`amamirah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat Silin",
+        "location": {
+          "lat": 32.65,
+          "lng": 14.2
+        },
+        "keyAccentLanguage": "qabilat_silin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Funduq Tarbanah",
+        "location": {
+          "lat": 32.566667,
+          "lng": 14.233333
+        },
+        "keyAccentLanguage": "funduq_tarbanah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat al Qanawat",
+        "location": {
+          "lat": 32.65,
+          "lng": 14.2
+        },
+        "keyAccentLanguage": "qabilat_al_qanawat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat Awlad Za'id",
+        "location": {
+          "lat": 32.65,
+          "lng": 14.2
+        },
+        "keyAccentLanguage": "qabilat_awlad_za'id"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat al Qalil",
+        "location": {
+          "lat": 32.65,
+          "lng": 14.2
+        },
+        "keyAccentLanguage": "qabilat_al_qalil"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Muhayyah",
+        "location": {
+          "lat": 32.4599677,
+          "lng": 14.1001326
+        },
+        "keyAccentLanguage": "muhayyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mintaqat al Ghanimah",
+        "location": {
+          "lat": 32.4599677,
+          "lng": 14.1001326
+        },
+        "keyAccentLanguage": "mintaqat_al_ghanimah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat Bani Musallam",
+        "location": {
+          "lat": 32.4599677,
+          "lng": 14.1001326
+        },
+        "keyAccentLanguage": "qaryat_bani_musallam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Maghasil",
+        "location": {
+          "lat": 32.583333,
+          "lng": 14.166667
+        },
+        "keyAccentLanguage": "al_maghasil"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Funduq an Naqqazah",
+        "location": {
+          "lat": 32.7,
+          "lng": 14.066667
+        },
+        "keyAccentLanguage": "funduq_an_naqqazah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mazra`at Kataraylla",
+        "location": {
+          "lat": 32.4599677,
+          "lng": 14.1001326
+        },
+        "keyAccentLanguage": "mazra`at_kataraylla"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Masallatah",
+        "location": {
+          "lat": 32.4599677,
+          "lng": 14.1001326
+        },
+        "keyAccentLanguage": "masallatah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Khadra'",
+        "location": {
+          "lat": 32.45,
+          "lng": 13.766667
+        },
+        "keyAccentLanguage": "al_khadra'"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat Hujjajah",
+        "location": {
+          "lat": 32.4599677,
+          "lng": 14.1001326
+        },
+        "keyAccentLanguage": "qaryat_hujjajah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat Awlad `Isa",
+        "location": {
+          "lat": 32.65,
+          "lng": 14.2
+        },
+        "keyAccentLanguage": "qabilat_awlad_`isa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mazra`at Titanu",
+        "location": {
+          "lat": 32.4599677,
+          "lng": 14.1001326
+        },
+        "keyAccentLanguage": "mazra`at_titanu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Huwayjat",
+        "location": {
+          "lat": 27.0972354,
+          "lng": 49.5745153
+        },
+        "keyAccentLanguage": "al_huwayjat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Na`imah",
+        "location": {
+          "lat": 32.4599677,
+          "lng": 14.1001326
+        },
+        "keyAccentLanguage": "na`imah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat al `Aql",
+        "location": {
+          "lat": 32.65,
+          "lng": 14.2
+        },
+        "keyAccentLanguage": "qabilat_al_`aql"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Khoms",
+        "location": {
+          "lat": 32.6509505,
+          "lng": 14.2678989
+        },
+        "keyAccentLanguage": "khoms"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat al `Ataya",
+        "location": {
+          "lat": 32.65,
+          "lng": 14.2
+        },
+        "keyAccentLanguage": "qabilat_al_`ataya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat al Hurmah",
+        "location": {
+          "lat": 32.65,
+          "lng": 14.2
+        },
+        "keyAccentLanguage": "qabilat_al_hurmah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat Za`faran",
+        "location": {
+          "lat": 32.65,
+          "lng": 14.2
+        },
+        "keyAccentLanguage": "qabilat_za`faran"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ki`am",
+        "location": {
+          "lat": 32.516667,
+          "lng": 14.433333
+        },
+        "keyAccentLanguage": "ki`am"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Suq al Khamis",
+        "location": {
+          "lat": 32.6094444,
+          "lng": 14.3122222
+        },
+        "keyAccentLanguage": "suq_al_khamis"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat ash Shurfah",
+        "location": {
+          "lat": 32.65,
+          "lng": 14.2
+        },
+        "keyAccentLanguage": "qabilat_ash_shurfah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat al `Abadilah",
+        "location": {
+          "lat": 32.65,
+          "lng": 14.2
+        },
+        "keyAccentLanguage": "qabilat_al_`abadilah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat al Afadil",
+        "location": {
+          "lat": 32.65,
+          "lng": 14.2
+        },
+        "keyAccentLanguage": "qabilat_al_afadil"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat al Huwayjat",
+        "location": {
+          "lat": 32.4599677,
+          "lng": 14.1001326
+        },
+        "keyAccentLanguage": "qaryat_al_huwayjat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat Salimah",
+        "location": {
+          "lat": 32.65,
+          "lng": 13.95
+        },
+        "keyAccentLanguage": "qabilat_salimah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat al Bayda'",
+        "location": {
+          "lat": 32.116389,
+          "lng": 13.370278
+        },
+        "keyAccentLanguage": "qaryat_al_bayda'"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qirrim",
+        "location": {
+          "lat": 32.4599677,
+          "lng": 14.1001326
+        },
+        "keyAccentLanguage": "qirrim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat al Bakakishah",
+        "location": {
+          "lat": 32.65,
+          "lng": 14.2
+        },
+        "keyAccentLanguage": "qabilat_al_bakakishah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat al Fawatir",
+        "location": {
+          "lat": 32.65,
+          "lng": 14.2
+        },
+        "keyAccentLanguage": "qabilat_al_fawatir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat al Karawinah",
+        "location": {
+          "lat": 32.65,
+          "lng": 14.2
+        },
+        "keyAccentLanguage": "qabilat_al_karawinah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Qusay`ah",
+        "location": {
+          "lat": 32.4799999,
+          "lng": 13.95
+        },
+        "keyAccentLanguage": "al_qusay`ah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Funduq al `Allus",
+        "location": {
+          "lat": 32.4599677,
+          "lng": 14.1001326
+        },
+        "keyAccentLanguage": "funduq_al_`allus"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat Lawatah",
+        "location": {
+          "lat": 32.65,
+          "lng": 14.2
+        },
+        "keyAccentLanguage": "qabilat_lawatah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tarhuna",
+        "location": {
+          "lat": 32.4279191,
+          "lng": 13.6420599
+        },
+        "keyAccentLanguage": "tarhuna"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Suq al Jum`ah",
+        "location": {
+          "lat": 32.2597219,
+          "lng": 13.3775
+        },
+        "keyAccentLanguage": "suq_al_jum`ah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zliten",
+        "location": {
+          "lat": 32.2785242,
+          "lng": 14.5189214
+        },
+        "keyAccentLanguage": "zliten"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat al Kawarighiliyah",
+        "location": {
+          "lat": 32.65,
+          "lng": 14.2
+        },
+        "keyAccentLanguage": "qabilat_al_kawarighiliyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ash Shi`afiyin",
+        "location": {
+          "lat": 32.59,
+          "lng": 13.86
+        },
+        "keyAccentLanguage": "ash_shi`afiyin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat ash Shi`afiyin",
+        "location": {
+          "lat": 32.59,
+          "lng": 13.86
+        },
+        "keyAccentLanguage": "qabilat_ash_shi`afiyin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat al Hanadah",
+        "location": {
+          "lat": 32.4599677,
+          "lng": 14.1001326
+        },
+        "keyAccentLanguage": "qaryat_al_hanadah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat Dirsunah",
+        "location": {
+          "lat": 32.65,
+          "lng": 14.2
+        },
+        "keyAccentLanguage": "qabilat_dirsunah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat al Kararitah",
+        "location": {
+          "lat": 32.65,
+          "lng": 14.2
+        },
+        "keyAccentLanguage": "qabilat_al_kararitah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Suq Qamatah al Gharbiyah",
+        "location": {
+          "lat": 32.4599677,
+          "lng": 14.1001326
+        },
+        "keyAccentLanguage": "suq_qamatah_al_gharbiyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gasr El Dauun",
+        "location": {
+          "lat": 32.45771,
+          "lng": 13.90342
+        },
+        "keyAccentLanguage": "gasr_el_dauun"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat ar Raghah",
+        "location": {
+          "lat": 32.55,
+          "lng": 13.9
+        },
+        "keyAccentLanguage": "qabilat_ar_raghah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat al `Amariyin",
+        "location": {
+          "lat": 32.65,
+          "lng": 14.2
+        },
+        "keyAccentLanguage": "qabilat_al_`amariyin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat ash Shutaywiyah",
+        "location": {
+          "lat": 32.65,
+          "lng": 14.2
+        },
+        "keyAccentLanguage": "qabilat_ash_shutaywiyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mintaqat Zawiyat as Samah",
+        "location": {
+          "lat": 32.57,
+          "lng": 13.99
+        },
+        "keyAccentLanguage": "mintaqat_zawiyat_as_samah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mazra`at Saqil",
+        "location": {
+          "lat": 32.46666700000001,
+          "lng": 13.7
+        },
+        "keyAccentLanguage": "mazra`at_saqil"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat ar Rahumat",
+        "location": {
+          "lat": 32.65,
+          "lng": 14.2
+        },
+        "keyAccentLanguage": "qabilat_ar_rahumat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mintaqat ad Daghdughi",
+        "location": {
+          "lat": 32.35,
+          "lng": 14.53
+        },
+        "keyAccentLanguage": "mintaqat_ad_daghdughi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mintaqat Zawiyat Sidi `Atiyah",
+        "location": {
+          "lat": 32.5575024,
+          "lng": 14.3795444
+        },
+        "keyAccentLanguage": "mintaqat_zawiyat_sidi_`atiyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Wuriran",
+        "location": {
+          "lat": 32.4599677,
+          "lng": 14.1001326
+        },
+        "keyAccentLanguage": "wuriran"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat Suq ad Dawun",
+        "location": {
+          "lat": 32.433333,
+          "lng": 13.466667
+        },
+        "keyAccentLanguage": "qabilat_suq_ad_dawun"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat ar Radadah",
+        "location": {
+          "lat": 32.65,
+          "lng": 14.2
+        },
+        "keyAccentLanguage": "qabilat_ar_radadah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat Sidi Mu`ammar",
+        "location": {
+          "lat": 32.5,
+          "lng": 13.88
+        },
+        "keyAccentLanguage": "qabilat_sidi_mu`ammar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat as Saqu`",
+        "location": {
+          "lat": 32.65,
+          "lng": 14.2
+        },
+        "keyAccentLanguage": "qabilat_as_saqu`"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Asyadi al `Amariyin",
+        "location": {
+          "lat": 32.4599677,
+          "lng": 14.1001326
+        },
+        "keyAccentLanguage": "asyadi_al_`amariyin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zawiyat al `Amariyin",
+        "location": {
+          "lat": 32.4599677,
+          "lng": 14.1001326
+        },
+        "keyAccentLanguage": "zawiyat_al_`amariyin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat Wadinah",
+        "location": {
+          "lat": 32.65,
+          "lng": 14.2
+        },
+        "keyAccentLanguage": "qabilat_wadinah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Jum`ah",
+        "location": {
+          "lat": 32.46666700000001,
+          "lng": 14.466667
+        },
+        "keyAccentLanguage": "al_jum`ah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ash Sharsharah",
+        "location": {
+          "lat": 32.467,
+          "lng": 13.617
+        },
+        "keyAccentLanguage": "ash_sharsharah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ash Shuruf",
+        "location": {
+          "lat": 32.583,
+          "lng": 13.95
+        },
+        "keyAccentLanguage": "ash_shuruf"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Umm Shuwayshah",
+        "location": {
+          "lat": 32.233,
+          "lng": 13.367
+        },
+        "keyAccentLanguage": "umm_shuwayshah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sidi as Sayd",
+        "location": {
+          "lat": 32.336,
+          "lng": 13.479
+        },
+        "keyAccentLanguage": "sidi_as_sayd"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat Hanshir al Budur",
+        "location": {
+          "lat": 32.62,
+          "lng": 14.152
+        },
+        "keyAccentLanguage": "qaryat_hanshir_al_budur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat Bin Hasan",
+        "location": {
+          "lat": 32.684,
+          "lng": 14.134
+        },
+        "keyAccentLanguage": "qaryat_bin_hasan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat al Wuqayyat",
+        "location": {
+          "lat": 32.417,
+          "lng": 14.583
+        },
+        "keyAccentLanguage": "qaryat_al_wuqayyat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat al Fawatir",
+        "location": {
+          "lat": 32.65,
+          "lng": 14.2
+        },
+        "keyAccentLanguage": "qabilat_al_fawatir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Suq al Jum`ah",
+        "location": {
+          "lat": 32.2597219,
+          "lng": 13.3775
+        },
+        "keyAccentLanguage": "suq_al_jum`ah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Suq al Jum`ah",
+        "location": {
+          "lat": 32.2597219,
+          "lng": 13.3775
+        },
+        "keyAccentLanguage": "suq_al_jum`ah"
+      }
+    ],
+    "enNameLanguage": "Murqub",
+    "keyAccentLanguage": "murqub"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 25.9182262,
+      "lng": 13.9260001
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Qatrun",
+        "location": {
+          "lat": 24.9293699,
+          "lng": 14.5764457
+        },
+        "keyAccentLanguage": "al_qatrun"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Badr",
+        "location": {
+          "lat": 26.1660725,
+          "lng": 14.9564084
+        },
+        "keyAccentLanguage": "al_badr"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Maghwah",
+        "location": {
+          "lat": 25.900595,
+          "lng": 14.569333
+        },
+        "keyAccentLanguage": "maghwah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`Aqqar",
+        "location": {
+          "lat": 25.9139526,
+          "lng": 13.9170288
+        },
+        "keyAccentLanguage": "`aqqar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tmassah",
+        "location": {
+          "lat": 26.3967267,
+          "lng": 15.7835348
+        },
+        "keyAccentLanguage": "tmassah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Wigh",
+        "location": {
+          "lat": 24.216667,
+          "lng": 15
+        },
+        "keyAccentLanguage": "al_wigh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Emi Madema",
+        "location": {
+          "lat": 23.75,
+          "lng": 15.3
+        },
+        "keyAccentLanguage": "emi_madema"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Misquwin",
+        "location": {
+          "lat": 25.9139526,
+          "lng": 13.9170288
+        },
+        "keyAccentLanguage": "misquwin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ma`fan",
+        "location": {
+          "lat": 25.9139526,
+          "lng": 13.9170288
+        },
+        "keyAccentLanguage": "ma`fan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Baydan",
+        "location": {
+          "lat": 25.853161,
+          "lng": 14.22244
+        },
+        "keyAccentLanguage": "al_baydan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bir al Mastutah",
+        "location": {
+          "lat": 25.9139526,
+          "lng": 13.9170288
+        },
+        "keyAccentLanguage": "bir_al_mastutah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tuwiwi",
+        "location": {
+          "lat": 25.9139526,
+          "lng": 13.9170288
+        },
+        "keyAccentLanguage": "tuwiwi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ghawat",
+        "location": {
+          "lat": 25.9139526,
+          "lng": 13.9170288
+        },
+        "keyAccentLanguage": "ghawat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Az Zarqan",
+        "location": {
+          "lat": 25.96542,
+          "lng": 13.78923
+        },
+        "keyAccentLanguage": "az_zarqan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Toummo",
+        "location": {
+          "lat": 25.9139526,
+          "lng": 13.9170288
+        },
+        "keyAccentLanguage": "toummo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hummayrah",
+        "location": {
+          "lat": 25.9139526,
+          "lng": 13.9170288
+        },
+        "keyAccentLanguage": "hummayrah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tajarhi",
+        "location": {
+          "lat": 24.36272,
+          "lng": 14.47244
+        },
+        "keyAccentLanguage": "tajarhi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Curni Ebredaa",
+        "location": {
+          "lat": 25.9139526,
+          "lng": 13.9170288
+        },
+        "keyAccentLanguage": "curni_ebredaa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Bakki",
+        "location": {
+          "lat": 24.8299546,
+          "lng": 14.4968444
+        },
+        "keyAccentLanguage": "al_bakki"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dujal",
+        "location": {
+          "lat": 26.1228253,
+          "lng": 13.6970626
+        },
+        "keyAccentLanguage": "dujal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tarbu",
+        "location": {
+          "lat": 25.96664,
+          "lng": 15.15744
+        },
+        "keyAccentLanguage": "tarbu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zizaw",
+        "location": {
+          "lat": 25.9139526,
+          "lng": 13.9170288
+        },
+        "keyAccentLanguage": "zizaw"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Majdul",
+        "location": {
+          "lat": 25.863388,
+          "lng": 15.113128
+        },
+        "keyAccentLanguage": "majdul"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qawat",
+        "location": {
+          "lat": 25.92173,
+          "lng": 14.09069
+        },
+        "keyAccentLanguage": "qawat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Madrusah",
+        "location": {
+          "lat": 24.7493304,
+          "lng": 14.4943914
+        },
+        "keyAccentLanguage": "madrusah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Marzuq",
+        "location": {
+          "lat": 25.552342,
+          "lng": 15.7820674
+        },
+        "keyAccentLanguage": "marzuq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tasawah",
+        "location": {
+          "lat": 26.0890646,
+          "lng": 13.4742993
+        },
+        "keyAccentLanguage": "tasawah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Malaqi",
+        "location": {
+          "lat": 23.333333,
+          "lng": 15.5
+        },
+        "keyAccentLanguage": "al_malaqi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Heg' Hagel",
+        "location": {
+          "lat": 25.929617,
+          "lng": 14.039483
+        },
+        "keyAccentLanguage": "heg'_hagel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "As Subaytat",
+        "location": {
+          "lat": 25.9139526,
+          "lng": 13.9170288
+        },
+        "keyAccentLanguage": "as_subaytat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aqar `Atabah",
+        "location": {
+          "lat": 25.97093,
+          "lng": 13.55194
+        },
+        "keyAccentLanguage": "aqar_`atabah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Umm al Izam",
+        "location": {
+          "lat": 26.046917,
+          "lng": 15.466922
+        },
+        "keyAccentLanguage": "umm_al_izam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Umm al `Izam",
+        "location": {
+          "lat": 26.046917,
+          "lng": 15.466922
+        },
+        "keyAccentLanguage": "umm_al_`izam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Meseguin",
+        "location": {
+          "lat": 26.15896,
+          "lng": 14.83222
+        },
+        "keyAccentLanguage": "meseguin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Taqqrutin",
+        "location": {
+          "lat": 26.100712,
+          "lng": 13.626418
+        },
+        "keyAccentLanguage": "taqqrutin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Umm al Aranib",
+        "location": {
+          "lat": 26.1431808,
+          "lng": 14.7345937
+        },
+        "keyAccentLanguage": "umm_al_aranib"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dulaym",
+        "location": {
+          "lat": 25.9324003,
+          "lng": 14.0830207
+        },
+        "keyAccentLanguage": "dulaym"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Waw al Kabir",
+        "location": {
+          "lat": 25.3013294,
+          "lng": 16.7293611
+        },
+        "keyAccentLanguage": "waw_al_kabir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Az Zaytunah",
+        "location": {
+          "lat": 25.91275,
+          "lng": 14.57375
+        },
+        "keyAccentLanguage": "az_zaytunah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Taraghin",
+        "location": {
+          "lat": 25.9328304,
+          "lng": 14.4199322
+        },
+        "keyAccentLanguage": "taraghin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zawilah",
+        "location": {
+          "lat": 26.1685378,
+          "lng": 15.1229718
+        },
+        "keyAccentLanguage": "zawilah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Umm al Hamam",
+        "location": {
+          "lat": 25.9139526,
+          "lng": 13.9170288
+        },
+        "keyAccentLanguage": "umm_al_hamam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Funqul",
+        "location": {
+          "lat": 25.9249082,
+          "lng": 14.2686658
+        },
+        "keyAccentLanguage": "funqul"
+      }
+    ],
+    "enNameLanguage": "Murzuq",
+    "keyAccentLanguage": "murzuq"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 31.8742348,
+      "lng": 10.9750484
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nalut",
+        "location": {
+          "lat": 31.8742348,
+          "lng": 10.9750484
+        },
+        "keyAccentLanguage": "nalut"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baqqalah",
+        "location": {
+          "lat": 31.8742348,
+          "lng": 10.9750484
+        },
+        "keyAccentLanguage": "baqqalah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qasr al Fawqani",
+        "location": {
+          "lat": 31.8742348,
+          "lng": 10.9750484
+        },
+        "keyAccentLanguage": "qasr_al_fawqani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "As Salamat",
+        "location": {
+          "lat": 31.8742348,
+          "lng": 10.9750484
+        },
+        "keyAccentLanguage": "as_salamat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Khirbah",
+        "location": {
+          "lat": 31.84123469999999,
+          "lng": 11.1511188
+        },
+        "keyAccentLanguage": "al_khirbah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat T",
+        "location": {
+          "lat": 31.8742348,
+          "lng": 10.9750484
+        },
+        "keyAccentLanguage": "qaryat_t"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Buqayqilah",
+        "location": {
+          "lat": 31.8742348,
+          "lng": 10.9750484
+        },
+        "keyAccentLanguage": "buqayqilah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kabaw",
+        "location": {
+          "lat": 31.8064174,
+          "lng": 11.2977322
+        },
+        "keyAccentLanguage": "kabaw"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fasatah",
+        "location": {
+          "lat": 31.8742348,
+          "lng": 10.9750484
+        },
+        "keyAccentLanguage": "fasatah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Badr",
+        "location": {
+          "lat": 32.0430222,
+          "lng": 11.5361726
+        },
+        "keyAccentLanguage": "badr"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sha`wa'",
+        "location": {
+          "lat": 30.983333,
+          "lng": 10.55
+        },
+        "keyAccentLanguage": "sha`wa'"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Awlad Mahmud",
+        "location": {
+          "lat": 31.85396,
+          "lng": 11.15767
+        },
+        "keyAccentLanguage": "awlad_mahmud"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Hawamid",
+        "location": {
+          "lat": 31.8742348,
+          "lng": 10.9750484
+        },
+        "keyAccentLanguage": "al_hawamid"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dashrah",
+        "location": {
+          "lat": 31.8742348,
+          "lng": 10.9750484
+        },
+        "keyAccentLanguage": "dashrah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Jawsh",
+        "location": {
+          "lat": 31.9927116,
+          "lng": 11.6712527
+        },
+        "keyAccentLanguage": "al_jawsh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Jawsh al Kabir",
+        "location": {
+          "lat": 31.9927116,
+          "lng": 11.6712527
+        },
+        "keyAccentLanguage": "al_jawsh_al_kabir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Jawsh as Saghir",
+        "location": {
+          "lat": 31.9927116,
+          "lng": 11.6712527
+        },
+        "keyAccentLanguage": "al_jawsh_as_saghir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tunin",
+        "location": {
+          "lat": 31.8742348,
+          "lng": 10.9750484
+        },
+        "keyAccentLanguage": "tunin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Talat",
+        "location": {
+          "lat": 31.8643858,
+          "lng": 10.9812302
+        },
+        "keyAccentLanguage": "talat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ash Shiyab",
+        "location": {
+          "lat": 31.8742348,
+          "lng": 10.9750484
+        },
+        "keyAccentLanguage": "ash_shiyab"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zararah",
+        "location": {
+          "lat": 31.8742348,
+          "lng": 10.9750484
+        },
+        "keyAccentLanguage": "zararah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bir Zar",
+        "location": {
+          "lat": 31.8742348,
+          "lng": 10.9750484
+        },
+        "keyAccentLanguage": "bir_zar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Harabah",
+        "location": {
+          "lat": 31.773889,
+          "lng": 11.543611
+        },
+        "keyAccentLanguage": "al_harabah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat an Nushayh",
+        "location": {
+          "lat": 31.936667,
+          "lng": 10.762222
+        },
+        "keyAccentLanguage": "qaryat_an_nushayh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tannushat",
+        "location": {
+          "lat": 31.8742348,
+          "lng": 10.9750484
+        },
+        "keyAccentLanguage": "tannushat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ghadames",
+        "location": {
+          "lat": 30.1317637,
+          "lng": 9.4950555
+        },
+        "keyAccentLanguage": "ghadames"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ghadamis East",
+        "location": {
+          "lat": 30.137671,
+          "lng": 9.706443
+        },
+        "keyAccentLanguage": "ghadamis_east"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tigi",
+        "location": {
+          "lat": 32.0156796,
+          "lng": 11.3550833
+        },
+        "keyAccentLanguage": "tigi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tfalfalt",
+        "location": {
+          "lat": 31.8742348,
+          "lng": 10.9750484
+        },
+        "keyAccentLanguage": "tfalfalt"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qasbat Dhiyab",
+        "location": {
+          "lat": 31.8742348,
+          "lng": 10.9750484
+        },
+        "keyAccentLanguage": "qasbat_dhiyab"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Daraj",
+        "location": {
+          "lat": 30.1611742,
+          "lng": 10.4565159
+        },
+        "keyAccentLanguage": "daraj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tamzin",
+        "location": {
+          "lat": 31.8531596,
+          "lng": 11.4183012
+        },
+        "keyAccentLanguage": "tamzin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat Takut",
+        "location": {
+          "lat": 31.95545,
+          "lng": 11.04072
+        },
+        "keyAccentLanguage": "qabilat_takut"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Umm Saffar",
+        "location": {
+          "lat": 31.8742348,
+          "lng": 10.9750484
+        },
+        "keyAccentLanguage": "umm_saffar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Marqas",
+        "location": {
+          "lat": 31.84,
+          "lng": 11.56
+        },
+        "keyAccentLanguage": "marqas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tirakt",
+        "location": {
+          "lat": 31.8742348,
+          "lng": 10.9750484
+        },
+        "keyAccentLanguage": "tirakt"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baldat Jurayjin",
+        "location": {
+          "lat": 31.881667,
+          "lng": 11.605278
+        },
+        "keyAccentLanguage": "baldat_jurayjin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qasr al Wat'ani",
+        "location": {
+          "lat": 31.8742348,
+          "lng": 10.9750484
+        },
+        "keyAccentLanguage": "qasr_al_wat'ani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Majabirah",
+        "location": {
+          "lat": 31.867821,
+          "lng": 11.19756
+        },
+        "keyAccentLanguage": "al_majabirah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tandimmirah",
+        "location": {
+          "lat": 31.8742348,
+          "lng": 10.9750484
+        },
+        "keyAccentLanguage": "tandimmirah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`Ayn al Ghazaya",
+        "location": {
+          "lat": 31.90416699999999,
+          "lng": 10.814167
+        },
+        "keyAccentLanguage": "`ayn_al_ghazaya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Ghazzabiyah",
+        "location": {
+          "lat": 32.016667,
+          "lng": 10.833333
+        },
+        "keyAccentLanguage": "al_ghazzabiyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat al Fayasilah",
+        "location": {
+          "lat": 31.8742348,
+          "lng": 10.9750484
+        },
+        "keyAccentLanguage": "qaryat_al_fayasilah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Wazin",
+        "location": {
+          "lat": 31.9427743,
+          "lng": 10.6675267
+        },
+        "keyAccentLanguage": "wazin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tinzaght",
+        "location": {
+          "lat": 31.8742348,
+          "lng": 10.9750484
+        },
+        "keyAccentLanguage": "tinzaght"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sinawin",
+        "location": {
+          "lat": 31.0252103,
+          "lng": 10.6027654
+        },
+        "keyAccentLanguage": "sinawin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baldat Diqqi",
+        "location": {
+          "lat": 31.946111,
+          "lng": 11.669722
+        },
+        "keyAccentLanguage": "baldat_diqqi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baldat Tuqtah",
+        "location": {
+          "lat": 31.8742348,
+          "lng": 10.9750484
+        },
+        "keyAccentLanguage": "baldat_tuqtah"
+      }
+    ],
+    "enNameLanguage": "Nalut",
+    "keyAccentLanguage": "nalut"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 32.6914909,
+      "lng": 11.8891721
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Farwah",
+        "location": {
+          "lat": 32.6914909,
+          "lng": 11.8891721
+        },
+        "keyAccentLanguage": "farwah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al `Assah",
+        "location": {
+          "lat": 32.8295926,
+          "lng": 11.6356881
+        },
+        "keyAccentLanguage": "al_`assah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sabratha",
+        "location": {
+          "lat": 32.7811016,
+          "lng": 12.4495221
+        },
+        "keyAccentLanguage": "sabratha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "El-Uotia",
+        "location": {
+          "lat": 32.6914909,
+          "lng": 11.8891721
+        },
+        "keyAccentLanguage": "el-uotia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Assah",
+        "location": {
+          "lat": 32.8295926,
+          "lng": 11.6356881
+        },
+        "keyAccentLanguage": "al_assah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al `Ujaylat",
+        "location": {
+          "lat": 32.6914909,
+          "lng": 11.8891721
+        },
+        "keyAccentLanguage": "al_`ujaylat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dahman",
+        "location": {
+          "lat": 32.6914909,
+          "lng": 11.8891721
+        },
+        "keyAccentLanguage": "dahman"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Suq al `Alaliqah",
+        "location": {
+          "lat": 32.75,
+          "lng": 11.983333
+        },
+        "keyAccentLanguage": "suq_al_`alaliqah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abu ar Rish",
+        "location": {
+          "lat": 32.6914909,
+          "lng": 11.8891721
+        },
+        "keyAccentLanguage": "abu_ar_rish"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zuwarah",
+        "location": {
+          "lat": 32.9307148,
+          "lng": 12.0807713
+        },
+        "keyAccentLanguage": "zuwarah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Jumayl",
+        "location": {
+          "lat": 32.8559851,
+          "lng": 12.0575469
+        },
+        "keyAccentLanguage": "al_jumayl"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ra's Ajdir",
+        "location": {
+          "lat": 33.1488409,
+          "lng": 11.5631744
+        },
+        "keyAccentLanguage": "ra's_ajdir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Suq ad Dawawidah",
+        "location": {
+          "lat": 32.6914909,
+          "lng": 11.8891721
+        },
+        "keyAccentLanguage": "suq_ad_dawawidah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Riqdalin",
+        "location": {
+          "lat": 32.8872089,
+          "lng": 11.9862958
+        },
+        "keyAccentLanguage": "riqdalin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Watyah",
+        "location": {
+          "lat": 32.46666700000001,
+          "lng": 11.766667
+        },
+        "keyAccentLanguage": "al_watyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ash Shaykh Bu `Ujaylah",
+        "location": {
+          "lat": 32.6914909,
+          "lng": 11.8891721
+        },
+        "keyAccentLanguage": "ash_shaykh_bu_`ujaylah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zaltan",
+        "location": {
+          "lat": 32.9566376,
+          "lng": 11.8492577
+        },
+        "keyAccentLanguage": "zaltan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bu Kammash",
+        "location": {
+          "lat": 33.0742224,
+          "lng": 11.7367233
+        },
+        "keyAccentLanguage": "bu_kammash"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Suq al `Alaliqah",
+        "location": {
+          "lat": 32.75,
+          "lng": 11.983333
+        },
+        "keyAccentLanguage": "suq_al_`alaliqah"
+      }
+    ],
+    "enNameLanguage": "Nuqat al Khams",
+    "keyAccentLanguage": "nuqat_al_khams"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 27.0365406,
+      "lng": 14.4290236
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Samnu",
+        "location": {
+          "lat": 27.2707626,
+          "lng": 14.9038451
+        },
+        "keyAccentLanguage": "samnu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Jadid",
+        "location": {
+          "lat": 27.0510506,
+          "lng": 14.4155666
+        },
+        "keyAccentLanguage": "al_jadid"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ghadduwah",
+        "location": {
+          "lat": 26.4410237,
+          "lng": 14.2512221
+        },
+        "keyAccentLanguage": "ghadduwah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Az Zighan",
+        "location": {
+          "lat": 27.388149,
+          "lng": 14.91929
+        },
+        "keyAccentLanguage": "az_zighan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hijarah",
+        "location": {
+          "lat": 27.016667,
+          "lng": 14.466667
+        },
+        "keyAccentLanguage": "hijarah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tamanhint",
+        "location": {
+          "lat": 27.2088934,
+          "lng": 14.6238048
+        },
+        "keyAccentLanguage": "tamanhint"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Umm al `Abid",
+        "location": {
+          "lat": 27.516979,
+          "lng": 15.02808
+        },
+        "keyAccentLanguage": "umm_al_`abid"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Umm al Abid",
+        "location": {
+          "lat": 27.516979,
+          "lng": 15.02808
+        },
+        "keyAccentLanguage": "umm_al_abid"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Umm al Ahrar",
+        "location": {
+          "lat": 27.517,
+          "lng": 15
+        },
+        "keyAccentLanguage": "umm_al_ahrar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sabha",
+        "location": {
+          "lat": 27.039,
+          "lng": 14.424
+        },
+        "keyAccentLanguage": "sabha"
+      }
+    ],
+    "enNameLanguage": "Sabha",
+    "keyAccentLanguage": "sabha"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 31.189689,
+      "lng": 16.5701927
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sirte",
+        "location": {
+          "lat": 31.189689,
+          "lng": 16.5701927
+        },
+        "keyAccentLanguage": "sirte"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "As Sultan",
+        "location": {
+          "lat": 31.1105396,
+          "lng": 17.1395903
+        },
+        "keyAccentLanguage": "as_sultan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ra's Lanuf",
+        "location": {
+          "lat": 30.5776012,
+          "lng": 18.420103
+        },
+        "keyAccentLanguage": "ra's_lanuf"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mintaqat Wadi Harawah",
+        "location": {
+          "lat": 31.05,
+          "lng": 17.283333
+        },
+        "keyAccentLanguage": "mintaqat_wadi_harawah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "As Sidrah",
+        "location": {
+          "lat": 30.6388629,
+          "lng": 18.3385977
+        },
+        "keyAccentLanguage": "as_sidrah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "An Nawfaliyah",
+        "location": {
+          "lat": 30.7801398,
+          "lng": 17.8376541
+        },
+        "keyAccentLanguage": "an_nawfaliyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bin Jawwad",
+        "location": {
+          "lat": 30.8001995,
+          "lng": 18.0865424
+        },
+        "keyAccentLanguage": "bin_jawwad"
+      }
+    ],
+    "enNameLanguage": "Sirte",
+    "keyAccentLanguage": "sirte"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 32.8872094,
+      "lng": 13.1913383
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tajura'",
+        "location": {
+          "lat": 32.8279425,
+          "lng": 13.3818345
+        },
+        "keyAccentLanguage": "tajura'"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Hanshir",
+        "location": {
+          "lat": 32.9,
+          "lng": 13.25
+        },
+        "keyAccentLanguage": "al_hanshir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Funduq al Jahsh",
+        "location": {
+          "lat": 32.8877109,
+          "lng": 13.187186
+        },
+        "keyAccentLanguage": "funduq_al_jahsh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Shatal al Ghabat",
+        "location": {
+          "lat": 32.8877109,
+          "lng": 13.187186
+        },
+        "keyAccentLanguage": "shatal_al_ghabat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qasr Khiyar",
+        "location": {
+          "lat": 32.8877109,
+          "lng": 13.187186
+        },
+        "keyAccentLanguage": "qasr_khiyar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Fatih",
+        "location": {
+          "lat": 32.8756005,
+          "lng": 13.2838397
+        },
+        "keyAccentLanguage": "al_fatih"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qaryat al Baladiyah",
+        "location": {
+          "lat": 34.4348302,
+          "lng": 35.835968
+        },
+        "keyAccentLanguage": "qaryat_al_baladiyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mu`askar Jalu",
+        "location": {
+          "lat": 35.4020988,
+          "lng": 0.1400257
+        },
+        "keyAccentLanguage": "mu`askar_jalu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hayy al Andalus",
+        "location": {
+          "lat": 32.8877109,
+          "lng": 13.187186
+        },
+        "keyAccentLanguage": "hayy_al_andalus"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Hamidiyah",
+        "location": {
+          "lat": 32.8877109,
+          "lng": 13.187186
+        },
+        "keyAccentLanguage": "al_hamidiyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bab Tajura'",
+        "location": {
+          "lat": 32.8919033,
+          "lng": 13.2223932
+        },
+        "keyAccentLanguage": "bab_tajura'"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bu Sittah",
+        "location": {
+          "lat": 32.8877109,
+          "lng": 13.187186
+        },
+        "keyAccentLanguage": "bu_sittah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bab Akkarah",
+        "location": {
+          "lat": 32.8712117,
+          "lng": 13.1725929
+        },
+        "keyAccentLanguage": "bab_akkarah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qarqarish",
+        "location": {
+          "lat": 32.8877109,
+          "lng": 13.187186
+        },
+        "keyAccentLanguage": "qarqarish"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat Awlad Dhiyab",
+        "location": {
+          "lat": 32.8877109,
+          "lng": 13.187186
+        },
+        "keyAccentLanguage": "qabilat_awlad_dhiyab"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Suq al Jum`ah",
+        "location": {
+          "lat": 32.8877109,
+          "lng": 13.187186
+        },
+        "keyAccentLanguage": "suq_al_jum`ah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qurji",
+        "location": {
+          "lat": 32.8877109,
+          "lng": 13.187186
+        },
+        "keyAccentLanguage": "qurji"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bab Qarqarish",
+        "location": {
+          "lat": 32.8877109,
+          "lng": 13.187186
+        },
+        "keyAccentLanguage": "bab_qarqarish"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bu al Ashhar",
+        "location": {
+          "lat": 32.8877109,
+          "lng": 13.187186
+        },
+        "keyAccentLanguage": "bu_al_ashhar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qasr al Qarabulli",
+        "location": {
+          "lat": 32.7443171,
+          "lng": 13.7167853
+        },
+        "keyAccentLanguage": "qasr_al_qarabulli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abu Salim",
+        "location": {
+          "lat": 32.842771,
+          "lng": 13.1718603
+        },
+        "keyAccentLanguage": "abu_salim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tripoli",
+        "location": {
+          "lat": 32.8877109,
+          "lng": 13.187186
+        },
+        "keyAccentLanguage": "tripoli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bab al Aziziyah",
+        "location": {
+          "lat": 32.8877109,
+          "lng": 13.187186
+        },
+        "keyAccentLanguage": "bab_al_aziziyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sidi Bin al Bashiri",
+        "location": {
+          "lat": 32.683333,
+          "lng": 13.566667
+        },
+        "keyAccentLanguage": "sidi_bin_al_bashiri"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat Awlad Bin Ahmad",
+        "location": {
+          "lat": 32.8877109,
+          "lng": 13.187186
+        },
+        "keyAccentLanguage": "qabilat_awlad_bin_ahmad"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bab al `Aziziyah",
+        "location": {
+          "lat": 32.8877109,
+          "lng": 13.187186
+        },
+        "keyAccentLanguage": "bab_al_`aziziyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`Ayn Zarah",
+        "location": {
+          "lat": 32.8265702,
+          "lng": 13.2573047
+        },
+        "keyAccentLanguage": "`ayn_zarah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qabilat Dajibitah",
+        "location": {
+          "lat": 32.8877109,
+          "lng": 13.187186
+        },
+        "keyAccentLanguage": "qabilat_dajibitah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Awlad Bin Ahmad",
+        "location": {
+          "lat": 32.8877109,
+          "lng": 13.187186
+        },
+        "keyAccentLanguage": "awlad_bin_ahmad"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Suq al Jumah",
+        "location": {
+          "lat": 32.8748727,
+          "lng": 13.254805
+        },
+        "keyAccentLanguage": "suq_al_jumah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abyar as Sababil",
+        "location": {
+          "lat": 32.8877109,
+          "lng": 13.187186
+        },
+        "keyAccentLanguage": "abyar_as_sababil"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bab `Akkarah",
+        "location": {
+          "lat": 32.8712117,
+          "lng": 13.1725929
+        },
+        "keyAccentLanguage": "bab_`akkarah"
+      }
+    ],
+    "enNameLanguage": "Tripoli",
+    "keyAccentLanguage": "tripoli"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 26.4225926,
+      "lng": 12.6216211
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "At Tanahmu",
+        "location": {
+          "lat": 26.6300199,
+          "lng": 13.62838
+        },
+        "keyAccentLanguage": "at_tanahmu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Fujayj",
+        "location": {
+          "lat": 26.4225926,
+          "lng": 12.6216211
+        },
+        "keyAccentLanguage": "al_fujayj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Fuqar",
+        "location": {
+          "lat": 26.4225926,
+          "lng": 12.6216211
+        },
+        "keyAccentLanguage": "al_fuqar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Taramhe",
+        "location": {
+          "lat": 26.66313,
+          "lng": 12.33524
+        },
+        "keyAccentLanguage": "taramhe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qasr Barruru",
+        "location": {
+          "lat": 26.4225926,
+          "lng": 12.6216211
+        },
+        "keyAccentLanguage": "qasr_barruru"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ar Raheba",
+        "location": {
+          "lat": 26.4225926,
+          "lng": 12.6216211
+        },
+        "keyAccentLanguage": "ar_raheba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tuiua",
+        "location": {
+          "lat": 26.4225926,
+          "lng": 12.6216211
+        },
+        "keyAccentLanguage": "tuiua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sidi `Ali",
+        "location": {
+          "lat": 26.6218729,
+          "lng": 13.6218016
+        },
+        "keyAccentLanguage": "sidi_`ali"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Khara'iq",
+        "location": {
+          "lat": 26.4225926,
+          "lng": 12.6216211
+        },
+        "keyAccentLanguage": "al_khara'iq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ar Raqabah",
+        "location": {
+          "lat": 24.4062455,
+          "lng": 32.8886705
+        },
+        "keyAccentLanguage": "ar_raqabah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ubari",
+        "location": {
+          "lat": 26.5810176,
+          "lng": 12.7939759
+        },
+        "keyAccentLanguage": "ubari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Taglin",
+        "location": {
+          "lat": 26.4225926,
+          "lng": 12.6216211
+        },
+        "keyAccentLanguage": "taglin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "As Snudi",
+        "location": {
+          "lat": 26.4225926,
+          "lng": 12.6216211
+        },
+        "keyAccentLanguage": "as_snudi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jarmah",
+        "location": {
+          "lat": 26.5532006,
+          "lng": 13.1120504
+        },
+        "keyAccentLanguage": "jarmah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Hamra'",
+        "location": {
+          "lat": 26.764038,
+          "lng": 13.889839
+        },
+        "keyAccentLanguage": "al_hamra'"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Garagara",
+        "location": {
+          "lat": 26.55,
+          "lng": 13.216667
+        },
+        "keyAccentLanguage": "garagara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Khulayf",
+        "location": {
+          "lat": 26.4225926,
+          "lng": 12.6216211
+        },
+        "keyAccentLanguage": "khulayf"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Ghurayfah",
+        "location": {
+          "lat": 26.5235915,
+          "lng": 13.0097724
+        },
+        "keyAccentLanguage": "al_ghurayfah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tuskin",
+        "location": {
+          "lat": 26.583333,
+          "lng": 13.566667
+        },
+        "keyAccentLanguage": "tuskin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Qaraya",
+        "location": {
+          "lat": 26.533333,
+          "lng": 13.366667
+        },
+        "keyAccentLanguage": "al_qaraya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Abyad",
+        "location": {
+          "lat": 26.761351,
+          "lng": 13.99481
+        },
+        "keyAccentLanguage": "al_abyad"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Ghuraybat",
+        "location": {
+          "lat": 26.4225926,
+          "lng": 12.6216211
+        },
+        "keyAccentLanguage": "al_ghuraybat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Hatiyah",
+        "location": {
+          "lat": 26.55,
+          "lng": 12.95
+        },
+        "keyAccentLanguage": "al_hatiyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qasr Khulayf",
+        "location": {
+          "lat": 26.7144199,
+          "lng": 13.8854007
+        },
+        "keyAccentLanguage": "qasr_khulayf"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qasr Bint Bayyah",
+        "location": {
+          "lat": 26.5991296,
+          "lng": 13.5581527
+        },
+        "keyAccentLanguage": "qasr_bint_bayyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Burayk",
+        "location": {
+          "lat": 26.55,
+          "lng": 13.15
+        },
+        "keyAccentLanguage": "burayk"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qasr Larocu",
+        "location": {
+          "lat": 26.561041,
+          "lng": 13.2447059
+        },
+        "keyAccentLanguage": "qasr_larocu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tuosc",
+        "location": {
+          "lat": 26.533333,
+          "lng": 13.083333
+        },
+        "keyAccentLanguage": "tuosc"
+      }
+    ],
+    "enNameLanguage": "Wadi al Hayaa",
+    "keyAccentLanguage": "wadi_al_hayaa"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 27.7351468,
+      "lng": 12.4380581
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Brach",
+        "location": {
+          "lat": 27.7351468,
+          "lng": 12.4380581
+        },
+        "keyAccentLanguage": "brach"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zalwaz",
+        "location": {
+          "lat": 27.7351468,
+          "lng": 12.4380581
+        },
+        "keyAccentLanguage": "zalwaz"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barqawi",
+        "location": {
+          "lat": 27.56955,
+          "lng": 14.24062
+        },
+        "keyAccentLanguage": "barqawi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adri",
+        "location": {
+          "lat": 27.7351468,
+          "lng": 12.4380581
+        },
+        "keyAccentLanguage": "adri"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "An Nusf",
+        "location": {
+          "lat": 27.7351468,
+          "lng": 12.4380581
+        },
+        "keyAccentLanguage": "an_nusf"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tamzawah",
+        "location": {
+          "lat": 27.5810154,
+          "lng": 14.1989038
+        },
+        "keyAccentLanguage": "tamzawah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ashkida",
+        "location": {
+          "lat": 27.7351468,
+          "lng": 12.4380581
+        },
+        "keyAccentLanguage": "ashkida"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aqar",
+        "location": {
+          "lat": 27.5360945,
+          "lng": 14.1611302
+        },
+        "keyAccentLanguage": "aqar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qirah",
+        "location": {
+          "lat": 27.56673,
+          "lng": 14.35495
+        },
+        "keyAccentLanguage": "qirah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dabdab",
+        "location": {
+          "lat": 27.7351468,
+          "lng": 12.4380581
+        },
+        "keyAccentLanguage": "dabdab"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barqin",
+        "location": {
+          "lat": 27.589947,
+          "lng": 13.6015463
+        },
+        "keyAccentLanguage": "barqin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qayqam",
+        "location": {
+          "lat": 27.557211,
+          "lng": 14.20933
+        },
+        "keyAccentLanguage": "qayqam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Wanzarik",
+        "location": {
+          "lat": 27.5548187,
+          "lng": 13.5494757
+        },
+        "keyAccentLanguage": "wanzarik"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Qurdah",
+        "location": {
+          "lat": 27.7351468,
+          "lng": 12.4380581
+        },
+        "keyAccentLanguage": "al_qurdah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Duwaysah",
+        "location": {
+          "lat": 27.9522222,
+          "lng": 12.7927778
+        },
+        "keyAccentLanguage": "ad_duwaysah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Quttah",
+        "location": {
+          "lat": 27.5477084,
+          "lng": 13.6271084
+        },
+        "keyAccentLanguage": "quttah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tmisan",
+        "location": {
+          "lat": 27.530069,
+          "lng": 13.31416
+        },
+        "keyAccentLanguage": "tmisan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Mahruqah",
+        "location": {
+          "lat": 27.4919378,
+          "lng": 13.9753155
+        },
+        "keyAccentLanguage": "al_mahruqah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tarut",
+        "location": {
+          "lat": 27.517895,
+          "lng": 13.869178
+        },
+        "keyAccentLanguage": "tarut"
+      }
+    ],
+    "enNameLanguage": "Wadi al Shatii",
+    "keyAccentLanguage": "wadi_al_shatii"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 32.7630282,
+      "lng": 12.7364962
+    },
+    "districtList": [],
+    "enNameLanguage": "Zawiya",
+    "keyAccentLanguage": "zawiya"
+  }
+]

@@ -1,0 +1,744 @@
+[
+  {
+    "code": 0,
+    "category": null,
+    "type": "Geographic Region",
+    "location": {
+      "lat": 22.1822311,
+      "lng": 106.1580937
+    },
+    "viNameLanguage": "Đông Bắc Bộ",
+    "postalCode": "17000",
+    "keyAccentLanguage": "Dong_Bac_Bo",
+    "provinceCity": [
+      {
+        "code": 1,
+        "type": "Provincial City",
+        "location": {
+          "lat": 21.2819921,
+          "lng": 106.1974769
+        },
+        "viNameLanguage": "Bắc Giang",
+        "keyAccentLanguage": "Bac_Giang"
+      },
+      {
+        "code": 2,
+        "type": "Provincial City",
+        "location": {
+          "lat": 22.1442685,
+          "lng": 105.8345426
+        },
+        "viNameLanguage": "Bắc Kạn",
+        "keyAccentLanguage": "Bac_Kan"
+      },
+      {
+        "code": 3,
+        "type": "Provincial City",
+        "location": {
+          "lat": 22.6666369,
+          "lng": 106.2639852
+        },
+        "viNameLanguage": "Cao Bằng",
+        "keyAccentLanguage": "Cao_Bang"
+      },
+      {
+        "code": 4,
+        "type": "Provincial City",
+        "location": {
+          "lat": 22.8025588,
+          "lng": 104.9784494
+        },
+        "viNameLanguage": "Hà Giang",
+        "keyAccentLanguage": "Ha_Giang"
+      },
+      {
+        "code": 5,
+        "type": "Provincial City",
+        "location": {
+          "lat": 21.853708,
+          "lng": 106.761519
+        },
+        "viNameLanguage": "Lạng Sơn",
+        "keyAccentLanguage": "Lang_Son"
+      },
+      {
+        "code": 6,
+        "type": "Provincial City",
+        "location": {
+          "lat": 21.4219791,
+          "lng": 105.2296992
+        },
+        "viNameLanguage": "Phú Thọ",
+        "keyAccentLanguage": "Phu_Tho"
+      },
+      {
+        "code": 7,
+        "type": "Provincial City",
+        "location": {
+          "lat": 21.5671559,
+          "lng": 105.8252038
+        },
+        "viNameLanguage": "Thái Nguyên",
+        "keyAccentLanguage": "Thai_Nguyen"
+      },
+      {
+        "code": 8,
+        "type": "Provincial City",
+        "location": {
+          "lat": 21.2432501,
+          "lng": 107.1957203
+        },
+        "viNameLanguage": "Quảng Ninh",
+        "keyAccentLanguage": "Quang_Ninh"
+      },
+      {
+        "code": 9,
+        "type": "Provincial City",
+        "location": {
+          "lat": 21.7767246,
+          "lng": 105.2280196
+        },
+        "viNameLanguage": "Tuyên Quang",
+        "keyAccentLanguage": "Tuyen_Quang"
+      }
+    ]
+  },
+  {
+    "code": 10,
+    "category": null,
+    "type": "Geographic Region",
+    "location": {
+      "lat": 21.6469663,
+      "lng": 103.914399
+    },
+    "viNameLanguage": "Tây Bắc Bộ",
+    "postalCode": "170001",
+    "keyAccentLanguage": "Tay_Bac_Bo",
+    "provinceCity": [
+      {
+        "code": 11,
+        "type": "Provincial City",
+        "location": {
+          "lat": 20.6861265,
+          "lng": 105.3131185
+        },
+        "viNameLanguage": "Hòa Bình",
+        "keyAccentLanguage": "Hoa_Binh"
+      },
+      {
+        "code": 12,
+        "type": "Provincial City",
+        "location": {
+          "lat": 22.3862227,
+          "lng": 103.4702631
+        },
+        "viNameLanguage": "Lai Châu",
+        "keyAccentLanguage": "Lai_Chau"
+      },
+      {
+        "code": 13,
+        "type": "Provincial City",
+        "location": {
+          "lat": 22.4766166,
+          "lng": 103.9795715
+        },
+        "viNameLanguage": "Lào Cai",
+        "keyAccentLanguage": "Lao_Cai"
+      },
+      {
+        "code": 14,
+        "type": "Provincial City",
+        "location": {
+          "lat": 21.3269024,
+          "lng": 103.9143869
+        },
+        "viNameLanguage": "Sơn La",
+        "keyAccentLanguage": "Son_La"
+      },
+      {
+        "code": 15,
+        "type": "Provincial City",
+        "location": {
+          "lat": 21.7167689,
+          "lng": 104.8985878
+        },
+        "viNameLanguage": "Yên Bái",
+        "keyAccentLanguage": "Yen_Bai"
+      },
+      {
+        "code": 16,
+        "type": "Provincial City",
+        "location": {
+          "lat": 21.4063898,
+          "lng": 103.0321549
+        },
+        "viNameLanguage": "Điện Biên",
+        "keyAccentLanguage": "Dien_Bien"
+      }
+    ]
+  },
+  {
+    "code": 17,
+    "category": null,
+    "type": "Geographic Region",
+    "location": {
+      "lat": 20.9033868,
+      "lng": 105.9699878
+    },
+    "viNameLanguage": "Đồng bằng sông Hồng",
+    "postalCode": "170002",
+    "keyAccentLanguage": "Dong_bang_song_Hong",
+    "provinceCity": [
+      {
+        "code": 18,
+        "type": "Provincial City",
+        "location": {
+          "lat": 21.1781766,
+          "lng": 106.0710255
+        },
+        "viNameLanguage": "Bắc Ninh",
+        "keyAccentLanguage": "Bac_Ninh"
+      },
+      {
+        "code": 19,
+        "type": "Provincial City",
+        "location": {
+          "lat": 20.5835196,
+          "lng": 105.92299
+        },
+        "viNameLanguage": "Hà Nam",
+        "keyAccentLanguage": "Ha_Nam"
+      },
+      {
+        "code": 20,
+        "type": "Provincial City",
+        "location": {
+          "lat": 21.0277644,
+          "lng": 105.8341598
+        },
+        "viNameLanguage": "Hà Nội",
+        "keyAccentLanguage": "Ha_Noi"
+      },
+      {
+        "code": 21,
+        "type": "Provincial City",
+        "location": {
+          "lat": 20.9373413,
+          "lng": 106.3145542
+        },
+        "viNameLanguage": "Hải Dương",
+        "keyAccentLanguage": "Hai_Duong"
+      },
+      {
+        "code": 22,
+        "type": "Provincial City",
+        "location": {
+          "lat": 20.8449115,
+          "lng": 106.6880841
+        },
+        "viNameLanguage": "Hải Phòng",
+        "keyAccentLanguage": "Hai_Phong"
+      },
+      {
+        "code": 23,
+        "type": "Provincial City",
+        "location": {
+          "lat": 20.6546819,
+          "lng": 106.057849
+        },
+        "viNameLanguage": "Hưng Yên",
+        "keyAccentLanguage": "Hung_Yen"
+      },
+      {
+        "code": 24,
+        "type": "Provincial City",
+        "location": {
+          "lat": 20.4388225,
+          "lng": 106.1621053
+        },
+        "viNameLanguage": "Nam Định",
+        "keyAccentLanguage": "Nam_Dinh"
+      },
+      {
+        "code": 25,
+        "type": "Provincial City",
+        "location": {
+          "lat": 20.2506149,
+          "lng": 105.9744536
+        },
+        "viNameLanguage": "Ninh Bình",
+        "keyAccentLanguage": "Ninh_Binh"
+      },
+      {
+        "code": 26,
+        "type": "Provincial City",
+        "location": {
+          "lat": 20.4463471,
+          "lng": 106.3365828
+        },
+        "viNameLanguage": "Thái Bình",
+        "keyAccentLanguage": "Thai_Binh"
+      },
+      {
+        "code": 27,
+        "type": "Provincial City",
+        "location": {
+          "lat": 21.3608805,
+          "lng": 105.5474373
+        },
+        "viNameLanguage": "Vĩnh Phúc",
+        "keyAccentLanguage": "Vinh_Phuc"
+      }
+    ]
+  },
+  {
+    "code": 28,
+    "category": null,
+    "type": "Geographic Region",
+    "location": {
+      "lat": 17.9459438,
+      "lng": 105.9699878
+    },
+    "viNameLanguage": "Bắc Trung Bộ",
+    "postalCode": "170003",
+    "keyAccentLanguage": "Bac_Trung_Bo",
+    "provinceCity": [
+      {
+        "code": 29,
+        "type": "Provincial City",
+        "location": {
+          "lat": 18.3420419,
+          "lng": 105.8923492
+        },
+        "viNameLanguage": "Hà Tĩnh",
+        "keyAccentLanguage": "Ha_Tinh"
+      },
+      {
+        "code": 30,
+        "type": "Provincial City",
+        "location": {
+          "lat": 19.1483712,
+          "lng": 104.8454619
+        },
+        "viNameLanguage": "Nghệ An",
+        "keyAccentLanguage": "Nghe_An"
+      },
+      {
+        "code": 31,
+        "type": "Provincial City",
+        "location": {
+          "lat": 17.4627582,
+          "lng": 106.2522143
+        },
+        "viNameLanguage": "Quảng Bình",
+        "keyAccentLanguage": "Quang_Binh"
+      },
+      {
+        "code": 32,
+        "type": "Provincial City",
+        "location": {
+          "lat": 16.7403074,
+          "lng": 107.1854679
+        },
+        "viNameLanguage": "Quảng Trị",
+        "keyAccentLanguage": "Quang_Tri"
+      },
+      {
+        "code": 33,
+        "type": "Provincial City",
+        "location": {
+          "lat": 19.806692,
+          "lng": 105.7851816
+        },
+        "viNameLanguage": "Thanh Hóa",
+        "keyAccentLanguage": "Thanh_Hoa"
+      },
+      {
+        "code": 34,
+        "type": "Provincial City",
+        "location": {
+          "lat": 16.3546659,
+          "lng": 107.4795173
+        },
+        "viNameLanguage": "Thừa Thiên Huế",
+        "keyAccentLanguage": "Thua_Thien_Hue"
+      }
+    ]
+  },
+  {
+    "code": 35,
+    "category": null,
+    "type": "Geographic Region",
+    "location": {
+      "lat": 15.1738009,
+      "lng": 108.6175626
+    },
+    "viNameLanguage": "Nam Trung Bộ",
+    "postalCode": "170004",
+    "keyAccentLanguage": "Nam_Trung_Bo",
+    "provinceCity": [
+      {
+        "code": 36,
+        "type": "Provincial City",
+        "location": {
+          "lat": 11.0644893,
+          "lng": 107.9531836
+        },
+        "viNameLanguage": "Bình Thuận",
+        "keyAccentLanguage": "Binh_Thuan"
+      },
+      {
+        "code": 37,
+        "type": "Provincial City",
+        "location": {
+          "lat": 13.8860211,
+          "lng": 109.1077389
+        },
+        "viNameLanguage": "Bình Định",
+        "keyAccentLanguage": "Binh_Dinh"
+      },
+      {
+        "code": 38,
+        "type": "Provincial City",
+        "location": {
+          "lat": 12.2098868,
+          "lng": 109.0928764
+        },
+        "viNameLanguage": "Khánh Hòa",
+        "keyAccentLanguage": "Khanh_Hoa"
+      },
+      {
+        "code": 39,
+        "type": "Provincial City",
+        "location": {
+          "lat": 11.6994025,
+          "lng": 108.902683
+        },
+        "viNameLanguage": "Ninh Thuận",
+        "keyAccentLanguage": "Ninh_Thuan"
+      },
+      {
+        "code": 40,
+        "type": "Provincial City",
+        "location": {
+          "lat": 13.0881861,
+          "lng": 109.0928764
+        },
+        "viNameLanguage": "Phú Yên",
+        "keyAccentLanguage": "Phu_Yen"
+      },
+      {
+        "code": 41,
+        "type": "Provincial City",
+        "location": {
+          "lat": 15.598002,
+          "lng": 107.8583868
+        },
+        "viNameLanguage": "Quảng Nam",
+        "keyAccentLanguage": "Quang_Nam"
+      },
+      {
+        "code": 42,
+        "type": "Provincial City",
+        "location": {
+          "lat": 15.1241304,
+          "lng": 108.8143831
+        },
+        "viNameLanguage": "Quảng Ngãi",
+        "keyAccentLanguage": "Quang_Ngai"
+      },
+      {
+        "code": 43,
+        "type": "Provincial City",
+        "location": {
+          "lat": 16.0544068,
+          "lng": 108.2021667
+        },
+        "viNameLanguage": "Đà Nẵng",
+        "keyAccentLanguage": "Da_Nang"
+      }
+    ]
+  },
+  {
+    "code": 44,
+    "category": null,
+    "type": "Geographic Region",
+    "location": {
+      "lat": 13.0635025,
+      "lng": 108.2377519
+    },
+    "viNameLanguage": "Tây Nguyên",
+    "postalCode": "170005",
+    "keyAccentLanguage": "Tay_Nguyen",
+    "provinceCity": [
+      {
+        "code": 45,
+        "type": "Provincial City",
+        "location": {
+          "lat": 13.7737008,
+          "lng": 108.2377519
+        },
+        "viNameLanguage": "Gia Lai",
+        "keyAccentLanguage": "Gia_Lai"
+      },
+      {
+        "code": 46,
+        "type": "Provincial City",
+        "location": {
+          "lat": 14.3497403,
+          "lng": 108.0004606
+        },
+        "viNameLanguage": "Kon Tum",
+        "keyAccentLanguage": "Kon_Tum"
+      },
+      {
+        "code": 47,
+        "type": "Provincial City",
+        "location": {
+          "lat": 11.5752791,
+          "lng": 108.1428669
+        },
+        "viNameLanguage": "Lâm Đồng",
+        "keyAccentLanguage": "Lam_Dong"
+      },
+      {
+        "code": 48,
+        "type": "Provincial City",
+        "location": {
+          "lat": 12.7100116,
+          "lng": 108.2377519
+        },
+        "viNameLanguage": "Đắk Lăk",
+        "keyAccentLanguage": "Dak_Lak"
+      },
+      {
+        "code": 49,
+        "type": "Provincial City",
+        "location": {
+          "lat": 12.3017683,
+          "lng": 107.763621
+        },
+        "viNameLanguage": "Đắk Nông",
+        "keyAccentLanguage": "Dak_Nong"
+      }
+    ]
+  },
+  {
+    "code": 50,
+    "category": null,
+    "type": "Geographic Region",
+    "location": {
+      "lat": 11.2136337,
+      "lng": 106.912251
+    },
+    "viNameLanguage": "Đông Nam Bộ",
+    "postalCode": "170006",
+    "keyAccentLanguage": "Dong_Nam_Bo",
+    "provinceCity": [
+      {
+        "code": 51,
+        "type": "Provincial City",
+        "location": {
+          "lat": 10.5417397,
+          "lng": 107.2429976
+        },
+        "viNameLanguage": "Bà Rịa - Vũng Tàu",
+        "keyAccentLanguage": "Ba_Ria_-_Vung_Tau"
+      },
+      {
+        "code": 52,
+        "type": "Provincial City",
+        "location": {
+          "lat": 11.1423834,
+          "lng": 106.6291304
+        },
+        "viNameLanguage": "Bình Dương",
+        "keyAccentLanguage": "Binh_Duong"
+      },
+      {
+        "code": 53,
+        "type": "Provincial City",
+        "location": {
+          "lat": 11.7511894,
+          "lng": 106.7234639
+        },
+        "viNameLanguage": "Bình Phước",
+        "keyAccentLanguage": "Binh_Phuoc"
+      },
+      {
+        "code": 54,
+        "type": "Provincial City",
+        "location": {
+          "lat": 10.8230989,
+          "lng": 106.6296638
+        },
+        "viNameLanguage": "Hồ Chí Minh",
+        "keyAccentLanguage": "Ho_Chi_Minh"
+      },
+      {
+        "code": 55,
+        "type": "Provincial City",
+        "location": {
+          "lat": 11.3351554,
+          "lng": 106.1098854
+        },
+        "viNameLanguage": "Tây Ninh",
+        "keyAccentLanguage": "Tay_Ninh"
+      },
+      {
+        "code": 56,
+        "type": "Provincial City",
+        "location": {
+          "lat": 11.1097639,
+          "lng": 107.1957203
+        },
+        "viNameLanguage": "Đồng Nai",
+        "keyAccentLanguage": "Dong_Nai"
+      }
+    ]
+  },
+  {
+    "code": 57,
+    "category": null,
+    "type": "Geographic Region",
+    "location": {
+      "lat": 10.063363,
+      "lng": 105.5943388
+    },
+    "viNameLanguage": "Đồng bằng sông Cửu Long",
+    "postalCode": "170007",
+    "keyAccentLanguage": "Dong_bang_song_Cuu_Long",
+    "provinceCity": [
+      {
+        "code": 58,
+        "type": "Provincial City",
+        "location": {
+          "lat": 10.5215836,
+          "lng": 105.1258955
+        },
+        "viNameLanguage": "An Giang",
+        "keyAccentLanguage": "An_Giang"
+      },
+      {
+        "code": 59,
+        "type": "Provincial City",
+        "location": {
+          "lat": 9.2940027,
+          "lng": 105.7215663
+        },
+        "viNameLanguage": "Bạc Liêu",
+        "keyAccentLanguage": "Bac_Lieu"
+      },
+      {
+        "code": 60,
+        "type": "Provincial City",
+        "location": {
+          "lat": 10.2433556,
+          "lng": 106.375551
+        },
+        "viNameLanguage": "Bến Tre",
+        "keyAccentLanguage": "Ben_Tre"
+      },
+      {
+        "code": 61,
+        "type": "Provincial City",
+        "location": {
+          "lat": 9.1526728,
+          "lng": 105.1960795
+        },
+        "viNameLanguage": "Cà Mau",
+        "keyAccentLanguage": "Ca_Mau"
+      },
+      {
+        "code": 62,
+        "type": "Provincial City",
+        "location": {
+          "lat": 10.0451618,
+          "lng": 105.7468535
+        },
+        "viNameLanguage": "Cần Thơ",
+        "keyAccentLanguage": "Can_Tho"
+      },
+      {
+        "code": 63,
+        "type": "Provincial City",
+        "location": {
+          "lat": 9.757897999999999,
+          "lng": 105.6412527
+        },
+        "viNameLanguage": "Hậu Giang",
+        "keyAccentLanguage": "Hau_Giang"
+      },
+      {
+        "code": 64,
+        "type": "Provincial City",
+        "location": {
+          "lat": 9.8249587,
+          "lng": 105.1258955
+        },
+        "viNameLanguage": "Kiên Giang",
+        "keyAccentLanguage": "Kien_Giang"
+      },
+      {
+        "code": 65,
+        "type": "Provincial City",
+        "location": {
+          "lat": 10.5607168,
+          "lng": 106.6497623
+        },
+        "viNameLanguage": "Long An",
+        "keyAccentLanguage": "Long_An"
+      },
+      {
+        "code": 66,
+        "type": "Provincial City",
+        "location": {
+          "lat": 9.602521,
+          "lng": 105.9739049
+        },
+        "viNameLanguage": "Sóc Trăng",
+        "keyAccentLanguage": "Soc_Trang"
+      },
+      {
+        "code": 67,
+        "type": "Provincial City",
+        "location": {
+          "lat": 10.4190052,
+          "lng": 106.2992912
+        },
+        "viNameLanguage": "Tiền Giang",
+        "keyAccentLanguage": "Tien_Giang"
+      },
+      {
+        "code": 68,
+        "type": "Provincial City",
+        "location": {
+          "lat": 9.9513316,
+          "lng": 106.3346061
+        },
+        "viNameLanguage": "Trà Vinh",
+        "keyAccentLanguage": "Tra_Vinh"
+      },
+      {
+        "code": 69,
+        "type": "Provincial City",
+        "location": {
+          "lat": 10.239574,
+          "lng": 105.9571928
+        },
+        "viNameLanguage": "Vĩnh Long",
+        "keyAccentLanguage": "Vinh_Long"
+      },
+      {
+        "code": 70,
+        "type": "Provincial City",
+        "location": {
+          "lat": 10.4937989,
+          "lng": 105.6881788
+        },
+        "viNameLanguage": "Đồng Tháp",
+        "keyAccentLanguage": "Dong_Thap"
+      }
+    ]
+  }
+]

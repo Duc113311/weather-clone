@@ -1,0 +1,5073 @@
+[
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -18.8791902,
+      "lng": 47.5079055
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antsirabe",
+        "location": {
+          "lat": -19.8730077,
+          "lng": 47.0291162
+        },
+        "keyAccentLanguage": "antsirabe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antananarivo",
+        "location": {
+          "lat": -18.8791902,
+          "lng": 47.5079055
+        },
+        "keyAccentLanguage": "antananarivo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Itaosy",
+        "location": {
+          "lat": -18.9127901,
+          "lng": 47.4896736
+        },
+        "keyAccentLanguage": "itaosy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alasora",
+        "location": {
+          "lat": -18.9590241,
+          "lng": 47.5717516
+        },
+        "keyAccentLanguage": "alasora"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambano",
+        "location": {
+          "lat": -19.7994502,
+          "lng": 47.0278773
+        },
+        "keyAccentLanguage": "ambano"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ahidratimo",
+        "location": {
+          "lat": -18.9184607,
+          "lng": 47.5211293
+        },
+        "keyAccentLanguage": "ahidratimo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambohibary",
+        "location": {
+          "lat": -18.848831,
+          "lng": 47.4760116
+        },
+        "keyAccentLanguage": "ambohibary"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ampanotokana",
+        "location": {
+          "lat": -18.8992534,
+          "lng": 47.5582392
+        },
+        "keyAccentLanguage": "ampanotokana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amboanana",
+        "location": {
+          "lat": -19.1516335,
+          "lng": 47.1673195
+        },
+        "keyAccentLanguage": "amboanana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambohidranandriana",
+        "location": {
+          "lat": -18.8711215,
+          "lng": 47.4945198
+        },
+        "keyAccentLanguage": "ambohidranandriana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambatomiady",
+        "location": {
+          "lat": -19.693489,
+          "lng": 47.41183100000001
+        },
+        "keyAccentLanguage": "ambatomiady"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambodifarihy",
+        "location": {
+          "lat": -19.461338,
+          "lng": 47.5766661
+        },
+        "keyAccentLanguage": "ambodifarihy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambohitrambo",
+        "location": {
+          "lat": -18.922899,
+          "lng": 47.176929
+        },
+        "keyAccentLanguage": "ambohitrambo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amparihivato",
+        "location": {
+          "lat": -18.9184607,
+          "lng": 47.5211293
+        },
+        "keyAccentLanguage": "amparihivato"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Analavory",
+        "location": {
+          "lat": -18.9749354,
+          "lng": 46.7212587
+        },
+        "keyAccentLanguage": "analavory"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Idoko",
+        "location": {
+          "lat": -18.9184607,
+          "lng": 47.5211293
+        },
+        "keyAccentLanguage": "idoko"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambodiriana",
+        "location": {
+          "lat": -19.6028488,
+          "lng": 47.5373633
+        },
+        "keyAccentLanguage": "ambodiriana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bengaina",
+        "location": {
+          "lat": -18.9184607,
+          "lng": 47.5211293
+        },
+        "keyAccentLanguage": "bengaina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Besakay",
+        "location": {
+          "lat": -18.9184607,
+          "lng": 47.5211293
+        },
+        "keyAccentLanguage": "besakay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Haramalaza",
+        "location": {
+          "lat": -18.9184607,
+          "lng": 47.5211293
+        },
+        "keyAccentLanguage": "haramalaza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Behenjy",
+        "location": {
+          "lat": -19.2102834,
+          "lng": 47.4870496
+        },
+        "keyAccentLanguage": "behenjy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambohimandroso",
+        "location": {
+          "lat": -18.8796623,
+          "lng": 47.4968631
+        },
+        "keyAccentLanguage": "ambohimandroso"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambohitompoina",
+        "location": {
+          "lat": -18.8711215,
+          "lng": 47.4945198
+        },
+        "keyAccentLanguage": "ambohitompoina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Analamarina",
+        "location": {
+          "lat": -18.9184607,
+          "lng": 47.5211293
+        },
+        "keyAccentLanguage": "analamarina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mandoto",
+        "location": {
+          "lat": -19.584961,
+          "lng": 46.29047
+        },
+        "keyAccentLanguage": "mandoto"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ankisabe",
+        "location": {
+          "lat": -19.29994,
+          "lng": 46.47773
+        },
+        "keyAccentLanguage": "ankisabe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antanjombolamena",
+        "location": {
+          "lat": -18.9184607,
+          "lng": 47.5211293
+        },
+        "keyAccentLanguage": "antanjombolamena"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambatomanoina",
+        "location": {
+          "lat": -18.31311,
+          "lng": 47.624229
+        },
+        "keyAccentLanguage": "ambatomanoina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andranomanelatra",
+        "location": {
+          "lat": -19.7839747,
+          "lng": 47.1065417
+        },
+        "keyAccentLanguage": "andranomanelatra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antanifotsy",
+        "location": {
+          "lat": -19.6513424,
+          "lng": 47.3266162
+        },
+        "keyAccentLanguage": "antanifotsy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambohitrimanjaka",
+        "location": {
+          "lat": -18.8674543,
+          "lng": 47.4438452
+        },
+        "keyAccentLanguage": "ambohitrimanjaka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Analaroa",
+        "location": {
+          "lat": -18.85,
+          "lng": 45.95
+        },
+        "keyAccentLanguage": "analaroa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ampefy",
+        "location": {
+          "lat": -19.0413356,
+          "lng": 46.7345522
+        },
+        "keyAccentLanguage": "ampefy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belanitra",
+        "location": {
+          "lat": -18.8404755,
+          "lng": 47.5226323
+        },
+        "keyAccentLanguage": "belanitra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fieferana",
+        "location": {
+          "lat": -18.829955,
+          "lng": 47.6449017
+        },
+        "keyAccentLanguage": "fieferana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Faratsiho",
+        "location": {
+          "lat": -19.4021302,
+          "lng": 46.9537969
+        },
+        "keyAccentLanguage": "faratsiho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anosiala",
+        "location": {
+          "lat": -18.7883162,
+          "lng": 47.39900900000001
+        },
+        "keyAccentLanguage": "anosiala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Betatao",
+        "location": {
+          "lat": -18.21229,
+          "lng": 47.87833
+        },
+        "keyAccentLanguage": "betatao"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antoby",
+        "location": {
+          "lat": -18.8109159,
+          "lng": 47.4746754
+        },
+        "keyAccentLanguage": "antoby"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambohimanga",
+        "location": {
+          "lat": -18.7604641,
+          "lng": 47.5623138
+        },
+        "keyAccentLanguage": "ambohimanga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambongamarina",
+        "location": {
+          "lat": -18.3503378,
+          "lng": 47.9416114
+        },
+        "keyAccentLanguage": "ambongamarina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anjozorobe",
+        "location": {
+          "lat": -18.4001194,
+          "lng": 47.8699039
+        },
+        "keyAccentLanguage": "anjozorobe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bevato",
+        "location": {
+          "lat": -18.6930751,
+          "lng": 46.2584801
+        },
+        "keyAccentLanguage": "bevato"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ankadinondry",
+        "location": {
+          "lat": -18.9574437,
+          "lng": 46.4585333
+        },
+        "keyAccentLanguage": "ankadinondry"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mahitsy",
+        "location": {
+          "lat": -18.9390199,
+          "lng": 47.5938703
+        },
+        "keyAccentLanguage": "mahitsy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antanamalaza",
+        "location": {
+          "lat": -19.4400354,
+          "lng": 47.6356755
+        },
+        "keyAccentLanguage": "antanamalaza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antanetibe",
+        "location": {
+          "lat": -18.8333421,
+          "lng": 47.4674282
+        },
+        "keyAccentLanguage": "antanetibe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belobaka",
+        "location": {
+          "lat": -18.990801,
+          "lng": 45.687229
+        },
+        "keyAccentLanguage": "belobaka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fidirana",
+        "location": {
+          "lat": -19.513559,
+          "lng": 46.565022
+        },
+        "keyAccentLanguage": "fidirana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belazao",
+        "location": {
+          "lat": -19.8796985,
+          "lng": 46.96602720000001
+        },
+        "keyAccentLanguage": "belazao"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Soavinandriana",
+        "location": {
+          "lat": -18.8975831,
+          "lng": 47.5416606
+        },
+        "keyAccentLanguage": "soavinandriana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Angodongodona",
+        "location": {
+          "lat": -19.098596,
+          "lng": 47.7693054
+        },
+        "keyAccentLanguage": "angodongodona"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambohitromby",
+        "location": {
+          "lat": -18.9673967,
+          "lng": 47.5803522
+        },
+        "keyAccentLanguage": "ambohitromby"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antsahatanteraka",
+        "location": {
+          "lat": -18.95,
+          "lng": 46.433333
+        },
+        "keyAccentLanguage": "antsahatanteraka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ankazomiriotra",
+        "location": {
+          "lat": -18.8831045,
+          "lng": 47.5091326
+        },
+        "keyAccentLanguage": "ankazomiriotra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambaravaranala",
+        "location": {
+          "lat": -19.8361382,
+          "lng": 45.9420118
+        },
+        "keyAccentLanguage": "ambaravaranala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ilafy",
+        "location": {
+          "lat": -18.8453303,
+          "lng": 47.557011
+        },
+        "keyAccentLanguage": "ilafy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bemasoandro",
+        "location": {
+          "lat": -18.9127679,
+          "lng": 47.4892443
+        },
+        "keyAccentLanguage": "bemasoandro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambatobe",
+        "location": {
+          "lat": -19.104,
+          "lng": 45.715
+        },
+        "keyAccentLanguage": "ambatobe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anjoma-Ramartina",
+        "location": {
+          "lat": -19.645,
+          "lng": 45.953
+        },
+        "keyAccentLanguage": "anjoma-ramartina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambohimasina",
+        "location": {
+          "lat": -19.657,
+          "lng": 46.73
+        },
+        "keyAccentLanguage": "ambohimasina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ankadivory",
+        "location": {
+          "lat": -19.779,
+          "lng": 47.633
+        },
+        "keyAccentLanguage": "ankadivory"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambatomanjaka",
+        "location": {
+          "lat": -18.883,
+          "lng": 46.867
+        },
+        "keyAccentLanguage": "ambatomanjaka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beronono",
+        "location": {
+          "lat": -19.893,
+          "lng": 47.533
+        },
+        "keyAccentLanguage": "beronono"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambatomirahavavy",
+        "location": {
+          "lat": -18.933,
+          "lng": 47.383
+        },
+        "keyAccentLanguage": "ambatomirahavavy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kiranomena",
+        "location": {
+          "lat": -18.298,
+          "lng": 46.054
+        },
+        "keyAccentLanguage": "kiranomena"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antsampandrano",
+        "location": {
+          "lat": -19.547,
+          "lng": 47.59
+        },
+        "keyAccentLanguage": "antsampandrano"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mahasolo",
+        "location": {
+          "lat": -19.127,
+          "lng": 46.364
+        },
+        "keyAccentLanguage": "mahasolo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andramasina",
+        "location": {
+          "lat": -19.189,
+          "lng": 47.588
+        },
+        "keyAccentLanguage": "andramasina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambatondrakalavao",
+        "location": {
+          "lat": -19.433,
+          "lng": 47.5
+        },
+        "keyAccentLanguage": "ambatondrakalavao"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Imerintsiatosika",
+        "location": {
+          "lat": -18.978,
+          "lng": 47.323
+        },
+        "keyAccentLanguage": "imerintsiatosika"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambohitrolomahitsy",
+        "location": {
+          "lat": -18.7,
+          "lng": 47.683
+        },
+        "keyAccentLanguage": "ambohitrolomahitsy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fenoarivobe",
+        "location": {
+          "lat": -18.454,
+          "lng": 46.564
+        },
+        "keyAccentLanguage": "fenoarivobe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambohidrapeto",
+        "location": {
+          "lat": -18.9,
+          "lng": 47.467
+        },
+        "keyAccentLanguage": "ambohidrapeto"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambalanirana",
+        "location": {
+          "lat": -18.765,
+          "lng": 46.51
+        },
+        "keyAccentLanguage": "ambalanirana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ankazobe",
+        "location": {
+          "lat": -18.316,
+          "lng": 47.118
+        },
+        "keyAccentLanguage": "ankazobe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ampitatafika",
+        "location": {
+          "lat": -19.566,
+          "lng": 47.359
+        },
+        "keyAccentLanguage": "ampitatafika"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambatolampy",
+        "location": {
+          "lat": -18.201,
+          "lng": 46.048
+        },
+        "keyAccentLanguage": "ambatolampy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambohitrandriamanitra",
+        "location": {
+          "lat": -19.091,
+          "lng": 47.777
+        },
+        "keyAccentLanguage": "ambohitrandriamanitra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Manazary",
+        "location": {
+          "lat": -19.05,
+          "lng": 46.867
+        },
+        "keyAccentLanguage": "manazary"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andolofotsy",
+        "location": {
+          "lat": -18.754,
+          "lng": 46.636
+        },
+        "keyAccentLanguage": "andolofotsy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambohimanambola",
+        "location": {
+          "lat": -19.809,
+          "lng": 46.617
+        },
+        "keyAccentLanguage": "ambohimanambola"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andoharanofotsy",
+        "location": {
+          "lat": -18.983,
+          "lng": 47.533
+        },
+        "keyAccentLanguage": "andoharanofotsy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Firavahana",
+        "location": {
+          "lat": -18.651,
+          "lng": 46.855
+        },
+        "keyAccentLanguage": "firavahana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Imanga",
+        "location": {
+          "lat": -19.184,
+          "lng": 46.2
+        },
+        "keyAccentLanguage": "imanga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mahaiza",
+        "location": {
+          "lat": -19.907,
+          "lng": 46.806
+        },
+        "keyAccentLanguage": "mahaiza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mahavelona",
+        "location": {
+          "lat": -19.173,
+          "lng": 46.525
+        },
+        "keyAccentLanguage": "mahavelona"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambohijanaka",
+        "location": {
+          "lat": -19,
+          "lng": 47.567
+        },
+        "keyAccentLanguage": "ambohijanaka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antotohazo",
+        "location": {
+          "lat": -18.467,
+          "lng": 47.083
+        },
+        "keyAccentLanguage": "antotohazo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arivonimamo",
+        "location": {
+          "lat": -19.016,
+          "lng": 47.18
+        },
+        "keyAccentLanguage": "arivonimamo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambohimandry",
+        "location": {
+          "lat": -19.083,
+          "lng": 47.367
+        },
+        "keyAccentLanguage": "ambohimandry"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andohala",
+        "location": {
+          "lat": -18.131,
+          "lng": 47.866
+        },
+        "keyAccentLanguage": "andohala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambohidratrimo",
+        "location": {
+          "lat": -18.803,
+          "lng": 47.417
+        },
+        "keyAccentLanguage": "ambohidratrimo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fihaonana",
+        "location": {
+          "lat": -18.605,
+          "lng": 47.204
+        },
+        "keyAccentLanguage": "fihaonana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Miandrarivo",
+        "location": {
+          "lat": -19.443,
+          "lng": 46.751
+        },
+        "keyAccentLanguage": "miandrarivo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fierenana",
+        "location": {
+          "lat": -18.545,
+          "lng": 45.845
+        },
+        "keyAccentLanguage": "fierenana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Betafo",
+        "location": {
+          "lat": -19.838,
+          "lng": 46.858
+        },
+        "keyAccentLanguage": "betafo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambatolampy",
+        "location": {
+          "lat": -18.201,
+          "lng": 46.048
+        },
+        "keyAccentLanguage": "ambatolampy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambohibary",
+        "location": {
+          "lat": -18.848831,
+          "lng": 47.4760116
+        },
+        "keyAccentLanguage": "ambohibary"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mahavelona",
+        "location": {
+          "lat": -19.173,
+          "lng": 46.525
+        },
+        "keyAccentLanguage": "mahavelona"
+      }
+    ],
+    "enNameLanguage": "Antananarivo",
+    "keyAccentLanguage": "antananarivo"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -12.3231349,
+      "lng": 49.2942833
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antalaha",
+        "location": {
+          "lat": -14.9061237,
+          "lng": 50.2785486
+        },
+        "keyAccentLanguage": "antalaha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ampisikinana",
+        "location": {
+          "lat": -12.8752328,
+          "lng": 49.7319925
+        },
+        "keyAccentLanguage": "ampisikinana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andravory",
+        "location": {
+          "lat": -13.8399579,
+          "lng": 49.5891233
+        },
+        "keyAccentLanguage": "andravory"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambodivoara",
+        "location": {
+          "lat": -13.61892,
+          "lng": 49.828289
+        },
+        "keyAccentLanguage": "ambodivoara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bobakindro",
+        "location": {
+          "lat": -13.466667,
+          "lng": 49.683333
+        },
+        "keyAccentLanguage": "bobakindro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ampanefena",
+        "location": {
+          "lat": -13.8575913,
+          "lng": 49.948225
+        },
+        "keyAccentLanguage": "ampanefena"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hell-Ville",
+        "location": {
+          "lat": -13.3970988,
+          "lng": 48.26672790000001
+        },
+        "keyAccentLanguage": "hell-ville"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anaovandrano",
+        "location": {
+          "lat": -15.82091,
+          "lng": 50.3153
+        },
+        "keyAccentLanguage": "anaovandrano"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cap Diego",
+        "location": {
+          "lat": -12.2575,
+          "lng": 49.2805556
+        },
+        "keyAccentLanguage": "cap_diego"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ankatafa",
+        "location": {
+          "lat": -13.6601317,
+          "lng": 48.36888339999999
+        },
+        "keyAccentLanguage": "ankatafa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Irodo",
+        "location": {
+          "lat": -12.72219064684633,
+          "lng": 49.36567028161356
+        },
+        "keyAccentLanguage": "irodo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antsakoabe",
+        "location": {
+          "lat": -12.6674866,
+          "lng": 49.29681859999999
+        },
+        "keyAccentLanguage": "antsakoabe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bemanevikabe",
+        "location": {
+          "lat": -12.5406731,
+          "lng": 49.0716096
+        },
+        "keyAccentLanguage": "bemanevikabe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Maheva",
+        "location": {
+          "lat": -14.432906,
+          "lng": 50.1678121
+        },
+        "keyAccentLanguage": "maheva"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Iharana",
+        "location": {
+          "lat": -13.3702827,
+          "lng": 50.0033677
+        },
+        "keyAccentLanguage": "iharana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mantaly",
+        "location": {
+          "lat": -13.1677433,
+          "lng": 48.9647117
+        },
+        "keyAccentLanguage": "mantaly"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Marodimaka",
+        "location": {
+          "lat": -13.5644612,
+          "lng": 48.8020256
+        },
+        "keyAccentLanguage": "marodimaka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambodisatrana",
+        "location": {
+          "lat": -14.61646,
+          "lng": 49.49073
+        },
+        "keyAccentLanguage": "ambodisatrana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Marovato",
+        "location": {
+          "lat": -14.5974319,
+          "lng": 49.637558
+        },
+        "keyAccentLanguage": "marovato"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Marovatoantsavoko",
+        "location": {
+          "lat": -12.2782989,
+          "lng": 49.2914581
+        },
+        "keyAccentLanguage": "marovatoantsavoko"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Befotaka",
+        "location": {
+          "lat": -12.5183891,
+          "lng": 48.9505159
+        },
+        "keyAccentLanguage": "befotaka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambalamanasy II",
+        "location": {
+          "lat": -14.525,
+          "lng": 49.593
+        },
+        "keyAccentLanguage": "ambalamanasy_ii"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antsakoamanondro",
+        "location": {
+          "lat": -13.617,
+          "lng": 48.5
+        },
+        "keyAccentLanguage": "antsakoamanondro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambanoro",
+        "location": {
+          "lat": -13.369,
+          "lng": 48.317
+        },
+        "keyAccentLanguage": "ambanoro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amboahangibe",
+        "location": {
+          "lat": -14.135,
+          "lng": 49.814
+        },
+        "keyAccentLanguage": "amboahangibe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Farahalana",
+        "location": {
+          "lat": -14.423,
+          "lng": 50.161
+        },
+        "keyAccentLanguage": "farahalana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambalapaiso",
+        "location": {
+          "lat": -14.775,
+          "lng": 49.567
+        },
+        "keyAccentLanguage": "ambalapaiso"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anorotsangana",
+        "location": {
+          "lat": -13.906,
+          "lng": 47.921
+        },
+        "keyAccentLanguage": "anorotsangana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ampijoroana",
+        "location": {
+          "lat": -13.664,
+          "lng": 49.653
+        },
+        "keyAccentLanguage": "ampijoroana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambanja",
+        "location": {
+          "lat": -13.679,
+          "lng": 48.452
+        },
+        "keyAccentLanguage": "ambanja"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sambava",
+        "location": {
+          "lat": -14.251,
+          "lng": 50.154
+        },
+        "keyAccentLanguage": "sambava"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lanjarivo",
+        "location": {
+          "lat": -14.62,
+          "lng": 50.076
+        },
+        "keyAccentLanguage": "lanjarivo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambohitralanana",
+        "location": {
+          "lat": -15.243,
+          "lng": 50.444
+        },
+        "keyAccentLanguage": "ambohitralanana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beramanja",
+        "location": {
+          "lat": -13.336,
+          "lng": 48.867
+        },
+        "keyAccentLanguage": "beramanja"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambinanifaho",
+        "location": {
+          "lat": -14.617,
+          "lng": 50.133
+        },
+        "keyAccentLanguage": "ambinanifaho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambakirano",
+        "location": {
+          "lat": -13.2,
+          "lng": 49.15
+        },
+        "keyAccentLanguage": "ambakirano"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antsohimbondrona",
+        "location": {
+          "lat": -13.077,
+          "lng": 48.861
+        },
+        "keyAccentLanguage": "antsohimbondrona"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ampondra",
+        "location": {
+          "lat": -13.424,
+          "lng": 49.973
+        },
+        "keyAccentLanguage": "ampondra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anaborano",
+        "location": {
+          "lat": -13.547,
+          "lng": 48.826
+        },
+        "keyAccentLanguage": "anaborano"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andranofotsy",
+        "location": {
+          "lat": -14.805,
+          "lng": 50.009
+        },
+        "keyAccentLanguage": "andranofotsy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antsalaka Atsimo",
+        "location": {
+          "lat": -12.633,
+          "lng": 49.25
+        },
+        "keyAccentLanguage": "antsalaka_atsimo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Djangoa",
+        "location": {
+          "lat": -13.832,
+          "lng": 48.461
+        },
+        "keyAccentLanguage": "djangoa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Marojala",
+        "location": {
+          "lat": -14.471,
+          "lng": 50.039
+        },
+        "keyAccentLanguage": "marojala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mahavanona",
+        "location": {
+          "lat": -12.465,
+          "lng": 49.391
+        },
+        "keyAccentLanguage": "mahavanona"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antsirabato",
+        "location": {
+          "lat": -15.018,
+          "lng": 50.323
+        },
+        "keyAccentLanguage": "antsirabato"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambodidimaka",
+        "location": {
+          "lat": -13.749,
+          "lng": 48.48
+        },
+        "keyAccentLanguage": "ambodidimaka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fandriana",
+        "location": {
+          "lat": -12.769,
+          "lng": 48.923
+        },
+        "keyAccentLanguage": "fandriana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ankaramy",
+        "location": {
+          "lat": -13.118,
+          "lng": 49.385
+        },
+        "keyAccentLanguage": "ankaramy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambolobozokely",
+        "location": {
+          "lat": -12.456,
+          "lng": 49.512
+        },
+        "keyAccentLanguage": "ambolobozokely"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ampahana",
+        "location": {
+          "lat": -14.75,
+          "lng": 50.217
+        },
+        "keyAccentLanguage": "ampahana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antsirabe Avaratra",
+        "location": {
+          "lat": -13.967,
+          "lng": 49.967
+        },
+        "keyAccentLanguage": "antsirabe_avaratra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ampondralava",
+        "location": {
+          "lat": -13.167,
+          "lng": 48.933
+        },
+        "keyAccentLanguage": "ampondralava"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antsahanoro",
+        "location": {
+          "lat": -14.816,
+          "lng": 50.119
+        },
+        "keyAccentLanguage": "antsahanoro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ampasimbary",
+        "location": {
+          "lat": -13.45,
+          "lng": 48.519
+        },
+        "keyAccentLanguage": "ampasimbary"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambendrana",
+        "location": {
+          "lat": -13.576,
+          "lng": 48.941
+        },
+        "keyAccentLanguage": "ambendrana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambodiangezoka",
+        "location": {
+          "lat": -14.613,
+          "lng": 49.496
+        },
+        "keyAccentLanguage": "ambodiangezoka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Daraina",
+        "location": {
+          "lat": -13.21,
+          "lng": 49.67
+        },
+        "keyAccentLanguage": "daraina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antsahampano",
+        "location": {
+          "lat": -13.595,
+          "lng": 48.42
+        },
+        "keyAccentLanguage": "antsahampano"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ampanakana",
+        "location": {
+          "lat": -13.088,
+          "lng": 48.921
+        },
+        "keyAccentLanguage": "ampanakana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ampombiantambo",
+        "location": {
+          "lat": -12.68,
+          "lng": 48.95
+        },
+        "keyAccentLanguage": "ampombiantambo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambilobe",
+        "location": {
+          "lat": -13.193,
+          "lng": 49.054
+        },
+        "keyAccentLanguage": "ambilobe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ankijabe",
+        "location": {
+          "lat": -13.514,
+          "lng": 49.07
+        },
+        "keyAccentLanguage": "ankijabe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anivorano Avaratra",
+        "location": {
+          "lat": -12.743,
+          "lng": 49.238
+        },
+        "keyAccentLanguage": "anivorano_avaratra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fanambana",
+        "location": {
+          "lat": -13.55,
+          "lng": 49.983
+        },
+        "keyAccentLanguage": "fanambana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nosiarina",
+        "location": {
+          "lat": -14.217,
+          "lng": 50.05
+        },
+        "keyAccentLanguage": "nosiarina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ironona",
+        "location": {
+          "lat": -12.398,
+          "lng": 48.976
+        },
+        "keyAccentLanguage": "ironona"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anjijaomby",
+        "location": {
+          "lat": -14.3,
+          "lng": 49.983
+        },
+        "keyAccentLanguage": "anjijaomby"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Maroamorthy",
+        "location": {
+          "lat": -14.522,
+          "lng": 49.807
+        },
+        "keyAccentLanguage": "maroamorthy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bemanevika",
+        "location": {
+          "lat": -14.142,
+          "lng": 50.124
+        },
+        "keyAccentLanguage": "bemanevika"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ampohana",
+        "location": {
+          "lat": -13.545,
+          "lng": 48.049
+        },
+        "keyAccentLanguage": "ampohana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anjiabe",
+        "location": {
+          "lat": -12.11,
+          "lng": 49.32
+        },
+        "keyAccentLanguage": "anjiabe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambodimadiro",
+        "location": {
+          "lat": -13.26,
+          "lng": 49.189
+        },
+        "keyAccentLanguage": "ambodimadiro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sosumav",
+        "location": {
+          "lat": -13.073,
+          "lng": 48.915
+        },
+        "keyAccentLanguage": "sosumav"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andapa",
+        "location": {
+          "lat": -14.665,
+          "lng": 49.652
+        },
+        "keyAccentLanguage": "andapa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antsiranana",
+        "location": {
+          "lat": -12.281,
+          "lng": 49.291
+        },
+        "keyAccentLanguage": "antsiranana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bemanandrobe",
+        "location": {
+          "lat": -13.283,
+          "lng": 48.3
+        },
+        "keyAccentLanguage": "bemanandrobe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Manombaro",
+        "location": {
+          "lat": -13.781,
+          "lng": 48.338
+        },
+        "keyAccentLanguage": "manombaro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nosy Faly",
+        "location": {
+          "lat": -13.363,
+          "lng": 48.475
+        },
+        "keyAccentLanguage": "nosy_faly"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Betsakotsako",
+        "location": {
+          "lat": -14.633,
+          "lng": 49.633
+        },
+        "keyAccentLanguage": "betsakotsako"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ampanavoana",
+        "location": {
+          "lat": -15.688,
+          "lng": 50.36
+        },
+        "keyAccentLanguage": "ampanavoana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bealampona",
+        "location": {
+          "lat": -14.05,
+          "lng": 49.45
+        },
+        "keyAccentLanguage": "bealampona"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tsarabaria",
+        "location": {
+          "lat": -13.776,
+          "lng": 49.953
+        },
+        "keyAccentLanguage": "tsarabaria"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Maromandia",
+        "location": {
+          "lat": -15.009,
+          "lng": 50.14
+        },
+        "keyAccentLanguage": "maromandia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambohimitsinjo",
+        "location": {
+          "lat": -14.321,
+          "lng": 49.932
+        },
+        "keyAccentLanguage": "ambohimitsinjo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Doany",
+        "location": {
+          "lat": -14.382,
+          "lng": 49.516
+        },
+        "keyAccentLanguage": "doany"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Betsiaka",
+        "location": {
+          "lat": -13.161,
+          "lng": 49.238
+        },
+        "keyAccentLanguage": "betsiaka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bemaneviky",
+        "location": {
+          "lat": -13.869,
+          "lng": 48.522
+        },
+        "keyAccentLanguage": "bemaneviky"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambatoharana",
+        "location": {
+          "lat": -12.966,
+          "lng": 48.986
+        },
+        "keyAccentLanguage": "ambatoharana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambato",
+        "location": {
+          "lat": -13.373,
+          "lng": 48.492
+        },
+        "keyAccentLanguage": "ambato"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bobasakoa",
+        "location": {
+          "lat": -12.806,
+          "lng": 48.961
+        },
+        "keyAccentLanguage": "bobasakoa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambodimanga",
+        "location": {
+          "lat": -14.702,
+          "lng": 49.61
+        },
+        "keyAccentLanguage": "ambodimanga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambodibonara",
+        "location": {
+          "lat": -13.158,
+          "lng": 48.855
+        },
+        "keyAccentLanguage": "ambodibonara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Joffreville",
+        "location": {
+          "lat": -12.521,
+          "lng": 49.177
+        },
+        "keyAccentLanguage": "joffreville"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sirama",
+        "location": {
+          "lat": -13.079,
+          "lng": 49.033
+        },
+        "keyAccentLanguage": "sirama"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Manakana",
+        "location": {
+          "lat": -13.746,
+          "lng": 50.064
+        },
+        "keyAccentLanguage": "manakana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Milanoa",
+        "location": {
+          "lat": -13.583,
+          "lng": 49.785
+        },
+        "keyAccentLanguage": "milanoa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belavenoka",
+        "location": {
+          "lat": -13.438,
+          "lng": 49.627
+        },
+        "keyAccentLanguage": "belavenoka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dzamandzar",
+        "location": {
+          "lat": -13.354,
+          "lng": 48.191
+        },
+        "keyAccentLanguage": "dzamandzar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ankaramy",
+        "location": {
+          "lat": -13.118,
+          "lng": 49.385
+        },
+        "keyAccentLanguage": "ankaramy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Marofinaritra",
+        "location": {
+          "lat": -15.033,
+          "lng": 50.117
+        },
+        "keyAccentLanguage": "marofinaritra"
+      }
+    ],
+    "enNameLanguage": "Antsiranana",
+    "keyAccentLanguage": "antsiranana"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -21.4546147,
+      "lng": 47.08750449999999
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alakamisy Itenina",
+        "location": {
+          "lat": -21.64608,
+          "lng": 47.161701
+        },
+        "keyAccentLanguage": "alakamisy_itenina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambodilafa",
+        "location": {
+          "lat": -20.5154,
+          "lng": 48.175621
+        },
+        "keyAccentLanguage": "ambodilafa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambodinonoka",
+        "location": {
+          "lat": -20.9831499,
+          "lng": 47.889778
+        },
+        "keyAccentLanguage": "ambodinonoka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambalamarina",
+        "location": {
+          "lat": -21.4437523,
+          "lng": 47.0616318
+        },
+        "keyAccentLanguage": "ambalamarina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambondrona",
+        "location": {
+          "lat": -21.266667,
+          "lng": 46.98333299999999
+        },
+        "keyAccentLanguage": "ambondrona"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambatofotsy",
+        "location": {
+          "lat": -21.76248,
+          "lng": 47.493488
+        },
+        "keyAccentLanguage": "ambatofotsy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambila",
+        "location": {
+          "lat": -22.0023899,
+          "lng": 47.97067999999999
+        },
+        "keyAccentLanguage": "ambila"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambohinamboarina",
+        "location": {
+          "lat": -21.0165236,
+          "lng": 46.9999471
+        },
+        "keyAccentLanguage": "ambohinamboarina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andemaka",
+        "location": {
+          "lat": -22.266667,
+          "lng": 47.766667
+        },
+        "keyAccentLanguage": "andemaka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ankily",
+        "location": {
+          "lat": -22.3858257,
+          "lng": 46.094096
+        },
+        "keyAccentLanguage": "ankily"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Etrotroka",
+        "location": {
+          "lat": -22.891371,
+          "lng": 47.58812
+        },
+        "keyAccentLanguage": "etrotroka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bevoandelaka",
+        "location": {
+          "lat": -22.683333,
+          "lng": 46.566667
+        },
+        "keyAccentLanguage": "bevoandelaka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sandrandahy",
+        "location": {
+          "lat": -20.3496126,
+          "lng": 47.2960554
+        },
+        "keyAccentLanguage": "sandrandahy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bekisopa",
+        "location": {
+          "lat": -21.66296,
+          "lng": 45.886501
+        },
+        "keyAccentLanguage": "bekisopa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alakamisy-Ambohimaha",
+        "location": {
+          "lat": -21.329,
+          "lng": 47.228
+        },
+        "keyAccentLanguage": "alakamisy-ambohimaha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambatovory",
+        "location": {
+          "lat": -21.045,
+          "lng": 46.586
+        },
+        "keyAccentLanguage": "ambatovory"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anosivelo",
+        "location": {
+          "lat": -22.733,
+          "lng": 47.767
+        },
+        "keyAccentLanguage": "anosivelo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amparihy Est",
+        "location": {
+          "lat": -23.972,
+          "lng": 47.324
+        },
+        "keyAccentLanguage": "amparihy_est"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Betorabato",
+        "location": {
+          "lat": -21.75,
+          "lng": 46.828
+        },
+        "keyAccentLanguage": "betorabato"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambohimahazo",
+        "location": {
+          "lat": -20.667,
+          "lng": 47.083
+        },
+        "keyAccentLanguage": "ambohimahazo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Analalory",
+        "location": {
+          "lat": -22.623,
+          "lng": 46.237
+        },
+        "keyAccentLanguage": "analalory"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Analamarina",
+        "location": {
+          "lat": -20.956,
+          "lng": 47.843
+        },
+        "keyAccentLanguage": "analamarina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andranovorivato",
+        "location": {
+          "lat": -21.633,
+          "lng": 46.983
+        },
+        "keyAccentLanguage": "andranovorivato"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambalamainty",
+        "location": {
+          "lat": -21.534,
+          "lng": 48.104
+        },
+        "keyAccentLanguage": "ambalamainty"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fianarantsoa",
+        "location": {
+          "lat": -21.453,
+          "lng": 47.085
+        },
+        "keyAccentLanguage": "fianarantsoa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Befotaka",
+        "location": {
+          "lat": -23.825,
+          "lng": 46.978
+        },
+        "keyAccentLanguage": "befotaka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anosimparihy",
+        "location": {
+          "lat": -21.15,
+          "lng": 48.233
+        },
+        "keyAccentLanguage": "anosimparihy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ikongo",
+        "location": {
+          "lat": -21.884,
+          "lng": 47.442
+        },
+        "keyAccentLanguage": "ikongo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Befeta",
+        "location": {
+          "lat": -21.228,
+          "lng": 47.049
+        },
+        "keyAccentLanguage": "befeta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambalatany",
+        "location": {
+          "lat": -22.544,
+          "lng": 47.586
+        },
+        "keyAccentLanguage": "ambalatany"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Farafangana",
+        "location": {
+          "lat": -22.823,
+          "lng": 47.83
+        },
+        "keyAccentLanguage": "farafangana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambatomarina",
+        "location": {
+          "lat": -20.581,
+          "lng": 47.03
+        },
+        "keyAccentLanguage": "ambatomarina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fandriana",
+        "location": {
+          "lat": -20.24,
+          "lng": 47.371
+        },
+        "keyAccentLanguage": "fandriana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Manakara",
+        "location": {
+          "lat": -22.146,
+          "lng": 48.016
+        },
+        "keyAccentLanguage": "manakara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Vohitrandriana",
+        "location": {
+          "lat": -20.763,
+          "lng": 48.263
+        },
+        "keyAccentLanguage": "vohitrandriana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fasintsara",
+        "location": {
+          "lat": -20.7,
+          "lng": 47.7
+        },
+        "keyAccentLanguage": "fasintsara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Begogo",
+        "location": {
+          "lat": -23.499,
+          "lng": 46.693
+        },
+        "keyAccentLanguage": "begogo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beretra",
+        "location": {
+          "lat": -22.717,
+          "lng": 47.606
+        },
+        "keyAccentLanguage": "beretra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fiadanana",
+        "location": {
+          "lat": -20.921,
+          "lng": 47.155
+        },
+        "keyAccentLanguage": "fiadanana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antanifotsy",
+        "location": {
+          "lat": -22.114,
+          "lng": 46.902
+        },
+        "keyAccentLanguage": "antanifotsy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bevata",
+        "location": {
+          "lat": -23.283,
+          "lng": 47.283
+        },
+        "keyAccentLanguage": "bevata"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambohimiera",
+        "location": {
+          "lat": -21.065,
+          "lng": 47.509
+        },
+        "keyAccentLanguage": "ambohimiera"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anenjendava",
+        "location": {
+          "lat": -23.356,
+          "lng": 47.472
+        },
+        "keyAccentLanguage": "anenjendava"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambalavao",
+        "location": {
+          "lat": -21.835,
+          "lng": 46.937
+        },
+        "keyAccentLanguage": "ambalavao"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Besakoa",
+        "location": {
+          "lat": -22.058,
+          "lng": 45.319
+        },
+        "keyAccentLanguage": "besakoa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambahy",
+        "location": {
+          "lat": -20.773,
+          "lng": 48.476
+        },
+        "keyAccentLanguage": "ambahy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambinanindrano",
+        "location": {
+          "lat": -20.692,
+          "lng": 47.57
+        },
+        "keyAccentLanguage": "ambinanindrano"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambovombe",
+        "location": {
+          "lat": -20.803,
+          "lng": 47.071
+        },
+        "keyAccentLanguage": "ambovombe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bekatra",
+        "location": {
+          "lat": -22.104,
+          "lng": 47.719
+        },
+        "keyAccentLanguage": "bekatra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambositra",
+        "location": {
+          "lat": -20.531,
+          "lng": 47.243
+        },
+        "keyAccentLanguage": "ambositra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anambotaka",
+        "location": {
+          "lat": -23.082,
+          "lng": 47.721
+        },
+        "keyAccentLanguage": "anambotaka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambongo",
+        "location": {
+          "lat": -23.45,
+          "lng": 47.267
+        },
+        "keyAccentLanguage": "ambongo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antaratra",
+        "location": {
+          "lat": -22.015,
+          "lng": 46.113
+        },
+        "keyAccentLanguage": "antaratra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambinanimbaza",
+        "location": {
+          "lat": -21.652,
+          "lng": 46.638
+        },
+        "keyAccentLanguage": "ambinanimbaza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambatomainty",
+        "location": {
+          "lat": -22.006,
+          "lng": 46.814
+        },
+        "keyAccentLanguage": "ambatomainty"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antoetra",
+        "location": {
+          "lat": -20.778,
+          "lng": 47.317
+        },
+        "keyAccentLanguage": "antoetra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ampandramaika",
+        "location": {
+          "lat": -20.914,
+          "lng": 45.817
+        },
+        "keyAccentLanguage": "ampandramaika"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ampasinambo",
+        "location": {
+          "lat": -20.523,
+          "lng": 48.02
+        },
+        "keyAccentLanguage": "ampasinambo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mahafasa",
+        "location": {
+          "lat": -22.667,
+          "lng": 47.65
+        },
+        "keyAccentLanguage": "mahafasa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambohimitombo",
+        "location": {
+          "lat": -20.744,
+          "lng": 47.455
+        },
+        "keyAccentLanguage": "ambohimitombo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Androrangavola",
+        "location": {
+          "lat": -21.507,
+          "lng": 47.72
+        },
+        "keyAccentLanguage": "androrangavola"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ampasimanjeva",
+        "location": {
+          "lat": -21.741,
+          "lng": 48.042
+        },
+        "keyAccentLanguage": "ampasimanjeva"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambohimahamasina",
+        "location": {
+          "lat": -21.938,
+          "lng": 47.185
+        },
+        "keyAccentLanguage": "ambohimahamasina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Analafolaka",
+        "location": {
+          "lat": -22.093,
+          "lng": 47.057
+        },
+        "keyAccentLanguage": "analafolaka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mahasoabe",
+        "location": {
+          "lat": -21.594,
+          "lng": 47.22
+        },
+        "keyAccentLanguage": "mahasoabe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Iakora",
+        "location": {
+          "lat": -23.108,
+          "lng": 46.65
+        },
+        "keyAccentLanguage": "iakora"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Evato",
+        "location": {
+          "lat": -22.621,
+          "lng": 47.684
+        },
+        "keyAccentLanguage": "evato"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Benanoremana",
+        "location": {
+          "lat": -23.343,
+          "lng": 47.698
+        },
+        "keyAccentLanguage": "benanoremana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tsaravary",
+        "location": {
+          "lat": -21.25,
+          "lng": 48.304
+        },
+        "keyAccentLanguage": "tsaravary"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tsitondroina",
+        "location": {
+          "lat": -21.311,
+          "lng": 45.994
+        },
+        "keyAccentLanguage": "tsitondroina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambohimanga Atsimo",
+        "location": {
+          "lat": -20.883,
+          "lng": 47.594
+        },
+        "keyAccentLanguage": "ambohimanga_atsimo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Midongy Atsimo",
+        "location": {
+          "lat": -23.594,
+          "lng": 47.022
+        },
+        "keyAccentLanguage": "midongy_atsimo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sahavato",
+        "location": {
+          "lat": -20.594,
+          "lng": 48.319
+        },
+        "keyAccentLanguage": "sahavato"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amboanjo",
+        "location": {
+          "lat": -22,
+          "lng": 47.85
+        },
+        "keyAccentLanguage": "amboanjo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ankarimbelo",
+        "location": {
+          "lat": -22.138,
+          "lng": 47.33
+        },
+        "keyAccentLanguage": "ankarimbelo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Soavina",
+        "location": {
+          "lat": -20.387,
+          "lng": 46.916
+        },
+        "keyAccentLanguage": "soavina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mahaditra",
+        "location": {
+          "lat": -21.779,
+          "lng": 47.058
+        },
+        "keyAccentLanguage": "mahaditra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Befody",
+        "location": {
+          "lat": -20.767,
+          "lng": 47.933
+        },
+        "keyAccentLanguage": "befody"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambohitsara",
+        "location": {
+          "lat": -22.073,
+          "lng": 47.875
+        },
+        "keyAccentLanguage": "ambohitsara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amborompotsy",
+        "location": {
+          "lat": -20.617,
+          "lng": 46.245
+        },
+        "keyAccentLanguage": "amborompotsy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Vohipaho",
+        "location": {
+          "lat": -23.55,
+          "lng": 47.5
+        },
+        "keyAccentLanguage": "vohipaho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tsarazaza",
+        "location": {
+          "lat": -20.17,
+          "lng": 47.305
+        },
+        "keyAccentLanguage": "tsarazaza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bemandresy",
+        "location": {
+          "lat": -22.794,
+          "lng": 47.053
+        },
+        "keyAccentLanguage": "bemandresy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Varika, Nosy",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "varika,_nosy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antsenavolo",
+        "location": {
+          "lat": -21.392,
+          "lng": 48.047
+        },
+        "keyAccentLanguage": "antsenavolo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Vangaindrano",
+        "location": {
+          "lat": -23.357,
+          "lng": 47.6
+        },
+        "keyAccentLanguage": "vangaindrano"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ifanadiana",
+        "location": {
+          "lat": -21.304,
+          "lng": 47.634
+        },
+        "keyAccentLanguage": "ifanadiana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mananjary",
+        "location": {
+          "lat": -21.236,
+          "lng": 48.351
+        },
+        "keyAccentLanguage": "mananjary"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambinda",
+        "location": {
+          "lat": -22.574,
+          "lng": 46.369
+        },
+        "keyAccentLanguage": "ambinda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambohimandroso",
+        "location": {
+          "lat": -21.883,
+          "lng": 46.95
+        },
+        "keyAccentLanguage": "ambohimandroso"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anjoma",
+        "location": {
+          "lat": -21.885,
+          "lng": 47.01
+        },
+        "keyAccentLanguage": "anjoma"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Vohilava",
+        "location": {
+          "lat": -21.09,
+          "lng": 48.017
+        },
+        "keyAccentLanguage": "vohilava"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ankazotokana",
+        "location": {
+          "lat": -21.328,
+          "lng": 48.147
+        },
+        "keyAccentLanguage": "ankazotokana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Imito",
+        "location": {
+          "lat": -20.417,
+          "lng": 47.317
+        },
+        "keyAccentLanguage": "imito"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fenoarivo",
+        "location": {
+          "lat": -20.871,
+          "lng": 46.875
+        },
+        "keyAccentLanguage": "fenoarivo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambatofinandrahana",
+        "location": {
+          "lat": -20.554,
+          "lng": 46.803
+        },
+        "keyAccentLanguage": "ambatofinandrahana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Efatsy",
+        "location": {
+          "lat": -23.115,
+          "lng": 47.609
+        },
+        "keyAccentLanguage": "efatsy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Iarintsena",
+        "location": {
+          "lat": -21.839,
+          "lng": 46.889
+        },
+        "keyAccentLanguage": "iarintsena"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambalamarina",
+        "location": {
+          "lat": -21.4437523,
+          "lng": 47.0616318
+        },
+        "keyAccentLanguage": "ambalamarina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fiadanana",
+        "location": {
+          "lat": -20.921,
+          "lng": 47.155
+        },
+        "keyAccentLanguage": "fiadanana"
+      }
+    ],
+    "enNameLanguage": "Fianarantsoa",
+    "keyAccentLanguage": "fianarantsoa"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -15.6921494,
+      "lng": 46.3336857
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambalakirajy",
+        "location": {
+          "lat": -15.746,
+          "lng": 48.515
+        },
+        "keyAccentLanguage": "ambalakirajy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambalanjanakomby",
+        "location": {
+          "lat": -16.7,
+          "lng": 47.072
+        },
+        "keyAccentLanguage": "ambalanjanakomby"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambalabonga",
+        "location": {
+          "lat": -16.777,
+          "lng": 47.024
+        },
+        "keyAccentLanguage": "ambalabonga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambinda",
+        "location": {
+          "lat": -16.403,
+          "lng": 45.842
+        },
+        "keyAccentLanguage": "ambinda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambaliha",
+        "location": {
+          "lat": -13.983,
+          "lng": 48.1
+        },
+        "keyAccentLanguage": "ambaliha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambodimanary",
+        "location": {
+          "lat": -15.533,
+          "lng": 48.367
+        },
+        "keyAccentLanguage": "ambodimanary"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambatolampy",
+        "location": {
+          "lat": -17.235,
+          "lng": 47.245
+        },
+        "keyAccentLanguage": "ambatolampy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambalamamoko",
+        "location": {
+          "lat": -17.174,
+          "lng": 46.851
+        },
+        "keyAccentLanguage": "ambalamamoko"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambalatsiraka",
+        "location": {
+          "lat": -14.552,
+          "lng": 48.65
+        },
+        "keyAccentLanguage": "ambalatsiraka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ankaramihely",
+        "location": {
+          "lat": -13.977,
+          "lng": 48.177
+        },
+        "keyAccentLanguage": "ankaramihely"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambodivohitra",
+        "location": {
+          "lat": -14.602,
+          "lng": 48.563
+        },
+        "keyAccentLanguage": "ambodivohitra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ampako-Ambalarano",
+        "location": {
+          "lat": -16.755,
+          "lng": 44.816
+        },
+        "keyAccentLanguage": "ampako-ambalarano"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambodimotso Atsimo",
+        "location": {
+          "lat": -15.383,
+          "lng": 48.585
+        },
+        "keyAccentLanguage": "ambodimotso_atsimo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ampandriakilandy",
+        "location": {
+          "lat": -14.921,
+          "lng": 48.073
+        },
+        "keyAccentLanguage": "ampandriakilandy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambodimanga Atsimo",
+        "location": {
+          "lat": -16.045,
+          "lng": 48.4
+        },
+        "keyAccentLanguage": "ambodimanga_atsimo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambereny",
+        "location": {
+          "lat": -18.923,
+          "lng": 44.393
+        },
+        "keyAccentLanguage": "ambereny"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambatomainty",
+        "location": {
+          "lat": -16.879,
+          "lng": 47.569
+        },
+        "keyAccentLanguage": "ambatomainty"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambatosia",
+        "location": {
+          "lat": -14.678,
+          "lng": 48.6
+        },
+        "keyAccentLanguage": "ambatosia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ankorabe",
+        "location": {
+          "lat": -14.799,
+          "lng": 47.718
+        },
+        "keyAccentLanguage": "ankorabe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambalapaiso",
+        "location": {
+          "lat": -14.84,
+          "lng": 49.27
+        },
+        "keyAccentLanguage": "ambalapaiso"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ankazomborona",
+        "location": {
+          "lat": -16.12,
+          "lng": 46.751
+        },
+        "keyAccentLanguage": "ankazomborona"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambarijeby Atsimo",
+        "location": {
+          "lat": -14.932,
+          "lng": 47.68
+        },
+        "keyAccentLanguage": "ambarijeby_atsimo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambato Boeny",
+        "location": {
+          "lat": -16.478,
+          "lng": 46.718
+        },
+        "keyAccentLanguage": "ambato_boeny"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antanantanana",
+        "location": {
+          "lat": -14.542,
+          "lng": 48.931
+        },
+        "keyAccentLanguage": "antanantanana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antsoha",
+        "location": {
+          "lat": -16.785,
+          "lng": 45.89
+        },
+        "keyAccentLanguage": "antsoha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antsahabe",
+        "location": {
+          "lat": -14.81,
+          "lng": 48.379
+        },
+        "keyAccentLanguage": "antsahabe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anjiaboroka",
+        "location": {
+          "lat": -17.408,
+          "lng": 44.111
+        },
+        "keyAccentLanguage": "anjiaboroka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andranomorery",
+        "location": {
+          "lat": -17.911,
+          "lng": 44.849
+        },
+        "keyAccentLanguage": "andranomorery"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ampasimatera",
+        "location": {
+          "lat": -15.943,
+          "lng": 47.735
+        },
+        "keyAccentLanguage": "ampasimatera"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anjajavy",
+        "location": {
+          "lat": -15.032,
+          "lng": 47.225
+        },
+        "keyAccentLanguage": "anjajavy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anjiamangirana",
+        "location": {
+          "lat": -15.167,
+          "lng": 47.778
+        },
+        "keyAccentLanguage": "anjiamangirana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andribavontsona",
+        "location": {
+          "lat": -15.376,
+          "lng": 47.488
+        },
+        "keyAccentLanguage": "andribavontsona"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambararata",
+        "location": {
+          "lat": -15.044,
+          "lng": 48.543
+        },
+        "keyAccentLanguage": "ambararata"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anjiajia",
+        "location": {
+          "lat": -16.461,
+          "lng": 46.951
+        },
+        "keyAccentLanguage": "anjiajia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ankasakasa",
+        "location": {
+          "lat": -16.378,
+          "lng": 44.813
+        },
+        "keyAccentLanguage": "ankasakasa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambohitsara",
+        "location": {
+          "lat": -15.937,
+          "lng": 48.841
+        },
+        "keyAccentLanguage": "ambohitsara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anjiakely",
+        "location": {
+          "lat": -16.621,
+          "lng": 46.382
+        },
+        "keyAccentLanguage": "anjiakely"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andranomamy",
+        "location": {
+          "lat": -16.817,
+          "lng": 46.3
+        },
+        "keyAccentLanguage": "andranomamy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andriba",
+        "location": {
+          "lat": -17.595,
+          "lng": 46.927
+        },
+        "keyAccentLanguage": "andriba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amborovy",
+        "location": {
+          "lat": -15.67,
+          "lng": 46.338
+        },
+        "keyAccentLanguage": "amborovy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambavaninara",
+        "location": {
+          "lat": -17.677,
+          "lng": 45.393
+        },
+        "keyAccentLanguage": "ambavaninara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambonarabe",
+        "location": {
+          "lat": -18.038,
+          "lng": 44.537
+        },
+        "keyAccentLanguage": "ambonarabe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Analalava",
+        "location": {
+          "lat": -16.142,
+          "lng": 45.697
+        },
+        "keyAccentLanguage": "analalava"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ampombilava",
+        "location": {
+          "lat": -15.08,
+          "lng": 48.227
+        },
+        "keyAccentLanguage": "ampombilava"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ampoza",
+        "location": {
+          "lat": -17.334,
+          "lng": 45.468
+        },
+        "keyAccentLanguage": "ampoza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andramy",
+        "location": {
+          "lat": -17.967,
+          "lng": 44.782
+        },
+        "keyAccentLanguage": "andramy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anahidrano",
+        "location": {
+          "lat": -15.025,
+          "lng": 47.855
+        },
+        "keyAccentLanguage": "anahidrano"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambolobozo",
+        "location": {
+          "lat": -14.421,
+          "lng": 47.8
+        },
+        "keyAccentLanguage": "ambolobozo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anorombato",
+        "location": {
+          "lat": -16.266,
+          "lng": 48.66
+        },
+        "keyAccentLanguage": "anorombato"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambodivoara",
+        "location": {
+          "lat": -15.494,
+          "lng": 48.651
+        },
+        "keyAccentLanguage": "ambodivoara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andriamena",
+        "location": {
+          "lat": -17.45,
+          "lng": 47.501
+        },
+        "keyAccentLanguage": "andriamena"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andasinimaro",
+        "location": {
+          "lat": -14.628,
+          "lng": 48.83
+        },
+        "keyAccentLanguage": "andasinimaro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andakalaka",
+        "location": {
+          "lat": -15.963,
+          "lng": 46.549
+        },
+        "keyAccentLanguage": "andakalaka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anovilava Sud",
+        "location": {
+          "lat": -16.152,
+          "lng": 47.977
+        },
+        "keyAccentLanguage": "anovilava_sud"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amboloando",
+        "location": {
+          "lat": -16.718,
+          "lng": 45.366
+        },
+        "keyAccentLanguage": "amboloando"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambodivelatra",
+        "location": {
+          "lat": -16.588,
+          "lng": 48.701
+        },
+        "keyAccentLanguage": "ambodivelatra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andranomavo",
+        "location": {
+          "lat": -16.58,
+          "lng": 45.562
+        },
+        "keyAccentLanguage": "andranomavo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambalabe",
+        "location": {
+          "lat": -15.782,
+          "lng": 46.954
+        },
+        "keyAccentLanguage": "ambalabe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambohitoaka",
+        "location": {
+          "lat": -16.017,
+          "lng": 47.65
+        },
+        "keyAccentLanguage": "ambohitoaka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambovonomby",
+        "location": {
+          "lat": -14.391,
+          "lng": 49.038
+        },
+        "keyAccentLanguage": "ambovonomby"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambonara",
+        "location": {
+          "lat": -17.118,
+          "lng": 45.194
+        },
+        "keyAccentLanguage": "ambonara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Befandrana",
+        "location": {
+          "lat": -15.801,
+          "lng": 46.642
+        },
+        "keyAccentLanguage": "befandrana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antonibe",
+        "location": {
+          "lat": -15.122,
+          "lng": 47.393
+        },
+        "keyAccentLanguage": "antonibe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antanandava",
+        "location": {
+          "lat": -17.032,
+          "lng": 46.748
+        },
+        "keyAccentLanguage": "antanandava"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antetezantany",
+        "location": {
+          "lat": -14.771,
+          "lng": 49.258
+        },
+        "keyAccentLanguage": "antetezantany"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antetikireja",
+        "location": {
+          "lat": -14.712,
+          "lng": 47.466
+        },
+        "keyAccentLanguage": "antetikireja"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambolomoty",
+        "location": {
+          "lat": -16.159,
+          "lng": 46.692
+        },
+        "keyAccentLanguage": "ambolomoty"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andohajango",
+        "location": {
+          "lat": -15.912,
+          "lng": 48.493
+        },
+        "keyAccentLanguage": "andohajango"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambakireny",
+        "location": {
+          "lat": -17.623,
+          "lng": 47.841
+        },
+        "keyAccentLanguage": "ambakireny"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ankozany",
+        "location": {
+          "lat": -14.532,
+          "lng": 48.204
+        },
+        "keyAccentLanguage": "ankozany"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Morafenobe",
+        "location": {
+          "lat": -17.819,
+          "lng": 44.919
+        },
+        "keyAccentLanguage": "morafenobe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antsingimovo",
+        "location": {
+          "lat": -17.434,
+          "lng": 44.432
+        },
+        "keyAccentLanguage": "antsingimovo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bekoratsaka",
+        "location": {
+          "lat": -16.108,
+          "lng": 47.49
+        },
+        "keyAccentLanguage": "bekoratsaka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bealanana",
+        "location": {
+          "lat": -14.538,
+          "lng": 48.749
+        },
+        "keyAccentLanguage": "bealanana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antsohihy",
+        "location": {
+          "lat": -14.88,
+          "lng": 47.988
+        },
+        "keyAccentLanguage": "antsohihy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antsakabary",
+        "location": {
+          "lat": -15.097,
+          "lng": 48.944
+        },
+        "keyAccentLanguage": "antsakabary"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antsalova",
+        "location": {
+          "lat": -18.679,
+          "lng": 44.623
+        },
+        "keyAccentLanguage": "antsalova"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bekomanga",
+        "location": {
+          "lat": -16.221,
+          "lng": 45.367
+        },
+        "keyAccentLanguage": "bekomanga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antsatramidola",
+        "location": {
+          "lat": -15.634,
+          "lng": 48.963
+        },
+        "keyAccentLanguage": "antsatramidola"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bekipay",
+        "location": {
+          "lat": -16.257,
+          "lng": 46.12
+        },
+        "keyAccentLanguage": "bekipay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Maromandia",
+        "location": {
+          "lat": -14.208,
+          "lng": 48.085
+        },
+        "keyAccentLanguage": "maromandia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bejofo-Amparihy",
+        "location": {
+          "lat": -16.666,
+          "lng": 44.841
+        },
+        "keyAccentLanguage": "bejofo-amparihy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bekorafa",
+        "location": {
+          "lat": -16.842,
+          "lng": 45.431
+        },
+        "keyAccentLanguage": "bekorafa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mahajanga",
+        "location": {
+          "lat": -15.714,
+          "lng": 46.316
+        },
+        "keyAccentLanguage": "mahajanga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belela",
+        "location": {
+          "lat": -16.882,
+          "lng": 44.914
+        },
+        "keyAccentLanguage": "belela"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Port-Berge",
+        "location": {
+          "lat": -15.553,
+          "lng": 47.639
+        },
+        "keyAccentLanguage": "port-berge"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bekapaiko",
+        "location": {
+          "lat": -16.755,
+          "lng": 47.438
+        },
+        "keyAccentLanguage": "bekapaiko"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Maevatanana",
+        "location": {
+          "lat": -16.948,
+          "lng": 46.829
+        },
+        "keyAccentLanguage": "maevatanana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antsirabe",
+        "location": {
+          "lat": -15.959,
+          "lng": 48.961
+        },
+        "keyAccentLanguage": "antsirabe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Madirovalo",
+        "location": {
+          "lat": -16.447,
+          "lng": 46.544
+        },
+        "keyAccentLanguage": "madirovalo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Befandriana",
+        "location": {
+          "lat": -15.255,
+          "lng": 48.538
+        },
+        "keyAccentLanguage": "befandriana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Befotaka",
+        "location": {
+          "lat": -14.528,
+          "lng": 48.018
+        },
+        "keyAccentLanguage": "befotaka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antsianitia",
+        "location": {
+          "lat": -15.585,
+          "lng": 46.414
+        },
+        "keyAccentLanguage": "antsianitia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bandabe",
+        "location": {
+          "lat": -15.505,
+          "lng": 49.042
+        },
+        "keyAccentLanguage": "bandabe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Marovoay",
+        "location": {
+          "lat": -16.11,
+          "lng": 46.638
+        },
+        "keyAccentLanguage": "marovoay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bebao",
+        "location": {
+          "lat": -17.364,
+          "lng": 44.544
+        },
+        "keyAccentLanguage": "bebao"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Analalava",
+        "location": {
+          "lat": -16.142,
+          "lng": 45.697
+        },
+        "keyAccentLanguage": "analalava"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anjiakely",
+        "location": {
+          "lat": -16.621,
+          "lng": 46.382
+        },
+        "keyAccentLanguage": "anjiakely"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antanandava",
+        "location": {
+          "lat": -17.032,
+          "lng": 46.748
+        },
+        "keyAccentLanguage": "antanandava"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antanandava",
+        "location": {
+          "lat": -17.032,
+          "lng": 46.748
+        },
+        "keyAccentLanguage": "antanandava"
+      }
+    ],
+    "enNameLanguage": "Mahajanga",
+    "keyAccentLanguage": "mahajanga"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -18.1442811,
+      "lng": 49.3957836
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambodibonara",
+        "location": {
+          "lat": -17.661209,
+          "lng": 49.419628
+        },
+        "keyAccentLanguage": "ambodibonara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andaingo",
+        "location": {
+          "lat": -18.24209,
+          "lng": 48.37112
+        },
+        "keyAccentLanguage": "andaingo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ampasimbe",
+        "location": {
+          "lat": -17.098,
+          "lng": 49.486
+        },
+        "keyAccentLanguage": "ampasimbe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambalavolo",
+        "location": {
+          "lat": -19.233,
+          "lng": 48.85
+        },
+        "keyAccentLanguage": "ambalavolo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambila-Lemaitso",
+        "location": {
+          "lat": -18.847,
+          "lng": 49.15
+        },
+        "keyAccentLanguage": "ambila-lemaitso"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambodiampana",
+        "location": {
+          "lat": -16.822,
+          "lng": 49.558
+        },
+        "keyAccentLanguage": "ambodiampana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andranobolahy",
+        "location": {
+          "lat": -18.325,
+          "lng": 49.027
+        },
+        "keyAccentLanguage": "andranobolahy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambinanindrano",
+        "location": {
+          "lat": -20.094,
+          "lng": 48.377
+        },
+        "keyAccentLanguage": "ambinanindrano"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andondabe",
+        "location": {
+          "lat": -17.767,
+          "lng": 49.376
+        },
+        "keyAccentLanguage": "andondabe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adi Lazana",
+        "location": {
+          "lat": -18.175,
+          "lng": 49.152
+        },
+        "keyAccentLanguage": "adi_lazana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambodilazana",
+        "location": {
+          "lat": -18.105,
+          "lng": 49.147
+        },
+        "keyAccentLanguage": "ambodilazana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ampasikely",
+        "location": {
+          "lat": -17.684,
+          "lng": 48.183
+        },
+        "keyAccentLanguage": "ampasikely"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antanambao-Manampotsy",
+        "location": {
+          "lat": -19.488,
+          "lng": 48.571
+        },
+        "keyAccentLanguage": "antanambao-manampotsy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antandrokomby",
+        "location": {
+          "lat": -19.642,
+          "lng": 48.048
+        },
+        "keyAccentLanguage": "antandrokomby"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Longozabe",
+        "location": {
+          "lat": -19.752,
+          "lng": 48.208
+        },
+        "keyAccentLanguage": "longozabe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fotsialanana",
+        "location": {
+          "lat": -16.926,
+          "lng": 49.355
+        },
+        "keyAccentLanguage": "fotsialanana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lakato",
+        "location": {
+          "lat": -19.187,
+          "lng": 48.439
+        },
+        "keyAccentLanguage": "lakato"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amparafaravola",
+        "location": {
+          "lat": -17.59,
+          "lng": 48.216
+        },
+        "keyAccentLanguage": "amparafaravola"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bejofo",
+        "location": {
+          "lat": -17.833,
+          "lng": 48.233
+        },
+        "keyAccentLanguage": "bejofo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ilaka",
+        "location": {
+          "lat": -19.554,
+          "lng": 48.835
+        },
+        "keyAccentLanguage": "ilaka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambodinonoka",
+        "location": {
+          "lat": -20.36,
+          "lng": 47.808
+        },
+        "keyAccentLanguage": "ambodinonoka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anjiro",
+        "location": {
+          "lat": -18.896,
+          "lng": 47.973
+        },
+        "keyAccentLanguage": "anjiro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambinanidilana",
+        "location": {
+          "lat": -19.9,
+          "lng": 48.467
+        },
+        "keyAccentLanguage": "ambinanidilana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Behorefo",
+        "location": {
+          "lat": -16.982,
+          "lng": 48.622
+        },
+        "keyAccentLanguage": "behorefo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambodiharina",
+        "location": {
+          "lat": -20.017,
+          "lng": 48.759
+        },
+        "keyAccentLanguage": "ambodiharina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anosibe an' Ala",
+        "location": {
+          "lat": -19.433,
+          "lng": 48.217
+        },
+        "keyAccentLanguage": "anosibe_an'_ala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ivontaka",
+        "location": {
+          "lat": -16.247,
+          "lng": 49.839
+        },
+        "keyAccentLanguage": "ivontaka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambodimanga II",
+        "location": {
+          "lat": -17.267,
+          "lng": 49.167
+        },
+        "keyAccentLanguage": "ambodimanga_ii"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antakobola",
+        "location": {
+          "lat": -17.219,
+          "lng": 49.445
+        },
+        "keyAccentLanguage": "antakobola"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amboavory",
+        "location": {
+          "lat": -17.321,
+          "lng": 48.515
+        },
+        "keyAccentLanguage": "amboavory"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antanambaobe",
+        "location": {
+          "lat": -16.261,
+          "lng": 49.679
+        },
+        "keyAccentLanguage": "antanambaobe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ifasina",
+        "location": {
+          "lat": -19.444,
+          "lng": 48.689
+        },
+        "keyAccentLanguage": "ifasina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antenina",
+        "location": {
+          "lat": -16.554,
+          "lng": 49.221
+        },
+        "keyAccentLanguage": "antenina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andilanatoby",
+        "location": {
+          "lat": -17.936,
+          "lng": 48.237
+        },
+        "keyAccentLanguage": "andilanatoby"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lohariandava",
+        "location": {
+          "lat": -18.783,
+          "lng": 48.674
+        },
+        "keyAccentLanguage": "lohariandava"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambohitrarivo",
+        "location": {
+          "lat": -17.467,
+          "lng": 48.35
+        },
+        "keyAccentLanguage": "ambohitrarivo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antsirabato",
+        "location": {
+          "lat": -16.176,
+          "lng": 49.379
+        },
+        "keyAccentLanguage": "antsirabato"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amboasary",
+        "location": {
+          "lat": -18.447,
+          "lng": 48.26
+        },
+        "keyAccentLanguage": "amboasary"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anositelo",
+        "location": {
+          "lat": -18.516,
+          "lng": 48.169
+        },
+        "keyAccentLanguage": "anositelo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Betty-Plage",
+        "location": {
+          "lat": -16.917,
+          "lng": 49.875
+        },
+        "keyAccentLanguage": "betty-plage"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mandialaza",
+        "location": {
+          "lat": -18.608,
+          "lng": 48.028
+        },
+        "keyAccentLanguage": "mandialaza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Didy",
+        "location": {
+          "lat": -18.154,
+          "lng": 48.616
+        },
+        "keyAccentLanguage": "didy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antakotako",
+        "location": {
+          "lat": -15.317,
+          "lng": 49.8
+        },
+        "keyAccentLanguage": "antakotako"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anjanazana",
+        "location": {
+          "lat": -15.383,
+          "lng": 49.75
+        },
+        "keyAccentLanguage": "anjanazana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Manakambahiny",
+        "location": {
+          "lat": -17.872,
+          "lng": 48.382
+        },
+        "keyAccentLanguage": "manakambahiny"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambodiatafana",
+        "location": {
+          "lat": -16.729,
+          "lng": 50.013
+        },
+        "keyAccentLanguage": "ambodiatafana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anove",
+        "location": {
+          "lat": -16.542,
+          "lng": 49.829
+        },
+        "keyAccentLanguage": "anove"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambodiriana",
+        "location": {
+          "lat": -17.942,
+          "lng": 49.285
+        },
+        "keyAccentLanguage": "ambodiriana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ampandroatraka",
+        "location": {
+          "lat": -19.352,
+          "lng": 48.35
+        },
+        "keyAccentLanguage": "ampandroatraka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambohidava",
+        "location": {
+          "lat": -17.542,
+          "lng": 48.532
+        },
+        "keyAccentLanguage": "ambohidava"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambatondrazaka",
+        "location": {
+          "lat": -17.831,
+          "lng": 48.429
+        },
+        "keyAccentLanguage": "ambatondrazaka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andreba",
+        "location": {
+          "lat": -17.633,
+          "lng": 48.502
+        },
+        "keyAccentLanguage": "andreba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aniribe",
+        "location": {
+          "lat": -17.095,
+          "lng": 49.815
+        },
+        "keyAccentLanguage": "aniribe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambohijanahary",
+        "location": {
+          "lat": -17.409,
+          "lng": 48.378
+        },
+        "keyAccentLanguage": "ambohijanahary"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lokintsy",
+        "location": {
+          "lat": -16.892,
+          "lng": 49.891
+        },
+        "keyAccentLanguage": "lokintsy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Manompana",
+        "location": {
+          "lat": -16.687,
+          "lng": 49.736
+        },
+        "keyAccentLanguage": "manompana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambolomadinika",
+        "location": {
+          "lat": -17.533,
+          "lng": 49.05
+        },
+        "keyAccentLanguage": "ambolomadinika"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ampasimbola",
+        "location": {
+          "lat": -20.018,
+          "lng": 48.584
+        },
+        "keyAccentLanguage": "ampasimbola"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambalarondra",
+        "location": {
+          "lat": -18.478,
+          "lng": 49.013
+        },
+        "keyAccentLanguage": "ambalarondra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anororo",
+        "location": {
+          "lat": -17.516,
+          "lng": 48.429
+        },
+        "keyAccentLanguage": "anororo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambinanitelo",
+        "location": {
+          "lat": -15.352,
+          "lng": 49.569
+        },
+        "keyAccentLanguage": "ambinanitelo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ampasimanolotra",
+        "location": {
+          "lat": -18.82,
+          "lng": 49.063
+        },
+        "keyAccentLanguage": "ampasimanolotra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ilafy",
+        "location": {
+          "lat": -17.883,
+          "lng": 48.417
+        },
+        "keyAccentLanguage": "ilafy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Soanierana Ivongo",
+        "location": {
+          "lat": -16.923,
+          "lng": 49.568
+        },
+        "keyAccentLanguage": "soanierana_ivongo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambatosoratra",
+        "location": {
+          "lat": -17.602,
+          "lng": 48.522
+        },
+        "keyAccentLanguage": "ambatosoratra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andasibe",
+        "location": {
+          "lat": -18.948,
+          "lng": 48.521
+        },
+        "keyAccentLanguage": "andasibe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambohimilanja",
+        "location": {
+          "lat": -19.933,
+          "lng": 47.976
+        },
+        "keyAccentLanguage": "ambohimilanja"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andevoranto",
+        "location": {
+          "lat": -19.045,
+          "lng": 49.062
+        },
+        "keyAccentLanguage": "andevoranto"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fanandrana",
+        "location": {
+          "lat": -18.286,
+          "lng": 49.122
+        },
+        "keyAccentLanguage": "fanandrana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antanimenabaka",
+        "location": {
+          "lat": -16.939,
+          "lng": 48.487
+        },
+        "keyAccentLanguage": "antanimenabaka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fenoarivo Atsinanana",
+        "location": {
+          "lat": -17.386,
+          "lng": 49.409
+        },
+        "keyAccentLanguage": "fenoarivo_atsinanana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambatomainty",
+        "location": {
+          "lat": -17.683,
+          "lng": 48.217
+        },
+        "keyAccentLanguage": "ambatomainty"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beforona",
+        "location": {
+          "lat": -18.97,
+          "lng": 48.556
+        },
+        "keyAccentLanguage": "beforona"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fanardrana",
+        "location": {
+          "lat": -18.267,
+          "lng": 49.259
+        },
+        "keyAccentLanguage": "fanardrana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Vavatenina",
+        "location": {
+          "lat": -17.469,
+          "lng": 49.191
+        },
+        "keyAccentLanguage": "vavatenina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mahanoro",
+        "location": {
+          "lat": -19.904,
+          "lng": 48.802
+        },
+        "keyAccentLanguage": "mahanoro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adiriana",
+        "location": {
+          "lat": -17.972,
+          "lng": 49.293
+        },
+        "keyAccentLanguage": "adiriana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lavajiro",
+        "location": {
+          "lat": -20.165,
+          "lng": 48.135
+        },
+        "keyAccentLanguage": "lavajiro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mahavelona",
+        "location": {
+          "lat": -17.684,
+          "lng": 49.509
+        },
+        "keyAccentLanguage": "mahavelona"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andranomena",
+        "location": {
+          "lat": -18.06,
+          "lng": 49.21
+        },
+        "keyAccentLanguage": "andranomena"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andrangazaha",
+        "location": {
+          "lat": -16.863,
+          "lng": 49.668
+        },
+        "keyAccentLanguage": "andrangazaha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andilamena",
+        "location": {
+          "lat": -17.021,
+          "lng": 48.566
+        },
+        "keyAccentLanguage": "andilamena"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mananara",
+        "location": {
+          "lat": -16.167,
+          "lng": 49.756
+        },
+        "keyAccentLanguage": "mananara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anjahambe",
+        "location": {
+          "lat": -17.373,
+          "lng": 49.116
+        },
+        "keyAccentLanguage": "anjahambe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Imerimandroso",
+        "location": {
+          "lat": -17.437,
+          "lng": 48.592
+        },
+        "keyAccentLanguage": "imerimandroso"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Manakambahiny Atsinanana",
+        "location": {
+          "lat": -17.767,
+          "lng": 48.659
+        },
+        "keyAccentLanguage": "manakambahiny_atsinanana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anivorano",
+        "location": {
+          "lat": -18.738,
+          "lng": 48.977
+        },
+        "keyAccentLanguage": "anivorano"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Makoina",
+        "location": {
+          "lat": -16.408,
+          "lng": 48.228
+        },
+        "keyAccentLanguage": "makoina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mahambo",
+        "location": {
+          "lat": -17.49,
+          "lng": 49.457
+        },
+        "keyAccentLanguage": "mahambo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Betalevana",
+        "location": {
+          "lat": -16.991,
+          "lng": 48.205
+        },
+        "keyAccentLanguage": "betalevana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antanambao",
+        "location": {
+          "lat": -15.33,
+          "lng": 49.943
+        },
+        "keyAccentLanguage": "antanambao"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Betampona",
+        "location": {
+          "lat": -20.183,
+          "lng": 48.067
+        },
+        "keyAccentLanguage": "betampona"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Masomeloka",
+        "location": {
+          "lat": -20.289,
+          "lng": 48.618
+        },
+        "keyAccentLanguage": "masomeloka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Manjakandriana",
+        "location": {
+          "lat": -19.807,
+          "lng": 48.575
+        },
+        "keyAccentLanguage": "manjakandriana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Toamasina",
+        "location": {
+          "lat": -18.146,
+          "lng": 49.4
+        },
+        "keyAccentLanguage": "toamasina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mahalevona",
+        "location": {
+          "lat": -15.396,
+          "lng": 49.917
+        },
+        "keyAccentLanguage": "mahalevona"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Manambolosy",
+        "location": {
+          "lat": -16.048,
+          "lng": 49.666
+        },
+        "keyAccentLanguage": "manambolosy"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Betsizaraina",
+        "location": {
+          "lat": -19.961,
+          "lng": 48.749
+        },
+        "keyAccentLanguage": "betsizaraina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antanambe",
+        "location": {
+          "lat": -16.442,
+          "lng": 49.837
+        },
+        "keyAccentLanguage": "antanambe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Befotaka",
+        "location": {
+          "lat": -20.27,
+          "lng": 48.368
+        },
+        "keyAccentLanguage": "befotaka"
+      }
+    ],
+    "enNameLanguage": "Toamasina",
+    "keyAccentLanguage": "toamasina"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -23.3516191,
+      "lng": 43.6854936
+    },
+    "districtList": [],
+    "enNameLanguage": "Toliara",
+    "keyAccentLanguage": "toliara"
+  }
+]

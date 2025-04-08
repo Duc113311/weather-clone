@@ -1,0 +1,885 @@
+[
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -12.7228823,
+      "lng": 45.0594885
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acoua",
+        "location": {
+          "lat": -12.7228823,
+          "lng": 45.0594885
+        },
+        "keyAccentLanguage": "acoua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mtsangadoua",
+        "location": {
+          "lat": -12.7086282,
+          "lng": 45.0519024
+        },
+        "keyAccentLanguage": "mtsangadoua"
+      }
+    ],
+    "enNameLanguage": "Acoua",
+    "keyAccentLanguage": "acoua"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -12.7039983,
+      "lng": 45.1230036
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dzoumogné",
+        "location": {
+          "lat": -12.7213551,
+          "lng": 45.1190541
+        },
+        "keyAccentLanguage": "dzoumogné"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Handréma",
+        "location": {
+          "lat": -12.6808538,
+          "lng": 45.0991903
+        },
+        "keyAccentLanguage": "handréma"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bandraboua",
+        "location": {
+          "lat": -12.7039983,
+          "lng": 45.1230036
+        },
+        "keyAccentLanguage": "bandraboua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mtsangamboua",
+        "location": {
+          "lat": -12.6894393,
+          "lng": 45.1085369
+        },
+        "keyAccentLanguage": "mtsangamboua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bouyouni",
+        "location": {
+          "lat": -12.7377001,
+          "lng": 45.1389264
+        },
+        "keyAccentLanguage": "bouyouni"
+      }
+    ],
+    "enNameLanguage": "Bandraboua",
+    "keyAccentLanguage": "bandraboua"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -12.9106866,
+      "lng": 45.1928347
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bambo-Est",
+        "location": {
+          "lat": -12.9289733,
+          "lng": 45.1757713
+        },
+        "keyAccentLanguage": "bambo-est"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dapani",
+        "location": {
+          "lat": -12.9713098,
+          "lng": 45.159977
+        },
+        "keyAccentLanguage": "dapani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nyambadao",
+        "location": {
+          "lat": -12.8922215,
+          "lng": 45.202107
+        },
+        "keyAccentLanguage": "nyambadao"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mtsamoudou",
+        "location": {
+          "lat": -12.9633319,
+          "lng": 45.1740161
+        },
+        "keyAccentLanguage": "mtsamoudou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bandrele",
+        "location": {
+          "lat": -12.913605,
+          "lng": 45.1939121
+        },
+        "keyAccentLanguage": "bandrele"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hamouro",
+        "location": {
+          "lat": -12.8810932,
+          "lng": 45.21440219999999
+        },
+        "keyAccentLanguage": "hamouro"
+      }
+    ],
+    "enNameLanguage": "Bandrele",
+    "keyAccentLanguage": "bandrele"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -12.9099576,
+      "lng": 45.0805029
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bouéni",
+        "location": {
+          "lat": -12.9102083,
+          "lng": 45.0806283
+        },
+        "keyAccentLanguage": "bouéni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Majiméouni",
+        "location": {
+          "lat": -12.9249959,
+          "lng": 45.10635689999999
+        },
+        "keyAccentLanguage": "majiméouni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mzouazia",
+        "location": {
+          "lat": -12.9260444,
+          "lng": 45.10386339999999
+        },
+        "keyAccentLanguage": "mzouazia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hagnoundrou",
+        "location": {
+          "lat": -12.9057117,
+          "lng": 45.10152679999999
+        },
+        "keyAccentLanguage": "hagnoundrou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Moinatrindri",
+        "location": {
+          "lat": -12.9002934,
+          "lng": 45.096854
+        },
+        "keyAccentLanguage": "moinatrindri"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mbouanatsa",
+        "location": {
+          "lat": -12.9438408,
+          "lng": 45.10211090000001
+        },
+        "keyAccentLanguage": "mbouanatsa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bambo-Ouest",
+        "location": {
+          "lat": -12.9247777,
+          "lng": 45.0904296
+        },
+        "keyAccentLanguage": "bambo-ouest"
+      }
+    ],
+    "enNameLanguage": "Boueni",
+    "keyAccentLanguage": "boueni"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -12.8303302,
+      "lng": 45.1143795
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sohoa",
+        "location": {
+          "lat": -12.8230647,
+          "lng": 45.1062001
+        },
+        "keyAccentLanguage": "sohoa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chiconi",
+        "location": {
+          "lat": -12.8303302,
+          "lng": 45.1143795
+        },
+        "keyAccentLanguage": "chiconi"
+      }
+    ],
+    "enNameLanguage": "Chiconi",
+    "keyAccentLanguage": "chiconi"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -12.9339923,
+      "lng": 45.15062
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chirongui",
+        "location": {
+          "lat": -12.9339923,
+          "lng": 45.15062
+        },
+        "keyAccentLanguage": "chirongui"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Poroani",
+        "location": {
+          "lat": -12.8922929,
+          "lng": 45.1412649
+        },
+        "keyAccentLanguage": "poroani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mramadoudou",
+        "location": {
+          "lat": -12.9283932,
+          "lng": 45.1552983
+        },
+        "keyAccentLanguage": "mramadoudou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Malamani",
+        "location": {
+          "lat": -12.9205891,
+          "lng": 45.159977
+        },
+        "keyAccentLanguage": "malamani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mréréni",
+        "location": {
+          "lat": -12.9058429,
+          "lng": 45.1529591
+        },
+        "keyAccentLanguage": "mréréni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tsimkoura",
+        "location": {
+          "lat": -12.940272,
+          "lng": 45.1389264
+        },
+        "keyAccentLanguage": "tsimkoura"
+      }
+    ],
+    "enNameLanguage": "Chirongui",
+    "keyAccentLanguage": "chirongui"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -12.8423994,
+      "lng": 45.1857186
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hajangoua",
+        "location": {
+          "lat": -12.8661097,
+          "lng": 45.1985947
+        },
+        "keyAccentLanguage": "hajangoua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tsararano",
+        "location": {
+          "lat": -12.8354738,
+          "lng": 45.1740161
+        },
+        "keyAccentLanguage": "tsararano"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dembeni",
+        "location": {
+          "lat": -12.8438115,
+          "lng": 45.18640389999999
+        },
+        "keyAccentLanguage": "dembeni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ongojou",
+        "location": {
+          "lat": -12.8390581,
+          "lng": 45.159977
+        },
+        "keyAccentLanguage": "ongojou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Iloni",
+        "location": {
+          "lat": -12.8456109,
+          "lng": 45.1904004
+        },
+        "keyAccentLanguage": "iloni"
+      }
+    ],
+    "enNameLanguage": "Dembeni",
+    "keyAccentLanguage": "dembeni"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -12.7852641,
+      "lng": 45.25834
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Labattoir",
+        "location": {
+          "lat": -12.786018,
+          "lng": 45.2733453
+        },
+        "keyAccentLanguage": "labattoir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dzaoudzi",
+        "location": {
+          "lat": -12.7819879,
+          "lng": 45.2564226
+        },
+        "keyAccentLanguage": "dzaoudzi"
+      }
+    ],
+    "enNameLanguage": "Dzaoudzi",
+    "keyAccentLanguage": "dzaoudzi"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -12.9551984,
+      "lng": 45.1062001
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kani-Kéli",
+        "location": {
+          "lat": -12.9551984,
+          "lng": 45.1062001
+        },
+        "keyAccentLanguage": "kani-kéli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mronabéja",
+        "location": {
+          "lat": -12.9791112,
+          "lng": 45.12489799999999
+        },
+        "keyAccentLanguage": "mronabéja"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Choungui",
+        "location": {
+          "lat": -12.961981,
+          "lng": 45.1272358
+        },
+        "keyAccentLanguage": "choungui"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mbouini",
+        "location": {
+          "lat": -12.9892087,
+          "lng": 45.1383418
+        },
+        "keyAccentLanguage": "mbouini"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kani-Bé",
+        "location": {
+          "lat": -12.9633371,
+          "lng": 45.1132109
+        },
+        "keyAccentLanguage": "kani-bé"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Passi-Kéli",
+        "location": {
+          "lat": -12.9869151,
+          "lng": 45.1278202
+        },
+        "keyAccentLanguage": "passi-kéli"
+      }
+    ],
+    "enNameLanguage": "Kani-Keli",
+    "keyAccentLanguage": "kani-keli"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -12.7368055,
+      "lng": 45.2067905
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Koungou",
+        "location": {
+          "lat": -12.736928,
+          "lng": 45.2054349
+        },
+        "keyAccentLanguage": "koungou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Majicavo-Lamir",
+        "location": {
+          "lat": -12.7572207,
+          "lng": 45.230215
+        },
+        "keyAccentLanguage": "majicavo-lamir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Longoni",
+        "location": {
+          "lat": -12.7313558,
+          "lng": 45.1658261
+        },
+        "keyAccentLanguage": "longoni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kangani",
+        "location": {
+          "lat": -12.7353564,
+          "lng": 45.18454819999999
+        },
+        "keyAccentLanguage": "kangani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Trévani",
+        "location": {
+          "lat": -12.7348056,
+          "lng": 45.197424
+        },
+        "keyAccentLanguage": "trévani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Majicavo-Koropa",
+        "location": {
+          "lat": -12.7464107,
+          "lng": 45.2208438
+        },
+        "keyAccentLanguage": "majicavo-koropa"
+      }
+    ],
+    "enNameLanguage": "Koungou",
+    "keyAccentLanguage": "koungou"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -12.7583087,
+      "lng": 45.0863419
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "M'Tsangamouji",
+        "location": {
+          "lat": -12.7583087,
+          "lng": 45.0863419
+        },
+        "keyAccentLanguage": "m'tsangamouji"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mliha",
+        "location": {
+          "lat": -12.7500152,
+          "lng": 45.0554035
+        },
+        "keyAccentLanguage": "mliha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chembenyoumba",
+        "location": {
+          "lat": -12.7620483,
+          "lng": 45.0781675
+        },
+        "keyAccentLanguage": "chembenyoumba"
+      }
+    ],
+    "enNameLanguage": "M'Tsangamouji",
+    "keyAccentLanguage": "m'tsangamouji"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -12.7809488,
+      "lng": 45.227872
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kawéni",
+        "location": {
+          "lat": -12.7697835,
+          "lng": 45.2220151
+        },
+        "keyAccentLanguage": "kawéni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cavani",
+        "location": {
+          "lat": -12.784577,
+          "lng": 45.223014
+        },
+        "keyAccentLanguage": "cavani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Vahibé",
+        "location": {
+          "lat": -12.7897299,
+          "lng": 45.1763564
+        },
+        "keyAccentLanguage": "vahibé"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mtsapéré",
+        "location": {
+          "lat": -12.7864015,
+          "lng": 45.2173301
+        },
+        "keyAccentLanguage": "mtsapéré"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Passamainty",
+        "location": {
+          "lat": -12.802016,
+          "lng": 45.20796139999999
+        },
+        "keyAccentLanguage": "passamainty"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tsoundzou II",
+        "location": {
+          "lat": -12.8154175,
+          "lng": 45.1999
+        },
+        "keyAccentLanguage": "tsoundzou_ii"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tsoundzou I",
+        "location": {
+          "lat": -12.806267,
+          "lng": 45.202107
+        },
+        "keyAccentLanguage": "tsoundzou_i"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mamoudzou",
+        "location": {
+          "lat": -12.78064,
+          "lng": 45.23269639999999
+        },
+        "keyAccentLanguage": "mamoudzou"
+      }
+    ],
+    "enNameLanguage": "Mamoudzou",
+    "keyAccentLanguage": "mamoudzou"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -12.7007221,
+      "lng": 45.068827
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hamjago",
+        "location": {
+          "lat": -12.6890431,
+          "lng": 45.07583220000001
+        },
+        "keyAccentLanguage": "hamjago"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mtsahara",
+        "location": {
+          "lat": -12.680058,
+          "lng": 45.08517399999999
+        },
+        "keyAccentLanguage": "mtsahara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mtzamboro",
+        "location": {
+          "lat": -12.6976099,
+          "lng": 45.069522
+        },
+        "keyAccentLanguage": "mtzamboro"
+      }
+    ],
+    "enNameLanguage": "Mtsamboro",
+    "keyAccentLanguage": "mtsamboro"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -12.8485821,
+      "lng": 45.1377572
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Coconi",
+        "location": {
+          "lat": -12.8340178,
+          "lng": 45.1365881
+        },
+        "keyAccentLanguage": "coconi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ouangani",
+        "location": {
+          "lat": -12.848838,
+          "lng": 45.1378826
+        },
+        "keyAccentLanguage": "ouangani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kahani",
+        "location": {
+          "lat": -12.8237005,
+          "lng": 45.12957369999999
+        },
+        "keyAccentLanguage": "kahani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barakani",
+        "location": {
+          "lat": -12.8374129,
+          "lng": 45.1319117
+        },
+        "keyAccentLanguage": "barakani"
+      }
+    ],
+    "enNameLanguage": "Ouangani",
+    "keyAccentLanguage": "ouangani"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -12.7960412,
+      "lng": 45.2829634
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pamandzi",
+        "location": {
+          "lat": -12.7966562,
+          "lng": 45.2788001
+        },
+        "keyAccentLanguage": "pamandzi"
+      }
+    ],
+    "enNameLanguage": "Pamandzi",
+    "keyAccentLanguage": "pamandzi"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 43.3476427,
+      "lng": -8.2760021
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mangajou",
+        "location": {
+          "lat": -12.8455663,
+          "lng": 45.1161324
+        },
+        "keyAccentLanguage": "mangajou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sada",
+        "location": {
+          "lat": -12.852,
+          "lng": 45.099
+        },
+        "keyAccentLanguage": "sada"
+      }
+    ],
+    "enNameLanguage": "Sada",
+    "keyAccentLanguage": "sada"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -12.7905411,
+      "lng": 45.1047941
+    },
+    "districtList": [],
+    "enNameLanguage": "Tsingoni",
+    "keyAccentLanguage": "tsingoni"
+  }
+]

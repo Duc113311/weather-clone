@@ -1,0 +1,21 @@
+{
+  "projects": {
+    "default": "weather-web-e92bf"
+  },
+  "targets": {
+    "weather-web-e92bf": {
+      "hosting": {
+        "dev": [
+          "weather-web-dev"
+        ],
+        "staging": [
+          "weather-web-staging"
+        ],
+        "prod": [
+          "weather-web-prod"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

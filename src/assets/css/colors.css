@@ -1,0 +1,243 @@
+.bg-header {
+  background: var(--bs-header-bg);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(56px);
+}
+.bg-body {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #234063;
+  color: #ffffff;
+}
+
+.bg-body-v2 {
+  background-position: top;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #234063;
+  color: #ffffff;
+}
+.bg-ads {
+  background-position: center;
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-color: #234063;
+  color: #ffffff;
+}
+
+.bg-ads {
+  background-color: #e6eaef;
+}
+
+.bg-from {
+  /* background-color: rgba(0, 0, 0, 0.4); */
+  background-color: #ffffff;
+  /* background: linear-gradient(to bottom, #ffffff, #a5c3e1); */
+  /* background-color:rgb(12 2 33 / 80%) */
+}
+
+.txt_color_uv {
+  color: #003870;
+}
+
+.txt_color_rain {
+  color: #00cfff;
+}
+
+.txt_color_summer {
+  color: #86f66e;
+}
+
+.bg-title-footer {
+  background-color: #f5f5f5;
+  color: #878787;
+}
+
+.color-title {
+  color: #003a70;
+}
+.color-footer {
+  color: #878787;
+}
+
+.bg-default {
+  background: #242851;
+  color: #ffffff;
+}
+
+.color-snow {
+  color: #fb6a00;
+}
+.color-rain {
+  color: #15abc3;
+}
+
+.bg-title {
+  background-color: #02030f43;
+}
+
+.color-title-next {
+  color: #4a4a6c;
+}
+
+.txt-form {
+  color: rgb(230 255 244);
+}
+
+.txt-v2 {
+  color: #003576;
+}
+
+.bg-rain {
+  background-color: #2AE2F3;
+}
+.bg-snow {
+  background-color: #c79062;
+}
+
+.txt-snow {
+  color: #c79062;
+}
+.txt-rain {
+  color: #60a5fa;
+}
+
+.bg-temp {
+  background-color: #b6ce90;
+}
+.txt-temp {
+  color: #b6ce90;
+}
+
+.txt-uv {
+  color: #4bbf24;
+}
+
+.bg-uv {
+  background-color: #4bbf24;
+}
+
+.bg-breadcums {
+  background-color: #edeaea;
+}
+
+/* New */
+.color_f9f9f9 {
+  color: var(--color-txt);
+}
+
+.color_0D2952 {
+  color: #0d2952;
+}
+
+.color_00e3f5{
+  color: var(--color-chance-of-rain);
+}
+
+.color_ff8c00{
+  color: var(--bg-radio-chance-of-snow);
+}
+
+.color_0062F5 {
+  color: #0062f5;
+}
+
+.color_fffff_10 {
+  background-color: var(--bg-tab-btn);
+}
+
+.color_BFBFBF {
+  color: var(--color-card-city);
+}
+
+.bg-precit {
+  background-color: #327cee;
+}
+
+.bg-snow {
+  background-color: #FD8E2D;
+}
+
+.txt-line {
+  color: #0d2952;
+}
+
+.color-title-logo {
+  color: var(--bg-title-logo);
+}
+
+.color-text {
+  color: var(--color-input-ic);
+}
+
+.icon-path {
+  fill: var(--color-input-ic); /* Áp dụng màu qua biến CSS */
+}
+
+.bg-nav {
+  background: linear-gradient(
+    180deg,
+    var(--bg-nav-top),
+    var(--bg-nav-bottom)
+  ); /* Màu đen với opacity 5% */
+  backdrop-filter: blur(56px);
+  box-shadow: -50px -50px 100px rgba(243, 243, 243, 0.15),
+    500px 500px 100px rgba(243, 243, 243, 0.15); /* Shadow 2: bên phải và dưới */
+}
+
+.color-txt-df {
+  color: var(--color-txt);
+}
+.bg-color-light {
+  background: linear-gradient(180deg, rgb(92 157 255 / 0%) 0%, rgb(0 58 145 / 11%) 100%), linear-gradient(180deg, rgb(92 157 255 / 10%) 0%, rgb(0 58 145 / 0%) 100%);
+
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px rgba(255, 255, 255, 0.25),
+    /* First shadow */ -50px -50px 100px rgba(255, 255, 255, 0.05),
+    /* Second shadow */ 500px 500px 100px rgba(255, 255, 255, 0.05); /* Third shadow */
+  
+}
+
+.bg-color-dark {
+  /* Gradient với màu #000000 và #F3F3F3 */
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.05) 0%,
+    rgba(243, 243, 243, 0.1) 100%
+  );
+  border-radius: 20px;
+
+  /* Các hiệu ứng Glass light */
+  box-shadow: inset 0 56px 56px rgba(0, 0, 0, 0.1),
+    /* Độ mờ 5% */ inset -50px -50px 100px rgba(243, 243, 243, 0.1),
+    /* Độ mờ 10% */ inset 500px 500px 100px rgba(243, 243, 243, 0.15); /* Độ mờ 15% */
+}
+
+.bg-title-calender {
+  background-color: var(--bg-title-calendar);
+}
+
+.bg-bth {
+  background-color: var(--bg-btn-location);
+  color: #0d2952;
+}
+
+.bg-btn-hover:hover {
+  background-color: var(--bg-tab-nav);
+  color: #f3f3f3;
+}
+
+.bg-color-app{
+  color: #f3f3f3;
+  background-color: #4c71a3;
+}
+
+.bg-color-refresh{
+  color: #f3f3f3;
+  background-color: #8bb4ea;
+}
+
+.color_60A5FA{
+  color: var(--color-Address);
+}

@@ -1,0 +1,4072 @@
+[
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 40.8765649,
+      "lng": -77.8367282
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pasa",
+        "location": {
+          "lat": 41.4219845,
+          "lng": 32.0816841
+        },
+        "keyAccentLanguage": "pasa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sokode",
+        "location": {
+          "lat": 8.977983199999999,
+          "lng": 1.1448981
+        },
+        "keyAccentLanguage": "sokode"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nyamassila",
+        "location": {
+          "lat": 7.9875582,
+          "lng": 1.1905094
+        },
+        "keyAccentLanguage": "nyamassila"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tchamba",
+        "location": {
+          "lat": 9.0288337,
+          "lng": 1.414207
+        },
+        "keyAccentLanguage": "tchamba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Defale",
+        "location": {
+          "lat": 9.8696393,
+          "lng": 1.0889852
+        },
+        "keyAccentLanguage": "defale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akoura",
+        "location": {
+          "lat": 34.1214952,
+          "lng": 35.9040647
+        },
+        "keyAccentLanguage": "akoura"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afem",
+        "location": {
+          "lat": 3.633333,
+          "lng": 12.333333
+        },
+        "keyAccentLanguage": "afem"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjouga",
+        "location": {
+          "lat": 8.666667,
+          "lng": 1.566667
+        },
+        "keyAccentLanguage": "adjouga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agbamassoumou",
+        "location": {
+          "lat": 8.617799999999999,
+          "lng": 0.612115
+        },
+        "keyAccentLanguage": "agbamassoumou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Blitta Kotokoli",
+        "location": {
+          "lat": 8.321333,
+          "lng": 0.9796769999999999
+        },
+        "keyAccentLanguage": "blitta_kotokoli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bongoulou",
+        "location": {
+          "lat": 8.983333,
+          "lng": 0.666667
+        },
+        "keyAccentLanguage": "bongoulou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adanauara",
+        "location": {
+          "lat": 9.216667,
+          "lng": 1.083333
+        },
+        "keyAccentLanguage": "adanauara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Assoumakodji",
+        "location": {
+          "lat": 8.1677778,
+          "lng": 1.1377008
+        },
+        "keyAccentLanguage": "assoumakodji"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akoua",
+        "location": {
+          "lat": 3.75,
+          "lng": 12.416667
+        },
+        "keyAccentLanguage": "akoua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afitialakofe",
+        "location": {
+          "lat": 8.45,
+          "lng": 1.283333
+        },
+        "keyAccentLanguage": "afitialakofe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Babame",
+        "location": {
+          "lat": 54.09756909999999,
+          "lng": -6.364302599999999
+        },
+        "keyAccentLanguage": "babame"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amesodjikope",
+        "location": {
+          "lat": 7.9,
+          "lng": 0.6333329999999999
+        },
+        "keyAccentLanguage": "amesodjikope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Blitta",
+        "location": {
+          "lat": 8.321333,
+          "lng": 0.9796769999999999
+        },
+        "keyAccentLanguage": "blitta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agbandi",
+        "location": {
+          "lat": 8.2238033,
+          "lng": 1.1365014
+        },
+        "keyAccentLanguage": "agbandi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adiougbe",
+        "location": {
+          "lat": 10.9725365,
+          "lng": 76.74044839999999
+        },
+        "keyAccentLanguage": "adiougbe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sotouboua",
+        "location": {
+          "lat": 8.5653801,
+          "lng": 0.9772874
+        },
+        "keyAccentLanguage": "sotouboua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Boulo",
+        "location": {
+          "lat": 50.7241236,
+          "lng": 1.6077446
+        },
+        "keyAccentLanguage": "boulo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bayaide",
+        "location": {
+          "lat": -38.1415263,
+          "lng": 145.1242618
+        },
+        "keyAccentLanguage": "bayaide"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agbeninou",
+        "location": {
+          "lat": 8.15,
+          "lng": 1.066667
+        },
+        "keyAccentLanguage": "agbeninou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Danhadanha",
+        "location": {
+          "lat": 8.75,
+          "lng": 1.366667
+        },
+        "keyAccentLanguage": "danhadanha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Doufouli",
+        "location": {
+          "lat": 8.316666999999999,
+          "lng": 0.9333330000000001
+        },
+        "keyAccentLanguage": "doufouli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Langabou",
+        "location": {
+          "lat": 8.122728,
+          "lng": 1.1341027
+        },
+        "keyAccentLanguage": "langabou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ayengre",
+        "location": {
+          "lat": 8.6559628,
+          "lng": 1.0179304
+        },
+        "keyAccentLanguage": "ayengre"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bouzaloda",
+        "location": {
+          "lat": 9.116667,
+          "lng": 1.05
+        },
+        "keyAccentLanguage": "bouzaloda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Deguingue",
+        "location": {
+          "lat": 8.083333,
+          "lng": 0.6333329999999999
+        },
+        "keyAccentLanguage": "deguingue"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dikpeleou",
+        "location": {
+          "lat": 8.189425,
+          "lng": 0.619173
+        },
+        "keyAccentLanguage": "dikpeleou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Boufouli Boko Losso",
+        "location": {
+          "lat": 4.6298411,
+          "lng": 11.7068294
+        },
+        "keyAccentLanguage": "boufouli_boko_losso"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afadade",
+        "location": {
+          "lat": 9.067,
+          "lng": 1.3
+        },
+        "keyAccentLanguage": "afadade"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Djarakpana",
+        "location": {
+          "lat": 8.783,
+          "lng": 0.567
+        },
+        "keyAccentLanguage": "djarakpana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aguidagbade",
+        "location": {
+          "lat": 9.017,
+          "lng": 1.283
+        },
+        "keyAccentLanguage": "aguidagbade"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baounda",
+        "location": {
+          "lat": 9.021,
+          "lng": 1.264
+        },
+        "keyAccentLanguage": "baounda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Birini",
+        "location": {
+          "lat": 8.9,
+          "lng": 1.2
+        },
+        "keyAccentLanguage": "birini"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amaoude",
+        "location": {
+          "lat": 9.167,
+          "lng": 1.283
+        },
+        "keyAccentLanguage": "amaoude"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amande",
+        "location": {
+          "lat": 9.133,
+          "lng": 1.15
+        },
+        "keyAccentLanguage": "amande"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agoulou",
+        "location": {
+          "lat": 9.117,
+          "lng": 1.317
+        },
+        "keyAccentLanguage": "agoulou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anamanie",
+        "location": {
+          "lat": 8.217,
+          "lng": 0.883
+        },
+        "keyAccentLanguage": "anamanie"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agoumana",
+        "location": {
+          "lat": 8.517,
+          "lng": 1.5
+        },
+        "keyAccentLanguage": "agoumana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aou Losso",
+        "location": {
+          "lat": 8.75,
+          "lng": 1.05
+        },
+        "keyAccentLanguage": "aou_losso"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agbanjalade",
+        "location": {
+          "lat": 9.1,
+          "lng": 1.35
+        },
+        "keyAccentLanguage": "agbanjalade"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Batchang",
+        "location": {
+          "lat": 8.817,
+          "lng": 1.133
+        },
+        "keyAccentLanguage": "batchang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amouble",
+        "location": {
+          "lat": 8.117,
+          "lng": 1.217
+        },
+        "keyAccentLanguage": "amouble"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barangade",
+        "location": {
+          "lat": 9.083,
+          "lng": 1.3
+        },
+        "keyAccentLanguage": "barangade"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Avadade",
+        "location": {
+          "lat": 9.083,
+          "lng": 1.267
+        },
+        "keyAccentLanguage": "avadade"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Babansaoude",
+        "location": {
+          "lat": 8.8,
+          "lng": 1.4
+        },
+        "keyAccentLanguage": "babansaoude"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Djuelo",
+        "location": {
+          "lat": 9.133,
+          "lng": 1.017
+        },
+        "keyAccentLanguage": "djuelo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aleheride",
+        "location": {
+          "lat": 9.191,
+          "lng": 1.198
+        },
+        "keyAccentLanguage": "aleheride"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Babade",
+        "location": {
+          "lat": 8.7,
+          "lng": 1.033
+        },
+        "keyAccentLanguage": "babade"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bodjonde",
+        "location": {
+          "lat": 8.433,
+          "lng": 1.033
+        },
+        "keyAccentLanguage": "bodjonde"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alibi",
+        "location": {
+          "lat": 8.95,
+          "lng": 1.417
+        },
+        "keyAccentLanguage": "alibi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abossoumkofe",
+        "location": {
+          "lat": 8.117,
+          "lng": 0.633
+        },
+        "keyAccentLanguage": "abossoumkofe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bambouye",
+        "location": {
+          "lat": 9.017,
+          "lng": 1.1
+        },
+        "keyAccentLanguage": "bambouye"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akouble",
+        "location": {
+          "lat": 8.117,
+          "lng": 1.233
+        },
+        "keyAccentLanguage": "akouble"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bouya",
+        "location": {
+          "lat": 8.833,
+          "lng": 1.433
+        },
+        "keyAccentLanguage": "bouya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dangma",
+        "location": {
+          "lat": 9.05,
+          "lng": 1.417
+        },
+        "keyAccentLanguage": "dangma"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chalande",
+        "location": {
+          "lat": 9.1,
+          "lng": 1.183
+        },
+        "keyAccentLanguage": "chalande"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Azanade",
+        "location": {
+          "lat": 9.1,
+          "lng": 1.233
+        },
+        "keyAccentLanguage": "azanade"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bate",
+        "location": {
+          "lat": 8.017,
+          "lng": 1.133
+        },
+        "keyAccentLanguage": "bate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjeouro",
+        "location": {
+          "lat": 9.083,
+          "lng": 1.417
+        },
+        "keyAccentLanguage": "adjeouro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alomanie",
+        "location": {
+          "lat": 8.133,
+          "lng": 1.1
+        },
+        "keyAccentLanguage": "alomanie"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Soussoukparogan",
+        "location": {
+          "lat": 8,
+          "lng": 1.036
+        },
+        "keyAccentLanguage": "soussoukparogan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amaide",
+        "location": {
+          "lat": 9.183,
+          "lng": 1.2
+        },
+        "keyAccentLanguage": "amaide"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Douakouya",
+        "location": {
+          "lat": 8.983,
+          "lng": 1.217
+        },
+        "keyAccentLanguage": "douakouya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bouvolem",
+        "location": {
+          "lat": 8.6,
+          "lng": 1.083
+        },
+        "keyAccentLanguage": "bouvolem"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bagou",
+        "location": {
+          "lat": 8.512,
+          "lng": 1.407
+        },
+        "keyAccentLanguage": "bagou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Assouma Kedeme",
+        "location": {
+          "lat": 8.233,
+          "lng": 0.7
+        },
+        "keyAccentLanguage": "assouma_kedeme"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dubouide",
+        "location": {
+          "lat": 8.917,
+          "lng": 1.2
+        },
+        "keyAccentLanguage": "dubouide"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kambole",
+        "location": {
+          "lat": 8.744,
+          "lng": 1.599
+        },
+        "keyAccentLanguage": "kambole"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bojonk",
+        "location": {
+          "lat": 9.2,
+          "lng": 1.133
+        },
+        "keyAccentLanguage": "bojonk"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Azam",
+        "location": {
+          "lat": 9.167,
+          "lng": 1.5
+        },
+        "keyAccentLanguage": "azam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dantcho",
+        "location": {
+          "lat": 8.983,
+          "lng": 1.483
+        },
+        "keyAccentLanguage": "dantcho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Didjare",
+        "location": {
+          "lat": 7.967,
+          "lng": 1.133
+        },
+        "keyAccentLanguage": "didjare"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ayekpada",
+        "location": {
+          "lat": 8.05,
+          "lng": 1.25
+        },
+        "keyAccentLanguage": "ayekpada"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Diguina",
+        "location": {
+          "lat": 8.25,
+          "lng": 1.1
+        },
+        "keyAccentLanguage": "diguina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjeide",
+        "location": {
+          "lat": 9.2,
+          "lng": 1.417
+        },
+        "keyAccentLanguage": "adjeide"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dereboua",
+        "location": {
+          "lat": 8.567,
+          "lng": 1.033
+        },
+        "keyAccentLanguage": "dereboua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pagala",
+        "location": {
+          "lat": 8.203,
+          "lng": 0.885
+        },
+        "keyAccentLanguage": "pagala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Blitta Losso",
+        "location": {
+          "lat": 8.333,
+          "lng": 1.017
+        },
+        "keyAccentLanguage": "blitta_losso"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Balanka",
+        "location": {
+          "lat": 8.867,
+          "lng": 1.617
+        },
+        "keyAccentLanguage": "balanka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Azaza",
+        "location": {
+          "lat": 9.167,
+          "lng": 1.35
+        },
+        "keyAccentLanguage": "azaza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Diamassi",
+        "location": {
+          "lat": 8.5,
+          "lng": 1.633
+        },
+        "keyAccentLanguage": "diamassi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adome",
+        "location": {
+          "lat": 8.05,
+          "lng": 1.117
+        },
+        "keyAccentLanguage": "adome"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Landa Mono",
+        "location": {
+          "lat": 8.591,
+          "lng": 1.272
+        },
+        "keyAccentLanguage": "landa_mono"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Yaloumbe",
+        "location": {
+          "lat": 8.3,
+          "lng": 1.087
+        },
+        "keyAccentLanguage": "yaloumbe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Diome",
+        "location": {
+          "lat": 8.6,
+          "lng": 1.317
+        },
+        "keyAccentLanguage": "diome"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agbale",
+        "location": {
+          "lat": 8.717,
+          "lng": 0.767
+        },
+        "keyAccentLanguage": "agbale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dalangda",
+        "location": {
+          "lat": 8.633,
+          "lng": 1.017
+        },
+        "keyAccentLanguage": "dalangda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Yegue",
+        "location": {
+          "lat": 8.182,
+          "lng": 0.628
+        },
+        "keyAccentLanguage": "yegue"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dogogble",
+        "location": {
+          "lat": 8.033,
+          "lng": 1.167
+        },
+        "keyAccentLanguage": "dogogble"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Boumberi",
+        "location": {
+          "lat": 9.067,
+          "lng": 1.283
+        },
+        "keyAccentLanguage": "boumberi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adaniabo",
+        "location": {
+          "lat": 8.2,
+          "lng": 0.983
+        },
+        "keyAccentLanguage": "adaniabo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akpode",
+        "location": {
+          "lat": 9.117,
+          "lng": 1.367
+        },
+        "keyAccentLanguage": "akpode"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Avalao",
+        "location": {
+          "lat": 9.1,
+          "lng": 1.35
+        },
+        "keyAccentLanguage": "avalao"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Folo",
+        "location": {
+          "lat": 8.919,
+          "lng": 0.688
+        },
+        "keyAccentLanguage": "folo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Djabatore",
+        "location": {
+          "lat": 8.533,
+          "lng": 0.967
+        },
+        "keyAccentLanguage": "djabatore"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Doubouranda",
+        "location": {
+          "lat": 9.033,
+          "lng": 1.283
+        },
+        "keyAccentLanguage": "doubouranda"
+      }
+    ],
+    "enNameLanguage": "Centre",
+    "keyAccentLanguage": "centre"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 9.5486112,
+      "lng": 1.1977158
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Benata",
+        "location": {
+          "lat": 9.105073899999999,
+          "lng": 0.4929528
+        },
+        "keyAccentLanguage": "benata"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kidjaboun",
+        "location": {
+          "lat": 9.781493099999999,
+          "lng": 0.4667501000000001
+        },
+        "keyAccentLanguage": "kidjaboun"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Naboulgou",
+        "location": {
+          "lat": 10.1552844,
+          "lng": 0.8270193
+        },
+        "keyAccentLanguage": "naboulgou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Atchangbade",
+        "location": {
+          "lat": 9.466667,
+          "lng": 1.133333
+        },
+        "keyAccentLanguage": "atchangbade"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aledjame",
+        "location": {
+          "lat": 9.383333,
+          "lng": 1.35
+        },
+        "keyAccentLanguage": "aledjame"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agarade",
+        "location": {
+          "lat": 46.9282091,
+          "lng": 6.343786799999999
+        },
+        "keyAccentLanguage": "agarade"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agounde",
+        "location": {
+          "lat": 9.816666999999999,
+          "lng": 0.916667
+        },
+        "keyAccentLanguage": "agounde"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Awassa",
+        "location": {
+          "lat": 7.0477329,
+          "lng": 38.4957849
+        },
+        "keyAccentLanguage": "awassa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bangbou",
+        "location": {
+          "lat": 9.850121099999999,
+          "lng": 0.8194751
+        },
+        "keyAccentLanguage": "bangbou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aledjo Kadara",
+        "location": {
+          "lat": 9.2529936,
+          "lng": 1.2061376
+        },
+        "keyAccentLanguage": "aledjo_kadara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agouebou",
+        "location": {
+          "lat": 9.333333,
+          "lng": 1.133333
+        },
+        "keyAccentLanguage": "agouebou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aketa",
+        "location": {
+          "lat": 39.7222288,
+          "lng": 140.1154055
+        },
+        "keyAccentLanguage": "aketa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bafilo",
+        "location": {
+          "lat": 9.356802499999999,
+          "lng": 1.248195
+        },
+        "keyAccentLanguage": "bafilo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baya",
+        "location": {
+          "lat": 9.35,
+          "lng": 0.9333330000000001
+        },
+        "keyAccentLanguage": "baya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aloum",
+        "location": {
+          "lat": 9.751098299999999,
+          "lng": 0.9928226000000001
+        },
+        "keyAccentLanguage": "aloum"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Koutiere",
+        "location": {
+          "lat": 9.818774,
+          "lng": 0.807051
+        },
+        "keyAccentLanguage": "koutiere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Guerin Kouka",
+        "location": {
+          "lat": 9.683728499999999,
+          "lng": 0.606207
+        },
+        "keyAccentLanguage": "guerin_kouka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Biakpabe",
+        "location": {
+          "lat": 9.4167712,
+          "lng": 0.5967369
+        },
+        "keyAccentLanguage": "biakpabe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bako Samaba",
+        "location": {
+          "lat": 10.116667,
+          "lng": 1.133333
+        },
+        "keyAccentLanguage": "bako_samaba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Niamtougou",
+        "location": {
+          "lat": 9.765251600000001,
+          "lng": 1.1083752
+        },
+        "keyAccentLanguage": "niamtougou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afoou",
+        "location": {
+          "lat": 9.45,
+          "lng": 0.9333330000000001
+        },
+        "keyAccentLanguage": "afoou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akomomboua",
+        "location": {
+          "lat": 9.633333,
+          "lng": 0.866667
+        },
+        "keyAccentLanguage": "akomomboua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bekando",
+        "location": {
+          "lat": 9.7813349,
+          "lng": 0.6186695
+        },
+        "keyAccentLanguage": "bekando"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pagouda",
+        "location": {
+          "lat": 9.7485915,
+          "lng": 1.3228229
+        },
+        "keyAccentLanguage": "pagouda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belemele",
+        "location": {
+          "lat": 9.4474968,
+          "lng": 0.6276615
+        },
+        "keyAccentLanguage": "belemele"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bandiadou",
+        "location": {
+          "lat": 9.85,
+          "lng": 0.5
+        },
+        "keyAccentLanguage": "bandiadou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bassar",
+        "location": {
+          "lat": 9.2610914,
+          "lng": 0.7770528999999999
+        },
+        "keyAccentLanguage": "bassar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alidounpo",
+        "location": {
+          "lat": 9.4,
+          "lng": 0.683333
+        },
+        "keyAccentLanguage": "alidounpo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bao",
+        "location": {
+          "lat": 25.56038,
+          "lng": 119.42534
+        },
+        "keyAccentLanguage": "bao"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ayandete",
+        "location": {
+          "lat": 10.07035,
+          "lng": 0.9218849999999998
+        },
+        "keyAccentLanguage": "ayandete"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bakoule",
+        "location": {
+          "lat": 9.0676693,
+          "lng": 0.5415194999999999
+        },
+        "keyAccentLanguage": "bakoule"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Katchamba",
+        "location": {
+          "lat": 9.8846432,
+          "lng": 0.5305086999999999
+        },
+        "keyAccentLanguage": "katchamba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akponte",
+        "location": {
+          "lat": 10.2792466,
+          "lng": 0.9037411999999999
+        },
+        "keyAccentLanguage": "akponte"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjaite",
+        "location": {
+          "lat": 9.933,
+          "lng": 1.017
+        },
+        "keyAccentLanguage": "adjaite"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akoutia",
+        "location": {
+          "lat": 9.383,
+          "lng": 1.317
+        },
+        "keyAccentLanguage": "akoutia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agbande",
+        "location": {
+          "lat": 9.667,
+          "lng": 0.95
+        },
+        "keyAccentLanguage": "agbande"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bigabo",
+        "location": {
+          "lat": 9.217,
+          "lng": 0.85
+        },
+        "keyAccentLanguage": "bigabo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akalede",
+        "location": {
+          "lat": 9.433,
+          "lng": 0.933
+        },
+        "keyAccentLanguage": "akalede"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akpante",
+        "location": {
+          "lat": 9.717,
+          "lng": 0.983
+        },
+        "keyAccentLanguage": "akpante"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bassoude",
+        "location": {
+          "lat": 9.467,
+          "lng": 0.933
+        },
+        "keyAccentLanguage": "bassoude"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Apoeydoumpo",
+        "location": {
+          "lat": 9.267,
+          "lng": 0.633
+        },
+        "keyAccentLanguage": "apoeydoumpo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bidjabe",
+        "location": {
+          "lat": 9.317,
+          "lng": 0.583
+        },
+        "keyAccentLanguage": "bidjabe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baoulinse",
+        "location": {
+          "lat": 9.317,
+          "lng": 0.633
+        },
+        "keyAccentLanguage": "baoulinse"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Atalote",
+        "location": {
+          "lat": 9.931,
+          "lng": 0.949
+        },
+        "keyAccentLanguage": "atalote"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aranda",
+        "location": {
+          "lat": 9.467,
+          "lng": 1.233
+        },
+        "keyAccentLanguage": "aranda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baredjian",
+        "location": {
+          "lat": 10.033,
+          "lng": 0.983
+        },
+        "keyAccentLanguage": "baredjian"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aloumboukou",
+        "location": {
+          "lat": 9.7,
+          "lng": 1.3
+        },
+        "keyAccentLanguage": "aloumboukou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Atontebou",
+        "location": {
+          "lat": 9.867,
+          "lng": 0.817
+        },
+        "keyAccentLanguage": "atontebou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bijobebe",
+        "location": {
+          "lat": 9.35,
+          "lng": 0.6
+        },
+        "keyAccentLanguage": "bijobebe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andjide",
+        "location": {
+          "lat": 9.9,
+          "lng": 1.117
+        },
+        "keyAccentLanguage": "andjide"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nabouri",
+        "location": {
+          "lat": 9.836,
+          "lng": 0.488
+        },
+        "keyAccentLanguage": "nabouri"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aban",
+        "location": {
+          "lat": 9.483,
+          "lng": 1.317
+        },
+        "keyAccentLanguage": "aban"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Animene Tie",
+        "location": {
+          "lat": 10.033,
+          "lng": 1.133
+        },
+        "keyAccentLanguage": "animene_tie"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dikpakpar",
+        "location": {
+          "lat": 9.592,
+          "lng": 0.777
+        },
+        "keyAccentLanguage": "dikpakpar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aliande",
+        "location": {
+          "lat": 9.817,
+          "lng": 0.983
+        },
+        "keyAccentLanguage": "aliande"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Awandjelo",
+        "location": {
+          "lat": 9.45,
+          "lng": 1.217
+        },
+        "keyAccentLanguage": "awandjelo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anatoa",
+        "location": {
+          "lat": 9.933,
+          "lng": 1
+        },
+        "keyAccentLanguage": "anatoa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Atelo",
+        "location": {
+          "lat": 9.917,
+          "lng": 0.867
+        },
+        "keyAccentLanguage": "atelo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anima",
+        "location": {
+          "lat": 9.767,
+          "lng": 1.017
+        },
+        "keyAccentLanguage": "anima"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agbandaode",
+        "location": {
+          "lat": 9.317,
+          "lng": 1.35
+        },
+        "keyAccentLanguage": "agbandaode"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alemande",
+        "location": {
+          "lat": 9.717,
+          "lng": 1.35
+        },
+        "keyAccentLanguage": "alemande"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bekouroube",
+        "location": {
+          "lat": 9.1,
+          "lng": 0.517
+        },
+        "keyAccentLanguage": "bekouroube"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akinda",
+        "location": {
+          "lat": 9.617,
+          "lng": 0.967
+        },
+        "keyAccentLanguage": "akinda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Atiaka",
+        "location": {
+          "lat": 9.85,
+          "lng": 0.883
+        },
+        "keyAccentLanguage": "atiaka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Atetou",
+        "location": {
+          "lat": 9.933,
+          "lng": 1.05
+        },
+        "keyAccentLanguage": "atetou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bassassin",
+        "location": {
+          "lat": 9.683,
+          "lng": 0.483
+        },
+        "keyAccentLanguage": "bassassin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bangeli",
+        "location": {
+          "lat": 9.424,
+          "lng": 0.631
+        },
+        "keyAccentLanguage": "bangeli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baga",
+        "location": {
+          "lat": 9.383,
+          "lng": 0.85
+        },
+        "keyAccentLanguage": "baga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kara",
+        "location": {
+          "lat": 9.547,
+          "lng": 1.193
+        },
+        "keyAccentLanguage": "kara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aniandide",
+        "location": {
+          "lat": 9.8,
+          "lng": 0.983
+        },
+        "keyAccentLanguage": "aniandide"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bamandou",
+        "location": {
+          "lat": 9.8,
+          "lng": 0.633
+        },
+        "keyAccentLanguage": "bamandou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alembonda",
+        "location": {
+          "lat": 9.533,
+          "lng": 1.217
+        },
+        "keyAccentLanguage": "alembonda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bapure",
+        "location": {
+          "lat": 9.524,
+          "lng": 0.614
+        },
+        "keyAccentLanguage": "bapure"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bako Touga",
+        "location": {
+          "lat": 10.117,
+          "lng": 1.083
+        },
+        "keyAccentLanguage": "bako_touga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abakouande",
+        "location": {
+          "lat": 9.4,
+          "lng": 1.25
+        },
+        "keyAccentLanguage": "abakouande"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bekouleb",
+        "location": {
+          "lat": 9.25,
+          "lng": 0.767
+        },
+        "keyAccentLanguage": "bekouleb"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Assire",
+        "location": {
+          "lat": 9.8,
+          "lng": 1.267
+        },
+        "keyAccentLanguage": "assire"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Badao",
+        "location": {
+          "lat": 9.45,
+          "lng": 0.967
+        },
+        "keyAccentLanguage": "badao"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bapele",
+        "location": {
+          "lat": 9.467,
+          "lng": 0.55
+        },
+        "keyAccentLanguage": "bapele"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baouda",
+        "location": {
+          "lat": 9.5,
+          "lng": 0.983
+        },
+        "keyAccentLanguage": "baouda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bakpaya",
+        "location": {
+          "lat": 9.267,
+          "lng": 0.533
+        },
+        "keyAccentLanguage": "bakpaya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kandé",
+        "location": {
+          "lat": 9.956,
+          "lng": 1.052
+        },
+        "keyAccentLanguage": "kandé"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Petab",
+        "location": {
+          "lat": 9.718,
+          "lng": 0.356
+        },
+        "keyAccentLanguage": "petab"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bessarakpenbe",
+        "location": {
+          "lat": 9.3,
+          "lng": 0.583
+        },
+        "keyAccentLanguage": "bessarakpenbe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pesside",
+        "location": {
+          "lat": 10.003,
+          "lng": 0.991
+        },
+        "keyAccentLanguage": "pesside"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Massedena",
+        "location": {
+          "lat": 9.952,
+          "lng": 1.268
+        },
+        "keyAccentLanguage": "massedena"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aloumere",
+        "location": {
+          "lat": 9.95,
+          "lng": 1.233
+        },
+        "keyAccentLanguage": "aloumere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akare",
+        "location": {
+          "lat": 9.717,
+          "lng": 0.883
+        },
+        "keyAccentLanguage": "akare"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nampoa",
+        "location": {
+          "lat": 9.762,
+          "lng": 0.624
+        },
+        "keyAccentLanguage": "nampoa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bia",
+        "location": {
+          "lat": 9.483,
+          "lng": 0.983
+        },
+        "keyAccentLanguage": "bia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Namon",
+        "location": {
+          "lat": 9.727,
+          "lng": 0.811
+        },
+        "keyAccentLanguage": "namon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bangan",
+        "location": {
+          "lat": 9.068,
+          "lng": 0.693
+        },
+        "keyAccentLanguage": "bangan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kabou",
+        "location": {
+          "lat": 9.461,
+          "lng": 0.814
+        },
+        "keyAccentLanguage": "kabou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bamoundo",
+        "location": {
+          "lat": 9.5,
+          "lng": 0.517
+        },
+        "keyAccentLanguage": "bamoundo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Banjena",
+        "location": {
+          "lat": 9.433,
+          "lng": 0.9
+        },
+        "keyAccentLanguage": "banjena"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kakpale",
+        "location": {
+          "lat": 9.142,
+          "lng": 0.507
+        },
+        "keyAccentLanguage": "kakpale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bidaibe",
+        "location": {
+          "lat": 9.25,
+          "lng": 0.533
+        },
+        "keyAccentLanguage": "bidaibe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beoaja",
+        "location": {
+          "lat": 9.433,
+          "lng": 0.533
+        },
+        "keyAccentLanguage": "beoaja"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bassambo",
+        "location": {
+          "lat": 9.767,
+          "lng": 0.817
+        },
+        "keyAccentLanguage": "bassambo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afoudi",
+        "location": {
+          "lat": 9.383,
+          "lng": 1.217
+        },
+        "keyAccentLanguage": "afoudi"
+      }
+    ],
+    "enNameLanguage": "Kara",
+    "keyAccentLanguage": "kara"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Assahoun",
+        "location": {
+          "lat": 6.4548632,
+          "lng": 0.9104334
+        },
+        "keyAccentLanguage": "assahoun"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Badja",
+        "location": {
+          "lat": 6.3761936,
+          "lng": 0.9856518000000001
+        },
+        "keyAccentLanguage": "badja"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agbodrafo",
+        "location": {
+          "lat": 6.209319799999999,
+          "lng": 1.4795047
+        },
+        "keyAccentLanguage": "agbodrafo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Keve",
+        "location": {
+          "lat": 6.422872,
+          "lng": 0.9295234
+        },
+        "keyAccentLanguage": "keve"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adakope",
+        "location": {
+          "lat": 4.8879871,
+          "lng": -1.7739653
+        },
+        "keyAccentLanguage": "adakope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ablogame",
+        "location": {
+          "lat": 6.1419539,
+          "lng": 1.2566141
+        },
+        "keyAccentLanguage": "ablogame"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adidome",
+        "location": {
+          "lat": 6.072974299999999,
+          "lng": 0.5116066
+        },
+        "keyAccentLanguage": "adidome"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abekope",
+        "location": {
+          "lat": 5.7534038,
+          "lng": 0.0105976
+        },
+        "keyAccentLanguage": "abekope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adame",
+        "location": {
+          "lat": 6.333333,
+          "lng": 1.783333
+        },
+        "keyAccentLanguage": "adame"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sanguera",
+        "location": {
+          "lat": 6.228453,
+          "lng": 1.1185143
+        },
+        "keyAccentLanguage": "sanguera"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adangbe",
+        "location": {
+          "lat": 6.533333,
+          "lng": 1.3
+        },
+        "keyAccentLanguage": "adangbe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjakpekope",
+        "location": {
+          "lat": 6.466666999999999,
+          "lng": 0.8166669999999999
+        },
+        "keyAccentLanguage": "adjakpekope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baguida",
+        "location": {
+          "lat": 6.1778508,
+          "lng": 1.3418187
+        },
+        "keyAccentLanguage": "baguida"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ahepe",
+        "location": {
+          "lat": 6.608435399999999,
+          "lng": 1.3951694
+        },
+        "keyAccentLanguage": "ahepe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abazikope",
+        "location": {
+          "lat": 6.517,
+          "lng": 1.033
+        },
+        "keyAccentLanguage": "abazikope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adakpame",
+        "location": {
+          "lat": 6.168,
+          "lng": 1.287
+        },
+        "keyAccentLanguage": "adakpame"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abofla Kope",
+        "location": {
+          "lat": 6.45,
+          "lng": 0.883
+        },
+        "keyAccentLanguage": "abofla_kope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ablogbe",
+        "location": {
+          "lat": 6.221,
+          "lng": 1.085
+        },
+        "keyAccentLanguage": "ablogbe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adabou Kope",
+        "location": {
+          "lat": 6.3,
+          "lng": 1.533
+        },
+        "keyAccentLanguage": "adabou_kope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjodogou",
+        "location": {
+          "lat": 6.333,
+          "lng": 1.583
+        },
+        "keyAccentLanguage": "adjodogou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alokoegbe",
+        "location": {
+          "lat": 6.438,
+          "lng": 1.082
+        },
+        "keyAccentLanguage": "alokoegbe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adetikope",
+        "location": {
+          "lat": 6.325,
+          "lng": 1.215
+        },
+        "keyAccentLanguage": "adetikope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afanyan Bleta",
+        "location": {
+          "lat": 6.5,
+          "lng": 1.617
+        },
+        "keyAccentLanguage": "afanyan_bleta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abatame",
+        "location": {
+          "lat": 6.267,
+          "lng": 1.65
+        },
+        "keyAccentLanguage": "abatame"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjonikope",
+        "location": {
+          "lat": 6.683,
+          "lng": 1.1
+        },
+        "keyAccentLanguage": "adjonikope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adidovikope",
+        "location": {
+          "lat": 6.334,
+          "lng": 1.268
+        },
+        "keyAccentLanguage": "adidovikope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adiseou",
+        "location": {
+          "lat": 6.191,
+          "lng": 1.452
+        },
+        "keyAccentLanguage": "adiseou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adidogome",
+        "location": {
+          "lat": 6.367,
+          "lng": 1.6
+        },
+        "keyAccentLanguage": "adidogome"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adiemassikope",
+        "location": {
+          "lat": 6.533,
+          "lng": 0.767
+        },
+        "keyAccentLanguage": "adiemassikope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjogbenouko",
+        "location": {
+          "lat": 6.5,
+          "lng": 1.033
+        },
+        "keyAccentLanguage": "adjogbenouko"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjakope",
+        "location": {
+          "lat": 6.783,
+          "lng": 1.517
+        },
+        "keyAccentLanguage": "adjakope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abobo",
+        "location": {
+          "lat": 6.236,
+          "lng": 1.376
+        },
+        "keyAccentLanguage": "abobo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjatogo",
+        "location": {
+          "lat": 6.159,
+          "lng": 1.339
+        },
+        "keyAccentLanguage": "adjatogo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjougba",
+        "location": {
+          "lat": 6.224,
+          "lng": 1.226
+        },
+        "keyAccentLanguage": "adjougba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adablai",
+        "location": {
+          "lat": 6.206,
+          "lng": 1.219
+        },
+        "keyAccentLanguage": "adablai"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjakakope",
+        "location": {
+          "lat": 6.633,
+          "lng": 0.95
+        },
+        "keyAccentLanguage": "adjakakope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adakouse",
+        "location": {
+          "lat": 6.174,
+          "lng": 1.214
+        },
+        "keyAccentLanguage": "adakouse"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adabyaou",
+        "location": {
+          "lat": 6.65,
+          "lng": 1.6
+        },
+        "keyAccentLanguage": "adabyaou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Game",
+        "location": {
+          "lat": 6.732,
+          "lng": 1.178
+        },
+        "keyAccentLanguage": "game"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abolokope",
+        "location": {
+          "lat": 6.7,
+          "lng": 1.15
+        },
+        "keyAccentLanguage": "abolokope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abati Kope",
+        "location": {
+          "lat": 6.217,
+          "lng": 1.533
+        },
+        "keyAccentLanguage": "abati_kope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adekplovi",
+        "location": {
+          "lat": 6.209,
+          "lng": 1.163
+        },
+        "keyAccentLanguage": "adekplovi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anfoin",
+        "location": {
+          "lat": 6.318,
+          "lng": 1.615
+        },
+        "keyAccentLanguage": "anfoin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjido Deka",
+        "location": {
+          "lat": 6.264,
+          "lng": 1.429
+        },
+        "keyAccentLanguage": "adjido_deka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adakpo Kondji",
+        "location": {
+          "lat": 6.362,
+          "lng": 1.49
+        },
+        "keyAccentLanguage": "adakpo_kondji"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aboni Kope",
+        "location": {
+          "lat": 6.176,
+          "lng": 1.192
+        },
+        "keyAccentLanguage": "aboni_kope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjegan Kope",
+        "location": {
+          "lat": 6.267,
+          "lng": 1.617
+        },
+        "keyAccentLanguage": "adjegan_kope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjablekope",
+        "location": {
+          "lat": 6.65,
+          "lng": 0.983
+        },
+        "keyAccentLanguage": "adjablekope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afangbedji",
+        "location": {
+          "lat": 6.215,
+          "lng": 1.117
+        },
+        "keyAccentLanguage": "afangbedji"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adgenou",
+        "location": {
+          "lat": 6.185,
+          "lng": 1.246
+        },
+        "keyAccentLanguage": "adgenou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abidikope",
+        "location": {
+          "lat": 6.55,
+          "lng": 1.017
+        },
+        "keyAccentLanguage": "abidikope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjakove",
+        "location": {
+          "lat": 6.209,
+          "lng": 1.133
+        },
+        "keyAccentLanguage": "adjakove"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abvelebe",
+        "location": {
+          "lat": 6.617,
+          "lng": 1.017
+        },
+        "keyAccentLanguage": "abvelebe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ablame",
+        "location": {
+          "lat": 6.483,
+          "lng": 0.8
+        },
+        "keyAccentLanguage": "ablame"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anecho",
+        "location": {
+          "lat": 6.225,
+          "lng": 1.585
+        },
+        "keyAccentLanguage": "anecho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afatodji Kope",
+        "location": {
+          "lat": 6.35,
+          "lng": 1.467
+        },
+        "keyAccentLanguage": "afatodji_kope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjirekope",
+        "location": {
+          "lat": 6.533,
+          "lng": 1.433
+        },
+        "keyAccentLanguage": "adjirekope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjigo",
+        "location": {
+          "lat": 6.15,
+          "lng": 1.282
+        },
+        "keyAccentLanguage": "adjigo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adigbli",
+        "location": {
+          "lat": 6.583,
+          "lng": 0.883
+        },
+        "keyAccentLanguage": "adigbli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abolegbe",
+        "location": {
+          "lat": 6.5,
+          "lng": 0.933
+        },
+        "keyAccentLanguage": "abolegbe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjavi",
+        "location": {
+          "lat": 6.226,
+          "lng": 1.181
+        },
+        "keyAccentLanguage": "adjavi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjavon",
+        "location": {
+          "lat": 6.225,
+          "lng": 1.22
+        },
+        "keyAccentLanguage": "adjavon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjetakope",
+        "location": {
+          "lat": 6.733,
+          "lng": 1.2
+        },
+        "keyAccentLanguage": "adjetakope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adoukoue",
+        "location": {
+          "lat": 6.317,
+          "lng": 1.633
+        },
+        "keyAccentLanguage": "adoukoue"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tovegan",
+        "location": {
+          "lat": 6.568,
+          "lng": 0.879
+        },
+        "keyAccentLanguage": "tovegan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afadonou",
+        "location": {
+          "lat": 6.633,
+          "lng": 1.567
+        },
+        "keyAccentLanguage": "afadonou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Noepe",
+        "location": {
+          "lat": 6.258,
+          "lng": 1.04
+        },
+        "keyAccentLanguage": "noepe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Vogan",
+        "location": {
+          "lat": 6.325,
+          "lng": 1.528
+        },
+        "keyAccentLanguage": "vogan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adourho Kondji",
+        "location": {
+          "lat": 6.35,
+          "lng": 1.517
+        },
+        "keyAccentLanguage": "adourho_kondji"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjira Kope",
+        "location": {
+          "lat": 6.409,
+          "lng": 1.262
+        },
+        "keyAccentLanguage": "adjira_kope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjogble",
+        "location": {
+          "lat": 6.185,
+          "lng": 1.275
+        },
+        "keyAccentLanguage": "adjogble"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjrhala Kope",
+        "location": {
+          "lat": 6.683,
+          "lng": 1.15
+        },
+        "keyAccentLanguage": "adjrhala_kope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tabligbo",
+        "location": {
+          "lat": 6.588,
+          "lng": 1.502
+        },
+        "keyAccentLanguage": "tabligbo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lome",
+        "location": {
+          "lat": 6.13,
+          "lng": 1.226
+        },
+        "keyAccentLanguage": "lome"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adokpo",
+        "location": {
+          "lat": 6.217,
+          "lng": 1.083
+        },
+        "keyAccentLanguage": "adokpo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akepe",
+        "location": {
+          "lat": 6.233,
+          "lng": 1.059
+        },
+        "keyAccentLanguage": "akepe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjidome",
+        "location": {
+          "lat": 6.232,
+          "lng": 1.331
+        },
+        "keyAccentLanguage": "adjidome"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agbelouve",
+        "location": {
+          "lat": 6.675,
+          "lng": 1.17
+        },
+        "keyAccentLanguage": "agbelouve"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aeto",
+        "location": {
+          "lat": 6.175,
+          "lng": 1.111
+        },
+        "keyAccentLanguage": "aeto"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjodakope",
+        "location": {
+          "lat": 6.533,
+          "lng": 1.15
+        },
+        "keyAccentLanguage": "adjodakope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjenyokope",
+        "location": {
+          "lat": 6.55,
+          "lng": 1.533
+        },
+        "keyAccentLanguage": "adjenyokope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ablochrhi Kope",
+        "location": {
+          "lat": 6.367,
+          "lng": 1.102
+        },
+        "keyAccentLanguage": "ablochrhi_kope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adato",
+        "location": {
+          "lat": 6.435,
+          "lng": 1.186
+        },
+        "keyAccentLanguage": "adato"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afanbo",
+        "location": {
+          "lat": 6.184,
+          "lng": 1.197
+        },
+        "keyAccentLanguage": "afanbo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adokpwe",
+        "location": {
+          "lat": 6.633,
+          "lng": 1.183
+        },
+        "keyAccentLanguage": "adokpwe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjoguidi",
+        "location": {
+          "lat": 6.298,
+          "lng": 1.282
+        },
+        "keyAccentLanguage": "adjoguidi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afanyangan",
+        "location": {
+          "lat": 6.483,
+          "lng": 1.65
+        },
+        "keyAccentLanguage": "afanyangan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adate Kope",
+        "location": {
+          "lat": 6.733,
+          "lng": 1.333
+        },
+        "keyAccentLanguage": "adate_kope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjivon",
+        "location": {
+          "lat": 6.189,
+          "lng": 1.148
+        },
+        "keyAccentLanguage": "adjivon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tsevie",
+        "location": {
+          "lat": 6.427,
+          "lng": 1.214
+        },
+        "keyAccentLanguage": "tsevie"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adido Gome",
+        "location": {
+          "lat": 6.179,
+          "lng": 1.165
+        },
+        "keyAccentLanguage": "adido_gome"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amegnran",
+        "location": {
+          "lat": 6.466,
+          "lng": 1.57
+        },
+        "keyAccentLanguage": "amegnran"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agoueve",
+        "location": {
+          "lat": 6.213,
+          "lng": 1.218
+        },
+        "keyAccentLanguage": "agoueve"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tchekpo Dedekpoe",
+        "location": {
+          "lat": 6.532,
+          "lng": 1.36
+        },
+        "keyAccentLanguage": "tchekpo_dedekpoe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjire Kouba Kondji",
+        "location": {
+          "lat": 6.55,
+          "lng": 1.45
+        },
+        "keyAccentLanguage": "adjire_kouba_kondji"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adyena Kondji",
+        "location": {
+          "lat": 6.217,
+          "lng": 1.567
+        },
+        "keyAccentLanguage": "adyena_kondji"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjadebe",
+        "location": {
+          "lat": 6.268,
+          "lng": 1.069
+        },
+        "keyAccentLanguage": "adjadebe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjido",
+        "location": {
+          "lat": 6.65,
+          "lng": 1.033
+        },
+        "keyAccentLanguage": "adjido"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adyenyenya",
+        "location": {
+          "lat": 6.193,
+          "lng": 1.083
+        },
+        "keyAccentLanguage": "adyenyenya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afate",
+        "location": {
+          "lat": 6.517,
+          "lng": 1.217
+        },
+        "keyAccentLanguage": "afate"
+      }
+    ],
+    "enNameLanguage": "Maritime",
+    "keyAccentLanguage": "maritime"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 45.5345294,
+      "lng": -73.5882597
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adiakiti",
+        "location": {
+          "lat": 8.049999999999999,
+          "lng": 1.566667
+        },
+        "keyAccentLanguage": "adiakiti"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Klabe Apegame",
+        "location": {
+          "lat": 7.637283999999998,
+          "lng": 0.882173
+        },
+        "keyAccentLanguage": "klabe_apegame"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akpare",
+        "location": {
+          "lat": 7.472329100000001,
+          "lng": 1.3241702
+        },
+        "keyAccentLanguage": "akpare"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ogou Kinko",
+        "location": {
+          "lat": 8.0380255,
+          "lng": 1.4852478
+        },
+        "keyAccentLanguage": "ogou_kinko"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amlame",
+        "location": {
+          "lat": 7.456151199999999,
+          "lng": 0.9032768999999999
+        },
+        "keyAccentLanguage": "amlame"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abagnivegoui",
+        "location": {
+          "lat": 6.933,
+          "lng": 1.283
+        },
+        "keyAccentLanguage": "abagnivegoui"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abassakope",
+        "location": {
+          "lat": 7.733,
+          "lng": 1.217
+        },
+        "keyAccentLanguage": "abassakope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abalakope",
+        "location": {
+          "lat": 6.983,
+          "lng": 1.133
+        },
+        "keyAccentLanguage": "abalakope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abagatchi",
+        "location": {
+          "lat": 7.467,
+          "lng": 1.3
+        },
+        "keyAccentLanguage": "abagatchi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Achikopoui",
+        "location": {
+          "lat": 7.083,
+          "lng": 1.617
+        },
+        "keyAccentLanguage": "achikopoui"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abalokope",
+        "location": {
+          "lat": 7.517,
+          "lng": 1.4
+        },
+        "keyAccentLanguage": "abalokope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aboudiokope",
+        "location": {
+          "lat": 6.65,
+          "lng": 0.717
+        },
+        "keyAccentLanguage": "aboudiokope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abali",
+        "location": {
+          "lat": 6.817,
+          "lng": 1.283
+        },
+        "keyAccentLanguage": "abali"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abegba",
+        "location": {
+          "lat": 8.017,
+          "lng": 1.583
+        },
+        "keyAccentLanguage": "abegba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abokoukope",
+        "location": {
+          "lat": 7.55,
+          "lng": 1.083
+        },
+        "keyAccentLanguage": "abokoukope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nyitoe",
+        "location": {
+          "lat": 6.656,
+          "lng": 0.654
+        },
+        "keyAccentLanguage": "nyitoe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Elavagnon",
+        "location": {
+          "lat": 7.973,
+          "lng": 1.294
+        },
+        "keyAccentLanguage": "elavagnon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjahoun",
+        "location": {
+          "lat": 7.483,
+          "lng": 0.917
+        },
+        "keyAccentLanguage": "adjahoun"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adiaboulkoukope",
+        "location": {
+          "lat": 7.333,
+          "lng": 1.2
+        },
+        "keyAccentLanguage": "adiaboulkoukope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Glei",
+        "location": {
+          "lat": 7.311,
+          "lng": 1.163
+        },
+        "keyAccentLanguage": "glei"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tafia",
+        "location": {
+          "lat": 7.168,
+          "lng": 1.334
+        },
+        "keyAccentLanguage": "tafia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Klabe Adape",
+        "location": {
+          "lat": 7.615,
+          "lng": 0.794
+        },
+        "keyAccentLanguage": "klabe_adape"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abodji",
+        "location": {
+          "lat": 7.383,
+          "lng": 1.3
+        },
+        "keyAccentLanguage": "abodji"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kpele",
+        "location": {
+          "lat": 6.859,
+          "lng": 1.182
+        },
+        "keyAccentLanguage": "kpele"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjakpa",
+        "location": {
+          "lat": 6.65,
+          "lng": 0.817
+        },
+        "keyAccentLanguage": "adjakpa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dayes Flavagnon",
+        "location": {
+          "lat": 7.28,
+          "lng": 0.709
+        },
+        "keyAccentLanguage": "dayes_flavagnon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjache",
+        "location": {
+          "lat": 7.15,
+          "lng": 1.583
+        },
+        "keyAccentLanguage": "adjache"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abouloukope",
+        "location": {
+          "lat": 7.333,
+          "lng": 1.217
+        },
+        "keyAccentLanguage": "abouloukope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abalo Kpele",
+        "location": {
+          "lat": 7.433,
+          "lng": 1.583
+        },
+        "keyAccentLanguage": "abalo_kpele"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kolokope",
+        "location": {
+          "lat": 7.797,
+          "lng": 1.292
+        },
+        "keyAccentLanguage": "kolokope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adioba",
+        "location": {
+          "lat": 8.25,
+          "lng": 1.583
+        },
+        "keyAccentLanguage": "adioba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aboundji",
+        "location": {
+          "lat": 7.1,
+          "lng": 1.633
+        },
+        "keyAccentLanguage": "aboundji"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Issati",
+        "location": {
+          "lat": 8.339,
+          "lng": 1.366
+        },
+        "keyAccentLanguage": "issati"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ele",
+        "location": {
+          "lat": 7.274,
+          "lng": 0.8
+        },
+        "keyAccentLanguage": "ele"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adiva",
+        "location": {
+          "lat": 7.517,
+          "lng": 1.017
+        },
+        "keyAccentLanguage": "adiva"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adagali",
+        "location": {
+          "lat": 7.067,
+          "lng": 0.7
+        },
+        "keyAccentLanguage": "adagali"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abessankope",
+        "location": {
+          "lat": 7.367,
+          "lng": 1.15
+        },
+        "keyAccentLanguage": "abessankope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Notse",
+        "location": {
+          "lat": 6.945,
+          "lng": 1.169
+        },
+        "keyAccentLanguage": "notse"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Badou",
+        "location": {
+          "lat": 7.58,
+          "lng": 0.603
+        },
+        "keyAccentLanguage": "badou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adakoui",
+        "location": {
+          "lat": 6.85,
+          "lng": 1.3
+        },
+        "keyAccentLanguage": "adakoui"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adekoe",
+        "location": {
+          "lat": 7.017,
+          "lng": 1.133
+        },
+        "keyAccentLanguage": "adekoe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agbokope",
+        "location": {
+          "lat": 7.435,
+          "lng": 0.67
+        },
+        "keyAccentLanguage": "agbokope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Atome",
+        "location": {
+          "lat": 7.356,
+          "lng": 1.559
+        },
+        "keyAccentLanguage": "atome"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abotesse",
+        "location": {
+          "lat": 7.533,
+          "lng": 1.2
+        },
+        "keyAccentLanguage": "abotesse"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dadja",
+        "location": {
+          "lat": 7.432,
+          "lng": 1.156
+        },
+        "keyAccentLanguage": "dadja"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abanakope",
+        "location": {
+          "lat": 7.6,
+          "lng": 1.117
+        },
+        "keyAccentLanguage": "abanakope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kpedome",
+        "location": {
+          "lat": 6.973,
+          "lng": 1.171
+        },
+        "keyAccentLanguage": "kpedome"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abreouanko",
+        "location": {
+          "lat": 7.617,
+          "lng": 0.6
+        },
+        "keyAccentLanguage": "abreouanko"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Djatekpe",
+        "location": {
+          "lat": 6.91,
+          "lng": 0.965
+        },
+        "keyAccentLanguage": "djatekpe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adafokope",
+        "location": {
+          "lat": 6.683,
+          "lng": 0.667
+        },
+        "keyAccentLanguage": "adafokope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amodoukoute",
+        "location": {
+          "lat": 8.238,
+          "lng": 1.555
+        },
+        "keyAccentLanguage": "amodoukoute"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abalo Kakaou",
+        "location": {
+          "lat": 8.033,
+          "lng": 1.483
+        },
+        "keyAccentLanguage": "abalo_kakaou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adanouve",
+        "location": {
+          "lat": 6.883,
+          "lng": 1.15
+        },
+        "keyAccentLanguage": "adanouve"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abodjopo",
+        "location": {
+          "lat": 6.85,
+          "lng": 1.167
+        },
+        "keyAccentLanguage": "abodjopo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amou Oblo",
+        "location": {
+          "lat": 7.401,
+          "lng": 0.874
+        },
+        "keyAccentLanguage": "amou_oblo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Glekope",
+        "location": {
+          "lat": 6.721,
+          "lng": 0.816
+        },
+        "keyAccentLanguage": "glekope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abonkope",
+        "location": {
+          "lat": 7.433,
+          "lng": 1.033
+        },
+        "keyAccentLanguage": "abonkope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kougnohou",
+        "location": {
+          "lat": 7.513,
+          "lng": 1.267
+        },
+        "keyAccentLanguage": "kougnohou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adanka",
+        "location": {
+          "lat": 7.25,
+          "lng": 1.167
+        },
+        "keyAccentLanguage": "adanka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tohoun",
+        "location": {
+          "lat": 7.018,
+          "lng": 1.614
+        },
+        "keyAccentLanguage": "tohoun"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abonakope",
+        "location": {
+          "lat": 7.05,
+          "lng": 1.133
+        },
+        "keyAccentLanguage": "abonakope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agome Kotoukpa",
+        "location": {
+          "lat": 7.509,
+          "lng": 1.028
+        },
+        "keyAccentLanguage": "agome_kotoukpa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abissoukope",
+        "location": {
+          "lat": 6.983,
+          "lng": 1.133
+        },
+        "keyAccentLanguage": "abissoukope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adedakope",
+        "location": {
+          "lat": 7.333,
+          "lng": 1.333
+        },
+        "keyAccentLanguage": "adedakope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kpekpleme",
+        "location": {
+          "lat": 7.325,
+          "lng": 1.623
+        },
+        "keyAccentLanguage": "kpekpleme"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kpalime",
+        "location": {
+          "lat": 6.91,
+          "lng": 0.636
+        },
+        "keyAccentLanguage": "kpalime"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Wahala",
+        "location": {
+          "lat": 7.178,
+          "lng": 1.163
+        },
+        "keyAccentLanguage": "wahala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Patala",
+        "location": {
+          "lat": 7.775,
+          "lng": 1.533
+        },
+        "keyAccentLanguage": "patala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saligbe",
+        "location": {
+          "lat": 7.222,
+          "lng": 1.627
+        },
+        "keyAccentLanguage": "saligbe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agou Gadzepe",
+        "location": {
+          "lat": 6.843,
+          "lng": 0.717
+        },
+        "keyAccentLanguage": "agou_gadzepe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kati",
+        "location": {
+          "lat": 6.894,
+          "lng": 0.849
+        },
+        "keyAccentLanguage": "kati"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akaba",
+        "location": {
+          "lat": 7.953,
+          "lng": 1.052
+        },
+        "keyAccentLanguage": "akaba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anie",
+        "location": {
+          "lat": 7.758,
+          "lng": 1.192
+        },
+        "keyAccentLanguage": "anie"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dagou",
+        "location": {
+          "lat": 8.055,
+          "lng": 1.319
+        },
+        "keyAccentLanguage": "dagou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lodji",
+        "location": {
+          "lat": 7.664,
+          "lng": 1.138
+        },
+        "keyAccentLanguage": "lodji"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kouniohou",
+        "location": {
+          "lat": 7.654,
+          "lng": 0.79
+        },
+        "keyAccentLanguage": "kouniohou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adeli",
+        "location": {
+          "lat": 7.767,
+          "lng": 1.217
+        },
+        "keyAccentLanguage": "adeli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kpadape",
+        "location": {
+          "lat": 6.845,
+          "lng": 0.601
+        },
+        "keyAccentLanguage": "kpadape"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Moretan",
+        "location": {
+          "lat": 8.106,
+          "lng": 1.357
+        },
+        "keyAccentLanguage": "moretan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Okeloukoutou",
+        "location": {
+          "lat": 7.734,
+          "lng": 1.427
+        },
+        "keyAccentLanguage": "okeloukoutou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Djemegni",
+        "location": {
+          "lat": 6.937,
+          "lng": 1.255
+        },
+        "keyAccentLanguage": "djemegni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adigo",
+        "location": {
+          "lat": 7.367,
+          "lng": 1.117
+        },
+        "keyAccentLanguage": "adigo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Avetonou",
+        "location": {
+          "lat": 6.796,
+          "lng": 0.798
+        },
+        "keyAccentLanguage": "avetonou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abedinekope",
+        "location": {
+          "lat": 7.25,
+          "lng": 1.017
+        },
+        "keyAccentLanguage": "abedinekope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adeta",
+        "location": {
+          "lat": 7.123,
+          "lng": 0.729
+        },
+        "keyAccentLanguage": "adeta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tomegbe",
+        "location": {
+          "lat": 7.507,
+          "lng": 0.599
+        },
+        "keyAccentLanguage": "tomegbe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tado",
+        "location": {
+          "lat": 7.138,
+          "lng": 1.589
+        },
+        "keyAccentLanguage": "tado"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Boko",
+        "location": {
+          "lat": 7.58,
+          "lng": 1.214
+        },
+        "keyAccentLanguage": "boko"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adanou",
+        "location": {
+          "lat": 7.4,
+          "lng": 1.267
+        },
+        "keyAccentLanguage": "adanou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Koumassi",
+        "location": {
+          "lat": 6.744,
+          "lng": 0.68
+        },
+        "keyAccentLanguage": "koumassi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Assahun Fiagbe",
+        "location": {
+          "lat": 6.792,
+          "lng": 0.709
+        },
+        "keyAccentLanguage": "assahun_fiagbe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Asrama",
+        "location": {
+          "lat": 7.007,
+          "lng": 1.412
+        },
+        "keyAccentLanguage": "asrama"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adjaboukope",
+        "location": {
+          "lat": 6.6,
+          "lng": 0.8
+        },
+        "keyAccentLanguage": "adjaboukope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Okou",
+        "location": {
+          "lat": 7.564,
+          "lng": 0.904
+        },
+        "keyAccentLanguage": "okou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tetetou",
+        "location": {
+          "lat": 7.014,
+          "lng": 1.501
+        },
+        "keyAccentLanguage": "tetetou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Palakoko",
+        "location": {
+          "lat": 7.835,
+          "lng": 1.101
+        },
+        "keyAccentLanguage": "palakoko"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adakakpe",
+        "location": {
+          "lat": 6.817,
+          "lng": 1.183
+        },
+        "keyAccentLanguage": "adakakpe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Atakpame",
+        "location": {
+          "lat": 7.524,
+          "lng": 1.125
+        },
+        "keyAccentLanguage": "atakpame"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Setodji Kope",
+        "location": {
+          "lat": 6.663,
+          "lng": 0.842
+        },
+        "keyAccentLanguage": "setodji_kope"
+      }
+    ],
+    "enNameLanguage": "Plateaux",
+    "keyAccentLanguage": "plateaux"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 45.3584779,
+      "lng": -73.30172379999999
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bougou",
+        "location": {
+          "lat": 10.223,
+          "lng": -5.863
+        },
+        "keyAccentLanguage": "bougou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kong",
+        "location": {
+          "lat": 9.144,
+          "lng": -4.602
+        },
+        "keyAccentLanguage": "kong"
+      }
+    ],
+    "enNameLanguage": "Savanes",
+    "keyAccentLanguage": "savanes"
+  }
+]

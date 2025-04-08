@@ -1,0 +1,4422 @@
+[
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 46.7931604,
+      "lng": -71.2584311
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Malabar Settlement",
+        "location": {
+          "lat": 10.6189691,
+          "lng": -61.2755342
+        },
+        "keyAccentLanguage": "malabar_settlement"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arima",
+        "location": {
+          "lat": 10.637,
+          "lng": -61.282
+        },
+        "keyAccentLanguage": "arima"
+      }
+    ],
+    "enNameLanguage": "Arima",
+    "keyAccentLanguage": "arima"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 10.5168387,
+      "lng": -61.4114482
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jerningham Junction",
+        "location": {
+          "lat": 10.5494002,
+          "lng": -61.3822726
+        },
+        "keyAccentLanguage": "jerningham_junction"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cacandee Settlement",
+        "location": {
+          "lat": 10.55,
+          "lng": -61.433333
+        },
+        "keyAccentLanguage": "cacandee_settlement"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chandernagore Settlement",
+        "location": {
+          "lat": 10.5168387,
+          "lng": -61.4114482
+        },
+        "keyAccentLanguage": "chandernagore_settlement"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chaguanas",
+        "location": {
+          "lat": 10.5168387,
+          "lng": -61.4114482
+        },
+        "keyAccentLanguage": "chaguanas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lendor",
+        "location": {
+          "lat": 10.5168387,
+          "lng": -61.4114482
+        },
+        "keyAccentLanguage": "lendor"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Enterprise",
+        "location": {
+          "lat": 10.5297324,
+          "lng": -61.3881073
+        },
+        "keyAccentLanguage": "enterprise"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint Thomas",
+        "location": {
+          "lat": 10.5317538,
+          "lng": -61.4216609
+        },
+        "keyAccentLanguage": "saint_thomas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Montrose",
+        "location": {
+          "lat": 10.5137286,
+          "lng": -61.3990479
+        },
+        "keyAccentLanguage": "montrose"
+      }
+    ],
+    "enNameLanguage": "Chaguanas",
+    "keyAccentLanguage": "chaguanas"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 10.4297145,
+      "lng": -61.373521
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Los Atajos",
+        "location": {
+          "lat": 10.4133591,
+          "lng": -61.29623529999999
+        },
+        "keyAccentLanguage": "los_atajos"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Balmain",
+        "location": {
+          "lat": 10.4232991,
+          "lng": -61.4245789
+        },
+        "keyAccentLanguage": "balmain"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Brazil",
+        "location": {
+          "lat": 10.5556486,
+          "lng": -61.271646
+        },
+        "keyAccentLanguage": "brazil"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Brasso",
+        "location": {
+          "lat": 10.3996378,
+          "lng": -61.3173758
+        },
+        "keyAccentLanguage": "brasso"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Calcutta Settlement",
+        "location": {
+          "lat": 10.4305978,
+          "lng": -61.4216609
+        },
+        "keyAccentLanguage": "calcutta_settlement"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Longdenville",
+        "location": {
+          "lat": 10.5089259,
+          "lng": -61.3822726
+        },
+        "keyAccentLanguage": "longdenville"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Four Roads",
+        "location": {
+          "lat": 10.482233,
+          "lng": -61.2131584
+        },
+        "keyAccentLanguage": "four_roads"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Felicity Hall",
+        "location": {
+          "lat": 10.4297145,
+          "lng": -61.373521
+        },
+        "keyAccentLanguage": "felicity_hall"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cunupia",
+        "location": {
+          "lat": 10.5575398,
+          "lng": -61.37497959999999
+        },
+        "keyAccentLanguage": "cunupia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Guaracara Junction",
+        "location": {
+          "lat": 10.3645832,
+          "lng": -61.3137307
+        },
+        "keyAccentLanguage": "guaracara_junction"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tortuga",
+        "location": {
+          "lat": 10.4297145,
+          "lng": -61.373521
+        },
+        "keyAccentLanguage": "tortuga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Diamond",
+        "location": {
+          "lat": 10.4297145,
+          "lng": -61.373521
+        },
+        "keyAccentLanguage": "diamond"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Brasso Venado",
+        "location": {
+          "lat": 10.4175226,
+          "lng": -61.26125030000001
+        },
+        "keyAccentLanguage": "brasso_venado"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Caratal",
+        "location": {
+          "lat": 10.349764,
+          "lng": -61.41509550000001
+        },
+        "keyAccentLanguage": "caratal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Claxton Bay",
+        "location": {
+          "lat": 10.3393853,
+          "lng": -61.45814000000001
+        },
+        "keyAccentLanguage": "claxton_bay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Butler",
+        "location": {
+          "lat": 10.4297145,
+          "lng": -61.373521
+        },
+        "keyAccentLanguage": "butler"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agostini",
+        "location": {
+          "lat": 10.481413,
+          "lng": -61.39831849999999
+        },
+        "keyAccentLanguage": "agostini"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Spring Vale",
+        "location": {
+          "lat": 10.4297145,
+          "lng": -61.373521
+        },
+        "keyAccentLanguage": "spring_vale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Talparo",
+        "location": {
+          "lat": 10.5132236,
+          "lng": -61.2714535
+        },
+        "keyAccentLanguage": "talparo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pepper",
+        "location": {
+          "lat": 10.4297145,
+          "lng": -61.373521
+        },
+        "keyAccentLanguage": "pepper"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mayo",
+        "location": {
+          "lat": 10.4297145,
+          "lng": -61.373521
+        },
+        "keyAccentLanguage": "mayo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cumberbatch",
+        "location": {
+          "lat": 10.4963002,
+          "lng": -61.39540100000001
+        },
+        "keyAccentLanguage": "cumberbatch"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nancoo Village",
+        "location": {
+          "lat": 10.5506649,
+          "lng": -61.31154369999999
+        },
+        "keyAccentLanguage": "nancoo_village"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chickland",
+        "location": {
+          "lat": 10.4140025,
+          "lng": -61.380814
+        },
+        "keyAccentLanguage": "chickland"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Coryal",
+        "location": {
+          "lat": 10.4297145,
+          "lng": -61.373521
+        },
+        "keyAccentLanguage": "coryal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Couva",
+        "location": {
+          "lat": 10.4432986,
+          "lng": -61.4501987
+        },
+        "keyAccentLanguage": "couva"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mamoral",
+        "location": {
+          "lat": 10.4500935,
+          "lng": -61.2845728
+        },
+        "keyAccentLanguage": "mamoral"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chase",
+        "location": {
+          "lat": 10.4297145,
+          "lng": -61.373521
+        },
+        "keyAccentLanguage": "chase"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Freeport",
+        "location": {
+          "lat": 10.4477116,
+          "lng": -61.40269499999999
+        },
+        "keyAccentLanguage": "freeport"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Brickfield",
+        "location": {
+          "lat": 10.3320424,
+          "lng": -61.26416539999999
+        },
+        "keyAccentLanguage": "brickfield"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Todds Road",
+        "location": {
+          "lat": 10.4829936,
+          "lng": -61.3239372
+        },
+        "keyAccentLanguage": "todds_road"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "San Francisco Settlement",
+        "location": {
+          "lat": 10.4297145,
+          "lng": -61.373521
+        },
+        "keyAccentLanguage": "san_francisco_settlement"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eckel Ville",
+        "location": {
+          "lat": 10.4297145,
+          "lng": -61.373521
+        },
+        "keyAccentLanguage": "eckel_ville"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "San Rafael",
+        "location": {
+          "lat": 10.4297145,
+          "lng": -61.373521
+        },
+        "keyAccentLanguage": "san_rafael"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Exchange",
+        "location": {
+          "lat": 10.4297145,
+          "lng": -61.373521
+        },
+        "keyAccentLanguage": "exchange"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Friendship",
+        "location": {
+          "lat": 10.3812725,
+          "lng": -61.4636125
+        },
+        "keyAccentLanguage": "friendship"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mc Bean",
+        "location": {
+          "lat": 10.4410014,
+          "lng": -61.4377107
+        },
+        "keyAccentLanguage": "mc_bean"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Orange Valley",
+        "location": {
+          "lat": 10.4618222,
+          "lng": -61.4763826
+        },
+        "keyAccentLanguage": "orange_valley"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Unis",
+        "location": {
+          "lat": 10.4297145,
+          "lng": -61.373521
+        },
+        "keyAccentLanguage": "unis"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "El Quemado",
+        "location": {
+          "lat": 10.4806177,
+          "lng": -61.24813289999999
+        },
+        "keyAccentLanguage": "el_quemado"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Flanagin Town",
+        "location": {
+          "lat": 10.4147779,
+          "lng": -61.3108147
+        },
+        "keyAccentLanguage": "flanagin_town"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Las Lomas",
+        "location": {
+          "lat": 10.4297145,
+          "lng": -61.373521
+        },
+        "keyAccentLanguage": "las_lomas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Waterloo",
+        "location": {
+          "lat": 10.4806466,
+          "lng": -61.4683556
+        },
+        "keyAccentLanguage": "waterloo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Indian Chain",
+        "location": {
+          "lat": 10.4319927,
+          "lng": -61.4099893
+        },
+        "keyAccentLanguage": "indian_chain"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pointe-a-Pierre",
+        "location": {
+          "lat": 10.3155401,
+          "lng": -61.45959930000001
+        },
+        "keyAccentLanguage": "pointe-a-pierre"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Carapichaima",
+        "location": {
+          "lat": 10.4814588,
+          "lng": -61.4377107
+        },
+        "keyAccentLanguage": "carapichaima"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ouplay",
+        "location": {
+          "lat": 10.3831633,
+          "lng": -61.4471954
+        },
+        "keyAccentLanguage": "ouplay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Carriere",
+        "location": {
+          "lat": 10.3169455,
+          "lng": -61.447925
+        },
+        "keyAccentLanguage": "la_carriere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Madras Settlement",
+        "location": {
+          "lat": 10.5459346,
+          "lng": -61.33414440000001
+        },
+        "keyAccentLanguage": "madras_settlement"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Brasso Piedra",
+        "location": {
+          "lat": 10.4324524,
+          "lng": -61.3108147
+        },
+        "keyAccentLanguage": "brasso_piedra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mundo Nuevo",
+        "location": {
+          "lat": 10.4691108,
+          "lng": -61.24667539999999
+        },
+        "keyAccentLanguage": "mundo_nuevo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Phoenix Park",
+        "location": {
+          "lat": 10.3827367,
+          "lng": -61.4296856
+        },
+        "keyAccentLanguage": "phoenix_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Preysal",
+        "location": {
+          "lat": 10.417597,
+          "lng": -61.4089335
+        },
+        "keyAccentLanguage": "preysal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Caparo",
+        "location": {
+          "lat": 10.4493122,
+          "lng": -61.3283117
+        },
+        "keyAccentLanguage": "caparo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gasparillo",
+        "location": {
+          "lat": 10.3208757,
+          "lng": -61.4231199
+        },
+        "keyAccentLanguage": "gasparillo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint Marys",
+        "location": {
+          "lat": 10.4297145,
+          "lng": -61.373521
+        },
+        "keyAccentLanguage": "saint_marys"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hermitage",
+        "location": {
+          "lat": 10.35,
+          "lng": -61.433333
+        },
+        "keyAccentLanguage": "hermitage"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bonne Aventure",
+        "location": {
+          "lat": 10.5585395,
+          "lng": -61.3702647
+        },
+        "keyAccentLanguage": "bonne_aventure"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tabaquite",
+        "location": {
+          "lat": 10.3826543,
+          "lng": -61.2984221
+        },
+        "keyAccentLanguage": "tabaquite"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Spring",
+        "location": {
+          "lat": 10.4173969,
+          "lng": -61.41582500000001
+        },
+        "keyAccentLanguage": "spring"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Piparo",
+        "location": {
+          "lat": 10.3334782,
+          "lng": -61.331228
+        },
+        "keyAccentLanguage": "piparo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chin Chin Savanna Village",
+        "location": {
+          "lat": 10.5672632,
+          "lng": -61.31956289999999
+        },
+        "keyAccentLanguage": "chin_chin_savanna_village"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kelly Junction",
+        "location": {
+          "lat": 10.4297145,
+          "lng": -61.373521
+        },
+        "keyAccentLanguage": "kelly_junction"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gran Couva",
+        "location": {
+          "lat": 10.3989751,
+          "lng": -61.3625821
+        },
+        "keyAccentLanguage": "gran_couva"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Forres Park",
+        "location": {
+          "lat": 10.3606519,
+          "lng": -61.4156303
+        },
+        "keyAccentLanguage": "forres_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint Andrew",
+        "location": {
+          "lat": 10.417847,
+          "lng": -61.4661665
+        },
+        "keyAccentLanguage": "saint_andrew"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dowe",
+        "location": {
+          "lat": 10.399445,
+          "lng": -61.4457362
+        },
+        "keyAccentLanguage": "dowe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Morichal",
+        "location": {
+          "lat": 10.3474999,
+          "lng": -61.3458105
+        },
+        "keyAccentLanguage": "morichal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "California",
+        "location": {
+          "lat": 10.3997341,
+          "lng": -61.4683556
+        },
+        "keyAccentLanguage": "california"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint Margaret",
+        "location": {
+          "lat": 10.3343367,
+          "lng": -61.44500660000001
+        },
+        "keyAccentLanguage": "saint_margaret"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sum Sum Hill",
+        "location": {
+          "lat": 10.3680028,
+          "lng": -61.427497
+        },
+        "keyAccentLanguage": "sum_sum_hill"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Upper Carapichima",
+        "location": {
+          "lat": 10.4305765,
+          "lng": -61.39540100000001
+        },
+        "keyAccentLanguage": "upper_carapichima"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Brickfield",
+        "location": {
+          "lat": 10.3320424,
+          "lng": -61.26416539999999
+        },
+        "keyAccentLanguage": "brickfield"
+      }
+    ],
+    "enNameLanguage": "Couva-Tabaquite-Talparo",
+    "keyAccentLanguage": "couva-tabaquite-talparo"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 10.7362286,
+      "lng": -61.5544836
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Diego Martin",
+        "location": {
+          "lat": 10.7362286,
+          "lng": -61.5544836
+        },
+        "keyAccentLanguage": "diego_martin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Yacua",
+        "location": {
+          "lat": 10.7362286,
+          "lng": -61.5544836
+        },
+        "keyAccentLanguage": "yacua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Carenage",
+        "location": {
+          "lat": 10.6903269,
+          "lng": -61.5909921
+        },
+        "keyAccentLanguage": "carenage"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount Pleasant",
+        "location": {
+          "lat": 10.7194263,
+          "lng": -61.60924929999999
+        },
+        "keyAccentLanguage": "mount_pleasant"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Don Pedro",
+        "location": {
+          "lat": 10.7362286,
+          "lng": -61.5544836
+        },
+        "keyAccentLanguage": "don_pedro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Retraite",
+        "location": {
+          "lat": 10.6828088,
+          "lng": -61.64357820000001
+        },
+        "keyAccentLanguage": "la_retraite"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cocorite",
+        "location": {
+          "lat": 10.6783915,
+          "lng": -61.5471829
+        },
+        "keyAccentLanguage": "cocorite"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Finette",
+        "location": {
+          "lat": 10.7248472,
+          "lng": -61.5165234
+        },
+        "keyAccentLanguage": "la_finette"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sierra Leone",
+        "location": {
+          "lat": 10.7362286,
+          "lng": -61.5544836
+        },
+        "keyAccentLanguage": "sierra_leone"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Coco",
+        "location": {
+          "lat": 10.7362286,
+          "lng": -61.5544836
+        },
+        "keyAccentLanguage": "coco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cariaquito",
+        "location": {
+          "lat": 10.7362286,
+          "lng": -61.5544836
+        },
+        "keyAccentLanguage": "cariaquito"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Uquire",
+        "location": {
+          "lat": 10.7362286,
+          "lng": -61.5544836
+        },
+        "keyAccentLanguage": "uquire"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cariaquita",
+        "location": {
+          "lat": 10.7362286,
+          "lng": -61.5544836
+        },
+        "keyAccentLanguage": "cariaquita"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Maraval",
+        "location": {
+          "lat": 10.6932687,
+          "lng": -61.5179832
+        },
+        "keyAccentLanguage": "maraval"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dibe",
+        "location": {
+          "lat": 10.6848508,
+          "lng": -61.53550239999999
+        },
+        "keyAccentLanguage": "dibe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chaguaramas",
+        "location": {
+          "lat": 10.6825099,
+          "lng": -61.6340823
+        },
+        "keyAccentLanguage": "chaguaramas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Diamond Vale",
+        "location": {
+          "lat": 10.7201578,
+          "lng": -61.5588642
+        },
+        "keyAccentLanguage": "diamond_vale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Petit Valley",
+        "location": {
+          "lat": 10.701232,
+          "lng": -61.5471829
+        },
+        "keyAccentLanguage": "petit_valley"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chaguaramal",
+        "location": {
+          "lat": 10.7362286,
+          "lng": -61.5544836
+        },
+        "keyAccentLanguage": "chaguaramal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hart's Cut",
+        "location": {
+          "lat": 10.6794996,
+          "lng": -61.6249753
+        },
+        "keyAccentLanguage": "hart's_cut"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Four Roads",
+        "location": {
+          "lat": 10.6881239,
+          "lng": -61.5493731
+        },
+        "keyAccentLanguage": "four_roads"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Coolie Block",
+        "location": {
+          "lat": 10.733333,
+          "lng": -61.55
+        },
+        "keyAccentLanguage": "coolie_block"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Riche Plaine",
+        "location": {
+          "lat": 10.7138333,
+          "lng": -61.5666932
+        },
+        "keyAccentLanguage": "riche_plaine"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Green Hill",
+        "location": {
+          "lat": 10.7345576,
+          "lng": -61.56324489999999
+        },
+        "keyAccentLanguage": "green_hill"
+      }
+    ],
+    "enNameLanguage": "Diego Martin",
+    "keyAccentLanguage": "diego_martin"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 10.2412832,
+      "lng": -61.09372059999999
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Biche",
+        "location": {
+          "lat": 10.4324417,
+          "lng": -61.1301249
+        },
+        "keyAccentLanguage": "biche"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint Joseph",
+        "location": {
+          "lat": 10.2412832,
+          "lng": -61.09372059999999
+        },
+        "keyAccentLanguage": "saint_joseph"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Libertville",
+        "location": {
+          "lat": 10.2412832,
+          "lng": -61.09372059999999
+        },
+        "keyAccentLanguage": "libertville"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Poole",
+        "location": {
+          "lat": 10.2994002,
+          "lng": -61.2328306
+        },
+        "keyAccentLanguage": "poole"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Guayaguayare",
+        "location": {
+          "lat": 10.2189197,
+          "lng": -61.07042629999999
+        },
+        "keyAccentLanguage": "guayaguayare"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rio Claro",
+        "location": {
+          "lat": 10.2412832,
+          "lng": -61.09372059999999
+        },
+        "keyAccentLanguage": "rio_claro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rushville",
+        "location": {
+          "lat": 10.1301539,
+          "lng": -61.0551413
+        },
+        "keyAccentLanguage": "rushville"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pierreville",
+        "location": {
+          "lat": 10.2970809,
+          "lng": -61.0078401
+        },
+        "keyAccentLanguage": "pierreville"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Plaisance",
+        "location": {
+          "lat": 10.2814259,
+          "lng": -61.0020195
+        },
+        "keyAccentLanguage": "plaisance"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Navet",
+        "location": {
+          "lat": 10.349453,
+          "lng": -61.16435269999999
+        },
+        "keyAccentLanguage": "navet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fonrose",
+        "location": {
+          "lat": 10.2810659,
+          "lng": -61.2321019
+        },
+        "keyAccentLanguage": "fonrose"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Campo de Tiro",
+        "location": {
+          "lat": 10.2412832,
+          "lng": -61.09372059999999
+        },
+        "keyAccentLanguage": "campo_de_tiro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cuche",
+        "location": {
+          "lat": 10.366951,
+          "lng": -61.162896
+        },
+        "keyAccentLanguage": "cuche"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ecclesville",
+        "location": {
+          "lat": 10.3190467,
+          "lng": -61.1301249
+        },
+        "keyAccentLanguage": "ecclesville"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Charuma",
+        "location": {
+          "lat": 10.3988558,
+          "lng": -61.147602
+        },
+        "keyAccentLanguage": "charuma"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint Margaret",
+        "location": {
+          "lat": 10.2512593,
+          "lng": -61.0020195
+        },
+        "keyAccentLanguage": "saint_margaret"
+      }
+    ],
+    "enNameLanguage": "Mayaro-Rio Claro",
+    "keyAccentLanguage": "mayaro-rio_claro"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 10.1337402,
+      "lng": -61.44354740000001
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Duncan",
+        "location": {
+          "lat": 10.1337402,
+          "lng": -61.44354740000001
+        },
+        "keyAccentLanguage": "duncan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Debe",
+        "location": {
+          "lat": 10.2000143,
+          "lng": -61.4476715
+        },
+        "keyAccentLanguage": "debe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Concord",
+        "location": {
+          "lat": 10.1337402,
+          "lng": -61.44354740000001
+        },
+        "keyAccentLanguage": "concord"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Morne Diablo",
+        "location": {
+          "lat": 10.1007357,
+          "lng": -61.440629
+        },
+        "keyAccentLanguage": "morne_diablo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Usine",
+        "location": {
+          "lat": 10.1337402,
+          "lng": -61.44354740000001
+        },
+        "keyAccentLanguage": "usine"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Penal",
+        "location": {
+          "lat": 10.1684514,
+          "lng": -61.4377107
+        },
+        "keyAccentLanguage": "penal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Moque Point",
+        "location": {
+          "lat": 10.1337402,
+          "lng": -61.44354740000001
+        },
+        "keyAccentLanguage": "moque_point"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barrackpore",
+        "location": {
+          "lat": 10.1953646,
+          "lng": -61.40269499999999
+        },
+        "keyAccentLanguage": "barrackpore"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Diamond",
+        "location": {
+          "lat": 10.1337402,
+          "lng": -61.44354740000001
+        },
+        "keyAccentLanguage": "diamond"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rambert",
+        "location": {
+          "lat": 10.2467,
+          "lng": -61.4720042
+        },
+        "keyAccentLanguage": "rambert"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hermitage",
+        "location": {
+          "lat": 10.2305897,
+          "lng": -61.4683556
+        },
+        "keyAccentLanguage": "hermitage"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bronte",
+        "location": {
+          "lat": 10.2141239,
+          "lng": -61.40123619999999
+        },
+        "keyAccentLanguage": "bronte"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Monkey Town",
+        "location": {
+          "lat": 10.2104588,
+          "lng": -61.4289561
+        },
+        "keyAccentLanguage": "monkey_town"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Esperance",
+        "location": {
+          "lat": 10.2465772,
+          "lng": -61.4508435
+        },
+        "keyAccentLanguage": "esperance"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bakhen",
+        "location": {
+          "lat": 10.1659142,
+          "lng": -61.4508435
+        },
+        "keyAccentLanguage": "bakhen"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Plaisance",
+        "location": {
+          "lat": 10.2308398,
+          "lng": -61.4975465
+        },
+        "keyAccentLanguage": "plaisance"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sadhoowa",
+        "location": {
+          "lat": 10.133761,
+          "lng": -61.43041509999999
+        },
+        "keyAccentLanguage": "sadhoowa"
+      }
+    ],
+    "enNameLanguage": "Penal-Debe",
+    "keyAccentLanguage": "penal-debe"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 10.1702737,
+      "lng": -61.67133860000001
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cap-de-Ville",
+        "location": {
+          "lat": 10.1488955,
+          "lng": -61.69910359999999
+        },
+        "keyAccentLanguage": "cap-de-ville"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Point Fortin",
+        "location": {
+          "lat": 10.1702737,
+          "lng": -61.67133860000001
+        },
+        "keyAccentLanguage": "point_fortin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Guapo",
+        "location": {
+          "lat": 10.1795754,
+          "lng": -61.6494221
+        },
+        "keyAccentLanguage": "guapo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Point Ligoure",
+        "location": {
+          "lat": 10.1682668,
+          "lng": -61.6903352
+        },
+        "keyAccentLanguage": "point_ligoure"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cochrane",
+        "location": {
+          "lat": 10.1860748,
+          "lng": -61.6245869
+        },
+        "keyAccentLanguage": "cochrane"
+      }
+    ],
+    "enNameLanguage": "Point Fortin",
+    "keyAccentLanguage": "point_fortin"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 10.6603196,
+      "lng": -61.5085625
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Port of Spain",
+        "location": {
+          "lat": 10.6603435,
+          "lng": -61.5086355
+        },
+        "keyAccentLanguage": "port_of_spain"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Peru",
+        "location": {
+          "lat": -9.189967,
+          "lng": -75.015152
+        },
+        "keyAccentLanguage": "peru"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Corbeaux Town",
+        "location": {
+          "lat": 10.6603435,
+          "lng": -61.5086355
+        },
+        "keyAccentLanguage": "corbeaux_town"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mucurapo",
+        "location": {
+          "lat": 10.6693395,
+          "lng": -61.5325824
+        },
+        "keyAccentLanguage": "mucurapo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belmont",
+        "location": {
+          "lat": 10.6672934,
+          "lng": -61.4990062
+        },
+        "keyAccentLanguage": "belmont"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Boissiere",
+        "location": {
+          "lat": 10.6768049,
+          "lng": -61.5209769
+        },
+        "keyAccentLanguage": "boissiere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint James",
+        "location": {
+          "lat": 10.6744134,
+          "lng": -61.5325824
+        },
+        "keyAccentLanguage": "saint_james"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Woodbrook",
+        "location": {
+          "lat": 10.6636899,
+          "lng": -61.52674259999999
+        },
+        "keyAccentLanguage": "woodbrook"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint Clair",
+        "location": {
+          "lat": 10.6707237,
+          "lng": -61.520903
+        },
+        "keyAccentLanguage": "saint_clair"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "East Dry River",
+        "location": {
+          "lat": 10.6563133,
+          "lng": -61.5033853
+        },
+        "keyAccentLanguage": "east_dry_river"
+      }
+    ],
+    "enNameLanguage": "Port of Spain",
+    "keyAccentLanguage": "port_of_spain"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 10.2659505,
+      "lng": -61.37643809999999
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Monkey Town",
+        "location": {
+          "lat": 10.2659505,
+          "lng": -61.37643809999999
+        },
+        "keyAccentLanguage": "monkey_town"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Manahambre",
+        "location": {
+          "lat": 10.270027,
+          "lng": -61.3806582
+        },
+        "keyAccentLanguage": "manahambre"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Robert",
+        "location": {
+          "lat": 10.2659505,
+          "lng": -61.37643809999999
+        },
+        "keyAccentLanguage": "robert"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Golconda",
+        "location": {
+          "lat": 10.2569531,
+          "lng": -61.440629
+        },
+        "keyAccentLanguage": "golconda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Union",
+        "location": {
+          "lat": 10.2659505,
+          "lng": -61.37643809999999
+        },
+        "keyAccentLanguage": "union"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Colconda",
+        "location": {
+          "lat": 10.2569531,
+          "lng": -61.440629
+        },
+        "keyAccentLanguage": "colconda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Palmyra",
+        "location": {
+          "lat": 10.2659505,
+          "lng": -61.37643809999999
+        },
+        "keyAccentLanguage": "palmyra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Basse Terre",
+        "location": {
+          "lat": 15.9965719,
+          "lng": -61.73172150000001
+        },
+        "keyAccentLanguage": "basse_terre"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Iere",
+        "location": {
+          "lat": 10.2834597,
+          "lng": -61.3815433
+        },
+        "keyAccentLanguage": "iere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Princes Town",
+        "location": {
+          "lat": 10.2659505,
+          "lng": -61.37643809999999
+        },
+        "keyAccentLanguage": "princes_town"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Reform",
+        "location": {
+          "lat": 10.2981675,
+          "lng": -61.4099893
+        },
+        "keyAccentLanguage": "reform"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lothian",
+        "location": {
+          "lat": 10.266062,
+          "lng": -61.3751417
+        },
+        "keyAccentLanguage": "lothian"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fourth Company",
+        "location": {
+          "lat": 10.3240567,
+          "lng": -61.3548499
+        },
+        "keyAccentLanguage": "fourth_company"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bonne Terre",
+        "location": {
+          "lat": 10.3001263,
+          "lng": -61.2991511
+        },
+        "keyAccentLanguage": "bonne_terre"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Woodlands",
+        "location": {
+          "lat": 10.2488549,
+          "lng": -61.39540100000001
+        },
+        "keyAccentLanguage": "woodlands"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Indian Walk",
+        "location": {
+          "lat": 10.2511181,
+          "lng": -61.33997739999999
+        },
+        "keyAccentLanguage": "indian_walk"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Haswaron",
+        "location": {
+          "lat": 10.2659505,
+          "lng": -61.37643809999999
+        },
+        "keyAccentLanguage": "haswaron"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Third Company",
+        "location": {
+          "lat": 10.2500012,
+          "lng": -61.3283117
+        },
+        "keyAccentLanguage": "third_company"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hardbargain",
+        "location": {
+          "lat": 10.3009752,
+          "lng": -61.3603944
+        },
+        "keyAccentLanguage": "hardbargain"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hindustan",
+        "location": {
+          "lat": 10.2662426,
+          "lng": -61.3137307
+        },
+        "keyAccentLanguage": "hindustan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Busy Corner",
+        "location": {
+          "lat": 10.3002609,
+          "lng": -61.2809284
+        },
+        "keyAccentLanguage": "busy_corner"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fifth Company",
+        "location": {
+          "lat": 10.2346053,
+          "lng": -61.3253954
+        },
+        "keyAccentLanguage": "fifth_company"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Preau",
+        "location": {
+          "lat": 10.2055081,
+          "lng": -61.3108147
+        },
+        "keyAccentLanguage": "preau"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sixth Company",
+        "location": {
+          "lat": 10.2516763,
+          "lng": -61.3458105
+        },
+        "keyAccentLanguage": "sixth_company"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "New Grant",
+        "location": {
+          "lat": 10.2984502,
+          "lng": -61.32102099999999
+        },
+        "keyAccentLanguage": "new_grant"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Buen Intento",
+        "location": {
+          "lat": 10.2829026,
+          "lng": -61.3625821
+        },
+        "keyAccentLanguage": "buen_intento"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "George Village",
+        "location": {
+          "lat": 10.2864051,
+          "lng": -61.3137307
+        },
+        "keyAccentLanguage": "george_village"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Moruga",
+        "location": {
+          "lat": 10.0891098,
+          "lng": -61.280564
+        },
+        "keyAccentLanguage": "moruga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cipero-Sainte Croix",
+        "location": {
+          "lat": 10.2088275,
+          "lng": -61.3720624
+        },
+        "keyAccentLanguage": "cipero-sainte_croix"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Williamsville",
+        "location": {
+          "lat": 10.2998539,
+          "lng": -61.37497959999999
+        },
+        "keyAccentLanguage": "williamsville"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Lune",
+        "location": {
+          "lat": 10.0861521,
+          "lng": -61.2991511
+        },
+        "keyAccentLanguage": "la_lune"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sainte Croix",
+        "location": {
+          "lat": 10.2387789,
+          "lng": -61.3705479
+        },
+        "keyAccentLanguage": "sainte_croix"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lengua",
+        "location": {
+          "lat": 10.2533507,
+          "lng": -61.36331130000001
+        },
+        "keyAccentLanguage": "lengua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Moos",
+        "location": {
+          "lat": 10.2668008,
+          "lng": -61.2670806
+        },
+        "keyAccentLanguage": "moos"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sainte Madeleine",
+        "location": {
+          "lat": 10.267607,
+          "lng": -61.4333333
+        },
+        "keyAccentLanguage": "sainte_madeleine"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gordon Settlement",
+        "location": {
+          "lat": 10.2990114,
+          "lng": -61.3924835
+        },
+        "keyAccentLanguage": "gordon_settlement"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount Stewart",
+        "location": {
+          "lat": 10.2844365,
+          "lng": -61.39831849999999
+        },
+        "keyAccentLanguage": "mount_stewart"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint Julien",
+        "location": {
+          "lat": 10.2726809,
+          "lng": -61.3414356
+        },
+        "keyAccentLanguage": "saint_julien"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint John",
+        "location": {
+          "lat": 10.2659505,
+          "lng": -61.37643809999999
+        },
+        "keyAccentLanguage": "saint_john"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tableland",
+        "location": {
+          "lat": 10.278,
+          "lng": -61.271
+        },
+        "keyAccentLanguage": "tableland"
+      }
+    ],
+    "enNameLanguage": "Princes Town",
+    "keyAccentLanguage": "princes_town"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 34.2819461,
+      "lng": -118.4389719
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "San Fernando",
+        "location": {
+          "lat": 34.2819461,
+          "lng": -118.4389719
+        },
+        "keyAccentLanguage": "san_fernando"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Coffee",
+        "location": {
+          "lat": 34.2819461,
+          "lng": -118.4389719
+        },
+        "keyAccentLanguage": "coffee"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Union",
+        "location": {
+          "lat": 34.2819461,
+          "lng": -118.4389719
+        },
+        "keyAccentLanguage": "union"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Victoria",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "victoria"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Canaan",
+        "location": {
+          "lat": 10.2502112,
+          "lng": -61.462518
+        },
+        "keyAccentLanguage": "canaan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mon Repos",
+        "location": {
+          "lat": 10.2799313,
+          "lng": -61.45011390000001
+        },
+        "keyAccentLanguage": "mon_repos"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint Joseph",
+        "location": {
+          "lat": 10.2757773,
+          "lng": -61.4538556
+        },
+        "keyAccentLanguage": "saint_joseph"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Vista Bella",
+        "location": {
+          "lat": 10.2858214,
+          "lng": -61.4648169
+        },
+        "keyAccentLanguage": "vista_bella"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Marabella",
+        "location": {
+          "lat": 10.3006795,
+          "lng": -61.4493842
+        },
+        "keyAccentLanguage": "marabella"
+      }
+    ],
+    "enNameLanguage": "San Fernando",
+    "keyAccentLanguage": "san_fernando"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 10.6908578,
+      "lng": -61.4552213
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Laventille",
+        "location": {
+          "lat": 10.6485481,
+          "lng": -61.49535700000001
+        },
+        "keyAccentLanguage": "laventille"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Earthigg",
+        "location": {
+          "lat": 10.6908578,
+          "lng": -61.4552213
+        },
+        "keyAccentLanguage": "earthigg"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Morvant",
+        "location": {
+          "lat": 10.6497469,
+          "lng": -61.46995
+        },
+        "keyAccentLanguage": "morvant"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Pastora",
+        "location": {
+          "lat": 10.6908578,
+          "lng": -61.4552213
+        },
+        "keyAccentLanguage": "la_pastora"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint Elizabeth",
+        "location": {
+          "lat": 10.6908578,
+          "lng": -61.4552213
+        },
+        "keyAccentLanguage": "saint_elizabeth"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Febeau",
+        "location": {
+          "lat": 10.6568946,
+          "lng": -61.4515061
+        },
+        "keyAccentLanguage": "febeau"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "El Socorro",
+        "location": {
+          "lat": 10.6908578,
+          "lng": -61.4552213
+        },
+        "keyAccentLanguage": "el_socorro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Santa Cruz",
+        "location": {
+          "lat": 36.9741275,
+          "lng": -122.028807
+        },
+        "keyAccentLanguage": "santa_cruz"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Guamal",
+        "location": {
+          "lat": 10.7489093,
+          "lng": -61.36331130000001
+        },
+        "keyAccentLanguage": "guamal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Filette",
+        "location": {
+          "lat": 10.8040144,
+          "lng": -61.3625821
+        },
+        "keyAccentLanguage": "filette"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Curucaye",
+        "location": {
+          "lat": 10.6680201,
+          "lng": -61.4486546
+        },
+        "keyAccentLanguage": "curucaye"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Las Cuevas",
+        "location": {
+          "lat": 10.783811,
+          "lng": -61.3888367
+        },
+        "keyAccentLanguage": "las_cuevas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Petit Bourg",
+        "location": {
+          "lat": 10.6908578,
+          "lng": -61.4552213
+        },
+        "keyAccentLanguage": "petit_bourg"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barataria",
+        "location": {
+          "lat": 10.6472089,
+          "lng": -61.462518
+        },
+        "keyAccentLanguage": "barataria"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gonzales",
+        "location": {
+          "lat": 10.6908578,
+          "lng": -61.4552213
+        },
+        "keyAccentLanguage": "gonzales"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "San Juan",
+        "location": {
+          "lat": 10.6497912,
+          "lng": -61.45187070000001
+        },
+        "keyAccentLanguage": "san_juan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cantaro",
+        "location": {
+          "lat": 10.7114747,
+          "lng": -61.4712744
+        },
+        "keyAccentLanguage": "cantaro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Basse",
+        "location": {
+          "lat": 10.6502478,
+          "lng": -61.49973600000001
+        },
+        "keyAccentLanguage": "la_basse"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Success",
+        "location": {
+          "lat": 10.6499316,
+          "lng": -61.48368019999999
+        },
+        "keyAccentLanguage": "success"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint Ann's",
+        "location": {
+          "lat": 10.6799811,
+          "lng": -61.5077909
+        },
+        "keyAccentLanguage": "saint_ann's"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Maracas Bay Village",
+        "location": {
+          "lat": 10.7586482,
+          "lng": -61.443566
+        },
+        "keyAccentLanguage": "maracas_bay_village"
+      }
+    ],
+    "enNameLanguage": "San Juan-Laventille",
+    "keyAccentLanguage": "san_juan-laventille"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 10.5852939,
+      "lng": -61.1315813
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Coryal",
+        "location": {
+          "lat": 10.5085449,
+          "lng": -61.1854757
+        },
+        "keyAccentLanguage": "coryal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Carmichael",
+        "location": {
+          "lat": 10.4813462,
+          "lng": -61.19130320000001
+        },
+        "keyAccentLanguage": "carmichael"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cheeyou",
+        "location": {
+          "lat": 10.5462869,
+          "lng": -61.1330376
+        },
+        "keyAccentLanguage": "cheeyou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Salybia",
+        "location": {
+          "lat": 10.7034389,
+          "lng": -61.0369468
+        },
+        "keyAccentLanguage": "salybia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Morne Cabrite",
+        "location": {
+          "lat": 10.7976588,
+          "lng": -60.94382479999999
+        },
+        "keyAccentLanguage": "morne_cabrite"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Matelot",
+        "location": {
+          "lat": 10.8181797,
+          "lng": -61.1264841
+        },
+        "keyAccentLanguage": "matelot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Comparo",
+        "location": {
+          "lat": 10.5306977,
+          "lng": -61.07770540000001
+        },
+        "keyAccentLanguage": "comparo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Guaico",
+        "location": {
+          "lat": 10.5878619,
+          "lng": -61.14468900000001
+        },
+        "keyAccentLanguage": "guaico"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "The Mission",
+        "location": {
+          "lat": 10.5852939,
+          "lng": -61.1315813
+        },
+        "keyAccentLanguage": "the_mission"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cumaca",
+        "location": {
+          "lat": 10.7015816,
+          "lng": -61.162896
+        },
+        "keyAccentLanguage": "cumaca"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cumuto",
+        "location": {
+          "lat": 10.5838327,
+          "lng": -61.205873
+        },
+        "keyAccentLanguage": "cumuto"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Petit Trou",
+        "location": {
+          "lat": 10.8347129,
+          "lng": -60.9350975
+        },
+        "keyAccentLanguage": "petit_trou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sans Souci",
+        "location": {
+          "lat": 10.831148,
+          "lng": -60.99910920000001
+        },
+        "keyAccentLanguage": "sans_souci"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Naranjo",
+        "location": {
+          "lat": 10.5852939,
+          "lng": -61.1315813
+        },
+        "keyAccentLanguage": "naranjo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lower Fishing Pond",
+        "location": {
+          "lat": 10.5532436,
+          "lng": -61.0253035
+        },
+        "keyAccentLanguage": "lower_fishing_pond"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Matura",
+        "location": {
+          "lat": 10.6732149,
+          "lng": -61.0631475
+        },
+        "keyAccentLanguage": "matura"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jaraysingh",
+        "location": {
+          "lat": 10.5342385,
+          "lng": -61.13886319999999
+        },
+        "keyAccentLanguage": "jaraysingh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount Harris",
+        "location": {
+          "lat": 10.4988292,
+          "lng": -61.1126498
+        },
+        "keyAccentLanguage": "mount_harris"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Guaico Tamana",
+        "location": {
+          "lat": 10.481804,
+          "lng": -61.14468900000001
+        },
+        "keyAccentLanguage": "guaico_tamana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Homard",
+        "location": {
+          "lat": 10.5852939,
+          "lng": -61.1315813
+        },
+        "keyAccentLanguage": "homard"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mamon",
+        "location": {
+          "lat": 10.5852939,
+          "lng": -61.1315813
+        },
+        "keyAccentLanguage": "mamon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sangre Grande",
+        "location": {
+          "lat": 10.5852939,
+          "lng": -61.1315813
+        },
+        "keyAccentLanguage": "sangre_grande"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Redhead",
+        "location": {
+          "lat": 10.5852939,
+          "lng": -61.1315813
+        },
+        "keyAccentLanguage": "redhead"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ogis",
+        "location": {
+          "lat": 10.5852939,
+          "lng": -61.1315813
+        },
+        "keyAccentLanguage": "ogis"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Plum Mitan",
+        "location": {
+          "lat": 10.4920211,
+          "lng": -61.08207299999999
+        },
+        "keyAccentLanguage": "plum_mitan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ravin Anglais",
+        "location": {
+          "lat": 10.5852939,
+          "lng": -61.1315813
+        },
+        "keyAccentLanguage": "ravin_anglais"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Plum",
+        "location": {
+          "lat": 10.5852939,
+          "lng": -61.1315813
+        },
+        "keyAccentLanguage": "plum"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Upper Manzanilla",
+        "location": {
+          "lat": 10.5162217,
+          "lng": -61.0653311
+        },
+        "keyAccentLanguage": "upper_manzanilla"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "North Manzanilla",
+        "location": {
+          "lat": 10.5238363,
+          "lng": -61.0340359
+        },
+        "keyAccentLanguage": "north_manzanilla"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "L'Anse Noire",
+        "location": {
+          "lat": 10.8322258,
+          "lng": -60.96637260000001
+        },
+        "keyAccentLanguage": "l'anse_noire"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Poole",
+        "location": {
+          "lat": 10.5852939,
+          "lng": -61.1315813
+        },
+        "keyAccentLanguage": "poole"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cunaripa",
+        "location": {
+          "lat": 10.5458544,
+          "lng": -61.1796484
+        },
+        "keyAccentLanguage": "cunaripa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nestor",
+        "location": {
+          "lat": 10.5852939,
+          "lng": -61.1315813
+        },
+        "keyAccentLanguage": "nestor"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Caigual",
+        "location": {
+          "lat": 10.5469179,
+          "lng": -61.0631475
+        },
+        "keyAccentLanguage": "caigual"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Peters",
+        "location": {
+          "lat": 10.5852939,
+          "lng": -61.1315813
+        },
+        "keyAccentLanguage": "peters"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Upper Fishing Pond",
+        "location": {
+          "lat": 10.5852939,
+          "lng": -61.1315813
+        },
+        "keyAccentLanguage": "upper_fishing_pond"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Oropuche",
+        "location": {
+          "lat": 10.5987118,
+          "lng": -61.11410600000001
+        },
+        "keyAccentLanguage": "oropuche"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sangre Grande Oropuche",
+        "location": {
+          "lat": 10.5878472,
+          "lng": -61.0558691
+        },
+        "keyAccentLanguage": "sangre_grande_oropuche"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "James Smart",
+        "location": {
+          "lat": 10.5495238,
+          "lng": -61.0893526
+        },
+        "keyAccentLanguage": "james_smart"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hasnalli",
+        "location": {
+          "lat": 10.5649842,
+          "lng": -61.19421709999999
+        },
+        "keyAccentLanguage": "hasnalli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Valencia",
+        "location": {
+          "lat": 10.6416656,
+          "lng": -61.2815757
+        },
+        "keyAccentLanguage": "valencia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rampanalgas",
+        "location": {
+          "lat": 10.7382916,
+          "lng": -60.98164879999999
+        },
+        "keyAccentLanguage": "rampanalgas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Monte Video",
+        "location": {
+          "lat": 10.8211673,
+          "lng": -61.0253035
+        },
+        "keyAccentLanguage": "monte_video"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Platanal",
+        "location": {
+          "lat": 10.7390263,
+          "lng": -61.13886319999999
+        },
+        "keyAccentLanguage": "platanal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Toco",
+        "location": {
+          "lat": 10.5883343,
+          "lng": -61.1247713
+        },
+        "keyAccentLanguage": "toco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sangre Chiquita",
+        "location": {
+          "lat": 10.5633066,
+          "lng": -61.10100079999999
+        },
+        "keyAccentLanguage": "sangre_chiquita"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lower Manzanilla",
+        "location": {
+          "lat": 10.5076236,
+          "lng": -61.04859099999999
+        },
+        "keyAccentLanguage": "lower_manzanilla"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Grande Riviere",
+        "location": {
+          "lat": 10.826784,
+          "lng": -61.04931879999999
+        },
+        "keyAccentLanguage": "grande_riviere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cunapo",
+        "location": {
+          "lat": 10.5566737,
+          "lng": -61.1294753
+        },
+        "keyAccentLanguage": "cunapo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Howson",
+        "location": {
+          "lat": 10.5231217,
+          "lng": -61.1796484
+        },
+        "keyAccentLanguage": "howson"
+      }
+    ],
+    "enNameLanguage": "Sangre Grande",
+    "keyAccentLanguage": "sangre_grande"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 10.0910494,
+      "lng": -61.5252827
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Woodland",
+        "location": {
+          "lat": 10.0910494,
+          "lng": -61.5252827
+        },
+        "keyAccentLanguage": "woodland"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bamboo",
+        "location": {
+          "lat": 10.0910494,
+          "lng": -61.5252827
+        },
+        "keyAccentLanguage": "bamboo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Granville",
+        "location": {
+          "lat": 10.0910494,
+          "lng": -61.5252827
+        },
+        "keyAccentLanguage": "granville"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fyzabad",
+        "location": {
+          "lat": 10.1268081,
+          "lng": -61.5500711
+        },
+        "keyAccentLanguage": "fyzabad"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fullarton",
+        "location": {
+          "lat": 10.089691,
+          "lng": -61.8840746
+        },
+        "keyAccentLanguage": "fullarton"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Palo Seco",
+        "location": {
+          "lat": 10.0997805,
+          "lng": -61.6187438
+        },
+        "keyAccentLanguage": "palo_seco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pluck",
+        "location": {
+          "lat": 10.186296,
+          "lng": -61.4931675
+        },
+        "keyAccentLanguage": "pluck"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Siparia",
+        "location": {
+          "lat": 10.0910494,
+          "lng": -61.5252827
+        },
+        "keyAccentLanguage": "siparia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint Mary's",
+        "location": {
+          "lat": 10.0910494,
+          "lng": -61.5252827
+        },
+        "keyAccentLanguage": "saint_mary's"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Thick",
+        "location": {
+          "lat": 10.1649879,
+          "lng": -61.50776450000001
+        },
+        "keyAccentLanguage": "thick"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "New Jersey",
+        "location": {
+          "lat": 10.0910494,
+          "lng": -61.5252827
+        },
+        "keyAccentLanguage": "new_jersey"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Irois",
+        "location": {
+          "lat": 10.0910494,
+          "lng": -61.5252827
+        },
+        "keyAccentLanguage": "irois"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Icacos",
+        "location": {
+          "lat": 10.060711,
+          "lng": -61.90528939999999
+        },
+        "keyAccentLanguage": "icacos"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Brea",
+        "location": {
+          "lat": 10.2371321,
+          "lng": -61.6172831
+        },
+        "keyAccentLanguage": "la_brea"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Vessigny",
+        "location": {
+          "lat": 10.2180372,
+          "lng": -61.62896929999999
+        },
+        "keyAccentLanguage": "vessigny"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bonasse",
+        "location": {
+          "lat": 10.0928765,
+          "lng": -61.85701109999999
+        },
+        "keyAccentLanguage": "bonasse"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Los Bajos",
+        "location": {
+          "lat": 10.0982101,
+          "lng": -61.57492740000001
+        },
+        "keyAccentLanguage": "los_bajos"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Buenos Ayres",
+        "location": {
+          "lat": 10.0996388,
+          "lng": -61.67133860000001
+        },
+        "keyAccentLanguage": "buenos_ayres"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chatham",
+        "location": {
+          "lat": 10.1106634,
+          "lng": -61.73564330000001
+        },
+        "keyAccentLanguage": "chatham"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "South Oropouche",
+        "location": {
+          "lat": 10.2243643,
+          "lng": -61.5223628
+        },
+        "keyAccentLanguage": "south_oropouche"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Coromandel Settlement",
+        "location": {
+          "lat": 10.0913929,
+          "lng": -61.79997229999999
+        },
+        "keyAccentLanguage": "coromandel_settlement"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Quarry Village",
+        "location": {
+          "lat": 10.1268636,
+          "lng": -61.53112239999999
+        },
+        "keyAccentLanguage": "quarry_village"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "San Francique",
+        "location": {
+          "lat": 10.1879515,
+          "lng": -61.5106841
+        },
+        "keyAccentLanguage": "san_francique"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Brighton",
+        "location": {
+          "lat": 10.2399128,
+          "lng": -61.6333518
+        },
+        "keyAccentLanguage": "brighton"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Parry Lands",
+        "location": {
+          "lat": 10.1697837,
+          "lng": -61.6391954
+        },
+        "keyAccentLanguage": "parry_lands"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Vance River",
+        "location": {
+          "lat": 10.2062649,
+          "lng": -61.6245869
+        },
+        "keyAccentLanguage": "vance_river"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Delhi Settlement",
+        "location": {
+          "lat": 10.1867669,
+          "lng": -61.55156330000001
+        },
+        "keyAccentLanguage": "delhi_settlement"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Avocat",
+        "location": {
+          "lat": 10.1896062,
+          "lng": -61.52820249999999
+        },
+        "keyAccentLanguage": "avocat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Roussillac",
+        "location": {
+          "lat": 10.2231499,
+          "lng": -61.58953159999999
+        },
+        "keyAccentLanguage": "roussillac"
+      }
+    ],
+    "enNameLanguage": "Siparia",
+    "keyAccentLanguage": "siparia"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 11.2336911,
+      "lng": -60.69889089999999
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Charlotteville",
+        "location": {
+          "lat": 11.3231556,
+          "lng": -60.5457955
+        },
+        "keyAccentLanguage": "charlotteville"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arnos Vale",
+        "location": {
+          "lat": 11.2086466,
+          "lng": -60.7548461
+        },
+        "keyAccentLanguage": "arnos_vale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Canaan",
+        "location": {
+          "lat": 11.1601132,
+          "lng": -60.8115148
+        },
+        "keyAccentLanguage": "canaan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Moriah",
+        "location": {
+          "lat": 11.2320342,
+          "lng": -60.7243411
+        },
+        "keyAccentLanguage": "moriah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adventure",
+        "location": {
+          "lat": 11.2134937,
+          "lng": -60.76755840000001
+        },
+        "keyAccentLanguage": "adventure"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cardiff",
+        "location": {
+          "lat": 51.483707,
+          "lng": -3.1680962
+        },
+        "keyAccentLanguage": "cardiff"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cove",
+        "location": {
+          "lat": 11.2336911,
+          "lng": -60.69889089999999
+        },
+        "keyAccentLanguage": "cove"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Grange",
+        "location": {
+          "lat": 11.2336911,
+          "lng": -60.69889089999999
+        },
+        "keyAccentLanguage": "grange"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Auchenskeoch",
+        "location": {
+          "lat": 11.1624451,
+          "lng": -60.7711315
+        },
+        "keyAccentLanguage": "auchenskeoch"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Delaford",
+        "location": {
+          "lat": 11.2613166,
+          "lng": -60.56030329999999
+        },
+        "keyAccentLanguage": "delaford"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Goodwood",
+        "location": {
+          "lat": 11.2024034,
+          "lng": -60.6372186
+        },
+        "keyAccentLanguage": "goodwood"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arden",
+        "location": {
+          "lat": 11.2336911,
+          "lng": -60.69889089999999
+        },
+        "keyAccentLanguage": "arden"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Goldsborough",
+        "location": {
+          "lat": 11.2336911,
+          "lng": -60.69889089999999
+        },
+        "keyAccentLanguage": "goldsborough"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Concordia",
+        "location": {
+          "lat": 11.2106604,
+          "lng": -60.7260308
+        },
+        "keyAccentLanguage": "concordia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lambeau",
+        "location": {
+          "lat": 11.168357,
+          "lng": -60.7577517
+        },
+        "keyAccentLanguage": "lambeau"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Montgomery",
+        "location": {
+          "lat": 11.2336911,
+          "lng": -60.69889089999999
+        },
+        "keyAccentLanguage": "montgomery"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Carnbee Village",
+        "location": {
+          "lat": 11.1671776,
+          "lng": -60.7824513
+        },
+        "keyAccentLanguage": "carnbee_village"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Richmond",
+        "location": {
+          "lat": 37.5407246,
+          "lng": -77.4360481
+        },
+        "keyAccentLanguage": "richmond"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Friendship",
+        "location": {
+          "lat": 11.1481143,
+          "lng": -60.794076
+        },
+        "keyAccentLanguage": "friendship"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Buccoo",
+        "location": {
+          "lat": 11.182895,
+          "lng": -60.804975
+        },
+        "keyAccentLanguage": "buccoo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bacolet",
+        "location": {
+          "lat": 11.1732569,
+          "lng": -60.7230113
+        },
+        "keyAccentLanguage": "bacolet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lower Quarter",
+        "location": {
+          "lat": 11.2336911,
+          "lng": -60.69889089999999
+        },
+        "keyAccentLanguage": "lower_quarter"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belle Garden",
+        "location": {
+          "lat": 11.2378938,
+          "lng": -60.5958534
+        },
+        "keyAccentLanguage": "belle_garden"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Castara",
+        "location": {
+          "lat": 11.2779468,
+          "lng": -60.690938
+        },
+        "keyAccentLanguage": "castara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bethel",
+        "location": {
+          "lat": 11.182403,
+          "lng": -60.7824513
+        },
+        "keyAccentLanguage": "bethel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anse Fourmi",
+        "location": {
+          "lat": 11.3019268,
+          "lng": -60.61326889999999
+        },
+        "keyAccentLanguage": "anse_fourmi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lower Town",
+        "location": {
+          "lat": 11.2336911,
+          "lng": -60.69889089999999
+        },
+        "keyAccentLanguage": "lower_town"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cambleton",
+        "location": {
+          "lat": 48.007399,
+          "lng": -66.67220569999999
+        },
+        "keyAccentLanguage": "cambleton"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bon Accord",
+        "location": {
+          "lat": 11.1613464,
+          "lng": -60.82314179999999
+        },
+        "keyAccentLanguage": "bon_accord"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Florida",
+        "location": {
+          "lat": 27.6648274,
+          "lng": -81.5157535
+        },
+        "keyAccentLanguage": "florida"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hillsborough",
+        "location": {
+          "lat": 11.2336911,
+          "lng": -60.69889089999999
+        },
+        "keyAccentLanguage": "hillsborough"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Black Rock",
+        "location": {
+          "lat": 11.2012836,
+          "lng": -60.7809982
+        },
+        "keyAccentLanguage": "black_rock"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Merchiston",
+        "location": {
+          "lat": 11.2737047,
+          "lng": -60.53419039999999
+        },
+        "keyAccentLanguage": "merchiston"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Riversdale",
+        "location": {
+          "lat": 11.2336911,
+          "lng": -60.69889089999999
+        },
+        "keyAccentLanguage": "riversdale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adelphi",
+        "location": {
+          "lat": 11.1972017,
+          "lng": -60.71598960000001
+        },
+        "keyAccentLanguage": "adelphi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mesopotamia",
+        "location": {
+          "lat": 11.1948283,
+          "lng": -60.6967467
+        },
+        "keyAccentLanguage": "mesopotamia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Parlatuvier",
+        "location": {
+          "lat": 11.2986354,
+          "lng": -60.6473802
+        },
+        "keyAccentLanguage": "parlatuvier"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Green Hill",
+        "location": {
+          "lat": 11.2336911,
+          "lng": -60.69889089999999
+        },
+        "keyAccentLanguage": "green_hill"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount Saint George",
+        "location": {
+          "lat": 11.1951906,
+          "lng": -60.6764173
+        },
+        "keyAccentLanguage": "mount_saint_george"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pembroke",
+        "location": {
+          "lat": 11.2180388,
+          "lng": -60.62342890000001
+        },
+        "keyAccentLanguage": "pembroke"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Glamorgan",
+        "location": {
+          "lat": 11.2238419,
+          "lng": -60.6125432
+        },
+        "keyAccentLanguage": "glamorgan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Parrot Hall",
+        "location": {
+          "lat": 11.283929,
+          "lng": -60.6698835
+        },
+        "keyAccentLanguage": "parrot_hall"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lowlands",
+        "location": {
+          "lat": 11.1578447,
+          "lng": -60.78221439999999
+        },
+        "keyAccentLanguage": "lowlands"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belmont",
+        "location": {
+          "lat": 11.3165044,
+          "lng": -60.53128919999999
+        },
+        "keyAccentLanguage": "belmont"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Culloden",
+        "location": {
+          "lat": 57.487719,
+          "lng": -4.142093
+        },
+        "keyAccentLanguage": "culloden"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Easterfield",
+        "location": {
+          "lat": 11.2119635,
+          "lng": -60.690938
+        },
+        "keyAccentLanguage": "easterfield"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hermitage",
+        "location": {
+          "lat": 11.3165468,
+          "lng": -60.58424429999999
+        },
+        "keyAccentLanguage": "hermitage"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bon Accord Village",
+        "location": {
+          "lat": 11.1613464,
+          "lng": -60.82314179999999
+        },
+        "keyAccentLanguage": "bon_accord_village"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Woodlands",
+        "location": {
+          "lat": 11.2336911,
+          "lng": -60.69889089999999
+        },
+        "keyAccentLanguage": "woodlands"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Golden Lane",
+        "location": {
+          "lat": 11.2372418,
+          "lng": -60.73741390000001
+        },
+        "keyAccentLanguage": "golden_lane"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Montrose",
+        "location": {
+          "lat": 11.199067,
+          "lng": -60.64157350000001
+        },
+        "keyAccentLanguage": "montrose"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Englishman's Bay",
+        "location": {
+          "lat": 11.2918583,
+          "lng": -60.6727874
+        },
+        "keyAccentLanguage": "englishman's_bay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Friendsfield",
+        "location": {
+          "lat": 11.1890003,
+          "lng": -60.716835
+        },
+        "keyAccentLanguage": "friendsfield"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mason Hall",
+        "location": {
+          "lat": 11.2204878,
+          "lng": -60.7131467
+        },
+        "keyAccentLanguage": "mason_hall"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Orange Hill",
+        "location": {
+          "lat": 11.1945337,
+          "lng": -60.7533933
+        },
+        "keyAccentLanguage": "orange_hill"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Trois Rivieres",
+        "location": {
+          "lat": 46.34298200000001,
+          "lng": -72.5420716
+        },
+        "keyAccentLanguage": "trois_rivieres"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Grafton",
+        "location": {
+          "lat": 11.2025457,
+          "lng": -60.7862753
+        },
+        "keyAccentLanguage": "grafton"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Roxborough",
+        "location": {
+          "lat": 11.248922,
+          "lng": -60.58642090000001
+        },
+        "keyAccentLanguage": "roxborough"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Runnemede",
+        "location": {
+          "lat": 39.8488328,
+          "lng": -75.0727656
+        },
+        "keyAccentLanguage": "runnemede"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nutmeg Grove",
+        "location": {
+          "lat": 11.2336911,
+          "lng": -60.69889089999999
+        },
+        "keyAccentLanguage": "nutmeg_grove"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Diamond",
+        "location": {
+          "lat": 11.1799285,
+          "lng": -60.7592045
+        },
+        "keyAccentLanguage": "diamond"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Windsor",
+        "location": {
+          "lat": 11.209521,
+          "lng": -60.64447680000001
+        },
+        "keyAccentLanguage": "windsor"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Golden Grove",
+        "location": {
+          "lat": 11.1696474,
+          "lng": -60.80570170000001
+        },
+        "keyAccentLanguage": "golden_grove"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Calder Hall",
+        "location": {
+          "lat": 11.1842584,
+          "lng": -60.7291093
+        },
+        "keyAccentLanguage": "calder_hall"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount Grace",
+        "location": {
+          "lat": 11.2336911,
+          "lng": -60.69889089999999
+        },
+        "keyAccentLanguage": "mount_grace"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Shirvan",
+        "location": {
+          "lat": 39.9265747,
+          "lng": 48.9205727
+        },
+        "keyAccentLanguage": "shirvan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "King's Bay",
+        "location": {
+          "lat": 11.2684525,
+          "lng": -60.546444
+        },
+        "keyAccentLanguage": "king's_bay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Plymouth",
+        "location": {
+          "lat": 11.216078,
+          "lng": -60.7650158
+        },
+        "keyAccentLanguage": "plymouth"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cinnamon Hill",
+        "location": {
+          "lat": 11.2038549,
+          "lng": -60.7299047
+        },
+        "keyAccentLanguage": "cinnamon_hill"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Prospect",
+        "location": {
+          "lat": 11.2336911,
+          "lng": -60.69889089999999
+        },
+        "keyAccentLanguage": "prospect"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "The Whim",
+        "location": {
+          "lat": 11.2336911,
+          "lng": -60.69889089999999
+        },
+        "keyAccentLanguage": "the_whim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Riseland",
+        "location": {
+          "lat": 11.1745342,
+          "lng": -60.779793
+        },
+        "keyAccentLanguage": "riseland"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Shore Park",
+        "location": {
+          "lat": 11.2336911,
+          "lng": -60.69889089999999
+        },
+        "keyAccentLanguage": "shore_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Speyside",
+        "location": {
+          "lat": 11.2917701,
+          "lng": -60.5370916
+        },
+        "keyAccentLanguage": "speyside"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Courland",
+        "location": {
+          "lat": 11.207818,
+          "lng": -60.7840917
+        },
+        "keyAccentLanguage": "courland"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Studley Park",
+        "location": {
+          "lat": 11.195551,
+          "lng": -60.6560907
+        },
+        "keyAccentLanguage": "studley_park"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Providence",
+        "location": {
+          "lat": 11.2036268,
+          "lng": -60.73160360000001
+        },
+        "keyAccentLanguage": "providence"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mary's Hill",
+        "location": {
+          "lat": 11.2092087,
+          "lng": -60.75363
+        },
+        "keyAccentLanguage": "mary's_hill"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zion Hill",
+        "location": {
+          "lat": 11.2364921,
+          "lng": -60.603377
+        },
+        "keyAccentLanguage": "zion_hill"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount Dillon River",
+        "location": {
+          "lat": 11.2614221,
+          "lng": -60.68186240000001
+        },
+        "keyAccentLanguage": "mount_dillon_river"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tyson Hall",
+        "location": {
+          "lat": 11.1507696,
+          "lng": -60.80715489999999
+        },
+        "keyAccentLanguage": "tyson_hall"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Scarborough",
+        "location": {
+          "lat": 11.1869803,
+          "lng": -60.7301511
+        },
+        "keyAccentLanguage": "scarborough"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Starwood",
+        "location": {
+          "lat": 11.3246704,
+          "lng": -60.5305639
+        },
+        "keyAccentLanguage": "starwood"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Patience Hill",
+        "location": {
+          "lat": 11.1913166,
+          "lng": -60.77082739999999
+        },
+        "keyAccentLanguage": "patience_hill"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount Pleasant",
+        "location": {
+          "lat": 11.1633376,
+          "lng": -60.794076
+        },
+        "keyAccentLanguage": "mount_pleasant"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mount Thomas",
+        "location": {
+          "lat": 11.239,
+          "lng": -60.738
+        },
+        "keyAccentLanguage": "mount_thomas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Franklyns",
+        "location": {
+          "lat": 11.221,
+          "lng": -60.747
+        },
+        "keyAccentLanguage": "franklyns"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Morne Quiton",
+        "location": {
+          "lat": 11.187,
+          "lng": -60.725
+        },
+        "keyAccentLanguage": "morne_quiton"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kilgwyn",
+        "location": {
+          "lat": 11.153,
+          "lng": -60.814
+        },
+        "keyAccentLanguage": "kilgwyn"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hope",
+        "location": {
+          "lat": 11.192,
+          "lng": -60.698
+        },
+        "keyAccentLanguage": "hope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rocky Vale",
+        "location": {
+          "lat": 11.19,
+          "lng": -60.738
+        },
+        "keyAccentLanguage": "rocky_vale"
+      }
+    ],
+    "enNameLanguage": "Tobago",
+    "keyAccentLanguage": "tobago"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 10.6859096,
+      "lng": -61.30352480000001
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arouca",
+        "location": {
+          "lat": 10.6359167,
+          "lng": -61.33560259999999
+        },
+        "keyAccentLanguage": "arouca"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Caroni",
+        "location": {
+          "lat": 10.6057904,
+          "lng": -61.383002
+        },
+        "keyAccentLanguage": "caroni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Curepe",
+        "location": {
+          "lat": 10.6377843,
+          "lng": -61.4056127
+        },
+        "keyAccentLanguage": "curepe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Caura",
+        "location": {
+          "lat": 10.7142216,
+          "lng": -61.35237309999999
+        },
+        "keyAccentLanguage": "caura"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Carapo",
+        "location": {
+          "lat": 10.5932126,
+          "lng": -61.2964058
+        },
+        "keyAccentLanguage": "carapo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Blanchisseuse",
+        "location": {
+          "lat": 10.7712793,
+          "lng": -61.24521799999999
+        },
+        "keyAccentLanguage": "blanchisseuse"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Maturita",
+        "location": {
+          "lat": 10.6274849,
+          "lng": -61.26735679999999
+        },
+        "keyAccentLanguage": "maturita"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tunapuna",
+        "location": {
+          "lat": 10.6512525,
+          "lng": -61.3881073
+        },
+        "keyAccentLanguage": "tunapuna"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dinsley",
+        "location": {
+          "lat": 10.6345711,
+          "lng": -61.35875360000001
+        },
+        "keyAccentLanguage": "dinsley"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Loango",
+        "location": {
+          "lat": 10.7085008,
+          "lng": -61.41582500000001
+        },
+        "keyAccentLanguage": "loango"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Brasso Seco Village",
+        "location": {
+          "lat": 10.7460401,
+          "lng": -61.2714535
+        },
+        "keyAccentLanguage": "brasso_seco_village"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lopinot",
+        "location": {
+          "lat": 10.6918905,
+          "lng": -61.3253954
+        },
+        "keyAccentLanguage": "lopinot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dabadie",
+        "location": {
+          "lat": 10.6285394,
+          "lng": -61.31227269999999
+        },
+        "keyAccentLanguage": "dabadie"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lapai Village",
+        "location": {
+          "lat": 10.6859096,
+          "lng": -61.30352480000001
+        },
+        "keyAccentLanguage": "lapai_village"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Pastora",
+        "location": {
+          "lat": 10.6859096,
+          "lng": -61.30352480000001
+        },
+        "keyAccentLanguage": "la_pastora"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Maracas",
+        "location": {
+          "lat": 10.6859096,
+          "lng": -61.30352480000001
+        },
+        "keyAccentLanguage": "maracas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint Joseph",
+        "location": {
+          "lat": 10.6592107,
+          "lng": -61.41728389999999
+        },
+        "keyAccentLanguage": "saint_joseph"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint Helena",
+        "location": {
+          "lat": 10.5813813,
+          "lng": -61.3472689
+        },
+        "keyAccentLanguage": "saint_helena"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Guarata",
+        "location": {
+          "lat": 10.6859096,
+          "lng": -61.30352480000001
+        },
+        "keyAccentLanguage": "guarata"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kelly Village",
+        "location": {
+          "lat": 10.5896792,
+          "lng": -61.36345519999999
+        },
+        "keyAccentLanguage": "kelly_village"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tulls",
+        "location": {
+          "lat": 10.6859096,
+          "lng": -61.30352480000001
+        },
+        "keyAccentLanguage": "tulls"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Paradise",
+        "location": {
+          "lat": 10.6483783,
+          "lng": -61.3654991
+        },
+        "keyAccentLanguage": "paradise"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saint Augustine",
+        "location": {
+          "lat": 10.6473412,
+          "lng": -61.3997773
+        },
+        "keyAccentLanguage": "saint_augustine"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ortinola",
+        "location": {
+          "lat": 10.7060961,
+          "lng": -61.3217501
+        },
+        "keyAccentLanguage": "ortinola"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Guanapo",
+        "location": {
+          "lat": 10.5926478,
+          "lng": -61.24376059999999
+        },
+        "keyAccentLanguage": "guanapo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Piarco",
+        "location": {
+          "lat": 10.6027182,
+          "lng": -61.3326862
+        },
+        "keyAccentLanguage": "piarco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Warren",
+        "location": {
+          "lat": 10.6859096,
+          "lng": -61.30352480000001
+        },
+        "keyAccentLanguage": "warren"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tacarigua",
+        "location": {
+          "lat": 10.6438733,
+          "lng": -61.3647698
+        },
+        "keyAccentLanguage": "tacarigua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Veronica",
+        "location": {
+          "lat": 10.697622,
+          "lng": -61.3574775
+        },
+        "keyAccentLanguage": "la_veronica"
+      }
+    ],
+    "enNameLanguage": "Tunapuna-Piarco",
+    "keyAccentLanguage": "tunapuna-piarco"
+  }
+]

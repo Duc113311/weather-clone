@@ -1,0 +1,307 @@
+[
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 7.256499600000001,
+      "lng": 80.7214417
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Muli",
+        "location": {
+          "lat": 7.256499600000001,
+          "lng": 80.7214417
+        },
+        "keyAccentLanguage": "muli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kudahuvadhoo",
+        "location": {
+          "lat": 2.6707463,
+          "lng": 72.8943768
+        },
+        "keyAccentLanguage": "kudahuvadhoo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Magoodhoo",
+        "location": {
+          "lat": 3.0790263,
+          "lng": 72.964511
+        },
+        "keyAccentLanguage": "magoodhoo"
+      }
+    ],
+    "enNameLanguage": "Central Province",
+    "keyAccentLanguage": "central_province"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 4.1754959,
+      "lng": 73.5093474
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Male",
+        "location": {
+          "lat": 4.175,
+          "lng": 73.51
+        },
+        "keyAccentLanguage": "male"
+      }
+    ],
+    "enNameLanguage": "Male",
+    "keyAccentLanguage": "male"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 8.1995638,
+      "lng": 80.6326916
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Felidhoo",
+        "location": {
+          "lat": 3.4720236,
+          "lng": 73.5468976
+        },
+        "keyAccentLanguage": "felidhoo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Troja",
+        "location": {
+          "lat": 8.1995638,
+          "lng": 80.6326916
+        },
+        "keyAccentLanguage": "la_troja"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mahibadhoo",
+        "location": {
+          "lat": 3.756783299999999,
+          "lng": 72.9689398
+        },
+        "keyAccentLanguage": "mahibadhoo"
+      }
+    ],
+    "enNameLanguage": "North Central Province",
+    "keyAccentLanguage": "north_central_province"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 8.8855027,
+      "lng": 80.2767327
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Magoodhoo",
+        "location": {
+          "lat": 3.0790263,
+          "lng": 72.964511
+        },
+        "keyAccentLanguage": "magoodhoo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ungoofaaru",
+        "location": {
+          "lat": 5.6675876,
+          "lng": 73.03019680000001
+        },
+        "keyAccentLanguage": "ungoofaaru"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eydhafushi",
+        "location": {
+          "lat": 5.1025787,
+          "lng": 73.0685665
+        },
+        "keyAccentLanguage": "eydhafushi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Naifaru",
+        "location": {
+          "lat": 5.4443719,
+          "lng": 73.3657118
+        },
+        "keyAccentLanguage": "naifaru"
+      }
+    ],
+    "enNameLanguage": "North Province",
+    "keyAccentLanguage": "north_province"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 2.1163543,
+      "lng": 73.56235749999999
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Veymandoo",
+        "location": {
+          "lat": 2.1877317,
+          "lng": 73.0951264
+        },
+        "keyAccentLanguage": "veymandoo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hithadhoo",
+        "location": {
+          "lat": 1.7963282,
+          "lng": 73.3870791
+        },
+        "keyAccentLanguage": "hithadhoo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gan",
+        "location": {
+          "lat": -0.698,
+          "lng": 73.15
+        },
+        "keyAccentLanguage": "gan"
+      }
+    ],
+    "enNameLanguage": "South Central Province",
+    "keyAccentLanguage": "south_central_province"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Midu",
+        "location": {
+          "lat": -0.5833332999999999,
+          "lng": 73.2333333
+        },
+        "keyAccentLanguage": "midu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hithadhoo",
+        "location": {
+          "lat": -0.6058269,
+          "lng": 73.0914
+        },
+        "keyAccentLanguage": "hithadhoo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fuvahmulah",
+        "location": {
+          "lat": -0.2983944,
+          "lng": 73.4268608
+        },
+        "keyAccentLanguage": "fuvahmulah"
+      }
+    ],
+    "enNameLanguage": "South Province",
+    "keyAccentLanguage": "south_province"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 6.537903972424737,
+      "lng": 72.9699109631565
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kulhudhuffushi",
+        "location": {
+          "lat": 6.6261633,
+          "lng": 73.0670909
+        },
+        "keyAccentLanguage": "kulhudhuffushi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Funadhoo",
+        "location": {
+          "lat": 6.148852499999999,
+          "lng": 73.2905413
+        },
+        "keyAccentLanguage": "funadhoo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dhidhdhoo",
+        "location": {
+          "lat": 6.887353099999999,
+          "lng": 73.113569
+        },
+        "keyAccentLanguage": "dhidhdhoo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nolhivaranfaru",
+        "location": {
+          "lat": 6.696237,
+          "lng": 73.1216833
+        },
+        "keyAccentLanguage": "nolhivaranfaru"
+      }
+    ],
+    "enNameLanguage": "Upper North Province",
+    "keyAccentLanguage": "upper_north_province"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0.2307,
+      "lng": 73.2794846
+    },
+    "districtList": [],
+    "enNameLanguage": "Upper South Province",
+    "keyAccentLanguage": "upper_south_province"
+  }
+]

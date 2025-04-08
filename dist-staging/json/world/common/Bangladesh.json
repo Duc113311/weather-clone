@@ -1,0 +1,6166 @@
+[
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 22.7010021,
+      "lng": 90.35345110000002
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dhamura",
+        "location": {
+          "lat": 22.8923532,
+          "lng": 90.1975081
+        },
+        "keyAccentLanguage": "dhamura"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Babuganj",
+        "location": {
+          "lat": 22.834068,
+          "lng": 90.3183792
+        },
+        "keyAccentLanguage": "babuganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bamna",
+        "location": {
+          "lat": 22.3128887,
+          "lng": 90.0910316
+        },
+        "keyAccentLanguage": "bamna"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afalkati",
+        "location": {
+          "lat": 22.483,
+          "lng": 90.433
+        },
+        "keyAccentLanguage": "afalkati"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agharbari",
+        "location": {
+          "lat": 22.65,
+          "lng": 90.217
+        },
+        "keyAccentLanguage": "agharbari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adakhola",
+        "location": {
+          "lat": 22.517,
+          "lng": 90.15
+        },
+        "keyAccentLanguage": "adakhola"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dumki Satani",
+        "location": {
+          "lat": 22.467,
+          "lng": 90.367
+        },
+        "keyAccentLanguage": "dumki_satani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amtali",
+        "location": {
+          "lat": 22.119,
+          "lng": 90.227
+        },
+        "keyAccentLanguage": "amtali"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Balia",
+        "location": {
+          "lat": 22.856,
+          "lng": 90.601
+        },
+        "keyAccentLanguage": "balia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "North Gachhua",
+        "location": {
+          "lat": 22.988,
+          "lng": 90.416
+        },
+        "keyAccentLanguage": "north_gachhua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abhaynil",
+        "location": {
+          "lat": 22.583,
+          "lng": 90.283
+        },
+        "keyAccentLanguage": "abhaynil"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chandpasa Kismat",
+        "location": {
+          "lat": 22.8,
+          "lng": 90.317
+        },
+        "keyAccentLanguage": "chandpasa_kismat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bauphal",
+        "location": {
+          "lat": 22.417,
+          "lng": 90.55
+        },
+        "keyAccentLanguage": "bauphal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gabha",
+        "location": {
+          "lat": 22.767,
+          "lng": 90.167
+        },
+        "keyAccentLanguage": "gabha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bhola",
+        "location": {
+          "lat": 22.679,
+          "lng": 90.644
+        },
+        "keyAccentLanguage": "bhola"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jugirkanda",
+        "location": {
+          "lat": 22.85,
+          "lng": 90.167
+        },
+        "keyAccentLanguage": "jugirkanda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gaila",
+        "location": {
+          "lat": 22.95,
+          "lng": 90.183
+        },
+        "keyAccentLanguage": "gaila"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bara Gaurichanna",
+        "location": {
+          "lat": 22.167,
+          "lng": 90.082
+        },
+        "keyAccentLanguage": "bara_gaurichanna"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Betagi Sinhakhali",
+        "location": {
+          "lat": 22.4,
+          "lng": 90.033
+        },
+        "keyAccentLanguage": "betagi_sinhakhali"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aihar",
+        "location": {
+          "lat": 22.667,
+          "lng": 90.15
+        },
+        "keyAccentLanguage": "aihar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baukati",
+        "location": {
+          "lat": 22.7,
+          "lng": 90.2
+        },
+        "keyAccentLanguage": "baukati"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Char Gazi",
+        "location": {
+          "lat": 22.573,
+          "lng": 90.976
+        },
+        "keyAccentLanguage": "char_gazi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kalaia",
+        "location": {
+          "lat": 22.382,
+          "lng": 90.585
+        },
+        "keyAccentLanguage": "kalaia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abupur",
+        "location": {
+          "lat": 23,
+          "lng": 90.433
+        },
+        "keyAccentLanguage": "abupur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jaynagar",
+        "location": {
+          "lat": 22.6,
+          "lng": 90.7
+        },
+        "keyAccentLanguage": "jaynagar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hazipur",
+        "location": {
+          "lat": 22.621,
+          "lng": 90.75
+        },
+        "keyAccentLanguage": "hazipur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Batajor",
+        "location": {
+          "lat": 22.9,
+          "lng": 90.267
+        },
+        "keyAccentLanguage": "batajor"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barisal",
+        "location": {
+          "lat": 22.703,
+          "lng": 90.374
+        },
+        "keyAccentLanguage": "barisal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dhaoa",
+        "location": {
+          "lat": 22.45,
+          "lng": 90.05
+        },
+        "keyAccentLanguage": "dhaoa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dasmina",
+        "location": {
+          "lat": 22.283,
+          "lng": 90.583
+        },
+        "keyAccentLanguage": "dasmina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barahanuddin",
+        "location": {
+          "lat": 22.498,
+          "lng": 90.715
+        },
+        "keyAccentLanguage": "barahanuddin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kirtipasa",
+        "location": {
+          "lat": 22.681,
+          "lng": 90.198
+        },
+        "keyAccentLanguage": "kirtipasa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bahirghat",
+        "location": {
+          "lat": 22.891,
+          "lng": 90.186
+        },
+        "keyAccentLanguage": "bahirghat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sahebrampur",
+        "location": {
+          "lat": 23.017,
+          "lng": 90.3
+        },
+        "keyAccentLanguage": "sahebrampur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Char Kalekhan",
+        "location": {
+          "lat": 22.983,
+          "lng": 90.4
+        },
+        "keyAccentLanguage": "char_kalekhan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adabaria",
+        "location": {
+          "lat": 22.217,
+          "lng": 90.183
+        },
+        "keyAccentLanguage": "adabaria"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Patang",
+        "location": {
+          "lat": 22.667,
+          "lng": 90.467
+        },
+        "keyAccentLanguage": "patang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sriramkati",
+        "location": {
+          "lat": 22.683,
+          "lng": 89.983
+        },
+        "keyAccentLanguage": "sriramkati"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Halta",
+        "location": {
+          "lat": 22.6,
+          "lng": 90.4
+        },
+        "keyAccentLanguage": "halta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kaukhali",
+        "location": {
+          "lat": 22.633,
+          "lng": 90.067
+        },
+        "keyAccentLanguage": "kaukhali"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Char Alexander",
+        "location": {
+          "lat": 22.667,
+          "lng": 90.9
+        },
+        "keyAccentLanguage": "char_alexander"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Patharghata",
+        "location": {
+          "lat": 22.047,
+          "lng": 89.967
+        },
+        "keyAccentLanguage": "patharghata"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Galachipa",
+        "location": {
+          "lat": 22.157,
+          "lng": 90.415
+        },
+        "keyAccentLanguage": "galachipa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mehendiganj",
+        "location": {
+          "lat": 22.817,
+          "lng": 90.533
+        },
+        "keyAccentLanguage": "mehendiganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kazir Char",
+        "location": {
+          "lat": 22.768,
+          "lng": 90.534
+        },
+        "keyAccentLanguage": "kazir_char"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mathbari",
+        "location": {
+          "lat": 22.567,
+          "lng": 90.183
+        },
+        "keyAccentLanguage": "mathbari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Madhabpasa",
+        "location": {
+          "lat": 22.617,
+          "lng": 90.3
+        },
+        "keyAccentLanguage": "madhabpasa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dakshin Char Fasson",
+        "location": {
+          "lat": 22.19,
+          "lng": 90.753
+        },
+        "keyAccentLanguage": "dakshin_char_fasson"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nalchiti",
+        "location": {
+          "lat": 22.631,
+          "lng": 90.288
+        },
+        "keyAccentLanguage": "nalchiti"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jaykul",
+        "location": {
+          "lat": 22.6,
+          "lng": 90.083
+        },
+        "keyAccentLanguage": "jaykul"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ahammadkati",
+        "location": {
+          "lat": 23.05,
+          "lng": 90.183
+        },
+        "keyAccentLanguage": "ahammadkati"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kanthalia",
+        "location": {
+          "lat": 22.55,
+          "lng": 90.317
+        },
+        "keyAccentLanguage": "kanthalia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rajabaria",
+        "location": {
+          "lat": 22.506,
+          "lng": 90.212
+        },
+        "keyAccentLanguage": "rajabaria"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lashkarpur",
+        "location": {
+          "lat": 22.867,
+          "lng": 90.533
+        },
+        "keyAccentLanguage": "lashkarpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Khepupara",
+        "location": {
+          "lat": 21.983,
+          "lng": 90.217
+        },
+        "keyAccentLanguage": "khepupara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Maukaran",
+        "location": {
+          "lat": 22.496,
+          "lng": 90.417
+        },
+        "keyAccentLanguage": "maukaran"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tiakhali",
+        "location": {
+          "lat": 22.683,
+          "lng": 90.333
+        },
+        "keyAccentLanguage": "tiakhali"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nalgora",
+        "location": {
+          "lat": 22.865,
+          "lng": 90.645
+        },
+        "keyAccentLanguage": "nalgora"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aicha",
+        "location": {
+          "lat": 22.767,
+          "lng": 90.383
+        },
+        "keyAccentLanguage": "aicha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mahipur",
+        "location": {
+          "lat": 21.867,
+          "lng": 90.133
+        },
+        "keyAccentLanguage": "mahipur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sikarpur",
+        "location": {
+          "lat": 22.833,
+          "lng": 90.267
+        },
+        "keyAccentLanguage": "sikarpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kanudaskati",
+        "location": {
+          "lat": 22.5,
+          "lng": 90.117
+        },
+        "keyAccentLanguage": "kanudaskati"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nabagram",
+        "location": {
+          "lat": 22.717,
+          "lng": 90.233
+        },
+        "keyAccentLanguage": "nabagram"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pirojpur",
+        "location": {
+          "lat": 22.573,
+          "lng": 89.987
+        },
+        "keyAccentLanguage": "pirojpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tazumuddin",
+        "location": {
+          "lat": 22.471,
+          "lng": 90.862
+        },
+        "keyAccentLanguage": "tazumuddin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sugandhia",
+        "location": {
+          "lat": 22.717,
+          "lng": 90.267
+        },
+        "keyAccentLanguage": "sugandhia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rahmatpur",
+        "location": {
+          "lat": 22.783,
+          "lng": 90.3
+        },
+        "keyAccentLanguage": "rahmatpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dhali Gaurnagar",
+        "location": {
+          "lat": 22.346,
+          "lng": 90.813
+        },
+        "keyAccentLanguage": "dhali_gaurnagar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bakarganj",
+        "location": {
+          "lat": 22.55,
+          "lng": 90.35
+        },
+        "keyAccentLanguage": "bakarganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lalmohan",
+        "location": {
+          "lat": 22.317,
+          "lng": 90.717
+        },
+        "keyAccentLanguage": "lalmohan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Niamati",
+        "location": {
+          "lat": 22.483,
+          "lng": 90.217
+        },
+        "keyAccentLanguage": "niamati"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sialghuni",
+        "location": {
+          "lat": 22.55,
+          "lng": 90.448
+        },
+        "keyAccentLanguage": "sialghuni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sekherkati",
+        "location": {
+          "lat": 22.617,
+          "lng": 90.333
+        },
+        "keyAccentLanguage": "sekherkati"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ulania",
+        "location": {
+          "lat": 22.85,
+          "lng": 90.6
+        },
+        "keyAccentLanguage": "ulania"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gazaria",
+        "location": {
+          "lat": 22.633,
+          "lng": 90.65
+        },
+        "keyAccentLanguage": "gazaria"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kalaskati",
+        "location": {
+          "lat": 22.517,
+          "lng": 90.35
+        },
+        "keyAccentLanguage": "kalaskati"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chachar",
+        "location": {
+          "lat": 22.683,
+          "lng": 90.267
+        },
+        "keyAccentLanguage": "chachar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Patuakhali",
+        "location": {
+          "lat": 22.358,
+          "lng": 90.342
+        },
+        "keyAccentLanguage": "patuakhali"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jhalokati",
+        "location": {
+          "lat": 22.642,
+          "lng": 90.214
+        },
+        "keyAccentLanguage": "jhalokati"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ahuti Bhatra",
+        "location": {
+          "lat": 23.033,
+          "lng": 90.133
+        },
+        "keyAccentLanguage": "ahuti_bhatra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Padri Sibpur",
+        "location": {
+          "lat": 22.5,
+          "lng": 90.283
+        },
+        "keyAccentLanguage": "padri_sibpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adhuna",
+        "location": {
+          "lat": 22.917,
+          "lng": 90.3
+        },
+        "keyAccentLanguage": "adhuna"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jalabari",
+        "location": {
+          "lat": 22.683,
+          "lng": 90.1
+        },
+        "keyAccentLanguage": "jalabari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gazipur",
+        "location": {
+          "lat": 22.183,
+          "lng": 90.333
+        },
+        "keyAccentLanguage": "gazipur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mirzaganj",
+        "location": {
+          "lat": 22.35,
+          "lng": 90.233
+        },
+        "keyAccentLanguage": "mirzaganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kalisuri",
+        "location": {
+          "lat": 22.533,
+          "lng": 90.5
+        },
+        "keyAccentLanguage": "kalisuri"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kasipur",
+        "location": {
+          "lat": 22.85,
+          "lng": 90.567
+        },
+        "keyAccentLanguage": "kasipur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Birpasa",
+        "location": {
+          "lat": 22.467,
+          "lng": 90.483
+        },
+        "keyAccentLanguage": "birpasa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mirzakalu",
+        "location": {
+          "lat": 22.483,
+          "lng": 90.8
+        },
+        "keyAccentLanguage": "mirzakalu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Charamaddi",
+        "location": {
+          "lat": 22.633,
+          "lng": 90.433
+        },
+        "keyAccentLanguage": "charamaddi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Umedpur",
+        "location": {
+          "lat": 22.967,
+          "lng": 90.267
+        },
+        "keyAccentLanguage": "umedpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kanua",
+        "location": {
+          "lat": 22.469,
+          "lng": 90.057
+        },
+        "keyAccentLanguage": "kanua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Patukhali",
+        "location": {
+          "lat": 22.267,
+          "lng": 90.3
+        },
+        "keyAccentLanguage": "patukhali"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mathbaria",
+        "location": {
+          "lat": 22.3,
+          "lng": 89.95
+        },
+        "keyAccentLanguage": "mathbaria"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kakchira",
+        "location": {
+          "lat": 22.217,
+          "lng": 90.05
+        },
+        "keyAccentLanguage": "kakchira"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baga",
+        "location": {
+          "lat": 22.42,
+          "lng": 90.463
+        },
+        "keyAccentLanguage": "baga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Banaripara",
+        "location": {
+          "lat": 22.775,
+          "lng": 90.159
+        },
+        "keyAccentLanguage": "banaripara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Daulatkhan",
+        "location": {
+          "lat": 22.619,
+          "lng": 90.757
+        },
+        "keyAccentLanguage": "daulatkhan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Char Jagabandhu",
+        "location": {
+          "lat": 22.772,
+          "lng": 90.856
+        },
+        "keyAccentLanguage": "char_jagabandhu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Umedpur",
+        "location": {
+          "lat": 22.967,
+          "lng": 90.267
+        },
+        "keyAccentLanguage": "umedpur"
+      }
+    ],
+    "enNameLanguage": "Barisal",
+    "keyAccentLanguage": "barisal"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 22.356851,
+      "lng": 91.7831819
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Brahmanbaria",
+        "location": {
+          "lat": 23.9675393,
+          "lng": 91.1119148
+        },
+        "keyAccentLanguage": "brahmanbaria"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chakaria",
+        "location": {
+          "lat": 21.7619053,
+          "lng": 92.0775512
+        },
+        "keyAccentLanguage": "chakaria"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sandwip",
+        "location": {
+          "lat": 22.4851943,
+          "lng": 91.4555525
+        },
+        "keyAccentLanguage": "sandwip"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lakshmipur",
+        "location": {
+          "lat": 22.9454033,
+          "lng": 90.8341624
+        },
+        "keyAccentLanguage": "lakshmipur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chandura",
+        "location": {
+          "lat": 24.075,
+          "lng": 91.255
+        },
+        "keyAccentLanguage": "chandura"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barama",
+        "location": {
+          "lat": 22.183,
+          "lng": 91.983
+        },
+        "keyAccentLanguage": "barama"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adhunagar",
+        "location": {
+          "lat": 21.985,
+          "lng": 92.082
+        },
+        "keyAccentLanguage": "adhunagar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Badalkot",
+        "location": {
+          "lat": 23.083,
+          "lng": 90.967
+        },
+        "keyAccentLanguage": "badalkot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Badarkhali",
+        "location": {
+          "lat": 21.733,
+          "lng": 91.95
+        },
+        "keyAccentLanguage": "badarkhali"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ashuganj",
+        "location": {
+          "lat": 24.018,
+          "lng": 91.022
+        },
+        "keyAccentLanguage": "ashuganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Char Hazari",
+        "location": {
+          "lat": 22.845,
+          "lng": 91.311
+        },
+        "keyAccentLanguage": "char_hazari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Balakhal",
+        "location": {
+          "lat": 23.267,
+          "lng": 90.817
+        },
+        "keyAccentLanguage": "balakhal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bara Sahatali",
+        "location": {
+          "lat": 23.233,
+          "lng": 90.717
+        },
+        "keyAccentLanguage": "bara_sahatali"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Battali",
+        "location": {
+          "lat": 22.2,
+          "lng": 91.883
+        },
+        "keyAccentLanguage": "battali"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ariol",
+        "location": {
+          "lat": 24.068,
+          "lng": 91.113
+        },
+        "keyAccentLanguage": "ariol"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belaichari",
+        "location": {
+          "lat": 22.515,
+          "lng": 92.342
+        },
+        "keyAccentLanguage": "belaichari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bangori",
+        "location": {
+          "lat": 23.583,
+          "lng": 90.95
+        },
+        "keyAccentLanguage": "bangori"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akhaura",
+        "location": {
+          "lat": 23.864,
+          "lng": 91.2
+        },
+        "keyAccentLanguage": "akhaura"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dasgharia",
+        "location": {
+          "lat": 23.05,
+          "lng": 90.95
+        },
+        "keyAccentLanguage": "dasgharia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bilchhari",
+        "location": {
+          "lat": 21.784,
+          "lng": 92.199
+        },
+        "keyAccentLanguage": "bilchhari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amani Lakshmipur",
+        "location": {
+          "lat": 22.983,
+          "lng": 91
+        },
+        "keyAccentLanguage": "amani_lakshmipur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alayarpur",
+        "location": {
+          "lat": 22.95,
+          "lng": 91.3
+        },
+        "keyAccentLanguage": "alayarpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chandraghona",
+        "location": {
+          "lat": 22.47,
+          "lng": 92.134
+        },
+        "keyAccentLanguage": "chandraghona"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dakhinpara",
+        "location": {
+          "lat": 20.75,
+          "lng": 92.328
+        },
+        "keyAccentLanguage": "dakhinpara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bandarban",
+        "location": {
+          "lat": 22.166,
+          "lng": 92.182
+        },
+        "keyAccentLanguage": "bandarban"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amishapara",
+        "location": {
+          "lat": 23.017,
+          "lng": 91.05
+        },
+        "keyAccentLanguage": "amishapara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gangasagar",
+        "location": {
+          "lat": 23.833,
+          "lng": 91.217
+        },
+        "keyAccentLanguage": "gangasagar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gandamara",
+        "location": {
+          "lat": 23.067,
+          "lng": 90.683
+        },
+        "keyAccentLanguage": "gandamara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barura",
+        "location": {
+          "lat": 23.367,
+          "lng": 91.067
+        },
+        "keyAccentLanguage": "barura"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fulgazi",
+        "location": {
+          "lat": 23.167,
+          "lng": 91.433
+        },
+        "keyAccentLanguage": "fulgazi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hathazari Upazila",
+        "location": {
+          "lat": 22.5,
+          "lng": 91.807
+        },
+        "keyAccentLanguage": "hathazari_upazila"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dalta",
+        "location": {
+          "lat": 23.133,
+          "lng": 90.95
+        },
+        "keyAccentLanguage": "dalta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kasba",
+        "location": {
+          "lat": 23.739,
+          "lng": 91.148
+        },
+        "keyAccentLanguage": "kasba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chhilania",
+        "location": {
+          "lat": 22.967,
+          "lng": 91.45
+        },
+        "keyAccentLanguage": "chhilania"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chauddagram",
+        "location": {
+          "lat": 23.218,
+          "lng": 91.305
+        },
+        "keyAccentLanguage": "chauddagram"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Charandwip",
+        "location": {
+          "lat": 22.412,
+          "lng": 91.933
+        },
+        "keyAccentLanguage": "charandwip"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alipur",
+        "location": {
+          "lat": 23.083,
+          "lng": 90.9
+        },
+        "keyAccentLanguage": "alipur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Begumgonj",
+        "location": {
+          "lat": 22.94,
+          "lng": 91.118
+        },
+        "keyAccentLanguage": "begumgonj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dhum",
+        "location": {
+          "lat": 22.883,
+          "lng": 91.517
+        },
+        "keyAccentLanguage": "dhum"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Faridganj",
+        "location": {
+          "lat": 23.133,
+          "lng": 90.75
+        },
+        "keyAccentLanguage": "faridganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Laksham",
+        "location": {
+          "lat": 23.234,
+          "lng": 91.112
+        },
+        "keyAccentLanguage": "laksham"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bazra",
+        "location": {
+          "lat": 22.983,
+          "lng": 91.1
+        },
+        "keyAccentLanguage": "bazra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dattapara",
+        "location": {
+          "lat": 22.983,
+          "lng": 90.917
+        },
+        "keyAccentLanguage": "dattapara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gahira",
+        "location": {
+          "lat": 22.517,
+          "lng": 91.867
+        },
+        "keyAccentLanguage": "gahira"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chaumuhani",
+        "location": {
+          "lat": 22.933,
+          "lng": 91.117
+        },
+        "keyAccentLanguage": "chaumuhani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chengar Char",
+        "location": {
+          "lat": 22.215,
+          "lng": 91.058
+        },
+        "keyAccentLanguage": "chengar_char"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ramu",
+        "location": {
+          "lat": 21.428,
+          "lng": 92.104
+        },
+        "keyAccentLanguage": "ramu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Budhpura",
+        "location": {
+          "lat": 22.283,
+          "lng": 91.9
+        },
+        "keyAccentLanguage": "budhpura"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rangamati",
+        "location": {
+          "lat": 22.648,
+          "lng": 92.137
+        },
+        "keyAccentLanguage": "rangamati"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dhalua",
+        "location": {
+          "lat": 23.117,
+          "lng": 91.233
+        },
+        "keyAccentLanguage": "dhalua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fazilpur",
+        "location": {
+          "lat": 22.967,
+          "lng": 91.467
+        },
+        "keyAccentLanguage": "fazilpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Daudkandi",
+        "location": {
+          "lat": 23.539,
+          "lng": 90.721
+        },
+        "keyAccentLanguage": "daudkandi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Binajuri",
+        "location": {
+          "lat": 22.483,
+          "lng": 91.9
+        },
+        "keyAccentLanguage": "binajuri"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dhoom",
+        "location": {
+          "lat": 22.928,
+          "lng": 91.553
+        },
+        "keyAccentLanguage": "dhoom"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chandpur",
+        "location": {
+          "lat": 23.222,
+          "lng": 90.651
+        },
+        "keyAccentLanguage": "chandpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Parshuram",
+        "location": {
+          "lat": 23.2,
+          "lng": 91.467
+        },
+        "keyAccentLanguage": "parshuram"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Matlab Bazar",
+        "location": {
+          "lat": 23.346,
+          "lng": 90.711
+        },
+        "keyAccentLanguage": "matlab_bazar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chandina",
+        "location": {
+          "lat": 23.488,
+          "lng": 90.974
+        },
+        "keyAccentLanguage": "chandina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dhamti",
+        "location": {
+          "lat": 23.55,
+          "lng": 90.983
+        },
+        "keyAccentLanguage": "dhamti"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Khagrachari",
+        "location": {
+          "lat": 23.146,
+          "lng": 91.999
+        },
+        "keyAccentLanguage": "khagrachari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bipulashar",
+        "location": {
+          "lat": 23.083,
+          "lng": 91.1
+        },
+        "keyAccentLanguage": "bipulashar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Patiya",
+        "location": {
+          "lat": 22.3,
+          "lng": 91.967
+        },
+        "keyAccentLanguage": "patiya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Banigram",
+        "location": {
+          "lat": 22.132,
+          "lng": 91.918
+        },
+        "keyAccentLanguage": "banigram"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Durgapur",
+        "location": {
+          "lat": 22.95,
+          "lng": 91.15
+        },
+        "keyAccentLanguage": "durgapur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bilchari",
+        "location": {
+          "lat": 21.8,
+          "lng": 92.217
+        },
+        "keyAccentLanguage": "bilchari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antahapara",
+        "location": {
+          "lat": 22.288,
+          "lng": 92.289
+        },
+        "keyAccentLanguage": "antahapara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rangunia",
+        "location": {
+          "lat": 22.452,
+          "lng": 92.088
+        },
+        "keyAccentLanguage": "rangunia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Elliotganj",
+        "location": {
+          "lat": 23.509,
+          "lng": 90.873
+        },
+        "keyAccentLanguage": "elliotganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cox's Bazar",
+        "location": {
+          "lat": 21.429,
+          "lng": 91.995
+        },
+        "keyAccentLanguage": "cox's_bazar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baghaichhari",
+        "location": {
+          "lat": 23.367,
+          "lng": 92.067
+        },
+        "keyAccentLanguage": "baghaichhari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bhatiari",
+        "location": {
+          "lat": 22.417,
+          "lng": 91.75
+        },
+        "keyAccentLanguage": "bhatiari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chittagong",
+        "location": {
+          "lat": 22.33,
+          "lng": 91.825
+        },
+        "keyAccentLanguage": "chittagong"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Deuti",
+        "location": {
+          "lat": 23.033,
+          "lng": 91.033
+        },
+        "keyAccentLanguage": "deuti"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Daganbhulya",
+        "location": {
+          "lat": 22.93,
+          "lng": 91.287
+        },
+        "keyAccentLanguage": "daganbhulya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fatehpur",
+        "location": {
+          "lat": 22.583,
+          "lng": 91.883
+        },
+        "keyAccentLanguage": "fatehpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hajigonj",
+        "location": {
+          "lat": 23.248,
+          "lng": 90.876
+        },
+        "keyAccentLanguage": "hajigonj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Betbania",
+        "location": {
+          "lat": 22.55,
+          "lng": 92
+        },
+        "keyAccentLanguage": "betbania"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Maynamati",
+        "location": {
+          "lat": 23.472,
+          "lng": 91.122
+        },
+        "keyAccentLanguage": "maynamati"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bashurhat",
+        "location": {
+          "lat": 22.883,
+          "lng": 91.283
+        },
+        "keyAccentLanguage": "bashurhat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Feni",
+        "location": {
+          "lat": 22.992,
+          "lng": 91.39
+        },
+        "keyAccentLanguage": "feni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fatikohhari",
+        "location": {
+          "lat": 22.742,
+          "lng": 91.836
+        },
+        "keyAccentLanguage": "fatikohhari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Garduara",
+        "location": {
+          "lat": 22.5,
+          "lng": 91.867
+        },
+        "keyAccentLanguage": "garduara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chhagalnaya",
+        "location": {
+          "lat": 23.022,
+          "lng": 91.486
+        },
+        "keyAccentLanguage": "chhagalnaya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ramganj",
+        "location": {
+          "lat": 23.104,
+          "lng": 90.867
+        },
+        "keyAccentLanguage": "ramganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Noakhali",
+        "location": {
+          "lat": 22.893,
+          "lng": 91.134
+        },
+        "keyAccentLanguage": "noakhali"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ukhia",
+        "location": {
+          "lat": 21.242,
+          "lng": 92.14
+        },
+        "keyAccentLanguage": "ukhia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bhawanijibanpur",
+        "location": {
+          "lat": 22.9,
+          "lng": 91
+        },
+        "keyAccentLanguage": "bhawanijibanpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chitmanikarbaripara",
+        "location": {
+          "lat": 23.393,
+          "lng": 92.014
+        },
+        "keyAccentLanguage": "chitmanikarbaripara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dohazari",
+        "location": {
+          "lat": 22.167,
+          "lng": 92.067
+        },
+        "keyAccentLanguage": "dohazari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Debidwa",
+        "location": {
+          "lat": 23.636,
+          "lng": 90.968
+        },
+        "keyAccentLanguage": "debidwa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Azimpur",
+        "location": {
+          "lat": 22.85,
+          "lng": 91.5
+        },
+        "keyAccentLanguage": "azimpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sitakunda",
+        "location": {
+          "lat": 22.524,
+          "lng": 91.705
+        },
+        "keyAccentLanguage": "sitakunda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chitosi",
+        "location": {
+          "lat": 23.167,
+          "lng": 91
+        },
+        "keyAccentLanguage": "chitosi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gachhbaria",
+        "location": {
+          "lat": 22.2,
+          "lng": 92.017
+        },
+        "keyAccentLanguage": "gachhbaria"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Comilla",
+        "location": {
+          "lat": 23.456,
+          "lng": 91.182
+        },
+        "keyAccentLanguage": "comilla"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chunati",
+        "location": {
+          "lat": 21.967,
+          "lng": 92.067
+        },
+        "keyAccentLanguage": "chunati"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gopalpur",
+        "location": {
+          "lat": 22.9,
+          "lng": 91.217
+        },
+        "keyAccentLanguage": "gopalpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fatikchhari",
+        "location": {
+          "lat": 22.683,
+          "lng": 91.8
+        },
+        "keyAccentLanguage": "fatikchhari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Char Bansi",
+        "location": {
+          "lat": 22.961,
+          "lng": 90.708
+        },
+        "keyAccentLanguage": "char_bansi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Battali",
+        "location": {
+          "lat": 22.2,
+          "lng": 91.883
+        },
+        "keyAccentLanguage": "battali"
+      }
+    ],
+    "enNameLanguage": "Chittagong",
+    "keyAccentLanguage": "chittagong"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 23.810332,
+      "lng": 90.4125181
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baliakandi",
+        "location": {
+          "lat": 23.6346865,
+          "lng": 89.5474046
+        },
+        "keyAccentLanguage": "baliakandi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abdullapur",
+        "location": {
+          "lat": 24.3653528,
+          "lng": 91.1640968
+        },
+        "keyAccentLanguage": "abdullapur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arikhola",
+        "location": {
+          "lat": 23.9269079,
+          "lng": 90.55386279999999
+        },
+        "keyAccentLanguage": "arikhola"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jatrabari",
+        "location": {
+          "lat": 23.7106102,
+          "lng": 90.43490919999999
+        },
+        "keyAccentLanguage": "jatrabari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baradi",
+        "location": {
+          "lat": 23.6995011,
+          "lng": 90.6370005
+        },
+        "keyAccentLanguage": "baradi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Narsingdi",
+        "location": {
+          "lat": 23.9192671,
+          "lng": 90.7176492
+        },
+        "keyAccentLanguage": "narsingdi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Narayanganj",
+        "location": {
+          "lat": 23.6237764,
+          "lng": 90.50004039999999
+        },
+        "keyAccentLanguage": "narayanganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gopalpur",
+        "location": {
+          "lat": 24.5628538,
+          "lng": 89.9276592
+        },
+        "keyAccentLanguage": "gopalpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kishoreganj",
+        "location": {
+          "lat": 24.4331227,
+          "lng": 90.7865655
+        },
+        "keyAccentLanguage": "kishoreganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dhaka",
+        "location": {
+          "lat": 23.810332,
+          "lng": 90.4125181
+        },
+        "keyAccentLanguage": "dhaka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baligaon",
+        "location": {
+          "lat": 23.4949379,
+          "lng": 90.40780579999999
+        },
+        "keyAccentLanguage": "baligaon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gouripur",
+        "location": {
+          "lat": 24.7547756,
+          "lng": 90.56833990000001
+        },
+        "keyAccentLanguage": "gouripur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Madhupur",
+        "location": {
+          "lat": 24.6118636,
+          "lng": 90.0314865
+        },
+        "keyAccentLanguage": "madhupur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Madaripur",
+        "location": {
+          "lat": 23.1648826,
+          "lng": 90.1939932
+        },
+        "keyAccentLanguage": "madaripur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Faridpur",
+        "location": {
+          "lat": 23.6018691,
+          "lng": 89.8333382
+        },
+        "keyAccentLanguage": "faridpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rajbari",
+        "location": {
+          "lat": 23.7638997,
+          "lng": 89.646737
+        },
+        "keyAccentLanguage": "rajbari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Manikganj",
+        "location": {
+          "lat": 23.8644225,
+          "lng": 90.004663
+        },
+        "keyAccentLanguage": "manikganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tangail",
+        "location": {
+          "lat": 24.2513451,
+          "lng": 89.9167104
+        },
+        "keyAccentLanguage": "tangail"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Munshiganj",
+        "location": {
+          "lat": 23.5421898,
+          "lng": 90.5305087
+        },
+        "keyAccentLanguage": "munshiganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gazipur",
+        "location": {
+          "lat": 23.9999405,
+          "lng": 90.4202724
+        },
+        "keyAccentLanguage": "gazipur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tongi",
+        "location": {
+          "lat": 23.889974,
+          "lng": 90.40734719999999
+        },
+        "keyAccentLanguage": "tongi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sherpur",
+        "location": {
+          "lat": 25.0194045,
+          "lng": 90.0137328
+        },
+        "keyAccentLanguage": "sherpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mymensingh",
+        "location": {
+          "lat": 24.7471492,
+          "lng": 90.4202734
+        },
+        "keyAccentLanguage": "mymensingh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gopalganj",
+        "location": {
+          "lat": 23.0130139,
+          "lng": 89.8224054
+        },
+        "keyAccentLanguage": "gopalganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Savar",
+        "location": {
+          "lat": 23.7932126,
+          "lng": 90.2713349
+        },
+        "keyAccentLanguage": "savar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mirzapur",
+        "location": {
+          "lat": 24.1050107,
+          "lng": 90.10475869999999
+        },
+        "keyAccentLanguage": "mirzapur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belabo",
+        "location": {
+          "lat": 24.1,
+          "lng": 90.867
+        },
+        "keyAccentLanguage": "belabo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baira",
+        "location": {
+          "lat": 23.821,
+          "lng": 90.088
+        },
+        "keyAccentLanguage": "baira"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Atharabari",
+        "location": {
+          "lat": 24.631,
+          "lng": 90.716
+        },
+        "keyAccentLanguage": "atharabari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dewanganj",
+        "location": {
+          "lat": 25.15,
+          "lng": 89.767
+        },
+        "keyAccentLanguage": "dewanganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Atpara",
+        "location": {
+          "lat": 24.8,
+          "lng": 90.867
+        },
+        "keyAccentLanguage": "atpara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Basail",
+        "location": {
+          "lat": 23.867,
+          "lng": 89.783
+        },
+        "keyAccentLanguage": "basail"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Astagram",
+        "location": {
+          "lat": 24.275,
+          "lng": 91.114
+        },
+        "keyAccentLanguage": "astagram"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akhasri",
+        "location": {
+          "lat": 24.7,
+          "lng": 90.967
+        },
+        "keyAccentLanguage": "akhasri"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ati",
+        "location": {
+          "lat": 23.7,
+          "lng": 90.5
+        },
+        "keyAccentLanguage": "ati"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bangali",
+        "location": {
+          "lat": 24.783,
+          "lng": 89.867
+        },
+        "keyAccentLanguage": "bangali"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Char Sindur",
+        "location": {
+          "lat": 24.017,
+          "lng": 90.667
+        },
+        "keyAccentLanguage": "char_sindur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agla",
+        "location": {
+          "lat": 23.883,
+          "lng": 90.567
+        },
+        "keyAccentLanguage": "agla"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ashulia",
+        "location": {
+          "lat": 23.833,
+          "lng": 90.333
+        },
+        "keyAccentLanguage": "ashulia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baranagar",
+        "location": {
+          "lat": 23.633,
+          "lng": 90.583
+        },
+        "keyAccentLanguage": "baranagar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bhagyakul",
+        "location": {
+          "lat": 23.5,
+          "lng": 90.221
+        },
+        "keyAccentLanguage": "bhagyakul"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Haluaghat",
+        "location": {
+          "lat": 25.117,
+          "lng": 90.336
+        },
+        "keyAccentLanguage": "haluaghat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Char Maguria",
+        "location": {
+          "lat": 23.183,
+          "lng": 90.183
+        },
+        "keyAccentLanguage": "char_maguria"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Muktagacha",
+        "location": {
+          "lat": 24.757,
+          "lng": 90.25
+        },
+        "keyAccentLanguage": "muktagacha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Netrokona",
+        "location": {
+          "lat": 24.886,
+          "lng": 90.729
+        },
+        "keyAccentLanguage": "netrokona"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barami",
+        "location": {
+          "lat": 24.233,
+          "lng": 90.517
+        },
+        "keyAccentLanguage": "barami"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baliati",
+        "location": {
+          "lat": 23.983,
+          "lng": 90.05
+        },
+        "keyAccentLanguage": "baliati"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nalitabari",
+        "location": {
+          "lat": 25.09,
+          "lng": 90.195
+        },
+        "keyAccentLanguage": "nalitabari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barthi",
+        "location": {
+          "lat": 23.043,
+          "lng": 90.213
+        },
+        "keyAccentLanguage": "barthi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Madarganj",
+        "location": {
+          "lat": 24.883,
+          "lng": 89.7
+        },
+        "keyAccentLanguage": "madarganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chhota Gajara",
+        "location": {
+          "lat": 24.239,
+          "lng": 90.827
+        },
+        "keyAccentLanguage": "chhota_gajara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baidyer Bazar",
+        "location": {
+          "lat": 23.65,
+          "lng": 90.617
+        },
+        "keyAccentLanguage": "baidyer_bazar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chikandi",
+        "location": {
+          "lat": 23.267,
+          "lng": 90.317
+        },
+        "keyAccentLanguage": "chikandi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beltia Balia",
+        "location": {
+          "lat": 24.967,
+          "lng": 90.417
+        },
+        "keyAccentLanguage": "beltia_balia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nandail",
+        "location": {
+          "lat": 24.574,
+          "lng": 90.681
+        },
+        "keyAccentLanguage": "nandail"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bailar",
+        "location": {
+          "lat": 24.629,
+          "lng": 90.411
+        },
+        "keyAccentLanguage": "bailar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kalkini",
+        "location": {
+          "lat": 23.1,
+          "lng": 90.267
+        },
+        "keyAccentLanguage": "kalkini"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Itna",
+        "location": {
+          "lat": 23.983,
+          "lng": 90.783
+        },
+        "keyAccentLanguage": "itna"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chhaysuti",
+        "location": {
+          "lat": 24.1,
+          "lng": 90.917
+        },
+        "keyAccentLanguage": "chhaysuti"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Naria",
+        "location": {
+          "lat": 23.301,
+          "lng": 90.415
+        },
+        "keyAccentLanguage": "naria"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bhatiapara",
+        "location": {
+          "lat": 23.209,
+          "lng": 89.708
+        },
+        "keyAccentLanguage": "bhatiapara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sarishabari",
+        "location": {
+          "lat": 24.733,
+          "lng": 89.833
+        },
+        "keyAccentLanguage": "sarishabari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Karimganj",
+        "location": {
+          "lat": 24.46,
+          "lng": 90.867
+        },
+        "keyAccentLanguage": "karimganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bishnupur",
+        "location": {
+          "lat": 24.549,
+          "lng": 90.489
+        },
+        "keyAccentLanguage": "bishnupur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Balakandi",
+        "location": {
+          "lat": 23.39,
+          "lng": 90.168
+        },
+        "keyAccentLanguage": "balakandi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bera",
+        "location": {
+          "lat": 24.056,
+          "lng": 89.66
+        },
+        "keyAccentLanguage": "bera"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pangsa",
+        "location": {
+          "lat": 23.784,
+          "lng": 89.433
+        },
+        "keyAccentLanguage": "pangsa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Roypura",
+        "location": {
+          "lat": 24.05,
+          "lng": 90.967
+        },
+        "keyAccentLanguage": "roypura"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gafargaon",
+        "location": {
+          "lat": 24.433,
+          "lng": 90.567
+        },
+        "keyAccentLanguage": "gafargaon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jamalpur",
+        "location": {
+          "lat": 24.928,
+          "lng": 89.948
+        },
+        "keyAccentLanguage": "jamalpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jogania",
+        "location": {
+          "lat": 23.01,
+          "lng": 89.775
+        },
+        "keyAccentLanguage": "jogania"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bajitpur",
+        "location": {
+          "lat": 24.209,
+          "lng": 90.939
+        },
+        "keyAccentLanguage": "bajitpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alfadanga",
+        "location": {
+          "lat": 23.3,
+          "lng": 89.7
+        },
+        "keyAccentLanguage": "alfadanga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mirkadim",
+        "location": {
+          "lat": 23.544,
+          "lng": 90.422
+        },
+        "keyAccentLanguage": "mirkadim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barhatta",
+        "location": {
+          "lat": 24.883,
+          "lng": 90.867
+        },
+        "keyAccentLanguage": "barhatta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Char Bhadrasan",
+        "location": {
+          "lat": 23.317,
+          "lng": 90.217
+        },
+        "keyAccentLanguage": "char_bhadrasan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Batikamari",
+        "location": {
+          "lat": 23.3,
+          "lng": 89.967
+        },
+        "keyAccentLanguage": "batikamari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barangail",
+        "location": {
+          "lat": 23.833,
+          "lng": 89.867
+        },
+        "keyAccentLanguage": "barangail"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aricha",
+        "location": {
+          "lat": 23.821,
+          "lng": 89.797
+        },
+        "keyAccentLanguage": "aricha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kalihati",
+        "location": {
+          "lat": 24.381,
+          "lng": 89.992
+        },
+        "keyAccentLanguage": "kalihati"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bhaluka",
+        "location": {
+          "lat": 24.402,
+          "lng": 90.388
+        },
+        "keyAccentLanguage": "bhaluka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baghra",
+        "location": {
+          "lat": 23.533,
+          "lng": 90.2
+        },
+        "keyAccentLanguage": "baghra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ghorasal",
+        "location": {
+          "lat": 23.933,
+          "lng": 90.633
+        },
+        "keyAccentLanguage": "ghorasal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bhairab Bazar",
+        "location": {
+          "lat": 24.05,
+          "lng": 90.974
+        },
+        "keyAccentLanguage": "bhairab_bazar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bara Chala",
+        "location": {
+          "lat": 24.204,
+          "lng": 90.238
+        },
+        "keyAccentLanguage": "bara_chala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Banani Model Town",
+        "location": {
+          "lat": 23.8,
+          "lng": 90.4
+        },
+        "keyAccentLanguage": "banani_model_town"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bahadurpur",
+        "location": {
+          "lat": 23.017,
+          "lng": 90.217
+        },
+        "keyAccentLanguage": "bahadurpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sakhipur",
+        "location": {
+          "lat": 24.3,
+          "lng": 90.183
+        },
+        "keyAccentLanguage": "sakhipur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arpara",
+        "location": {
+          "lat": 23.5,
+          "lng": 89.504
+        },
+        "keyAccentLanguage": "arpara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kaliakair",
+        "location": {
+          "lat": 24.065,
+          "lng": 90.211
+        },
+        "keyAccentLanguage": "kaliakair"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chandna",
+        "location": {
+          "lat": 23.983,
+          "lng": 90.4
+        },
+        "keyAccentLanguage": "chandna"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rainagar",
+        "location": {
+          "lat": 23.754,
+          "lng": 89.652
+        },
+        "keyAccentLanguage": "rainagar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gaurnadi",
+        "location": {
+          "lat": 22.97,
+          "lng": 90.231
+        },
+        "keyAccentLanguage": "gaurnadi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Islampur",
+        "location": {
+          "lat": 24.683,
+          "lng": 89.967
+        },
+        "keyAccentLanguage": "islampur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kendua",
+        "location": {
+          "lat": 24.667,
+          "lng": 90.867
+        },
+        "keyAccentLanguage": "kendua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bajrajogini",
+        "location": {
+          "lat": 23.533,
+          "lng": 90.483
+        },
+        "keyAccentLanguage": "bajrajogini"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Balla",
+        "location": {
+          "lat": 24.317,
+          "lng": 90.033
+        },
+        "keyAccentLanguage": "balla"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bhulta",
+        "location": {
+          "lat": 23.783,
+          "lng": 90.567
+        },
+        "keyAccentLanguage": "bhulta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bandar",
+        "location": {
+          "lat": 23.6,
+          "lng": 90.533
+        },
+        "keyAccentLanguage": "bandar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bhojeswar",
+        "location": {
+          "lat": 23.267,
+          "lng": 90.367
+        },
+        "keyAccentLanguage": "bhojeswar"
+      }
+    ],
+    "enNameLanguage": "Dhaka",
+    "keyAccentLanguage": "dhaka"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 22.845641,
+      "lng": 89.5403279
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Daulatpur",
+        "location": {
+          "lat": 22.8634453,
+          "lng": 89.5167298
+        },
+        "keyAccentLanguage": "daulatpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bajua",
+        "location": {
+          "lat": 22.553669,
+          "lng": 89.5450458
+        },
+        "keyAccentLanguage": "bajua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Daulatpur",
+        "location": {
+          "lat": 22.8634453,
+          "lng": 89.5167298
+        },
+        "keyAccentLanguage": "daulatpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amjhupi",
+        "location": {
+          "lat": 23.751784,
+          "lng": 88.68681389999999
+        },
+        "keyAccentLanguage": "amjhupi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jessore",
+        "location": {
+          "lat": 23.1777682,
+          "lng": 89.1801225
+        },
+        "keyAccentLanguage": "jessore"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bagerhat",
+        "location": {
+          "lat": 22.6554516,
+          "lng": 89.7661527
+        },
+        "keyAccentLanguage": "bagerhat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Daulatpur",
+        "location": {
+          "lat": 22.8634453,
+          "lng": 89.5167298
+        },
+        "keyAccentLanguage": "daulatpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chalna",
+        "location": {
+          "lat": 22.6071796,
+          "lng": 89.5025641
+        },
+        "keyAccentLanguage": "chalna"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Narail",
+        "location": {
+          "lat": 23.1656982,
+          "lng": 89.4990219
+        },
+        "keyAccentLanguage": "narail"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Khorda",
+        "location": {
+          "lat": 22.8373287,
+          "lng": 89.54004719999999
+        },
+        "keyAccentLanguage": "khorda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Satkhira",
+        "location": {
+          "lat": 22.7184852,
+          "lng": 89.07047659999999
+        },
+        "keyAccentLanguage": "satkhira"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chuadanga",
+        "location": {
+          "lat": 23.6417895,
+          "lng": 88.8577016
+        },
+        "keyAccentLanguage": "chuadanga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Meherpur",
+        "location": {
+          "lat": 23.7721263,
+          "lng": 88.631372
+        },
+        "keyAccentLanguage": "meherpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Paikgacha",
+        "location": {
+          "lat": 22.5930919,
+          "lng": 89.3167649
+        },
+        "keyAccentLanguage": "paikgacha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kushtia",
+        "location": {
+          "lat": 23.9087767,
+          "lng": 89.12198219999999
+        },
+        "keyAccentLanguage": "kushtia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Magura",
+        "location": {
+          "lat": 23.4854655,
+          "lng": 89.41983049999999
+        },
+        "keyAccentLanguage": "magura"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Garuikhali",
+        "location": {
+          "lat": 22.5,
+          "lng": 89.4
+        },
+        "keyAccentLanguage": "garuikhali"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Basundia",
+        "location": {
+          "lat": 23.117,
+          "lng": 89.383
+        },
+        "keyAccentLanguage": "basundia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fakirhat",
+        "location": {
+          "lat": 22.783,
+          "lng": 89.733
+        },
+        "keyAccentLanguage": "fakirhat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baitaghata",
+        "location": {
+          "lat": 22.734,
+          "lng": 89.53
+        },
+        "keyAccentLanguage": "baitaghata"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barakpur",
+        "location": {
+          "lat": 22.917,
+          "lng": 89.533
+        },
+        "keyAccentLanguage": "barakpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Binodepur",
+        "location": {
+          "lat": 23.433,
+          "lng": 89.5
+        },
+        "keyAccentLanguage": "binodepur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chuknagar",
+        "location": {
+          "lat": 22.833,
+          "lng": 89.3
+        },
+        "keyAccentLanguage": "chuknagar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gabura",
+        "location": {
+          "lat": 22.283,
+          "lng": 89.283
+        },
+        "keyAccentLanguage": "gabura"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kaliganj",
+        "location": {
+          "lat": 22.458,
+          "lng": 89.037
+        },
+        "keyAccentLanguage": "kaliganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kalaroa",
+        "location": {
+          "lat": 22.861,
+          "lng": 89.047
+        },
+        "keyAccentLanguage": "kalaroa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amadi",
+        "location": {
+          "lat": 22.479,
+          "lng": 89.265
+        },
+        "keyAccentLanguage": "amadi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nalta",
+        "location": {
+          "lat": 22.5,
+          "lng": 89.033
+        },
+        "keyAccentLanguage": "nalta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jhikergacha",
+        "location": {
+          "lat": 23.117,
+          "lng": 89.117
+        },
+        "keyAccentLanguage": "jhikergacha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hardih",
+        "location": {
+          "lat": 23.783,
+          "lng": 88.9
+        },
+        "keyAccentLanguage": "hardih"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kesabpur",
+        "location": {
+          "lat": 22.917,
+          "lng": 89.217
+        },
+        "keyAccentLanguage": "kesabpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bheramara",
+        "location": {
+          "lat": 24.016,
+          "lng": 88.971
+        },
+        "keyAccentLanguage": "bheramara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Naldanga",
+        "location": {
+          "lat": 23.433,
+          "lng": 89.183
+        },
+        "keyAccentLanguage": "naldanga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kasipur",
+        "location": {
+          "lat": 23.026,
+          "lng": 89.243
+        },
+        "keyAccentLanguage": "kasipur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mansa",
+        "location": {
+          "lat": 22.8,
+          "lng": 89.683
+        },
+        "keyAccentLanguage": "mansa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amla",
+        "location": {
+          "lat": 23.9,
+          "lng": 88.933
+        },
+        "keyAccentLanguage": "amla"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andulbaria",
+        "location": {
+          "lat": 23.478,
+          "lng": 88.873
+        },
+        "keyAccentLanguage": "andulbaria"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chandapur",
+        "location": {
+          "lat": 22.733,
+          "lng": 89.233
+        },
+        "keyAccentLanguage": "chandapur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Naoapara",
+        "location": {
+          "lat": 23.05,
+          "lng": 89.133
+        },
+        "keyAccentLanguage": "naoapara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abhaynagar",
+        "location": {
+          "lat": 23.013,
+          "lng": 89.456
+        },
+        "keyAccentLanguage": "abhaynagar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kalipara",
+        "location": {
+          "lat": 22.728,
+          "lng": 89.284
+        },
+        "keyAccentLanguage": "kalipara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ghoramara",
+        "location": {
+          "lat": 23.967,
+          "lng": 89.05
+        },
+        "keyAccentLanguage": "ghoramara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mungla",
+        "location": {
+          "lat": 22.284,
+          "lng": 89.52
+        },
+        "keyAccentLanguage": "mungla"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nakol",
+        "location": {
+          "lat": 23.55,
+          "lng": 89.483
+        },
+        "keyAccentLanguage": "nakol"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mahespur",
+        "location": {
+          "lat": 23.35,
+          "lng": 88.932
+        },
+        "keyAccentLanguage": "mahespur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Iswaripur",
+        "location": {
+          "lat": 22.309,
+          "lng": 89.125
+        },
+        "keyAccentLanguage": "iswaripur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nahata",
+        "location": {
+          "lat": 23.333,
+          "lng": 89.517
+        },
+        "keyAccentLanguage": "nahata"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baghachara",
+        "location": {
+          "lat": 22.967,
+          "lng": 88.967
+        },
+        "keyAccentLanguage": "baghachara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gadaipur",
+        "location": {
+          "lat": 22.633,
+          "lng": 89.317
+        },
+        "keyAccentLanguage": "gadaipur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Janipur",
+        "location": {
+          "lat": 23.8,
+          "lng": 89.281
+        },
+        "keyAccentLanguage": "janipur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Asasuni",
+        "location": {
+          "lat": 22.533,
+          "lng": 89.167
+        },
+        "keyAccentLanguage": "asasuni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mithapukhuria",
+        "location": {
+          "lat": 23.292,
+          "lng": 89.167
+        },
+        "keyAccentLanguage": "mithapukhuria"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nagarkandi",
+        "location": {
+          "lat": 22.883,
+          "lng": 89.733
+        },
+        "keyAccentLanguage": "nagarkandi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kalia",
+        "location": {
+          "lat": 23.05,
+          "lng": 89.633
+        },
+        "keyAccentLanguage": "kalia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nakipur Majat",
+        "location": {
+          "lat": 22.333,
+          "lng": 89.117
+        },
+        "keyAccentLanguage": "nakipur_majat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Haldibunia",
+        "location": {
+          "lat": 22.496,
+          "lng": 89.649
+        },
+        "keyAccentLanguage": "haldibunia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kapilmuni",
+        "location": {
+          "lat": 22.7,
+          "lng": 89.333
+        },
+        "keyAccentLanguage": "kapilmuni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Naral",
+        "location": {
+          "lat": 23.167,
+          "lng": 89.44
+        },
+        "keyAccentLanguage": "naral"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Panti",
+        "location": {
+          "lat": 23.767,
+          "lng": 89.217
+        },
+        "keyAccentLanguage": "panti"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nalian",
+        "location": {
+          "lat": 22.433,
+          "lng": 89.45
+        },
+        "keyAccentLanguage": "nalian"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dacope",
+        "location": {
+          "lat": 22.583,
+          "lng": 89.5
+        },
+        "keyAccentLanguage": "dacope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Khulna",
+        "location": {
+          "lat": 22.843,
+          "lng": 89.558
+        },
+        "keyAccentLanguage": "khulna"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nurnagar",
+        "location": {
+          "lat": 22.333,
+          "lng": 89.05
+        },
+        "keyAccentLanguage": "nurnagar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Noabanki",
+        "location": {
+          "lat": 22.35,
+          "lng": 89.2
+        },
+        "keyAccentLanguage": "noabanki"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Munshiganj",
+        "location": {
+          "lat": 23.717,
+          "lng": 88.917
+        },
+        "keyAccentLanguage": "munshiganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Natudaha",
+        "location": {
+          "lat": 23.641,
+          "lng": 88.685
+        },
+        "keyAccentLanguage": "natudaha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Madinar Abad",
+        "location": {
+          "lat": 22.35,
+          "lng": 89.283
+        },
+        "keyAccentLanguage": "madinar_abad"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Naldi",
+        "location": {
+          "lat": 23.267,
+          "lng": 89.55
+        },
+        "keyAccentLanguage": "naldi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Muhammadpur",
+        "location": {
+          "lat": 23.4,
+          "lng": 89.6
+        },
+        "keyAccentLanguage": "muhammadpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kumiradaha",
+        "location": {
+          "lat": 23.617,
+          "lng": 89.317
+        },
+        "keyAccentLanguage": "kumiradaha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Buri Goalini",
+        "location": {
+          "lat": 22.283,
+          "lng": 89.217
+        },
+        "keyAccentLanguage": "buri_goalini"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bakunda",
+        "location": {
+          "lat": 23.407,
+          "lng": 88.879
+        },
+        "keyAccentLanguage": "bakunda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jhaudanga",
+        "location": {
+          "lat": 22.817,
+          "lng": 89.05
+        },
+        "keyAccentLanguage": "jhaudanga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alamdanga",
+        "location": {
+          "lat": 23.758,
+          "lng": 88.953
+        },
+        "keyAccentLanguage": "alamdanga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barasat",
+        "location": {
+          "lat": 22.933,
+          "lng": 89.633
+        },
+        "keyAccentLanguage": "barasat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Churamankati",
+        "location": {
+          "lat": 23.233,
+          "lng": 89.15
+        },
+        "keyAccentLanguage": "churamankati"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Budhhata",
+        "location": {
+          "lat": 22.6,
+          "lng": 89.167
+        },
+        "keyAccentLanguage": "budhhata"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Darsana",
+        "location": {
+          "lat": 23.519,
+          "lng": 88.806
+        },
+        "keyAccentLanguage": "darsana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Benapol",
+        "location": {
+          "lat": 23.051,
+          "lng": 88.914
+        },
+        "keyAccentLanguage": "benapol"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chandkhali",
+        "location": {
+          "lat": 22.517,
+          "lng": 89.25
+        },
+        "keyAccentLanguage": "chandkhali"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Manirampur",
+        "location": {
+          "lat": 23.017,
+          "lng": 89.233
+        },
+        "keyAccentLanguage": "manirampur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lohagara",
+        "location": {
+          "lat": 23.195,
+          "lng": 89.67
+        },
+        "keyAccentLanguage": "lohagara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gazikhal",
+        "location": {
+          "lat": 23,
+          "lng": 89.567
+        },
+        "keyAccentLanguage": "gazikhal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alaipur",
+        "location": {
+          "lat": 22.833,
+          "lng": 89.633
+        },
+        "keyAccentLanguage": "alaipur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jhenida",
+        "location": {
+          "lat": 23.543,
+          "lng": 89.179
+        },
+        "keyAccentLanguage": "jhenida"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gaurambha",
+        "location": {
+          "lat": 22.65,
+          "lng": 89.567
+        },
+        "keyAccentLanguage": "gaurambha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Morrelganj",
+        "location": {
+          "lat": 22.467,
+          "lng": 89.85
+        },
+        "keyAccentLanguage": "morrelganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Phultala",
+        "location": {
+          "lat": 23.03,
+          "lng": 89.62
+        },
+        "keyAccentLanguage": "phultala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Katipara",
+        "location": {
+          "lat": 22.633,
+          "lng": 89.267
+        },
+        "keyAccentLanguage": "katipara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kumarkhali",
+        "location": {
+          "lat": 23.862,
+          "lng": 89.248
+        },
+        "keyAccentLanguage": "kumarkhali"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bardal",
+        "location": {
+          "lat": 22.517,
+          "lng": 89.233
+        },
+        "keyAccentLanguage": "bardal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mahatpur",
+        "location": {
+          "lat": 22.39,
+          "lng": 89.086
+        },
+        "keyAccentLanguage": "mahatpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jadabpur",
+        "location": {
+          "lat": 23.05,
+          "lng": 89
+        },
+        "keyAccentLanguage": "jadabpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dighalia",
+        "location": {
+          "lat": 23.117,
+          "lng": 89.65
+        },
+        "keyAccentLanguage": "dighalia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jagati",
+        "location": {
+          "lat": 23.9,
+          "lng": 89.1
+        },
+        "keyAccentLanguage": "jagati"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kapasdanga",
+        "location": {
+          "lat": 23.583,
+          "lng": 88.704
+        },
+        "keyAccentLanguage": "kapasdanga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mirpur",
+        "location": {
+          "lat": 23.933,
+          "lng": 88.983
+        },
+        "keyAccentLanguage": "mirpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gangni",
+        "location": {
+          "lat": 23.733,
+          "lng": 88.85
+        },
+        "keyAccentLanguage": "gangni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kaliganj",
+        "location": {
+          "lat": 22.458,
+          "lng": 89.037
+        },
+        "keyAccentLanguage": "kaliganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Trilochanpur",
+        "location": {
+          "lat": 23.408,
+          "lng": 89.022
+        },
+        "keyAccentLanguage": "trilochanpur"
+      }
+    ],
+    "enNameLanguage": "Khulna",
+    "keyAccentLanguage": "khulna"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 24.364,
+      "lng": 88.637
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gopalpur",
+        "location": {
+          "lat": 24.2031008,
+          "lng": 89.0012007
+        },
+        "keyAccentLanguage": "gopalpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gopalpur",
+        "location": {
+          "lat": 24.2031008,
+          "lng": 89.0012007
+        },
+        "keyAccentLanguage": "gopalpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Godagari",
+        "location": {
+          "lat": 24.4687379,
+          "lng": 88.4403883
+        },
+        "keyAccentLanguage": "godagari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Atraighat",
+        "location": {
+          "lat": 39.9428454,
+          "lng": -77.6423813
+        },
+        "keyAccentLanguage": "atraighat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Durgapur",
+        "location": {
+          "lat": 24.4479933,
+          "lng": 88.7686382
+        },
+        "keyAccentLanguage": "durgapur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Naogaon",
+        "location": {
+          "lat": 24.7936071,
+          "lng": 88.93180819999999
+        },
+        "keyAccentLanguage": "naogaon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arani",
+        "location": {
+          "lat": 24.2764752,
+          "lng": 88.8694951
+        },
+        "keyAccentLanguage": "arani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mohanpur",
+        "location": {
+          "lat": 24.544858,
+          "lng": 88.63619589999999
+        },
+        "keyAccentLanguage": "mohanpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Binodpur",
+        "location": {
+          "lat": 24.365984,
+          "lng": 88.6428279
+        },
+        "keyAccentLanguage": "binodpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mohanpur",
+        "location": {
+          "lat": 24.544858,
+          "lng": 88.63619589999999
+        },
+        "keyAccentLanguage": "mohanpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mohanpur",
+        "location": {
+          "lat": 24.544858,
+          "lng": 88.63619589999999
+        },
+        "keyAccentLanguage": "mohanpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mohanpur",
+        "location": {
+          "lat": 24.544858,
+          "lng": 88.63619589999999
+        },
+        "keyAccentLanguage": "mohanpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pabna",
+        "location": {
+          "lat": 24.0128563,
+          "lng": 89.2590572
+        },
+        "keyAccentLanguage": "pabna"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bholahat",
+        "location": {
+          "lat": 24.9456529,
+          "lng": 88.2278608
+        },
+        "keyAccentLanguage": "bholahat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mohanpur",
+        "location": {
+          "lat": 24.544858,
+          "lng": 88.63619589999999
+        },
+        "keyAccentLanguage": "mohanpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mohanpur",
+        "location": {
+          "lat": 24.544858,
+          "lng": 88.63619589999999
+        },
+        "keyAccentLanguage": "mohanpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mohanpur",
+        "location": {
+          "lat": 24.544858,
+          "lng": 88.63619589999999
+        },
+        "keyAccentLanguage": "mohanpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kansat",
+        "location": {
+          "lat": 24.7299057,
+          "lng": 88.17060470000001
+        },
+        "keyAccentLanguage": "kansat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Natore",
+        "location": {
+          "lat": 24.4079394,
+          "lng": 88.9748932
+        },
+        "keyAccentLanguage": "natore"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mohanpur",
+        "location": {
+          "lat": 24.544858,
+          "lng": 88.63619589999999
+        },
+        "keyAccentLanguage": "mohanpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mohanpur",
+        "location": {
+          "lat": 24.544858,
+          "lng": 88.63619589999999
+        },
+        "keyAccentLanguage": "mohanpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rohanpur",
+        "location": {
+          "lat": 24.8192293,
+          "lng": 88.3251456
+        },
+        "keyAccentLanguage": "rohanpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Puthia",
+        "location": {
+          "lat": 24.3638464,
+          "lng": 88.8366628
+        },
+        "keyAccentLanguage": "puthia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lalpur",
+        "location": {
+          "lat": 24.1833284,
+          "lng": 88.9567647
+        },
+        "keyAccentLanguage": "lalpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Singra",
+        "location": {
+          "lat": 24.4999846,
+          "lng": 89.1429216
+        },
+        "keyAccentLanguage": "singra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mohanpur",
+        "location": {
+          "lat": 24.544858,
+          "lng": 88.63619589999999
+        },
+        "keyAccentLanguage": "mohanpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Daluabari",
+        "location": {
+          "lat": 24.7211381,
+          "lng": 88.68253229999999
+        },
+        "keyAccentLanguage": "daluabari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kalai",
+        "location": {
+          "lat": 24.3746497,
+          "lng": 88.60036649999999
+        },
+        "keyAccentLanguage": "kalai"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akkelpur",
+        "location": {
+          "lat": 24.9692458,
+          "lng": 89.02032299999999
+        },
+        "keyAccentLanguage": "akkelpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bagbari",
+        "location": {
+          "lat": 24.7836298,
+          "lng": 89.4775658
+        },
+        "keyAccentLanguage": "bagbari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bajora",
+        "location": {
+          "lat": 24.3746497,
+          "lng": 88.60036649999999
+        },
+        "keyAccentLanguage": "bajora"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bhabaniganj",
+        "location": {
+          "lat": 24.5968867,
+          "lng": 88.8214984
+        },
+        "keyAccentLanguage": "bhabaniganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baidya Belgharia",
+        "location": {
+          "lat": 24.45,
+          "lng": 88.95
+        },
+        "keyAccentLanguage": "baidya_belgharia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hilli",
+        "location": {
+          "lat": 24.3746497,
+          "lng": 88.60036649999999
+        },
+        "keyAccentLanguage": "hilli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Faradpur",
+        "location": {
+          "lat": 24.382336,
+          "lng": 88.4137279
+        },
+        "keyAccentLanguage": "faradpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dighapatia",
+        "location": {
+          "lat": 24.4398361,
+          "lng": 89.01285299999999
+        },
+        "keyAccentLanguage": "dighapatia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bagatipara",
+        "location": {
+          "lat": 24.3024019,
+          "lng": 88.9641261
+        },
+        "keyAccentLanguage": "bagatipara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amnura",
+        "location": {
+          "lat": 24.6316503,
+          "lng": 88.40402910000002
+        },
+        "keyAccentLanguage": "amnura"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baze Gobindapur",
+        "location": {
+          "lat": 24.542721,
+          "lng": 88.381508
+        },
+        "keyAccentLanguage": "baze_gobindapur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bogra",
+        "location": {
+          "lat": 24.8525537,
+          "lng": 89.3730275
+        },
+        "keyAccentLanguage": "bogra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Manda",
+        "location": {
+          "lat": 24.3746497,
+          "lng": 88.60036649999999
+        },
+        "keyAccentLanguage": "manda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Paksey",
+        "location": {
+          "lat": 24.3746497,
+          "lng": 88.60036649999999
+        },
+        "keyAccentLanguage": "paksey"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chandanbaisa",
+        "location": {
+          "lat": 24.3746497,
+          "lng": 88.60036649999999
+        },
+        "keyAccentLanguage": "chandanbaisa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Atura",
+        "location": {
+          "lat": 24.3746497,
+          "lng": 88.60036649999999
+        },
+        "keyAccentLanguage": "atura"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pingha",
+        "location": {
+          "lat": 24.3746497,
+          "lng": 88.60036649999999
+        },
+        "keyAccentLanguage": "pingha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lakshmanhati",
+        "location": {
+          "lat": 24.3746497,
+          "lng": 88.60036649999999
+        },
+        "keyAccentLanguage": "lakshmanhati"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nachol",
+        "location": {
+          "lat": 24.7326602,
+          "lng": 88.4137279
+        },
+        "keyAccentLanguage": "nachol"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belkuchi",
+        "location": {
+          "lat": 24.2952157,
+          "lng": 89.6980719
+        },
+        "keyAccentLanguage": "belkuchi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Madhail",
+        "location": {
+          "lat": 24.3746497,
+          "lng": 88.60036649999999
+        },
+        "keyAccentLanguage": "madhail"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Atgharia",
+        "location": {
+          "lat": 24.1133405,
+          "lng": 89.2431498
+        },
+        "keyAccentLanguage": "atgharia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abdulpur",
+        "location": {
+          "lat": 24.2601019,
+          "lng": 88.9724545
+        },
+        "keyAccentLanguage": "abdulpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kasipur",
+        "location": {
+          "lat": 24.3746497,
+          "lng": 88.60036649999999
+        },
+        "keyAccentLanguage": "kasipur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rajshahi",
+        "location": {
+          "lat": 24.3746497,
+          "lng": 88.60036649999999
+        },
+        "keyAccentLanguage": "rajshahi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abudia",
+        "location": {
+          "lat": 24.533333,
+          "lng": 89.55
+        },
+        "keyAccentLanguage": "abudia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chandaikona",
+        "location": {
+          "lat": 24.5527848,
+          "lng": 89.50414669999999
+        },
+        "keyAccentLanguage": "chandaikona"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sherpur",
+        "location": {
+          "lat": 24.6597515,
+          "lng": 89.4221967
+        },
+        "keyAccentLanguage": "sherpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dupchanchia",
+        "location": {
+          "lat": 24.8812002,
+          "lng": 89.17774200000001
+        },
+        "keyAccentLanguage": "dupchanchia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kashinathpur",
+        "location": {
+          "lat": 23.9620721,
+          "lng": 89.6086828
+        },
+        "keyAccentLanguage": "kashinathpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kabihar",
+        "location": {
+          "lat": 24.6574398,
+          "lng": 89.632226
+        },
+        "keyAccentLanguage": "kabihar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sirajganj",
+        "location": {
+          "lat": 24.4615545,
+          "lng": 89.7053442
+        },
+        "keyAccentLanguage": "sirajganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hemayatpur",
+        "location": {
+          "lat": 23.9870503,
+          "lng": 89.1610748
+        },
+        "keyAccentLanguage": "hemayatpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dhunat",
+        "location": {
+          "lat": 24.6779694,
+          "lng": 89.5403279
+        },
+        "keyAccentLanguage": "dhunat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ullapara",
+        "location": {
+          "lat": 24.3186567,
+          "lng": 89.5615542
+        },
+        "keyAccentLanguage": "ullapara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Raiganj",
+        "location": {
+          "lat": 24.5295216,
+          "lng": 89.5450458
+        },
+        "keyAccentLanguage": "raiganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rajapur",
+        "location": {
+          "lat": 24.1690284,
+          "lng": 89.14142249999999
+        },
+        "keyAccentLanguage": "rajapur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kazla",
+        "location": {
+          "lat": 24.3621793,
+          "lng": 88.632578
+        },
+        "keyAccentLanguage": "kazla"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Shibganj",
+        "location": {
+          "lat": 25.0005682,
+          "lng": 89.3203233
+        },
+        "keyAccentLanguage": "shibganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sagar Kandi",
+        "location": {
+          "lat": 23.8460993,
+          "lng": 89.6157473
+        },
+        "keyAccentLanguage": "sagar_kandi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gosainbari",
+        "location": {
+          "lat": 24.7395486,
+          "lng": 89.60184079999999
+        },
+        "keyAccentLanguage": "gosainbari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nawabganj",
+        "location": {
+          "lat": 24.5925382,
+          "lng": 88.2705204
+        },
+        "keyAccentLanguage": "nawabganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Joypurhat",
+        "location": {
+          "lat": 25.102406,
+          "lng": 89.0269453
+        },
+        "keyAccentLanguage": "joypurhat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Salanga",
+        "location": {
+          "lat": 24.4150531,
+          "lng": 89.50846709999999
+        },
+        "keyAccentLanguage": "salanga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Shahzadpur",
+        "location": {
+          "lat": 24.1746142,
+          "lng": 89.5957281
+        },
+        "keyAccentLanguage": "shahzadpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nasratpur",
+        "location": {
+          "lat": 24.83607,
+          "lng": 89.07047659999999
+        },
+        "keyAccentLanguage": "nasratpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rajarampur",
+        "location": {
+          "lat": 24.5374499,
+          "lng": 88.4815582
+        },
+        "keyAccentLanguage": "rajarampur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Porsha",
+        "location": {
+          "lat": 25.0078982,
+          "lng": 88.4925433
+        },
+        "keyAccentLanguage": "porsha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nagemra",
+        "location": {
+          "lat": 24.1135344,
+          "lng": 89.5450458
+        },
+        "keyAccentLanguage": "nagemra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gurudaspur",
+        "location": {
+          "lat": 24.368,
+          "lng": 89.244
+        },
+        "keyAccentLanguage": "gurudaspur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Matihar",
+        "location": {
+          "lat": 24.368,
+          "lng": 88.646
+        },
+        "keyAccentLanguage": "matihar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dulai",
+        "location": {
+          "lat": 23.96,
+          "lng": 89.59
+        },
+        "keyAccentLanguage": "dulai"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chhaihata",
+        "location": {
+          "lat": 24.819,
+          "lng": 89.51
+        },
+        "keyAccentLanguage": "chhaihata"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Santahar",
+        "location": {
+          "lat": 24.796,
+          "lng": 88.984
+        },
+        "keyAccentLanguage": "santahar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chatmohar",
+        "location": {
+          "lat": 24.227,
+          "lng": 89.3
+        },
+        "keyAccentLanguage": "chatmohar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Patnitala",
+        "location": {
+          "lat": 25.05,
+          "lng": 88.767
+        },
+        "keyAccentLanguage": "patnitala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Porjana",
+        "location": {
+          "lat": 24.15,
+          "lng": 89.65
+        },
+        "keyAccentLanguage": "porjana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Niamatpur",
+        "location": {
+          "lat": 24.833,
+          "lng": 88.567
+        },
+        "keyAccentLanguage": "niamatpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ganguria",
+        "location": {
+          "lat": 25.033,
+          "lng": 88.533
+        },
+        "keyAccentLanguage": "ganguria"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Naopara",
+        "location": {
+          "lat": 24.147,
+          "lng": 88.894
+        },
+        "keyAccentLanguage": "naopara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dayarampur",
+        "location": {
+          "lat": 24.283,
+          "lng": 89
+        },
+        "keyAccentLanguage": "dayarampur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ishurdi",
+        "location": {
+          "lat": 24.133,
+          "lng": 89.067
+        },
+        "keyAccentLanguage": "ishurdi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Raghabpur",
+        "location": {
+          "lat": 24.167,
+          "lng": 89.217
+        },
+        "keyAccentLanguage": "raghabpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Prasadpur",
+        "location": {
+          "lat": 24.767,
+          "lng": 88.717
+        },
+        "keyAccentLanguage": "prasadpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bad Malanchi",
+        "location": {
+          "lat": 24.833,
+          "lng": 88.633
+        },
+        "keyAccentLanguage": "bad_malanchi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dhamoirhat",
+        "location": {
+          "lat": 25.15,
+          "lng": 88.85
+        },
+        "keyAccentLanguage": "dhamoirhat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nagarbari",
+        "location": {
+          "lat": 23.894,
+          "lng": 89.664
+        },
+        "keyAccentLanguage": "nagarbari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mundamala",
+        "location": {
+          "lat": 24.6,
+          "lng": 88.483
+        },
+        "keyAccentLanguage": "mundamala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dakshin Mohanpur",
+        "location": {
+          "lat": 24.294,
+          "lng": 89.57
+        },
+        "keyAccentLanguage": "dakshin_mohanpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ramchandrapur",
+        "location": {
+          "lat": 24.417,
+          "lng": 88.667
+        },
+        "keyAccentLanguage": "ramchandrapur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Porsa",
+        "location": {
+          "lat": 25.033,
+          "lng": 88.45
+        },
+        "keyAccentLanguage": "porsa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Shibganj",
+        "location": {
+          "lat": 25.0005682,
+          "lng": 89.3203233
+        },
+        "keyAccentLanguage": "shibganj"
+      }
+    ],
+    "enNameLanguage": "Rajshahi",
+    "keyAccentLanguage": "rajshahi"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 25.7438916,
+      "lng": 89.275227
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Badarganj",
+        "location": {
+          "lat": 25.6539681,
+          "lng": 89.07047659999999
+        },
+        "keyAccentLanguage": "badarganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pirgacha",
+        "location": {
+          "lat": 25.657772,
+          "lng": 89.4055588
+        },
+        "keyAccentLanguage": "pirgacha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dinajpur",
+        "location": {
+          "lat": 25.6221009,
+          "lng": 88.6437649
+        },
+        "keyAccentLanguage": "dinajpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Saidpur",
+        "location": {
+          "lat": 25.7829542,
+          "lng": 88.8982666
+        },
+        "keyAccentLanguage": "saidpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Shaghatta",
+        "location": {
+          "lat": 25.7493938,
+          "lng": 89.26108649999999
+        },
+        "keyAccentLanguage": "shaghatta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bodeswari",
+        "location": {
+          "lat": 25.7493938,
+          "lng": 89.26108649999999
+        },
+        "keyAccentLanguage": "bodeswari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mithapukur",
+        "location": {
+          "lat": 25.5544164,
+          "lng": 89.27541570000001
+        },
+        "keyAccentLanguage": "mithapukur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nilphamari",
+        "location": {
+          "lat": 25.9362732,
+          "lng": 88.8407037
+        },
+        "keyAccentLanguage": "nilphamari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Panchagarh",
+        "location": {
+          "lat": 26.335376,
+          "lng": 88.551698
+        },
+        "keyAccentLanguage": "panchagarh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pirganj",
+        "location": {
+          "lat": 25.4362185,
+          "lng": 89.3132061
+        },
+        "keyAccentLanguage": "pirganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Thakurgaon",
+        "location": {
+          "lat": 26.0273645,
+          "lng": 88.4646107
+        },
+        "keyAccentLanguage": "thakurgaon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ulipur",
+        "location": {
+          "lat": 25.6564202,
+          "lng": 89.62045619999999
+        },
+        "keyAccentLanguage": "ulipur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lahiri",
+        "location": {
+          "lat": 25.7493938,
+          "lng": 89.26108649999999
+        },
+        "keyAccentLanguage": "lahiri"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abhiram",
+        "location": {
+          "lat": 25.81,
+          "lng": 89.2
+        },
+        "keyAccentLanguage": "abhiram"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alawakhawa",
+        "location": {
+          "lat": 25.7493938,
+          "lng": 89.26108649999999
+        },
+        "keyAccentLanguage": "alawakhawa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aptair",
+        "location": {
+          "lat": 25.7493938,
+          "lng": 89.26108649999999
+        },
+        "keyAccentLanguage": "aptair"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adalpur",
+        "location": {
+          "lat": 25.7493938,
+          "lng": 89.26108649999999
+        },
+        "keyAccentLanguage": "adalpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Naldanga",
+        "location": {
+          "lat": 25.4783246,
+          "lng": 89.4694913
+        },
+        "keyAccentLanguage": "naldanga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ashkarnagar",
+        "location": {
+          "lat": 25.7493938,
+          "lng": 89.26108649999999
+        },
+        "keyAccentLanguage": "ashkarnagar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baura",
+        "location": {
+          "lat": 26.2570607,
+          "lng": 89.0800227
+        },
+        "keyAccentLanguage": "baura"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bonarpara",
+        "location": {
+          "lat": 25.1614898,
+          "lng": 89.5285306
+        },
+        "keyAccentLanguage": "bonarpara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anantaram",
+        "location": {
+          "lat": 25.7493938,
+          "lng": 89.26108649999999
+        },
+        "keyAccentLanguage": "anantaram"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Badi",
+        "location": {
+          "lat": 25.7493938,
+          "lng": 89.26108649999999
+        },
+        "keyAccentLanguage": "badi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bhurungamari",
+        "location": {
+          "lat": 26.1089774,
+          "lng": 89.6698658
+        },
+        "keyAccentLanguage": "bhurungamari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Burimari",
+        "location": {
+          "lat": 26.3742163,
+          "lng": 88.9461748
+        },
+        "keyAccentLanguage": "burimari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dimla",
+        "location": {
+          "lat": 26.1439608,
+          "lng": 88.9509626
+        },
+        "keyAccentLanguage": "dimla"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Domar",
+        "location": {
+          "lat": 26.1016094,
+          "lng": 88.8214984
+        },
+        "keyAccentLanguage": "domar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Haripur",
+        "location": {
+          "lat": 25.834299,
+          "lng": 88.1243489
+        },
+        "keyAccentLanguage": "haripur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Badlagari",
+        "location": {
+          "lat": 25.356875,
+          "lng": 89.46712790000001
+        },
+        "keyAccentLanguage": "badlagari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Birganj",
+        "location": {
+          "lat": 25.8607706,
+          "lng": 88.65548609999999
+        },
+        "keyAccentLanguage": "birganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alam Biditar",
+        "location": {
+          "lat": 25.9174043,
+          "lng": 89.14893599999999
+        },
+        "keyAccentLanguage": "alam_biditar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bharatkhali",
+        "location": {
+          "lat": 25.1893969,
+          "lng": 89.5810836
+        },
+        "keyAccentLanguage": "bharatkhali"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rahumari",
+        "location": {
+          "lat": 25.7493938,
+          "lng": 89.26108649999999
+        },
+        "keyAccentLanguage": "rahumari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amrabari",
+        "location": {
+          "lat": 25.4841334,
+          "lng": 88.9527487
+        },
+        "keyAccentLanguage": "amrabari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aligaon",
+        "location": {
+          "lat": 25.166667,
+          "lng": 89.216667
+        },
+        "keyAccentLanguage": "aligaon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chilahati",
+        "location": {
+          "lat": 26.2446406,
+          "lng": 88.796278
+        },
+        "keyAccentLanguage": "chilahati"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ghoraghat",
+        "location": {
+          "lat": 25.2446833,
+          "lng": 89.28343799999999
+        },
+        "keyAccentLanguage": "ghoraghat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alakjhari",
+        "location": {
+          "lat": 25.9967568,
+          "lng": 88.72015080000001
+        },
+        "keyAccentLanguage": "alakjhari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baghachora",
+        "location": {
+          "lat": 25.7146792,
+          "lng": 88.88326409999999
+        },
+        "keyAccentLanguage": "baghachora"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Parbatipur",
+        "location": {
+          "lat": 25.6543901,
+          "lng": 88.9162387
+        },
+        "keyAccentLanguage": "parbatipur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abjalpur",
+        "location": {
+          "lat": 25.6208872,
+          "lng": 89.2360234
+        },
+        "keyAccentLanguage": "abjalpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amadpur",
+        "location": {
+          "lat": 25.4897991,
+          "lng": 89.37484590000001
+        },
+        "keyAccentLanguage": "amadpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amgaon",
+        "location": {
+          "lat": 25.7493938,
+          "lng": 89.26108649999999
+        },
+        "keyAccentLanguage": "amgaon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bahar Kachhna",
+        "location": {
+          "lat": 25.7602039,
+          "lng": 89.283538
+        },
+        "keyAccentLanguage": "bahar_kachhna"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sonahat",
+        "location": {
+          "lat": 25.7493938,
+          "lng": 89.26108649999999
+        },
+        "keyAccentLanguage": "sonahat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ranisankail",
+        "location": {
+          "lat": 25.8920465,
+          "lng": 88.2582857
+        },
+        "keyAccentLanguage": "ranisankail"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rangpur",
+        "location": {
+          "lat": 25.7493938,
+          "lng": 89.26108649999999
+        },
+        "keyAccentLanguage": "rangpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gobindganj",
+        "location": {
+          "lat": 25.1373337,
+          "lng": 89.38691000000001
+        },
+        "keyAccentLanguage": "gobindganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hili",
+        "location": {
+          "lat": 25.7493938,
+          "lng": 89.26108649999999
+        },
+        "keyAccentLanguage": "hili"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chilmari",
+        "location": {
+          "lat": 25.5810414,
+          "lng": 89.66163519999999
+        },
+        "keyAccentLanguage": "chilmari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fulbari",
+        "location": {
+          "lat": 25.4963019,
+          "lng": 88.9532744
+        },
+        "keyAccentLanguage": "fulbari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mahiganj",
+        "location": {
+          "lat": 25.7493938,
+          "lng": 89.26108649999999
+        },
+        "keyAccentLanguage": "mahiganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pandul",
+        "location": {
+          "lat": 25.7155555,
+          "lng": 89.6016171
+        },
+        "keyAccentLanguage": "pandul"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Atharpaika",
+        "location": {
+          "lat": 25.7127766,
+          "lng": 89.6745683
+        },
+        "keyAccentLanguage": "atharpaika"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sadullapur",
+        "location": {
+          "lat": 25.3909385,
+          "lng": 89.46594619999999
+        },
+        "keyAccentLanguage": "sadullapur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Patgram",
+        "location": {
+          "lat": 26.3569512,
+          "lng": 89.0083726
+        },
+        "keyAccentLanguage": "patgram"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Osmanpur",
+        "location": {
+          "lat": 25.6154481,
+          "lng": 89.0633155
+        },
+        "keyAccentLanguage": "osmanpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Raniganj",
+        "location": {
+          "lat": 25.7493938,
+          "lng": 89.26108649999999
+        },
+        "keyAccentLanguage": "raniganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arjunmisra",
+        "location": {
+          "lat": 25.783333,
+          "lng": 89.566667
+        },
+        "keyAccentLanguage": "arjunmisra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kurigram",
+        "location": {
+          "lat": 25.8133074,
+          "lng": 89.64828849999999
+        },
+        "keyAccentLanguage": "kurigram"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abirerpara",
+        "location": {
+          "lat": 25.266667,
+          "lng": 89.25
+        },
+        "keyAccentLanguage": "abirerpara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tetulia",
+        "location": {
+          "lat": 26.4820491,
+          "lng": 88.350376
+        },
+        "keyAccentLanguage": "tetulia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lalmanir Hat",
+        "location": {
+          "lat": 25.916198,
+          "lng": 89.45058019999999
+        },
+        "keyAccentLanguage": "lalmanir_hat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kishoreganj",
+        "location": {
+          "lat": 25.7493938,
+          "lng": 89.26108649999999
+        },
+        "keyAccentLanguage": "kishoreganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tushbhandar",
+        "location": {
+          "lat": 25.9566269,
+          "lng": 89.237212
+        },
+        "keyAccentLanguage": "tushbhandar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nekmard",
+        "location": {
+          "lat": 25.9808308,
+          "lng": 88.26801720000002
+        },
+        "keyAccentLanguage": "nekmard"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Daudpur",
+        "location": {
+          "lat": 25.7493938,
+          "lng": 89.26108649999999
+        },
+        "keyAccentLanguage": "daudpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arazi Sahapur",
+        "location": {
+          "lat": 25.4085056,
+          "lng": 88.8946713
+        },
+        "keyAccentLanguage": "arazi_sahapur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bahagili",
+        "location": {
+          "lat": 25.8665193,
+          "lng": 89.0035915
+        },
+        "keyAccentLanguage": "bahagili"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amrulbari",
+        "location": {
+          "lat": 25.6892312,
+          "lng": 89.0322699
+        },
+        "keyAccentLanguage": "amrulbari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Padumsahar",
+        "location": {
+          "lat": 25.2000624,
+          "lng": 89.5403279
+        },
+        "keyAccentLanguage": "padumsahar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gaibanda",
+        "location": {
+          "lat": 25.328978,
+          "lng": 89.5415074
+        },
+        "keyAccentLanguage": "gaibanda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Phulbari",
+        "location": {
+          "lat": 25.4962932,
+          "lng": 88.9533563
+        },
+        "keyAccentLanguage": "phulbari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gopalpur",
+        "location": {
+          "lat": 25.5305051,
+          "lng": 89.2181911
+        },
+        "keyAccentLanguage": "gopalpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alokdihi",
+        "location": {
+          "lat": 25.75,
+          "lng": 88.817
+        },
+        "keyAccentLanguage": "alokdihi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akargaon",
+        "location": {
+          "lat": 25.667,
+          "lng": 88.467
+        },
+        "keyAccentLanguage": "akargaon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arazi Chinatuli",
+        "location": {
+          "lat": 25.833,
+          "lng": 89.45
+        },
+        "keyAccentLanguage": "arazi_chinatuli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aldadpur",
+        "location": {
+          "lat": 25.533,
+          "lng": 89.05
+        },
+        "keyAccentLanguage": "aldadpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arazi Maminpur",
+        "location": {
+          "lat": 25.767,
+          "lng": 89.15
+        },
+        "keyAccentLanguage": "arazi_maminpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Angarpara",
+        "location": {
+          "lat": 25.883,
+          "lng": 88.8
+        },
+        "keyAccentLanguage": "angarpara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Khengti",
+        "location": {
+          "lat": 26.417,
+          "lng": 88.942
+        },
+        "keyAccentLanguage": "khengti"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baguladangi",
+        "location": {
+          "lat": 26.1,
+          "lng": 88.583
+        },
+        "keyAccentLanguage": "baguladangi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kanchabari",
+        "location": {
+          "lat": 26.483,
+          "lng": 88.344
+        },
+        "keyAccentLanguage": "kanchabari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fulchharighat",
+        "location": {
+          "lat": 25.2,
+          "lng": 89.6
+        },
+        "keyAccentLanguage": "fulchharighat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ramchandrapara",
+        "location": {
+          "lat": 25.61,
+          "lng": 89.42
+        },
+        "keyAccentLanguage": "ramchandrapara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Shibganj",
+        "location": {
+          "lat": 26.002,
+          "lng": 88.406
+        },
+        "keyAccentLanguage": "shibganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akbarpur",
+        "location": {
+          "lat": 25.417,
+          "lng": 89.367
+        },
+        "keyAccentLanguage": "akbarpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baghdahara",
+        "location": {
+          "lat": 25.933,
+          "lng": 89.167
+        },
+        "keyAccentLanguage": "baghdahara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Palasbari",
+        "location": {
+          "lat": 25.28,
+          "lng": 89.359
+        },
+        "keyAccentLanguage": "palasbari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Daupur",
+        "location": {
+          "lat": 25.436,
+          "lng": 89.082
+        },
+        "keyAccentLanguage": "daupur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bhabanipur",
+        "location": {
+          "lat": 25.889,
+          "lng": 89.694
+        },
+        "keyAccentLanguage": "bhabanipur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ruhea",
+        "location": {
+          "lat": 26.169,
+          "lng": 88.41
+        },
+        "keyAccentLanguage": "ruhea"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sundarganj",
+        "location": {
+          "lat": 25.567,
+          "lng": 89.517
+        },
+        "keyAccentLanguage": "sundarganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bagulagari",
+        "location": {
+          "lat": 25.2,
+          "lng": 89.35
+        },
+        "keyAccentLanguage": "bagulagari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arjjunhar",
+        "location": {
+          "lat": 25.983,
+          "lng": 88.65
+        },
+        "keyAccentLanguage": "arjjunhar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nageswari",
+        "location": {
+          "lat": 25.967,
+          "lng": 89.717
+        },
+        "keyAccentLanguage": "nageswari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bailman Diarkhata",
+        "location": {
+          "lat": 25.536,
+          "lng": 89.71
+        },
+        "keyAccentLanguage": "bailman_diarkhata"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nunkhaun",
+        "location": {
+          "lat": 25.937,
+          "lng": 89.789
+        },
+        "keyAccentLanguage": "nunkhaun"
+      }
+    ],
+    "enNameLanguage": "Rangpur",
+    "keyAccentLanguage": "rangpur"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 24.8949294,
+      "lng": 91.8687063
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Habiganj",
+        "location": {
+          "lat": 24.3896201,
+          "lng": 91.4126221
+        },
+        "keyAccentLanguage": "habiganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jalalpur",
+        "location": {
+          "lat": 24.8200207,
+          "lng": 91.85988119999999
+        },
+        "keyAccentLanguage": "jalalpur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jaintiapur",
+        "location": {
+          "lat": 25.1349003,
+          "lng": 92.1223018
+        },
+        "keyAccentLanguage": "jaintiapur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Golapgonj",
+        "location": {
+          "lat": 24.8580629,
+          "lng": 92.01507579999999
+        },
+        "keyAccentLanguage": "golapgonj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kulaura",
+        "location": {
+          "lat": 24.5254644,
+          "lng": 92.0346665
+        },
+        "keyAccentLanguage": "kulaura"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dhakadakshin",
+        "location": {
+          "lat": 24.8080249,
+          "lng": 92.0414028
+        },
+        "keyAccentLanguage": "dhakadakshin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fenchuganj",
+        "location": {
+          "lat": 24.69583,
+          "lng": 91.944132
+        },
+        "keyAccentLanguage": "fenchuganj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Charkhai",
+        "location": {
+          "lat": 24.9181848,
+          "lng": 92.1695855
+        },
+        "keyAccentLanguage": "charkhai"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sadipur",
+        "location": {
+          "lat": 24.6424666,
+          "lng": 91.6930787
+        },
+        "keyAccentLanguage": "sadipur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jagannathpur",
+        "location": {
+          "lat": 24.7537103,
+          "lng": 91.55961169999999
+        },
+        "keyAccentLanguage": "jagannathpur"
+      }
+    ],
+    "enNameLanguage": "Sylhet",
+    "keyAccentLanguage": "sylhet"
+  }
+]

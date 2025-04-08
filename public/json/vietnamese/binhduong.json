@@ -1,0 +1,1008 @@
+{
+  "code": 0,
+  "type": "City",
+  "location": {
+    "lat": 11.1423834,
+    "lng": 106.6291304
+  },
+  "postalCode": "75000",
+  "keyAccentLanguage": "Binh_Duong",
+  "districtList": [
+    {
+      "code": 1,
+      "category": null,
+      "type": "City",
+      "viNameLanguage": "Thành phố Thủ Dầu Một",
+      "location": {
+        "lat": 10.9929842,
+        "lng": 106.6557073
+      },
+      "postalCode": "750001",
+      "keyAccentLanguage": "Thanh_pho_Thu_Dau_Mot",
+      "wards": [
+        {
+          "code": 2,
+          "type": "Ward",
+          "location": {
+            "lat": 10.9919559,
+            "lng": 106.6320777
+          },
+          "viNameLanguage": "Phường Chánh Mỹ",
+          "keyAccentLanguage": "Phuong_Chanh_My"
+        },
+        {
+          "code": 3,
+          "type": "Ward",
+          "location": {
+            "lat": 10.9674655,
+            "lng": 106.6579287
+          },
+          "viNameLanguage": "Phường Chánh Nghĩa",
+          "keyAccentLanguage": "Phuong_Chanh_Nghia"
+        },
+        {
+          "code": 4,
+          "type": "Ward",
+          "location": {
+            "lat": 11.0288573,
+            "lng": 106.6556575
+          },
+          "viNameLanguage": "Phường Định Hòa",
+          "keyAccentLanguage": "Phuong_Dinh_Hoa"
+        },
+        {
+          "code": 5,
+          "type": "Ward",
+          "location": {
+            "lat": 11.035643,
+            "lng": 106.6320777
+          },
+          "viNameLanguage": "Phường Hiệp An",
+          "keyAccentLanguage": "Phuong_Hiep_An"
+        },
+        {
+          "code": 6,
+          "type": "Ward",
+          "location": {
+            "lat": 10.9950892,
+            "lng": 106.6576172
+          },
+          "viNameLanguage": "Phường Hiệp Thành",
+          "keyAccentLanguage": "Phuong_Hiep_Thanh"
+        },
+        {
+          "code": 7,
+          "type": "Ward",
+          "location": {
+            "lat": 11.0722886,
+            "lng": 106.6796316
+          },
+          "viNameLanguage": "Phường Hòa Phú",
+          "keyAccentLanguage": "Phuong_Hoa_Phu"
+        },
+        {
+          "code": 8,
+          "type": "Ward",
+          "location": {
+            "lat": 10.9813312,
+            "lng": 106.6512361
+          },
+          "viNameLanguage": "Phường Phú Cường",
+          "keyAccentLanguage": "Phuong_Phu_Cuong"
+        },
+        {
+          "code": 9,
+          "type": "Ward",
+          "location": {
+            "lat": 10.9726115,
+            "lng": 106.685136
+          },
+          "viNameLanguage": "Phường Phú Hòa",
+          "keyAccentLanguage": "Phuong_Phu_Hoa"
+        },
+        {
+          "code": 10,
+          "type": "Ward",
+          "location": {
+            "lat": 10.9947737,
+            "lng": 106.67924
+          },
+          "viNameLanguage": "Phường Phú Lợi",
+          "keyAccentLanguage": "Phuong_Phu_Loi"
+        },
+        {
+          "code": 11,
+          "type": "Ward",
+          "location": {
+            "lat": 11.0137154,
+            "lng": 106.682188
+          },
+          "viNameLanguage": "Phường Phú Mỹ",
+          "keyAccentLanguage": "Phuong_Phu_My"
+        },
+        {
+          "code": 12,
+          "type": "Ward",
+          "location": {
+            "lat": 11.0301475,
+            "lng": 106.6925321
+          },
+          "viNameLanguage": "Phường Phú Tân",
+          "keyAccentLanguage": "Phuong_Phu_Tan"
+        },
+        {
+          "code": 13,
+          "type": "Ward",
+          "location": {
+            "lat": 10.9623573,
+            "lng": 106.6733441
+          },
+          "viNameLanguage": "Phường Phú Thọ",
+          "keyAccentLanguage": "Phuong_Phu_Tho"
+        },
+        {
+          "code": 14,
+          "type": "Ward",
+          "location": {
+            "lat": 11.0286064,
+            "lng": 106.6114474
+          },
+          "viNameLanguage": "Phường Tân An",
+          "keyAccentLanguage": "Phuong_Tan_An"
+        },
+        {
+          "code": 15,
+          "type": "Ward",
+          "location": {
+            "lat": 11.0083361,
+            "lng": 106.6320777
+          },
+          "viNameLanguage": "Phường Tương Bình Hiệp",
+          "keyAccentLanguage": "Phuong_Tuong_Binh_Hiep"
+        }
+      ]
+    },
+    {
+      "code": 26,
+      "category": null,
+      "type": "City",
+      "viNameLanguage": "Thành phố Dĩ An",
+      "location": {
+        "lat": 10.8964757,
+        "lng": 106.7527418
+      },
+      "postalCode": "750002",
+      "keyAccentLanguage": "Thanh_pho_Di_An",
+      "wards": [
+        {
+          "code": 26,
+          "type": "Ward",
+          "location": {
+            "lat": 10.8722543,
+            "lng": 106.7551185
+          },
+          "viNameLanguage": "Phường An Bình",
+          "keyAccentLanguage": "Phuong_An_Binh"
+        },
+        {
+          "code": 26,
+          "type": "Ward",
+          "location": {
+            "lat": 10.9067396,
+            "lng": 106.8019613
+          },
+          "viNameLanguage": "Phường Bình An",
+          "keyAccentLanguage": "Phuong_Binh_An"
+        },
+        {
+          "code": 26,
+          "type": "Ward",
+          "location": {
+            "lat": 10.8948307,
+            "lng": 106.8169909
+          },
+          "viNameLanguage": "Phường Bình Thắng",
+          "keyAccentLanguage": "Phuong_Binh_Thang"
+        },
+        {
+          "code": 26,
+          "type": "Ward",
+          "location": {
+            "lat": 10.8964635,
+            "lng": 106.7528204
+          },
+          "viNameLanguage": "Phường Dĩ An",
+          "keyAccentLanguage": "Phuong_Di_An"
+        },
+        {
+          "code": 26,
+          "type": "Ward",
+          "location": {
+            "lat": 10.8906827,
+            "lng": 106.7846345
+          },
+          "viNameLanguage": "Phường Đông Hòa",
+          "keyAccentLanguage": "Phuong_Dong_Hoa"
+        },
+        {
+          "code": 26,
+          "type": "Ward",
+          "location": {
+            "lat": 10.9422122,
+            "lng": 106.7553371
+          },
+          "viNameLanguage": "Phường Tân Bình",
+          "keyAccentLanguage": "Phuong_Tan_Binh"
+        },
+        {
+          "code": 26,
+          "type": "Ward",
+          "location": {
+            "lat": 10.9172919,
+            "lng": 106.7685897
+          },
+          "viNameLanguage": "Phường Tân Đông Hiệp",
+          "keyAccentLanguage": "Phuong_Tan_Dong_Hiep"
+        }
+      ]
+    },
+    {
+      "code": 26,
+      "category": null,
+      "type": "City",
+      "viNameLanguage": "Thành phố Thuận An",
+      "location": {
+        "lat": 10.924067,
+        "lng": 106.7130309
+      },
+      "postalCode": "750003",
+      "keyAccentLanguage": "Thanh_pho_Thuan_An",
+      "wards": [
+        {
+          "code": 26,
+          "type": "Ward",
+          "location": {
+            "lat": 10.9473331,
+            "lng": 106.7390231
+          },
+          "viNameLanguage": "Phường An Phú",
+          "keyAccentLanguage": "Phuong_An_Phu"
+        },
+        {
+          "code": 26,
+          "type": "Ward",
+          "location": {
+            "lat": 10.9507852,
+            "lng": 106.685136
+          },
+          "viNameLanguage": "Phường An Thạnh",
+          "keyAccentLanguage": "Phuong_An_Thanh"
+        },
+        {
+          "code": 26,
+          "type": "Ward",
+          "location": {
+            "lat": 10.9789783,
+            "lng": 106.7175669
+          },
+          "viNameLanguage": "Phường Bình Chuẩn",
+          "keyAccentLanguage": "Phuong_Binh_Chuan"
+        },
+        {
+          "code": 26,
+          "type": "Ward",
+          "location": {
+            "lat": 10.9058317,
+            "lng": 106.7306375
+          },
+          "viNameLanguage": "Phường Bình Hòa",
+          "keyAccentLanguage": "Phuong_Binh_Hoa"
+        },
+        {
+          "code": 26,
+          "type": "Ward",
+          "location": {
+            "lat": 10.9237502,
+            "lng": 106.6927548
+          },
+          "viNameLanguage": "Phường Bình Nhâm",
+          "keyAccentLanguage": "Phuong_Binh_Nham"
+        },
+        {
+          "code": 26,
+          "type": "Ward",
+          "location": {
+            "lat": 10.9408261,
+            "lng": 106.6925062
+          },
+          "viNameLanguage": "Phường Hưng Định",
+          "keyAccentLanguage": "Phuong_Hung_Dinh"
+        },
+        {
+          "code": 26,
+          "type": "Ward",
+          "location": {
+            "lat": 10.904865,
+            "lng": 106.6999563
+          },
+          "viNameLanguage": "Phường Lái Thiêu",
+          "keyAccentLanguage": "Phuong_Lai_Thieu"
+        },
+        {
+          "code": 26,
+          "type": "Ward",
+          "location": {
+            "lat": 10.9483194,
+            "lng": 106.721849
+          },
+          "viNameLanguage": "Phường Thuận Giao",
+          "keyAccentLanguage": "Phuong_Thuan_Giao"
+        },
+        {
+          "code": 26,
+          "type": "Ward",
+          "location": {
+            "lat": 10.8775941,
+            "lng": 106.6997752
+          },
+          "viNameLanguage": "Phường Vĩnh Phú",
+          "keyAccentLanguage": "Phuong_Vinh_Phu"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 10.9334564,
+            "lng": 106.66353
+          },
+          "viNameLanguage": "Xã An Sơn",
+          "keyAccentLanguage": "Xa_An_Son"
+        }
+      ]
+    },
+    {
+      "code": 26,
+      "category": null,
+      "type": "City",
+      "viNameLanguage": "Thành phố Tân Uyên",
+      "location": {
+        "lat": 11.049492,
+        "lng": 106.7576751
+      },
+      "postalCode": "750004",
+      "keyAccentLanguage": "Thanh_pho_Tan_Uyen",
+      "wards": [
+        {
+          "code": 26,
+          "type": "Ward",
+          "location": {
+            "lat": 11.1073524,
+            "lng": 106.7647475
+          },
+          "viNameLanguage": "Phường Hội Nghĩa",
+          "keyAccentLanguage": "Phuong_Hoi_Nghia"
+        },
+        {
+          "code": 26,
+          "type": "Ward",
+          "location": {
+            "lat": 11.0366901,
+            "lng": 106.7588494
+          },
+          "viNameLanguage": "Phường Khánh Bình",
+          "keyAccentLanguage": "Phuong_Khanh_Binh"
+        },
+        {
+          "code": 26,
+          "type": "Ward",
+          "location": {
+            "lat": 11.0676627,
+            "lng": 106.6939803
+          },
+          "viNameLanguage": "Phường Phú Chánh",
+          "keyAccentLanguage": "Phuong_Phu_Chanh"
+        },
+        {
+          "code": 26,
+          "type": "Ward",
+          "location": {
+            "lat": 11.0481776,
+            "lng": 106.7235593
+          },
+          "viNameLanguage": "Phường Tân Hiệp",
+          "keyAccentLanguage": "Phuong_Tan_Hiep"
+        },
+        {
+          "code": 26,
+          "type": "Ward",
+          "location": {
+            "lat": 11.0027074,
+            "lng": 106.7323097
+          },
+          "viNameLanguage": "Phường Tân Phước Khánh",
+          "keyAccentLanguage": "Phuong_Tan_Phuoc_Khanh"
+        },
+        {
+          "code": 26,
+          "type": "Ward",
+          "location": {
+            "lat": 11.0198235,
+            "lng": 106.7188901
+          },
+          "viNameLanguage": "Phường Tân Vĩnh Hiệp",
+          "keyAccentLanguage": "Phuong_Tan_Vinh_Hiep"
+        },
+        {
+          "code": 26,
+          "type": "Ward",
+          "location": {
+            "lat": 10.97618,
+            "lng": 106.7573658
+          },
+          "viNameLanguage": "Phường Thái Hòa",
+          "keyAccentLanguage": "Phuong_Thai_Hoa"
+        },
+        {
+          "code": 26,
+          "type": "Ward",
+          "location": {
+            "lat": 10.9969679,
+            "lng": 106.766607
+          },
+          "viNameLanguage": "Phường Thạnh Phước",
+          "keyAccentLanguage": "Phuong_Thanh_Phuoc"
+        },
+        {
+          "code": 26,
+          "type": "Ward",
+          "location": {
+            "lat": 11.0841596,
+            "lng": 106.7883416
+          },
+          "viNameLanguage": "Phường Uyên Hưng",
+          "keyAccentLanguage": "Phuong_Uyen_Hung"
+        },
+        {
+          "code": 26,
+          "type": "Ward",
+          "location": {
+            "lat": 11.1049057,
+            "lng": 106.71167
+          },
+          "viNameLanguage": "Phường Vĩnh Tân",
+          "keyAccentLanguage": "Phuong_Vinh_Tan"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.0398094,
+            "lng": 106.8001396
+          },
+          "viNameLanguage": "Xã Bạch Đằng",
+          "keyAccentLanguage": "Xa_Bach_Dang"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 10.9778896,
+            "lng": 106.7853922
+          },
+          "viNameLanguage": "Xã Thạnh Hội",
+          "keyAccentLanguage": "Xa_Thanh_Hoi"
+        }
+      ]
+    },
+    {
+      "code": 26,
+      "category": null,
+      "type": "City",
+      "viNameLanguage": "Thành phố Bến Cát",
+      "location": {
+        "lat": 11.1318361,
+        "lng": 106.6072897
+      },
+      "postalCode": "750005",
+      "keyAccentLanguage": "Thanh_pho_Ben_Cat",
+      "wards": [
+        {
+          "code": 26,
+          "type": "Ward",
+          "location": {
+            "lat": 11.1731896,
+            "lng": 106.6645007
+          },
+          "viNameLanguage": "Phường Chánh Phú Hòa",
+          "keyAccentLanguage": "Phuong_Chanh_Phu_Hoa"
+        },
+        {
+          "code": 26,
+          "type": "Ward",
+          "location": {
+            "lat": 11.1127106,
+            "lng": 106.6703963
+          },
+          "viNameLanguage": "Phường Hòa Lợi",
+          "keyAccentLanguage": "Phuong_Hoa_Loi"
+        },
+        {
+          "code": 26,
+          "type": "Ward",
+          "location": {
+            "lat": 11.1488534,
+            "lng": 106.6114474
+          },
+          "viNameLanguage": "Phường Mỹ Phước",
+          "keyAccentLanguage": "Phuong_My_Phuoc"
+        },
+        {
+          "code": 26,
+          "type": "Ward",
+          "location": {
+            "lat": 11.0600602,
+            "lng": 106.635025
+          },
+          "viNameLanguage": "Phường Tân Định",
+          "keyAccentLanguage": "Phuong_Tan_Dinh"
+        },
+        {
+          "code": 26,
+          "type": "Ward",
+          "location": {
+            "lat": 11.1044443,
+            "lng": 106.6232359
+          },
+          "viNameLanguage": "Phường Thới Hòa",
+          "keyAccentLanguage": "Phuong_Thoi_Hoa"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.1347757,
+            "lng": 106.5701927
+          },
+          "viNameLanguage": "Xã An Điền",
+          "keyAccentLanguage": "Xa_An_Dien"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.0901286,
+            "lng": 106.5442531
+          },
+          "viNameLanguage": "Xã An Tây",
+          "keyAccentLanguage": "Xa_An_Tay"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.062709,
+            "lng": 106.5878723
+          },
+          "viNameLanguage": "Xã Phú An",
+          "keyAccentLanguage": "Xa_Phu_An"
+        }
+      ]
+    },
+    {
+      "code": 26,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Bàu Bàng",
+      "location": {
+        "lat": 11.253164,
+        "lng": 106.6055534
+      },
+      "postalCode": "750006",
+      "keyAccentLanguage": "Huyen_Bau_Bang",
+      "wards": [
+        {
+          "code": 26,
+          "type": "Town",
+          "location": {
+            "lat": 11.3177777,
+            "lng": 106.6323132
+          },
+          "viNameLanguage": "Thị trấn Lai Uyên",
+          "keyAccentLanguage": "Thi_tran_Lai_Uyen"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.331881,
+            "lng": 106.5701927
+          },
+          "viNameLanguage": "Xã Cây Trường II",
+          "keyAccentLanguage": "Xa_Cay_Truong_II"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.2207419,
+            "lng": 106.6939803
+          },
+          "viNameLanguage": "Xã Hưng Hòa",
+          "keyAccentLanguage": "Xa_Hung_Hoa"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.1977549,
+            "lng": 106.6173415
+          },
+          "viNameLanguage": "Xã Lai Hưng",
+          "keyAccentLanguage": "Xa_Lai_Hung"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.17036,
+            "lng": 106.576826
+          },
+          "viNameLanguage": "Xã Long Nguyên",
+          "keyAccentLanguage": "Xa_Long_Nguyen"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.2607421,
+            "lng": 106.6645007
+          },
+          "viNameLanguage": "Xã Tân Hưng",
+          "keyAccentLanguage": "Xa_Tan_Hung"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.3569158,
+            "lng": 106.6114474
+          },
+          "viNameLanguage": "Xã Trừ Văn Thố",
+          "keyAccentLanguage": "Xa_Tru_Van_Tho"
+        }
+      ]
+    },
+    {
+      "code": 26,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Dầu Tiếng",
+      "location": {
+        "lat": 11.348909,
+        "lng": 106.4641459
+      },
+      "postalCode": "750007",
+      "keyAccentLanguage": "Huyen_Dau_Tieng",
+      "wards": [
+        {
+          "code": 26,
+          "type": "Town",
+          "location": {
+            "lat": 11.2672094,
+            "lng": 106.3675416
+          },
+          "viNameLanguage": "Thị trấn Dầu Tiếng",
+          "keyAccentLanguage": "Thi_tran_Dau_Tieng"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.204432,
+            "lng": 106.4994889
+          },
+          "viNameLanguage": "Xã An Lập",
+          "keyAccentLanguage": "Xa_An_Lap"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.3542662,
+            "lng": 106.3699271
+          },
+          "viNameLanguage": "Xã Định An",
+          "keyAccentLanguage": "Xa_Dinh_An"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.2960858,
+            "lng": 106.4288088
+          },
+          "viNameLanguage": "Xã Định Hiệp",
+          "keyAccentLanguage": "Xa_Dinh_Hiep"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.3439602,
+            "lng": 106.3581527
+          },
+          "viNameLanguage": "Xã Định Thành",
+          "keyAccentLanguage": "Xa_Dinh_Thanh"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.3359256,
+            "lng": 106.4994889
+          },
+          "viNameLanguage": "Xã Long Hòa",
+          "keyAccentLanguage": "Xa_Long_Hoa"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.2688173,
+            "lng": 106.5230542
+          },
+          "viNameLanguage": "Xã Long Tân",
+          "keyAccentLanguage": "Xa_Long_Tan"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.4703162,
+            "lng": 106.4523662
+          },
+          "viNameLanguage": "Xã Minh Hòa",
+          "keyAccentLanguage": "Xa_Minh_Hoa"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.3811463,
+            "lng": 106.4759262
+          },
+          "viNameLanguage": "Xã Minh Tân",
+          "keyAccentLanguage": "Xa_Minh_Tan"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.4223327,
+            "lng": 106.5230542
+          },
+          "viNameLanguage": "Xã Minh Thạnh",
+          "keyAccentLanguage": "Xa_Minh_Thanh"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.2316502,
+            "lng": 106.4052541
+          },
+          "viNameLanguage": "Xã Thanh An",
+          "keyAccentLanguage": "Xa_Thanh_An"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.1851859,
+            "lng": 106.4523662
+          },
+          "viNameLanguage": "Xã Thanh Tuyền",
+          "keyAccentLanguage": "Xa_Thanh_Tuyen"
+        }
+      ]
+    },
+    {
+      "code": 26,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Phú Giáo",
+      "location": {
+        "lat": 11.2655822,
+        "lng": 106.7706458
+      },
+      "postalCode": "750008",
+      "keyAccentLanguage": "Huyen_Phu_Giao",
+      "wards": [
+        {
+          "code": 26,
+          "type": "Town",
+          "location": {
+            "lat": 11.2882617,
+            "lng": 106.7930846
+          },
+          "viNameLanguage": "Thị trấn Phước Vĩnh",
+          "keyAccentLanguage": "Thi_tran_Phuoc_Vinh"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.3387926,
+            "lng": 106.8296372
+          },
+          "viNameLanguage": "Xã An Bình",
+          "keyAccentLanguage": "Xa_An_Binh"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.328873,
+            "lng": 106.7175669
+          },
+          "viNameLanguage": "Xã An Linh",
+          "keyAccentLanguage": "Xa_An_Linh"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.3521506,
+            "lng": 106.6939803
+          },
+          "viNameLanguage": "Xã An Long",
+          "keyAccentLanguage": "Xa_An_Long"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.234789,
+            "lng": 106.7352584
+          },
+          "viNameLanguage": "Xã Phước Hòa",
+          "keyAccentLanguage": "Xa_Phuoc_Hoa"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.3268238,
+            "lng": 106.7529514
+          },
+          "viNameLanguage": "Xã Tân Hiệp",
+          "keyAccentLanguage": "Xa_Tan_Hiep"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.2908786,
+            "lng": 106.9004472
+          },
+          "viNameLanguage": "Xã Tam Lập",
+          "keyAccentLanguage": "Xa_Tam_Lap"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.2539573,
+            "lng": 106.7824429
+          },
+          "viNameLanguage": "Xã Vĩnh Hòa",
+          "keyAccentLanguage": "Xa_Vinh_Hoa"
+        }
+      ]
+    },
+    {
+      "code": 26,
+      "category": null,
+      "type": "District",
+      "viNameLanguage": "Huyện Bắc Tân Uyên",
+      "location": {
+        "lat": 11.0923607,
+        "lng": 106.8327406
+      },
+      "postalCode": "750009",
+      "keyAccentLanguage": "Huyen_Bac_Tan_Uyen",
+      "wards": [
+        {
+          "code": 26,
+          "type": "Town",
+          "location": {
+            "lat": 11.1463369,
+            "lng": 106.8473377
+          },
+          "viNameLanguage": "Thị trấn Tân Thành",
+          "keyAccentLanguage": "Thi_tran_Tan_Thanh"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.1678058,
+            "lng": 106.7588494
+          },
+          "viNameLanguage": "Xã Bình Mỹ",
+          "keyAccentLanguage": "Xa_Binh_My"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.0937408,
+            "lng": 106.8349509
+          },
+          "viNameLanguage": "Xã Đất Cuốc",
+          "keyAccentLanguage": "Xa_Dat_Cuoc"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.1415802,
+            "lng": 106.9299579
+          },
+          "viNameLanguage": "Xã Hiếu Liêm",
+          "keyAccentLanguage": "Xa_Hieu_Liem"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.0587325,
+            "lng": 106.9230256
+          },
+          "viNameLanguage": "Xã Lạc An",
+          "keyAccentLanguage": "Xa_Lac_An"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.007064,
+            "lng": 106.8001396
+          },
+          "viNameLanguage": "Xã Tân Bình",
+          "keyAccentLanguage": "Xa_Tan_Binh"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.2047519,
+            "lng": 106.8768415
+          },
+          "viNameLanguage": "Xã Tân Định",
+          "keyAccentLanguage": "Xa_Tan_Dinh"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.4045179,
+            "lng": 106.8296372
+          },
+          "viNameLanguage": "Xã Tân Lập",
+          "keyAccentLanguage": "Xa_Tan_Lap"
+        },
+        {
+          "code": 26,
+          "type": "Commune",
+          "location": {
+            "lat": 11.0351108,
+            "lng": 106.8827427
+          },
+          "viNameLanguage": "Xã Thường Tân",
+          "keyAccentLanguage": "Xa_Thuong_Tan"
+        }
+      ]
+    }
+  ]
+}

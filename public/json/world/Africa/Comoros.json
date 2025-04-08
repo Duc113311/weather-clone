@@ -1,0 +1,2037 @@
+[
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -12.2138145,
+      "lng": 44.4370606
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mutsamudu",
+        "location": {
+          "lat": -12.1695811,
+          "lng": 44.40047
+        },
+        "keyAccentLanguage": "mutsamudu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Boungoueni",
+        "location": {
+          "lat": -12.206,
+          "lng": 44.299
+        },
+        "keyAccentLanguage": "boungoueni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chindrini",
+        "location": {
+          "lat": -12.317,
+          "lng": 44.463
+        },
+        "keyAccentLanguage": "chindrini"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bandamaji",
+        "location": {
+          "lat": -12.362,
+          "lng": 44.52
+        },
+        "keyAccentLanguage": "bandamaji"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Assimpao",
+        "location": {
+          "lat": -12.233,
+          "lng": 44.32
+        },
+        "keyAccentLanguage": "assimpao"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Koni-Ngani",
+        "location": {
+          "lat": -12.216,
+          "lng": 44.48
+        },
+        "keyAccentLanguage": "koni-ngani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adda-Doueni",
+        "location": {
+          "lat": -12.292,
+          "lng": 44.497
+        },
+        "keyAccentLanguage": "adda-doueni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hadongo",
+        "location": {
+          "lat": -12.236,
+          "lng": 44.331
+        },
+        "keyAccentLanguage": "hadongo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lamboue",
+        "location": {
+          "lat": -12.219,
+          "lng": 44.289
+        },
+        "keyAccentLanguage": "lamboue"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ajaho",
+        "location": {
+          "lat": -12.265,
+          "lng": 44.505
+        },
+        "keyAccentLanguage": "ajaho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ntakoudja",
+        "location": {
+          "lat": -12.169,
+          "lng": 44.223
+        },
+        "keyAccentLanguage": "ntakoudja"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mro Mouhouli",
+        "location": {
+          "lat": -12.225,
+          "lng": 44.303
+        },
+        "keyAccentLanguage": "mro_mouhouli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Choungoui",
+        "location": {
+          "lat": -12.252,
+          "lng": 44.397
+        },
+        "keyAccentLanguage": "choungoui"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mremani",
+        "location": {
+          "lat": -12.308,
+          "lng": 44.499
+        },
+        "keyAccentLanguage": "mremani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Koki",
+        "location": {
+          "lat": -12.171,
+          "lng": 44.442
+        },
+        "keyAccentLanguage": "koki"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nkozini",
+        "location": {
+          "lat": -12.289,
+          "lng": 44.439
+        },
+        "keyAccentLanguage": "nkozini"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Maoueni",
+        "location": {
+          "lat": -12.316,
+          "lng": 44.456
+        },
+        "keyAccentLanguage": "maoueni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kyo",
+        "location": {
+          "lat": -12.332,
+          "lng": 44.519
+        },
+        "keyAccentLanguage": "kyo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chitsangachele",
+        "location": {
+          "lat": -12.236,
+          "lng": 44.323
+        },
+        "keyAccentLanguage": "chitsangachele"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gnantranga",
+        "location": {
+          "lat": -12.136,
+          "lng": 44.439
+        },
+        "keyAccentLanguage": "gnantranga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jimilime",
+        "location": {
+          "lat": -12.094,
+          "lng": 44.464
+        },
+        "keyAccentLanguage": "jimilime"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chandra",
+        "location": {
+          "lat": -12.195,
+          "lng": 44.465
+        },
+        "keyAccentLanguage": "chandra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nounga",
+        "location": {
+          "lat": -12.346,
+          "lng": 44.503
+        },
+        "keyAccentLanguage": "nounga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Outsa",
+        "location": {
+          "lat": -12.279,
+          "lng": 44.498
+        },
+        "keyAccentLanguage": "outsa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Koue",
+        "location": {
+          "lat": -12.282,
+          "lng": 44.419
+        },
+        "keyAccentLanguage": "koue"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Longoni",
+        "location": {
+          "lat": -12.25,
+          "lng": 44.417
+        },
+        "keyAccentLanguage": "longoni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Banda Mtsanga",
+        "location": {
+          "lat": -12.077,
+          "lng": 44.481
+        },
+        "keyAccentLanguage": "banda_mtsanga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bouijou",
+        "location": {
+          "lat": -12.356,
+          "lng": 44.503
+        },
+        "keyAccentLanguage": "bouijou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bouejou",
+        "location": {
+          "lat": -12.349,
+          "lng": 44.512
+        },
+        "keyAccentLanguage": "bouejou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Imere",
+        "location": {
+          "lat": -12.236,
+          "lng": 44.368
+        },
+        "keyAccentLanguage": "imere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mirontsi",
+        "location": {
+          "lat": -12.157,
+          "lng": 44.408
+        },
+        "keyAccentLanguage": "mirontsi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bandani-Vouani",
+        "location": {
+          "lat": -12.245,
+          "lng": 44.386
+        },
+        "keyAccentLanguage": "bandani-vouani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Domoni",
+        "location": {
+          "lat": -12.286,
+          "lng": 44.5
+        },
+        "keyAccentLanguage": "domoni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ouani",
+        "location": {
+          "lat": -12.132,
+          "lng": 44.426
+        },
+        "keyAccentLanguage": "ouani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bazimini",
+        "location": {
+          "lat": -12.179,
+          "lng": 44.449
+        },
+        "keyAccentLanguage": "bazimini"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mouamoua",
+        "location": {
+          "lat": -12.18,
+          "lng": 44.378
+        },
+        "keyAccentLanguage": "mouamoua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dzindri Mtsangani",
+        "location": {
+          "lat": -12.235,
+          "lng": 44.362
+        },
+        "keyAccentLanguage": "dzindri_mtsangani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chironkamba",
+        "location": {
+          "lat": -12.191,
+          "lng": 44.353
+        },
+        "keyAccentLanguage": "chironkamba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Majouani",
+        "location": {
+          "lat": -12.186,
+          "lng": 44.275
+        },
+        "keyAccentLanguage": "majouani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hombo",
+        "location": {
+          "lat": -12.169,
+          "lng": 44.401
+        },
+        "keyAccentLanguage": "hombo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chitrouni",
+        "location": {
+          "lat": -12.186,
+          "lng": 44.336
+        },
+        "keyAccentLanguage": "chitrouni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kondroni",
+        "location": {
+          "lat": -12.169,
+          "lng": 44.447
+        },
+        "keyAccentLanguage": "kondroni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Moujimouvia",
+        "location": {
+          "lat": -12.174,
+          "lng": 44.388
+        },
+        "keyAccentLanguage": "moujimouvia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Marahare",
+        "location": {
+          "lat": -12.231,
+          "lng": 44.313
+        },
+        "keyAccentLanguage": "marahare"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ntsajou",
+        "location": {
+          "lat": -12.178,
+          "lng": 44.237
+        },
+        "keyAccentLanguage": "ntsajou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jandza",
+        "location": {
+          "lat": -12.299,
+          "lng": 44.497
+        },
+        "keyAccentLanguage": "jandza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chongochahari",
+        "location": {
+          "lat": -12.191,
+          "lng": 44.319
+        },
+        "keyAccentLanguage": "chongochahari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sima",
+        "location": {
+          "lat": -12.199,
+          "lng": 44.269
+        },
+        "keyAccentLanguage": "sima"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ongoni",
+        "location": {
+          "lat": -12.17,
+          "lng": 44.507
+        },
+        "keyAccentLanguage": "ongoni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mkirijou",
+        "location": {
+          "lat": -12.194,
+          "lng": 44.318
+        },
+        "keyAccentLanguage": "mkirijou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dzindri",
+        "location": {
+          "lat": -12.23,
+          "lng": 44.354
+        },
+        "keyAccentLanguage": "dzindri"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lingoni",
+        "location": {
+          "lat": -12.256,
+          "lng": 44.418
+        },
+        "keyAccentLanguage": "lingoni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Magnassini-Nindri",
+        "location": {
+          "lat": -12.278,
+          "lng": 44.416
+        },
+        "keyAccentLanguage": "magnassini-nindri"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dar Salam",
+        "location": {
+          "lat": -12.251,
+          "lng": 44.388
+        },
+        "keyAccentLanguage": "dar_salam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Moujou",
+        "location": {
+          "lat": -12.15,
+          "lng": 44.483
+        },
+        "keyAccentLanguage": "moujou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ndrangani",
+        "location": {
+          "lat": -12.119,
+          "lng": 44.494
+        },
+        "keyAccentLanguage": "ndrangani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Paje",
+        "location": {
+          "lat": -12.17,
+          "lng": 44.388
+        },
+        "keyAccentLanguage": "paje"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Limbi",
+        "location": {
+          "lat": -12.239,
+          "lng": 44.505
+        },
+        "keyAccentLanguage": "limbi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kangani",
+        "location": {
+          "lat": -12.312,
+          "lng": 44.475
+        },
+        "keyAccentLanguage": "kangani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Koni-Djodjo",
+        "location": {
+          "lat": -12.23,
+          "lng": 44.482
+        },
+        "keyAccentLanguage": "koni-djodjo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ntsazou",
+        "location": {
+          "lat": -12.167,
+          "lng": 44.25
+        },
+        "keyAccentLanguage": "ntsazou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Patsi",
+        "location": {
+          "lat": -12.156,
+          "lng": 44.437
+        },
+        "keyAccentLanguage": "patsi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mirondoni",
+        "location": {
+          "lat": -12.322,
+          "lng": 44.521
+        },
+        "keyAccentLanguage": "mirondoni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bambao",
+        "location": {
+          "lat": -12.203,
+          "lng": 44.507
+        },
+        "keyAccentLanguage": "bambao"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barakani",
+        "location": {
+          "lat": -12.136,
+          "lng": 44.432
+        },
+        "keyAccentLanguage": "barakani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Goungouamoue",
+        "location": {
+          "lat": -12.16,
+          "lng": 44.403
+        },
+        "keyAccentLanguage": "goungouamoue"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lamahale",
+        "location": {
+          "lat": -12.147,
+          "lng": 44.499
+        },
+        "keyAccentLanguage": "lamahale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antsahe",
+        "location": {
+          "lat": -12.356,
+          "lng": 44.522
+        },
+        "keyAccentLanguage": "antsahe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hajoho",
+        "location": {
+          "lat": -12.118,
+          "lng": 44.488
+        },
+        "keyAccentLanguage": "hajoho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mjamaoue",
+        "location": {
+          "lat": -12.194,
+          "lng": 44.31
+        },
+        "keyAccentLanguage": "mjamaoue"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mrijou",
+        "location": {
+          "lat": -12.332,
+          "lng": 44.493
+        },
+        "keyAccentLanguage": "mrijou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mjimandra",
+        "location": {
+          "lat": -12.192,
+          "lng": 44.37
+        },
+        "keyAccentLanguage": "mjimandra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bandani Mtsangani",
+        "location": {
+          "lat": -12.189,
+          "lng": 44.342
+        },
+        "keyAccentLanguage": "bandani_mtsangani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ongoujou",
+        "location": {
+          "lat": -12.31,
+          "lng": 44.514
+        },
+        "keyAccentLanguage": "ongoujou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mouroumouli",
+        "location": {
+          "lat": -12.2,
+          "lng": 44.317
+        },
+        "keyAccentLanguage": "mouroumouli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ankibani",
+        "location": {
+          "lat": -12.193,
+          "lng": 44.362
+        },
+        "keyAccentLanguage": "ankibani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Moya",
+        "location": {
+          "lat": -12.304,
+          "lng": 44.441
+        },
+        "keyAccentLanguage": "moya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mirongani",
+        "location": {
+          "lat": -12.191,
+          "lng": 44.252
+        },
+        "keyAccentLanguage": "mirongani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bandakouni",
+        "location": {
+          "lat": -12.313,
+          "lng": 44.496
+        },
+        "keyAccentLanguage": "bandakouni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dindi",
+        "location": {
+          "lat": -12.21,
+          "lng": 44.452
+        },
+        "keyAccentLanguage": "dindi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fombani",
+        "location": {
+          "lat": -12.183,
+          "lng": 44.3
+        },
+        "keyAccentLanguage": "fombani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bimbini",
+        "location": {
+          "lat": -12.188,
+          "lng": 44.236
+        },
+        "keyAccentLanguage": "bimbini"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hamamboua",
+        "location": {
+          "lat": -12.266,
+          "lng": 44.398
+        },
+        "keyAccentLanguage": "hamamboua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dziani",
+        "location": {
+          "lat": -12.183,
+          "lng": 44.483
+        },
+        "keyAccentLanguage": "dziani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bangouelamvouera",
+        "location": {
+          "lat": -12.171,
+          "lng": 44.226
+        },
+        "keyAccentLanguage": "bangouelamvouera"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jeje",
+        "location": {
+          "lat": -12.223,
+          "lng": 44.522
+        },
+        "keyAccentLanguage": "jeje"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kavani",
+        "location": {
+          "lat": -12.192,
+          "lng": 44.269
+        },
+        "keyAccentLanguage": "kavani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Marontronii",
+        "location": {
+          "lat": -12.239,
+          "lng": 44.367
+        },
+        "keyAccentLanguage": "marontronii"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mnazichoumoue",
+        "location": {
+          "lat": -12.342,
+          "lng": 44.502
+        },
+        "keyAccentLanguage": "mnazichoumoue"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Milembeni",
+        "location": {
+          "lat": -12.198,
+          "lng": 44.264
+        },
+        "keyAccentLanguage": "milembeni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mtsangamleni",
+        "location": {
+          "lat": -12.181,
+          "lng": 44.258
+        },
+        "keyAccentLanguage": "mtsangamleni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mitreni",
+        "location": {
+          "lat": -12.229,
+          "lng": 44.31
+        },
+        "keyAccentLanguage": "mitreni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Daji",
+        "location": {
+          "lat": -12.326,
+          "lng": 44.489
+        },
+        "keyAccentLanguage": "daji"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bandajou",
+        "location": {
+          "lat": -12.192,
+          "lng": 44.287
+        },
+        "keyAccentLanguage": "bandajou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Harembo",
+        "location": {
+          "lat": -12.144,
+          "lng": 44.498
+        },
+        "keyAccentLanguage": "harembo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ouzini",
+        "location": {
+          "lat": -12.267,
+          "lng": 44.48
+        },
+        "keyAccentLanguage": "ouzini"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mromagi",
+        "location": {
+          "lat": -12.204,
+          "lng": 44.511
+        },
+        "keyAccentLanguage": "mromagi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mboueladoungou",
+        "location": {
+          "lat": -12.274,
+          "lng": 44.526
+        },
+        "keyAccentLanguage": "mboueladoungou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mramani",
+        "location": {
+          "lat": -12.346,
+          "lng": 44.529
+        },
+        "keyAccentLanguage": "mramani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chaoueni",
+        "location": {
+          "lat": -12.351,
+          "lng": 44.502
+        },
+        "keyAccentLanguage": "chaoueni"
+      }
+    ],
+    "enNameLanguage": "Anjouan",
+    "keyAccentLanguage": "anjouan"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bandamadji",
+        "location": {
+          "lat": -11.892,
+          "lng": 43.461
+        },
+        "keyAccentLanguage": "bandamadji"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Foumboudzivouni",
+        "location": {
+          "lat": -11.706,
+          "lng": 43.424
+        },
+        "keyAccentLanguage": "foumboudzivouni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bangoua",
+        "location": {
+          "lat": -11.84,
+          "lng": 43.278
+        },
+        "keyAccentLanguage": "bangoua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bangahani",
+        "location": {
+          "lat": -11.58,
+          "lng": 43.279
+        },
+        "keyAccentLanguage": "bangahani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kouambani",
+        "location": {
+          "lat": -11.856,
+          "lng": 43.473
+        },
+        "keyAccentLanguage": "kouambani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hahaia",
+        "location": {
+          "lat": -11.483,
+          "lng": 43.272
+        },
+        "keyAccentLanguage": "hahaia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Banda Daoueni",
+        "location": {
+          "lat": -11.773,
+          "lng": 43.439
+        },
+        "keyAccentLanguage": "banda_daoueni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Iconi",
+        "location": {
+          "lat": -11.717,
+          "lng": 43.25
+        },
+        "keyAccentLanguage": "iconi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fassi",
+        "location": {
+          "lat": -11.399,
+          "lng": 43.268
+        },
+        "keyAccentLanguage": "fassi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ifoundihe",
+        "location": {
+          "lat": -11.534,
+          "lng": 43.377
+        },
+        "keyAccentLanguage": "ifoundihe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Boboni",
+        "location": {
+          "lat": -11.752,
+          "lng": 43.28
+        },
+        "keyAccentLanguage": "boboni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kanzile",
+        "location": {
+          "lat": -11.855,
+          "lng": 43.382
+        },
+        "keyAccentLanguage": "kanzile"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Domoni Ambouani",
+        "location": {
+          "lat": -11.488,
+          "lng": 43.269
+        },
+        "keyAccentLanguage": "domoni_ambouani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chomoni",
+        "location": {
+          "lat": -11.643,
+          "lng": 43.386
+        },
+        "keyAccentLanguage": "chomoni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chamle",
+        "location": {
+          "lat": -11.445,
+          "lng": 43.267
+        },
+        "keyAccentLanguage": "chamle"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chamro",
+        "location": {
+          "lat": -11.654,
+          "lng": 43.391
+        },
+        "keyAccentLanguage": "chamro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bandamadzi",
+        "location": {
+          "lat": -11.784,
+          "lng": 43.444
+        },
+        "keyAccentLanguage": "bandamadzi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dimadjou",
+        "location": {
+          "lat": -11.673,
+          "lng": 43.275
+        },
+        "keyAccentLanguage": "dimadjou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ikoni",
+        "location": {
+          "lat": -11.74,
+          "lng": 43.226
+        },
+        "keyAccentLanguage": "ikoni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Itsangoue",
+        "location": {
+          "lat": -11.81,
+          "lng": 43.443
+        },
+        "keyAccentLanguage": "itsangoue"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bibavou",
+        "location": {
+          "lat": -11.573,
+          "lng": 43.277
+        },
+        "keyAccentLanguage": "bibavou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mitsamiouli",
+        "location": {
+          "lat": -11.4,
+          "lng": 43.28
+        },
+        "keyAccentLanguage": "mitsamiouli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chindini",
+        "location": {
+          "lat": -11.921,
+          "lng": 43.481
+        },
+        "keyAccentLanguage": "chindini"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hassendje",
+        "location": {
+          "lat": -11.618,
+          "lng": 43.382
+        },
+        "keyAccentLanguage": "hassendje"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hantsindzi",
+        "location": {
+          "lat": -11.429,
+          "lng": 43.402
+        },
+        "keyAccentLanguage": "hantsindzi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Djoengoe",
+        "location": {
+          "lat": -11.464,
+          "lng": 43.278
+        },
+        "keyAccentLanguage": "djoengoe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chezani",
+        "location": {
+          "lat": -11.428,
+          "lng": 43.388
+        },
+        "keyAccentLanguage": "chezani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Idjikoundzi",
+        "location": {
+          "lat": -11.711,
+          "lng": 43.414
+        },
+        "keyAccentLanguage": "idjikoundzi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bahani",
+        "location": {
+          "lat": -11.64,
+          "lng": 43.284
+        },
+        "keyAccentLanguage": "bahani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Moroni",
+        "location": {
+          "lat": -11.705,
+          "lng": 43.255
+        },
+        "keyAccentLanguage": "moroni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bouni",
+        "location": {
+          "lat": -11.487,
+          "lng": 43.388
+        },
+        "keyAccentLanguage": "bouni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Domoni",
+        "location": {
+          "lat": -11.875,
+          "lng": 43.411
+        },
+        "keyAccentLanguage": "domoni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hamsaoua",
+        "location": {
+          "lat": -11.831,
+          "lng": 43.284
+        },
+        "keyAccentLanguage": "hamsaoua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bangoi",
+        "location": {
+          "lat": -11.817,
+          "lng": 43.3
+        },
+        "keyAccentLanguage": "bangoi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Djomani",
+        "location": {
+          "lat": -11.43,
+          "lng": 43.259
+        },
+        "keyAccentLanguage": "djomani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bouenindi",
+        "location": {
+          "lat": -11.562,
+          "lng": 43.277
+        },
+        "keyAccentLanguage": "bouenindi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barakani",
+        "location": {
+          "lat": -11.833,
+          "lng": 43.417
+        },
+        "keyAccentLanguage": "barakani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Itsandzeni",
+        "location": {
+          "lat": -11.473,
+          "lng": 43.384
+        },
+        "keyAccentLanguage": "itsandzeni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Balsa",
+        "location": {
+          "lat": -11.394,
+          "lng": 43.363
+        },
+        "keyAccentLanguage": "balsa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bambadjani",
+        "location": {
+          "lat": -11.479,
+          "lng": 43.377
+        },
+        "keyAccentLanguage": "bambadjani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Djoumbe",
+        "location": {
+          "lat": -11.75,
+          "lng": 43.267
+        },
+        "keyAccentLanguage": "djoumbe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bangouamafsakoa",
+        "location": {
+          "lat": -11.396,
+          "lng": 43.294
+        },
+        "keyAccentLanguage": "bangouamafsakoa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Itsikoudi",
+        "location": {
+          "lat": -11.584,
+          "lng": 43.376
+        },
+        "keyAccentLanguage": "itsikoudi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Didjoni",
+        "location": {
+          "lat": -11.881,
+          "lng": 43.481
+        },
+        "keyAccentLanguage": "didjoni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Boude-Adjou",
+        "location": {
+          "lat": -11.771,
+          "lng": 43.265
+        },
+        "keyAccentLanguage": "boude-adjou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Douniani",
+        "location": {
+          "lat": -11.421,
+          "lng": 43.289
+        },
+        "keyAccentLanguage": "douniani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Itsandra",
+        "location": {
+          "lat": -11.671,
+          "lng": 43.255
+        },
+        "keyAccentLanguage": "itsandra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gouni",
+        "location": {
+          "lat": -11.654,
+          "lng": 43.257
+        },
+        "keyAccentLanguage": "gouni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ivembeni",
+        "location": {
+          "lat": -11.478,
+          "lng": 43.318
+        },
+        "keyAccentLanguage": "ivembeni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Boueni",
+        "location": {
+          "lat": -11.631,
+          "lng": 43.353
+        },
+        "keyAccentLanguage": "boueni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dibouani",
+        "location": {
+          "lat": -11.557,
+          "lng": 43.314
+        },
+        "keyAccentLanguage": "dibouani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Daoueni",
+        "location": {
+          "lat": -11.767,
+          "lng": 43.264
+        },
+        "keyAccentLanguage": "daoueni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ifoundihe Chambouani",
+        "location": {
+          "lat": -11.9,
+          "lng": 43.412
+        },
+        "keyAccentLanguage": "ifoundihe_chambouani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Djivani",
+        "location": {
+          "lat": -11.849,
+          "lng": 43.357
+        },
+        "keyAccentLanguage": "djivani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hetsa",
+        "location": {
+          "lat": -11.845,
+          "lng": 43.316
+        },
+        "keyAccentLanguage": "hetsa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Heroumbili",
+        "location": {
+          "lat": -11.544,
+          "lng": 43.38
+        },
+        "keyAccentLanguage": "heroumbili"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Itsambouni",
+        "location": {
+          "lat": -11.726,
+          "lng": 43.255
+        },
+        "keyAccentLanguage": "itsambouni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Haignandrama",
+        "location": {
+          "lat": -11.442,
+          "lng": 43.294
+        },
+        "keyAccentLanguage": "haignandrama"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Irouhe",
+        "location": {
+          "lat": -11.633,
+          "lng": 43.352
+        },
+        "keyAccentLanguage": "irouhe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dache",
+        "location": {
+          "lat": -11.712,
+          "lng": 43.251
+        },
+        "keyAccentLanguage": "dache"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Madjeoueni",
+        "location": {
+          "lat": -11.822,
+          "lng": 43.278
+        },
+        "keyAccentLanguage": "madjeoueni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dembeni",
+        "location": {
+          "lat": -11.873,
+          "lng": 43.397
+        },
+        "keyAccentLanguage": "dembeni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kove",
+        "location": {
+          "lat": -11.876,
+          "lng": 43.472
+        },
+        "keyAccentLanguage": "kove"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Foumbouni",
+        "location": {
+          "lat": -11.875,
+          "lng": 43.48
+        },
+        "keyAccentLanguage": "foumbouni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hadjambo",
+        "location": {
+          "lat": -11.45,
+          "lng": 43.417
+        },
+        "keyAccentLanguage": "hadjambo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Founga",
+        "location": {
+          "lat": -11.472,
+          "lng": 43.295
+        },
+        "keyAccentLanguage": "founga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ivouani",
+        "location": {
+          "lat": -11.387,
+          "lng": 43.386
+        },
+        "keyAccentLanguage": "ivouani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hantsambou",
+        "location": {
+          "lat": -11.66,
+          "lng": 43.256
+        },
+        "keyAccentLanguage": "hantsambou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kangalinda",
+        "location": {
+          "lat": -11.538,
+          "lng": 43.389
+        },
+        "keyAccentLanguage": "kangalinda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mbeni",
+        "location": {
+          "lat": -11.516,
+          "lng": 43.379
+        },
+        "keyAccentLanguage": "mbeni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Batsa",
+        "location": {
+          "lat": -11.628,
+          "lng": 43.26
+        },
+        "keyAccentLanguage": "batsa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Helendje",
+        "location": {
+          "lat": -11.437,
+          "lng": 43.305
+        },
+        "keyAccentLanguage": "helendje"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kouhani",
+        "location": {
+          "lat": -11.568,
+          "lng": 43.387
+        },
+        "keyAccentLanguage": "kouhani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hambo",
+        "location": {
+          "lat": -11.583,
+          "lng": 43.383
+        },
+        "keyAccentLanguage": "hambo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Convalescence",
+        "location": {
+          "lat": -11.755,
+          "lng": 43.32
+        },
+        "keyAccentLanguage": "la_convalescence"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bangoua Kouni",
+        "location": {
+          "lat": -11.368,
+          "lng": 43.353
+        },
+        "keyAccentLanguage": "bangoua_kouni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Koimbani",
+        "location": {
+          "lat": -11.623,
+          "lng": 43.357
+        },
+        "keyAccentLanguage": "koimbani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Komioni",
+        "location": {
+          "lat": -11.807,
+          "lng": 43.281
+        },
+        "keyAccentLanguage": "komioni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chouani",
+        "location": {
+          "lat": -11.819,
+          "lng": 43.284
+        },
+        "keyAccentLanguage": "chouani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Grille",
+        "location": {
+          "lat": -11.45,
+          "lng": 43.333
+        },
+        "keyAccentLanguage": "la_grille"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "La Grotte",
+        "location": {
+          "lat": -11.6,
+          "lng": 43.317
+        },
+        "keyAccentLanguage": "la_grotte"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dzaheni",
+        "location": {
+          "lat": -11.583,
+          "lng": 43.362
+        },
+        "keyAccentLanguage": "dzaheni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Djoumouachongo",
+        "location": {
+          "lat": -11.807,
+          "lng": 43.286
+        },
+        "keyAccentLanguage": "djoumouachongo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Koua",
+        "location": {
+          "lat": -11.421,
+          "lng": 43.276
+        },
+        "keyAccentLanguage": "koua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dzahani",
+        "location": {
+          "lat": -11.77,
+          "lng": 43.269
+        },
+        "keyAccentLanguage": "dzahani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Inane",
+        "location": {
+          "lat": -11.888,
+          "lng": 43.466
+        },
+        "keyAccentLanguage": "inane"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Itsoadjou",
+        "location": {
+          "lat": -11.417,
+          "lng": 43.417
+        },
+        "keyAccentLanguage": "itsoadjou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Famare",
+        "location": {
+          "lat": -11.859,
+          "lng": 43.423
+        },
+        "keyAccentLanguage": "famare"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anihani",
+        "location": {
+          "lat": -11.411,
+          "lng": 43.295
+        },
+        "keyAccentLanguage": "anihani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Batou",
+        "location": {
+          "lat": -11.499,
+          "lng": 43.357
+        },
+        "keyAccentLanguage": "batou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kourani-Mkanga",
+        "location": {
+          "lat": -11.887,
+          "lng": 43.444
+        },
+        "keyAccentLanguage": "kourani-mkanga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dzahadjou",
+        "location": {
+          "lat": -11.646,
+          "lng": 43.36
+        },
+        "keyAccentLanguage": "dzahadjou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Djitache",
+        "location": {
+          "lat": -11.757,
+          "lng": 43.279
+        },
+        "keyAccentLanguage": "djitache"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kourani",
+        "location": {
+          "lat": -11.848,
+          "lng": 43.416
+        },
+        "keyAccentLanguage": "kourani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hada-Haia",
+        "location": {
+          "lat": -11.91,
+          "lng": 43.453
+        },
+        "keyAccentLanguage": "hada-haia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dzouadjou",
+        "location": {
+          "lat": -11.877,
+          "lng": 43.422
+        },
+        "keyAccentLanguage": "dzouadjou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Madjoumadjou",
+        "location": {
+          "lat": -11.728,
+          "lng": 43.423
+        },
+        "keyAccentLanguage": "madjoumadjou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dima",
+        "location": {
+          "lat": -11.886,
+          "lng": 43.411
+        },
+        "keyAccentLanguage": "dima"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Domoni Adjou",
+        "location": {
+          "lat": -11.484,
+          "lng": 43.278
+        },
+        "keyAccentLanguage": "domoni_adjou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Idjouandradja",
+        "location": {
+          "lat": -11.722,
+          "lng": 43.427
+        },
+        "keyAccentLanguage": "idjouandradja"
+      }
+    ],
+    "enNameLanguage": "Grande Comore",
+    "keyAccentLanguage": "grande_comore"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": -12.3377376,
+      "lng": 43.7334089
+    },
+    "districtList": [],
+    "enNameLanguage": "Moheli",
+    "keyAccentLanguage": "moheli"
+  }
+]

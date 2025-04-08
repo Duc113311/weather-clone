@@ -1,0 +1,361 @@
+.el-input__wrapper {
+  border-radius: 10px !important;
+  color: white !important;
+  background: var(--bg-input-search) !important;
+  /* border: 1px solid #0D2952 !important; */
+  box-shadow: none !important;
+  /* border-radius: 20px !important; */
+}
+/* .el-input__wrapper:hover {
+  border: 1.5px solid #6d99c9 !important;
+} */
+
+.el-select__wrapper {
+  color: #000000 !important;
+  border: 1.5px solid #ced4da !important;
+  box-shadow: none !important;
+}
+.el-select__wrapper:hover {
+  border: 1.5px solid #6d99c9 !important;
+}
+
+.el-select-dropdown__item {
+  text-align: left;
+}
+
+.el-input__prefix {
+  color: var(--color-input-ic);
+}
+.el-input__inner::placeholder {
+  color: var(--color-input-ic);
+}
+/*  */
+
+.el-icon {
+  font-size: large !important;
+}
+.el-input__inner {
+  height: 35px !important;
+  font-size: 12px !important;
+  font-family: "Roboto-Light", sans-serif;
+  color: var(--text-search);
+}
+
+.el-autocomplete-suggestion li {
+  padding: 0px !important;
+}
+
+.el-autocomplete-suggestion__wrap {
+  padding: 0px !important;
+}
+
+.el-collapse {
+  border-bottom: none !important;
+  border-top: none !important;
+}
+.el-collapse-item__header {
+  border-bottom: none !important;
+}
+.el-collapse-item__wrap {
+  border-bottom: none !important;
+}
+.el-collapse-item__content {
+  border-bottom: none !important;
+}
+
+.el-collapse-item__content {
+  padding-bottom: 0px !important;
+}
+
+/* .el-drawer.rtl {
+  width: 50% !important;
+}
+
+.el-drawer {
+  background-color: var(--bg-draw);
+  height: 46% !important;
+}
+
+@media (min-width: 576px) {
+  .el-drawer {
+    height: 46% !important;
+  }
+}
+
+@media (min-width: 768px) {
+  .el-drawer {
+    height: 40% !important;
+  }
+}
+
+@media (min-width: 1024px) {
+  .el-drawer {
+    height: 47% !important;
+  }
+}
+
+@media (min-width: 1280px) {
+  .el-drawer {
+    height: 39% !important;
+  }
+} */
+/* .el-overlay {
+  background-color: rgb(255 255 255 / 56%) !important;
+} */
+
+.el-switch--large .el-switch__core {
+  min-width: 44px !important;
+}
+.el-switch--large {
+  height: 0px !important;
+}
+
+.el-switch__core {
+  height: 22px;
+  min-width: 36px;
+}
+
+.el-color-picker .el-color-picker__icon {
+  display: none !important;
+}
+.el-color-picker__color {
+  border: none !important;
+}
+
+.el-color-picker__trigger {
+  height: 100% !important;
+  width: 100% !important;
+  border: 1px solid #ccc !important;
+}
+
+.el-color-picker {
+  width: 40px !important;
+  height: 34px !important;
+}
+
+.el-input--small .el-input__inner {
+  color: #000000 !important;
+}
+
+.el-button--small {
+  height: 38px !important;
+}
+
+.el-autocomplete-suggestion li {
+  line-height: 20px !important;
+  /* padding: 5px 9px !important; */
+}
+
+.el-breadcrumb__inner a:hover,
+.el-breadcrumb__inner.is-link:hover {
+  color: #ffffff !important;
+  cursor: pointer;
+}
+
+.el-breadcrumb__inner a,
+.el-breadcrumb__inner.is-link {
+  font-weight: 500 !important;
+}
+
+.el-slider__runway {
+  background-color: #1d2c4b !important;
+}
+
+@media (min-width: 576px) {
+}
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 1024px) and (min-height: 800px) {
+  .container {
+    min-width: 988px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1120px;
+  }
+}
+
+.el-tabs__item:nth-child(1) {
+  background-color: #507a46 !important; /* Change to your preferred color */
+  color: white !important;
+  font-size: 14px !important;
+  font-family: "Roboto-Regular", sans-serif;
+}
+
+.el-tabs__item:nth-child(2) {
+  background-color: #cbd956 !important; /* Change to your preferred color */
+  color: white !important;
+}
+
+.el-tabs__item:nth-child(3) {
+  background-color: #ecc32b !important; /* Change to your preferred color */
+  color: white !important;
+}
+
+.el-tabs__item:nth-child(4) {
+  background-color: #ff6272 !important; /* Change to your preferred color */
+  color: white !important;
+}
+.el-tabs__item:nth-child(5) {
+  background-color: #ff38a2 !important; /* Change to your preferred color */
+  color: white !important;
+}
+.equal-width-tabs .el-tabs__item {
+  font-size: 14px !important;
+
+  padding: 24px !important;
+  flex: 1; /* Each tab takes up equal space */
+  text-align: center; /* Center-align the text if needed */
+}
+.equal-width-tabs .el-tabs__item:hover {
+  background-color: #35030325 !important;
+}
+
+.el-tabs__nav {
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.title-tab {
+  font-size: 12px !important;
+  font-family: "Roboto-Medium", sans-serif !important;
+  font-weight: 400 !important;
+}
+
+.el-breadcrumb__inner a:hover,
+.el-breadcrumb__inner.is-link:hover {
+  color: #cfb5b5 !important;
+  cursor: pointer;
+}
+
+.el-popover.el-popper {
+  background: var(--bs-body-bg) !important;
+  color: var(--color-txt) !important;
+  border-radius: 10px;
+  /* box-shadow: inset 0 -2em 2em rgba(67, 40, 93, 0.3), 0 0 0 2px white,
+    0.3em 0.3em 1em rgba(63, 67, 113, 0.6); */
+}
+
+.v-hl-svg {
+  width: 26px !important;
+  height: 26px !important;
+  cursor: pointer !important;
+}
+
+.el-carousel__mask {
+  opacity: 0 !important;
+}
+
+.el-carousel__indicators {
+  display: none !important;
+}
+
+
+.icon-svg-small{
+  width: 14px;
+  height: 14px;
+}
+
+
+.icon-svg {
+  width: 20px;
+  height: 20px;
+}
+
+.icon-svg-moon {
+  width: 80px;
+  height: 80px;
+}
+
+.icon-svg-moon-list {
+  width: 80px;
+  height: 80px;
+}
+
+@media (min-width: 1024px) {
+  /* Desktop */
+  .icon-svg {
+    width: 18px;
+    height: 18px;
+  }
+
+  .icon-svg-moon {
+    width: 130px;
+    height: 130px;
+  }
+
+  .icon-svg-moon-list {
+    width: 80px;
+    height: 80px;
+  }
+}
+.autocomplete-1-dropdown {
+  z-index: 1001 !important; /* Đặt giá trị cao hơn để không bị đè */
+  background-color: white;
+}
+
+.autocomplete-2-dropdown {
+  z-index: 1000 !important;
+  background-color: white;
+}
+
+/* Ẩn mũi tên mặc định của Element Plus */
+.custom-tooltip .el-popper__arrow {
+  display: none !important;
+}
+
+.custom-tooltip {
+  background: rgba(0, 0, 0, 0.85) !important; /* Nền đen đậm */
+  color: white !important; /* Chữ trắng */
+  border-radius: 8px !important; /* Bo góc */
+  padding: 4px 6px !important; /* Khoảng cách bên trong */
+  border: 1px solid rgba(255, 255, 255, 0.1) !important; /* Viền trắng rất nhẹ */
+  position: relative;
+
+}
+.custom-tooltip::after {
+  content: "" !important;
+  position: absolute !important;
+  top: -8px; /* Đưa mũi tên lên trên */
+  left: 50%;
+  transform: translateX(-50%);
+  width: 14px;
+  height: 8px;
+  background: rgba(0, 0, 0, 0.85);
+  clip-path: polygon(50% 0, 10% 100%, 90% 100%); /* Tam giác có đỉnh ở trên */
+}
+
+
+.app-tooltip .el-popper__arrow {
+  display: none !important;
+}
+.app-tooltip {
+  cursor: pointer;
+  background: #1b324d !important; /* Nền đen đậm */
+  color: var(--color_f9f9f9) !important; /* Chữ trắng */
+  border-radius: 20px !important; /* Bo góc */
+  padding: 4px 6px !important; /* Khoảng cách bên trong */
+  border: 1px solid rgba(255, 255, 255, 0.1) !important; /* Viền trắng rất nhẹ */
+  box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.25)!important;
+}
+
+.app-tooltip::after {
+  content: "" !important;
+  position: absolute !important;
+  top: -8px; /* Đặt mũi tên xuống dưới tooltip */  
+  right: 20%;
+  transform: translateX(50%);
+  width: 14px; /* Tăng chiều rộng để cân đối */
+  height: 8px; /* Chiều cao thấp hơn để không quá nhọn */
+  background: #1b324d; /* Giống màu tooltip */
+  clip-path: polygon(50% 0, 0% 100%, 100% 100%); /* Tam giác quay lên trên */
+}
+
+.cursor-pointer{
+  cursor: pointer !important;
+}

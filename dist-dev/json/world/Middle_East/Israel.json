@@ -1,0 +1,6085 @@
+[
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Azarya",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "azarya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adanim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "adanim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bene Atarot",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "bene_atarot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Elishama",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "elishama"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hagor",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hagor"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eyal",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "eyal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ahisamakh",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ahisamakh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Be'erot Yizhaq",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "be'erot_yizhaq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ahituv",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ahituv"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Givat Koah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "givat_koah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rishon LeZiyyon",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "rishon_leziyyon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Avihayil",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "avihayil"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "HaMapil",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hamapil"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bet Arif",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "bet_arif"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Yavne",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "yavne"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ginnaton",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ginnaton"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Enat",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "enat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bet Herut",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "bet_herut"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kafr Bara",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kafr_bara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Magshimim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "magshimim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bat Yam",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "bat_yam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mazkeret Batya",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mazkeret_batya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gat Rimmon",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "gat_rimmon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "En HaHoresh",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "en_hahoresh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hofit",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hofit"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kefar Bilu",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kefar_bilu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kafr Qasim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kafr_qasim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bet Yannay",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "bet_yannay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kefar Truman",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kefar_truman"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Azri'el",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "azri'el"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gezer",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "gezer"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hulda",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hulda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ganne Yohanan",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ganne_yohanan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Givat HaShelosha",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "givat_hashelosha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ganne Yehuda",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ganne_yehuda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bitan Aharon",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "bitan_aharon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Givat Shappira",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "givat_shappira"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Et Tira",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "et_tira"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gan Shelomo",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "gan_shelomo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bareqet",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "bareqet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gedera",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "gedera"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gibbeton",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "gibbeton"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gan Hayyim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "gan_hayyim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kefar Daniyyel",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kefar_daniyyel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gannot",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "gannot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Giv'at Hayyim Meuhad",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "giv'at_hayyim_meuhad"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kefar Marmorek",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kefar_marmorek"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mazor",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mazor"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bet HaLewi",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "bet_halewi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hogla",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hogla"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lod",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "lod"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bet Uzi'el",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "bet_uzi'el"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ramla",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ramla"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Maccabim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "maccabim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mabarot",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mabarot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nes Ziyyona",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "nes_ziyyona"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Newe Yaraq",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "newe_yaraq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Maas",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "maas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rosh HaAyin",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "rosh_haayin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jaljulya",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "jaljulya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Givat Hen",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "givat_hen"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kefar Monash",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kefar_monash"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hibbat Zyyon",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hibbat_zyyon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Herev Le'et",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "herev_le'et"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kefar Sava",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kefar_sava"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mishmar Dawid",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mishmar_dawid"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pedaya",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "pedaya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kefar Malal",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kefar_malal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rehovot",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "rehovot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hod HaSharon",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hod_hasharon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kefar Yabez",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kefar_yabez"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mevo Modiim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mevo_modiim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Karmei Yosef",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "karmei_yosef"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Netanya",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "netanya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hanni'el",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hanni'el"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Petah Tiqwa",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "petah_tiqwa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "HaOgen",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "haogen"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kefar Shemu'el",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kefar_shemu'el"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mishmar HaShiva",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mishmar_hashiva"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kefar Sirkin",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kefar_sirkin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Havazzelet HaSharon",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "havazzelet_hasharon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kefar Vitkin",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kefar_vitkin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mishmar HaSharon",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mishmar_hasharon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mishmar Ayyalon",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mishmar_ayyalon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nahshonim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "nahshonim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kefar Bin Nun",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kefar_bin_nun"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nir Eliyyahu",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "nir_eliyyahu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nirit",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "nirit"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Omez",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "omez"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mikhmoret",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mikhmoret"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nofekh",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "nofekh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kefar HaRo'e",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kefar_haro'e"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beqoa",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "beqoa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hadassim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hadassim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Neurim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "neurim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nahshon",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "nahshon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bet Yizhak",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "bet_yizhak"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hazerot Koah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hazerot_koah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hadid",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hadid"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ganneam",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ganneam"
+      }
+    ],
+    "enNameLanguage": "Central District",
+    "keyAccentLanguage": "central_district"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`Ayn al Hajal",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "`ayn_al_hajal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`Ayn al Hawr",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "`ayn_al_hawr"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Masada",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "masada"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Bassah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "al_bassah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Butayhah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "al_butayhah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Majami`",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "al_majami`"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al `Aziziyat",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "al_`aziziyat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`Udaysah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "`udaysah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`Uyun al Hajal",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "`uyun_al_hajal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Julaybinah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "al_julaybinah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`Ayn at Tinah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "`ayn_at_tinah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`Asaliyah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "`asaliyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Merom Golan",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "merom_golan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`Ayn al Wardah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "`ayn_al_wardah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Birah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "al_birah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`Uyun Hadid",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "`uyun_hadid"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`Ayn Kabritiyah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "`ayn_kabritiyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`Ayn al Kurah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "`ayn_al_kurah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afik",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "afik"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gadot",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "gadot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Durah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ad_durah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Kursi",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "al_kursi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`Ayn Fit",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "`ayn_fit"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Dalhamiyah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ad_dalhamiyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`Ayn Ziwan",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "`ayn_ziwan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Ghaylah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "al_ghaylah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Fajir",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "al_fajir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`Ayn `A'ishah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "`ayn_`a'ishah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alonei HaBashan",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "alonei_habashan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Maqla`",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "al_maqla`"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Mujayhiyah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "al_mujayhiyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Dalwah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ad_dalwah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kfar Haruv",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kfar_haruv"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Fahham",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "al_fahham"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Mahjar",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "al_mahjar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akrad al Baqqarah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "akrad_al_baqqarah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Bujuriyah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "al_bujuriyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abu Fulah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "abu_fulah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Banias",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "banias"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Farj",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "al_farj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al `Ullayqah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "al_`ullayqah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Mushayrifawi",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "al_mushayrifawi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`Ayshiyah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "`ayshiyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`Uyun Hamud",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "`uyun_hamud"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qazrin",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "qazrin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al `Uraysah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "al_`uraysah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`Amudiyah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "`amudiyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Keshet",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "keshet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Judayya",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "al_judayya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Dardarah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ad_dardarah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Mughayr",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "al_mughayr"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Majdal Shams",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "majdal_shams"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Darbashiyah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ad_darbashiyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ramat Magshimim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ramat_magshimim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Avnei Eitan",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "avnei_eitan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Jurniyah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "al_jurniyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`Ayn Simsim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "`ayn_simsim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ani`am",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ani`am"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eliad",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "eliad"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lahavot HaBashan",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "lahavot_habashan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Odem",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "odem"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qanaabe",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "qanaabe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nov",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "nov"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Shamir",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "shamir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Metzar",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "metzar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Jukhadar",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "al_jukhadar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mevo Hama",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mevo_hama"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Neve Ativ",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "neve_ativ"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Ghassaniyah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "al_ghassaniyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qal at subaybi",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "qal_at_subaybi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tel Katzir",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "tel_katzir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kela Alon",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kela_alon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Natur",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "natur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Giv`at Yo'av",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "giv`at_yo'av"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "HaOn",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "haon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ein Zivan",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ein_zivan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kanaf",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kanaf"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bnei Yehuda",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "bnei_yehuda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Khushniyah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "al_khushniyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Had Nes",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "had_nes"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Mamsurah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "al_mamsurah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kidmat Tzvi",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kidmat_tzvi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Snir",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "snir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Neot Golan",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "neot_golan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`Amrat al Furayj",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "`amrat_al_furayj"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Geshur",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "geshur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sha`ar HaGolan",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "sha`ar_hagolan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nimrod",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "nimrod"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ortal",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ortal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Yonatan",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "yonatan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ramot",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ramot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Haspin",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "haspin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Al Mansurah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "al_mansurah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Quneitra",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "quneitra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "El Rom",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "el_rom"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ma`ale Gamla",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ma`ale_gamla"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sha`al",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "sha`al"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ein Qiniyye",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ein_qiniyye"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ad Dirbasiyah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ad_dirbasiyah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Buq`ata",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "buq`ata"
+      }
+    ],
+    "enNameLanguage": "Golan Heights",
+    "keyAccentLanguage": "golan_heights"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Isfiya",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "isfiya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Karkur",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "karkur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`En Shemer",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "`en_shemer"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "En Hod",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "en_hod"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "El Mazar",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "el_mazar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "En Shemer",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "en_shemer"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qiryat Ata",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "qiryat_ata"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Or Aqiva",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "or_aqiva"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jatt",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "jatt"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`Aqqada",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "`aqqada"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barkai",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "barkai"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ammiqam",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ammiqam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Allone Yizhaq",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "allone_yizhaq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Binyamina",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "binyamina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`En `Iron",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "`en_`iron"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "En Ayyala",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "en_ayyala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Givat Ada",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "givat_ada"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`En Ayyala",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "`en_ayyala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Haifa",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "haifa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "El Murtafi`a",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "el_murtafi`a"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "HaBonim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "habonim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`Ara",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "`ara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`Ir HaMifraz",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "`ir_hamifraz"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Giv`at `Ada",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "giv`at_`ada"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "El Kababir",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "el_kababir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bat Gallim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "bat_gallim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`En Hod",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "`en_hod"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`Ein Ibrahim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "`ein_ibrahim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "El Fureidis",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "el_fureidis"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Atlit",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "atlit"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Esh Sheikh Bureik",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "esh_sheikh_bureik"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`En Na`aman",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "`en_na`aman"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gan Shemu'el",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "gan_shemu'el"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baqa el Gharbiyya",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "baqa_el_gharbiyya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bet Oren",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "bet_oren"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`Ar`ara",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "`ar`ara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ibtin",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ibtin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tirat Karmel",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "tirat_karmel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Avi'el",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "avi'el"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kefar Brandeis",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kefar_brandeis"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Yagur",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "yagur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Geva Karmel",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "geva_karmel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "HaHoterim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hahoterim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`En Karmel",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "`en_karmel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mishmarot",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mishmarot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Giv`at Olga",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "giv`at_olga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hadar HaKarmel",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hadar_hakarmel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qiryat Yam",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "qiryat_yam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Giv`at Nili",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "giv`at_nili"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bet Hananya",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "bet_hananya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "El Musheirifa et Tahta",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "el_musheirifa_et_tahta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Givat Nili",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "givat_nili"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hadera",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hadera"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nahsholim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "nahsholim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Geva` Karmel",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "geva`_karmel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Daliyat el Karmil",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "daliyat_el_karmil"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "El Musheirifa el Fauqa",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "el_musheirifa_el_fauqa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ahuzzat Shemu`el",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ahuzzat_shemu`el"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hefzi Bah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hefzi_bah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bat Shelomo",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "bat_shelomo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dor",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "dor"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kefar Pines",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kefar_pines"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hazerot Carmel",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hazerot_carmel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kefar HaMaccabi",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kefar_hamaccabi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gan Shomeron",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "gan_shomeron"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Newe Yam",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "newe_yam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pardes Hanna",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "pardes_hanna"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qiryat Bialik",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "qiryat_bialik"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Megadim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "megadim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kerem Maharal",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kerem_maharal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Givat Haviva",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "givat_haviva"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mayan Zevi",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mayan_zevi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Oranim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "oranim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qiryat Binyamin",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "qiryat_binyamin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "HaKarmel",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hakarmel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kefar Glickson",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kefar_glickson"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Giv`at Haviva",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "giv`at_haviva"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Manshit Zabda",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "manshit_zabda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Yemin Ord",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "yemin_ord"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ofer",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ofer"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Maagan Mikha'el",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "maagan_mikha'el"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Elro'i",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "elro'i"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zikhron Yaaqov",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "zikhron_yaaqov"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Umm El Fahm",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "umm_el_fahm"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kefar Bialik",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kefar_bialik"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jisr ez Zarqa",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "jisr_ez_zarqa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Maanit",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "maanit"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zerufa",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "zerufa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Regavim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "regavim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qiryat Motzkin",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "qiryat_motzkin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kafr Qari",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kafr_qari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Umm el Qutuf",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "umm_el_qutuf"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Newe Avot",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "newe_avot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kefar Gallim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kefar_gallim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qiryat Tivon",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "qiryat_tivon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Shekhunat Bet Eli‘ezer",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "shekhunat_bet_eli‘ezer"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nir Ezyon",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "nir_ezyon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kefar HaNo`ar HaDati",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kefar_hano`ar_hadati"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bet Zevi",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "bet_zevi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kafr Lam",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kafr_lam"
+      }
+    ],
+    "enNameLanguage": "Haifa",
+    "keyAccentLanguage": "haifa"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "San-simon",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "san-simon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zur Hadassa",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "zur_hadassa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tsfon Talpiyot",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "tsfon_talpiyot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zikhron Yosef",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "zikhron_yosef"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Yishi",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "yishi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Batei Ungarin",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "batei_ungarin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jerusalem",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "jerusalem"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Matta",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "matta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gonen",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "gonen"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Li On",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "li_on"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agur",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "agur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bet Shemesh",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "bet_shemesh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beit Safafa",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "beit_safafa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`Amminadav",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "`amminadav"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arnona",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "arnona"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gonen Khet",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "gonen_khet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kefar Uriyya",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kefar_uriyya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eshta'ol",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "eshta'ol"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gefen",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "gefen"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "`Ein Rafa",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "`ein_rafa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Komemiyut",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "komemiyut"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Emek Refa'im",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "emek_refa'im"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Christian Quarter",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "christian_quarter"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Komuna",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "komuna"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bayit Va-gan",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "bayit_va-gan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "El Qubeiba",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "el_qubeiba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gonen Bet",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "gonen_bet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aviezer",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "aviezer"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ets Khayim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ets_khayim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kibbutz Ramat Rakhel",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kibbutz_ramat_rakhel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Givat Shemesh",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "givat_shemesh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gonen Dalet",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "gonen_dalet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Luzit",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "luzit"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beitar Illit",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "beitar_illit"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ge'ulim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ge'ulim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adderet",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "adderet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zora",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "zora"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Naham",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "naham"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gonen Gimel",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "gonen_gimel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Romema Illit",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "romema_illit"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Giv'at Mordekhai",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "giv'at_mordekhai"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Har Nof",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "har_nof"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Guizou",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "guizou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kiryat Wolfson",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kiryat_wolfson"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mevo Betar",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mevo_betar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Har'el",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "har'el"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Givat Yeshayahu",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "givat_yeshayahu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kiryat Tsanz",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kiryat_tsanz"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bar Giyyora",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "bar_giyyora"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Giv'at Ha-vradim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "giv'at_ha-vradim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sanhedria",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "sanhedria"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Taoz",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "taoz"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ge'ula",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ge'ula"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Newe Shalom",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "newe_shalom"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tarum",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "tarum"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beit Isra'el",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "beit_isra'el"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Giv'at Oranim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "giv'at_oranim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nehusha",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "nehusha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tirosh",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "tirosh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ezrat Tora",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ezrat_tora"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sanhedria Ha-murkhevet",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "sanhedria_ha-murkhevet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gonen Alef",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "gonen_alef"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nes Harim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "nes_harim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zanoah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "zanoah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kiryat Ben Gurion",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kiryat_ben_gurion"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mahseya",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mahseya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ramat Sharet",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ramat_sharet"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Giv'at Khananya",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "giv'at_khananya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Morasha",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "morasha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kerem Avraham",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kerem_avraham"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Maale Edomim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "maale_edomim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Talpiyot",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "talpiyot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Neve Granot",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "neve_granot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mamila",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mamila"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kiryat Shmu'el",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kiryat_shmu'el"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Makhanayim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "makhanayim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zelafon",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "zelafon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Newe Mikha'el",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "newe_mikha'el"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Shikun Rasko",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "shikun_rasko"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rekhavya",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "rekhavya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zikhron Moshe",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "zikhron_moshe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nakhalat Akhim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "nakhalat_akhim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ramat Danya",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ramat_danya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sedot Mikha",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "sedot_mikha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ma'alot Dafna",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ma'alot_dafna"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zafririm",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "zafririm"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sha'arei Khesed",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "sha'arei_khesed"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Shkhunat Pat",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "shkhunat_pat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Yemin Moshe",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "yemin_moshe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mekor Barukh",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mekor_barukh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Shkhunat Ha-bukharim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "shkhunat_ha-bukharim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mekor Khayim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mekor_khayim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Shikun Khabad",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "shikun_khabad"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Makhane Yehuda",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "makhane_yehuda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Shkhunat Ha-po'alim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "shkhunat_ha-po'alim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Giv'at Beit Ha-kerem",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "giv'at_beit_ha-kerem"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nave Sha'anan",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "nave_sha'anan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tel Arza",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "tel_arza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zekharya",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "zekharya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Me'a She'arim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "me'a_she'arim"
+      }
+    ],
+    "enNameLanguage": "Jerusalem",
+    "keyAccentLanguage": "jerusalem"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ahihud",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ahihud"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Evron",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "evron"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akko",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "akko"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gonen",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "gonen"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Almagor",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "almagor"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Behora",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "behora"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amqa",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "amqa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baram",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "baram"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baraq",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "baraq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "En HaNaziv",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "en_hanaziv"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kafr Manda",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kafr_manda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zefat",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "zefat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bet Yosef",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "bet_yosef"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amnon",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "amnon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afula",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "afula"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Basmat Tabun",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "basmat_tabun"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bet HaEmeq",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "bet_haemeq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gadish",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "gadish"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "En Yaaqov",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "en_yaaqov"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gesher HaZiw",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "gesher_haziw"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dalton",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "dalton"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "En HaMifraz",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "en_hamifraz"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Iksal",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "iksal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Judeida",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "judeida"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alma",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "alma"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alon Hagalil",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "alon_hagalil"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dafna",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "dafna"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ben Ammi",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ben_ammi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Deganya Alef",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "deganya_alef"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "HaSolelim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hasolelim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hulata",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hulata"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Allone Abba",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "allone_abba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Avdon",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "avdon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ed Dahi",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ed_dahi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dishon",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "dishon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "HaYogev",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hayogev"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kafr Kanna",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kafr_kanna"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kadarim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kadarim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Elqosh",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "elqosh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kefar Szold",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kefar_szold"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ilaniyya",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ilaniyya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Megiddo",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "megiddo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "El Makr",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "el_makr"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gaton",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "gaton"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "HaGosherim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hagosherim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dabburiya",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "dabburiya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kefar Masaryk",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kefar_masaryk"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Devora",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "devora"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ginnosar",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ginnosar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Meron",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "meron"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bueina",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "bueina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Migdal HaEmeq",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "migdal_haemeq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hurfeish",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hurfeish"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nazareth",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "nazareth"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kisra",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kisra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tiberias",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "tiberias"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kefar Zetim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kefar_zetim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hoshaya",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hoshaya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qiryat Shemona",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "qiryat_shemona"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kefar Nahum",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kefar_nahum"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Geva",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "geva"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Biriyya",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "biriyya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Addirim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "addirim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lavi",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "lavi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "En Gev",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "en_gev"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Manot",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "manot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Migdal",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "migdal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Karkum",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "karkum"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Esh Sheikh Dannun",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "esh_sheikh_dannun"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Granot Hagalil",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "granot_hagalil"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Avivim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "avivim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Haluz",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "haluz"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hararit",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hararit"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Korazim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "korazim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nazerat Illit",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "nazerat_illit"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Maoz Hayyim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "maoz_hayyim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kafr Kama",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kafr_kama"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ayyelet HaShahar",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ayyelet_hashahar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kabri",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kabri"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hever",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hever"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kefar Ruppin",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kefar_ruppin"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kahal",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kahal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dan",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "dan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Givat Oz",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "givat_oz"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kefar Rosh HaNiqra",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kefar_rosh_haniqra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Shefaram",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "shefaram"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bet She'an",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "bet_she'an"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kerem Ben Zimra",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kerem_ben_zimra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nahariyya",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "nahariyya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Havat Ha-Shomer",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "havat_ha-shomer"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mayan Barukh",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mayan_barukh"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Karmi'el",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "karmi'el"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hamadya",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hamadya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lohame HaGeta'ot",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "lohame_hageta'ot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kefar Yehezqel",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kefar_yehezqel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mash Had",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mash_had"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mahanayim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mahanayim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hodiyyot",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hodiyyot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Levanim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "levanim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mele'a",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mele'a"
+      }
+    ],
+    "enNameLanguage": "Northern District",
+    "keyAccentLanguage": "northern_district"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dekel",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "dekel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arad",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "arad"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eshbol",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "eshbol"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Elipaz",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "elipaz"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arugot",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "arugot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dimona",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "dimona"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dohan",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "dohan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aluma",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "aluma"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Elat",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "elat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dorot",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "dorot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "En Tamar",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "en_tamar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "En Gedi",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "en_gedi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Be'er Menuha",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "be'er_menuha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beersheba",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "beersheba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hazeva",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hazeva"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ammioz",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ammioz"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Erez",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "erez"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gevim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "gevim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Negba",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "negba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kannot",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kannot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Idan",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "idan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gevulot",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "gevulot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nehora",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "nehora"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "En Boqeq",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "en_boqeq"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ashqelon",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ashqelon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gevaram",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "gevaram"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Avigedor",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "avigedor"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ne'ot HaKikar",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ne'ot_hakikar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sederot",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "sederot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bet Qama",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "bet_qama"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Helez",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "helez"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hazerim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hazerim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Faran",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "faran"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ashdod",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ashdod"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Magen",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "magen"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ashlim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ashlim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bene Re'em",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "bene_re'em"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Revivim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "revivim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eshel HaNasi",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "eshel_hanasi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lahav",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "lahav"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gilat",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "gilat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nirim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "nirim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nahal Yaalon",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "nahal_yaalon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bet Ezra",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "bet_ezra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Be'er Toviyya",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "be'er_toviyya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "En Zurim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "en_zurim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Holit",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "holit"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kafr el Ubra",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kafr_el_ubra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mefallesim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mefallesim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nir Hen",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "nir_hen"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qedma",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "qedma"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nir Israel",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "nir_israel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Be'er Ora",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "be'er_ora"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Retamim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "retamim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nir Banim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "nir_banim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mezada",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mezada"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ohad",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ohad"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ibbim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ibbim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ozem",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ozem"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Hazav",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "hazav"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Niram",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "niram"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "En Yahav",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "en_yahav"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Newe Zohar",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "newe_zohar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mivtahim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mivtahim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qetura",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "qetura"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qiryat Gat",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "qiryat_gat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Orot",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "orot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Or HaNer",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "or_haner"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pri Gan",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "pri_gan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ofaqim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "ofaqim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Orim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "orim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mahane Zofar",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mahane_zofar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kefar Menahem",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kefar_menahem"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rewaha",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "rewaha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qomemiyyut",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "qomemiyyut"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Oron",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "oron"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lotan",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "lotan"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qelahim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "qelahim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Newe Harif",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "newe_harif"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nogah",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "nogah"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Revadim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "revadim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kefar HaRif",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kefar_harif"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qiryat Mal'akhi",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "qiryat_mal'akhi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rahat",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "rahat"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kmehim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "kmehim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Grofit",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "grofit"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Brur Hayil",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "brur_hayil"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mishmar HaNegev",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mishmar_hanegev"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Paame Tashaz",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "paame_tashaz"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nizzana",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "nizzana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Masmia",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "masmia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mahane Yafa",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mahane_yafa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mirit",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mirit"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Qeziot",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "qeziot"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nizzane Sinai",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "nizzane_sinai"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "En Hazba",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "en_hazba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mahane Beldad",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "mahane_beldad"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Berurim",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "berurim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Devira",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "devira"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nir Yizhaq",
+        "location": {
+          "lat": 0,
+          "lng": 0
+        },
+        "keyAccentLanguage": "nir_yizhaq"
+      }
+    ],
+    "enNameLanguage": "Southern District",
+    "keyAccentLanguage": "southern_district"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [],
+    "enNameLanguage": "Tel Aviv",
+    "keyAccentLanguage": "tel_aviv"
+  }
+]

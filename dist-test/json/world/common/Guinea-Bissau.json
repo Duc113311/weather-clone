@@ -1,0 +1,7659 @@
+[
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 12.1735243,
+      "lng": -14.652952
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bujeme",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "bujeme"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anambe",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "anambe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aguira",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "aguira"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agua Verde",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "agua_verde"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bissamali",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "bissamali"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andom",
+        "location": {
+          "lat": 12.35,
+          "lng": -14.7
+        },
+        "keyAccentLanguage": "andom"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bambadincazinho",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "bambadincazinho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aldeia",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "aldeia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Benate",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "benate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alimo",
+        "location": {
+          "lat": 12.116667,
+          "lng": -14.583333
+        },
+        "keyAccentLanguage": "alimo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Biro",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "biro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bancolene",
+        "location": {
+          "lat": 12.435894,
+          "lng": -14.583316
+        },
+        "keyAccentLanguage": "bancolene"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bissaque",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "bissaque"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cahone",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "cahone"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belel",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "belel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bacar Leli",
+        "location": {
+          "lat": 11.883333,
+          "lng": -14.583333
+        },
+        "keyAccentLanguage": "bacar_leli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bora",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "bora"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belal Umaro",
+        "location": {
+          "lat": 11.933333,
+          "lng": -14.833333
+        },
+        "keyAccentLanguage": "belal_umaro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bagadaje",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "bagadaje"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bafata",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "bafata"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bantael",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "bantael"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bide",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "bide"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Biana",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "biana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Badumbo",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "badumbo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bonjendem",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "bonjendem"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Buro Sincha",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "buro_sincha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anambe Balanta",
+        "location": {
+          "lat": 12.1069,
+          "lng": -14.83124
+        },
+        "keyAccentLanguage": "anambe_balanta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bairro Joli",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "bairro_joli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bagingara",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "bagingara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aliel",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "aliel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Banco",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "banco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belel Gabi",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "belel_gabi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aldeia de Cuor",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "aldeia_de_cuor"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Camaracunda",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "camaracunda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Boido Embalo",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "boido_embalo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bambadinca",
+        "location": {
+          "lat": 12.0116969,
+          "lng": -14.8688126
+        },
+        "keyAccentLanguage": "bambadinca"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Camancoto",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "camancoto"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bissau Novo",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "bissau_novo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bani Siraila",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "bani_siraila"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dulombi",
+        "location": {
+          "lat": 11.8671454,
+          "lng": -14.50436
+        },
+        "keyAccentLanguage": "dulombi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barquege",
+        "location": {
+          "lat": 11.766667,
+          "lng": -14.65
+        },
+        "keyAccentLanguage": "barquege"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bembelo",
+        "location": {
+          "lat": 12.3,
+          "lng": -14.683333
+        },
+        "keyAccentLanguage": "bembelo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bissamal",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "bissamal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bijine",
+        "location": {
+          "lat": 12.1048442,
+          "lng": -14.687936
+        },
+        "keyAccentLanguage": "bijine"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ca Ierofim",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "ca_ierofim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cacha Fulbe",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "cacha_fulbe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Brincasse",
+        "location": {
+          "lat": 12.212211,
+          "lng": -14.554459
+        },
+        "keyAccentLanguage": "brincasse"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Banum",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "banum"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gamamudo",
+        "location": {
+          "lat": 12.272479,
+          "lng": -14.730768
+        },
+        "keyAccentLanguage": "gamamudo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Buruntoni",
+        "location": {
+          "lat": 11.9,
+          "lng": -14.933333
+        },
+        "keyAccentLanguage": "buruntoni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barinha",
+        "location": {
+          "lat": 12.187447,
+          "lng": -14.529395
+        },
+        "keyAccentLanguage": "barinha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bambato",
+        "location": {
+          "lat": 12.517582,
+          "lng": -14.58898
+        },
+        "keyAccentLanguage": "bambato"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Budangar",
+        "location": {
+          "lat": 12.266667,
+          "lng": -14.75
+        },
+        "keyAccentLanguage": "budangar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Canture",
+        "location": {
+          "lat": 12.0712396,
+          "lng": -14.8980058
+        },
+        "keyAccentLanguage": "canture"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bantaja Assa",
+        "location": {
+          "lat": 12.05,
+          "lng": -14.833333
+        },
+        "keyAccentLanguage": "bantaja_assa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cambeidare",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "cambeidare"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bojabu",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "bojabu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aliu Jai",
+        "location": {
+          "lat": 12.016667,
+          "lng": -14.766667
+        },
+        "keyAccentLanguage": "aliu_jai"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Camara",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "camara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Balinja",
+        "location": {
+          "lat": 12.283333,
+          "lng": -14.616667
+        },
+        "keyAccentLanguage": "balinja"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cabele Mandinga",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "cabele_mandinga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bantaja Mandinga",
+        "location": {
+          "lat": 12.433333,
+          "lng": -14.85
+        },
+        "keyAccentLanguage": "bantaja_mandinga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bissilao",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "bissilao"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bantaja Cuta",
+        "location": {
+          "lat": 12.433333,
+          "lng": -14.85
+        },
+        "keyAccentLanguage": "bantaja_cuta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ca Iero Sane",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "ca_iero_sane"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Buntunsum",
+        "location": {
+          "lat": 12.051612,
+          "lng": -14.659118
+        },
+        "keyAccentLanguage": "buntunsum"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Camadudo",
+        "location": {
+          "lat": 12.166667,
+          "lng": -14.5
+        },
+        "keyAccentLanguage": "camadudo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Xime",
+        "location": {
+          "lat": 11.96213,
+          "lng": -14.9349
+        },
+        "keyAccentLanguage": "xime"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cambara Boido",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "cambara_boido"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chumael",
+        "location": {
+          "lat": 11.6820187,
+          "lng": -14.6500371
+        },
+        "keyAccentLanguage": "chumael"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mamaconom",
+        "location": {
+          "lat": 12.005357,
+          "lng": -14.6762738
+        },
+        "keyAccentLanguage": "mamaconom"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cambasse",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "cambasse"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bure",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "bure"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Xitole",
+        "location": {
+          "lat": 11.73342,
+          "lng": -14.81541
+        },
+        "keyAccentLanguage": "xitole"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bolo",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "bolo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cachanco",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "cachanco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bunancar",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "bunancar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bombocunda",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "bombocunda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bonhama",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "bonhama"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cafia",
+        "location": {
+          "lat": 12.1792339,
+          "lng": -14.846108
+        },
+        "keyAccentLanguage": "cafia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bonere",
+        "location": {
+          "lat": 11.714306,
+          "lng": -14.648461
+        },
+        "keyAccentLanguage": "bonere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bojo Fulbe",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "bojo_fulbe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Boisanuma",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "boisanuma"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bundojide",
+        "location": {
+          "lat": 12.533333,
+          "lng": -14.55
+        },
+        "keyAccentLanguage": "bundojide"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cabufara",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "cabufara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bucol",
+        "location": {
+          "lat": 12.135386,
+          "lng": -14.857411
+        },
+        "keyAccentLanguage": "bucol"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bude",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "bude"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bonco",
+        "location": {
+          "lat": 12.6052766,
+          "lng": -14.7354989
+        },
+        "keyAccentLanguage": "bonco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cambem",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "cambem"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cajuto",
+        "location": {
+          "lat": 12.2347304,
+          "lng": -14.6219833
+        },
+        "keyAccentLanguage": "cajuto"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cambembe",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "cambembe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Camassaba",
+        "location": {
+          "lat": 12.266667,
+          "lng": -14.516667
+        },
+        "keyAccentLanguage": "camassaba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fajonquito",
+        "location": {
+          "lat": 12.5273761,
+          "lng": -14.7506351
+        },
+        "keyAccentLanguage": "fajonquito"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Galomaro",
+        "location": {
+          "lat": 11.9545664,
+          "lng": -14.6383777
+        },
+        "keyAccentLanguage": "galomaro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Camassira",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "camassira"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cambara Nhaco",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "cambara_nhaco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sare Bacar",
+        "location": {
+          "lat": 12.58255,
+          "lng": -14.4694186
+        },
+        "keyAccentLanguage": "sare_bacar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cacha Djabe",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "cacha_djabe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Geba",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "geba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Contuboel",
+        "location": {
+          "lat": 12.3869507,
+          "lng": -14.5721844
+        },
+        "keyAccentLanguage": "contuboel"
+      }
+    ],
+    "enNameLanguage": "Bafatá",
+    "keyAccentLanguage": "bafatá"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 19.1667755,
+      "lng": -96.1183152
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jal",
+        "location": {
+          "lat": 20.6595382,
+          "lng": -103.3494376
+        },
+        "keyAccentLanguage": "jal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bilma",
+        "location": {
+          "lat": 18.6930645,
+          "lng": 12.9177115
+        },
+        "keyAccentLanguage": "bilma"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bissa",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "bissa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Capunga",
+        "location": {
+          "lat": 11.9,
+          "lng": -15.7
+        },
+        "keyAccentLanguage": "capunga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bucomil",
+        "location": {
+          "lat": 11.875006,
+          "lng": -15.904839
+        },
+        "keyAccentLanguage": "bucomil"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Girota",
+        "location": {
+          "lat": 11.95158,
+          "lng": -15.65082
+        },
+        "keyAccentLanguage": "girota"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ilonde",
+        "location": {
+          "lat": 11.89377,
+          "lng": -15.7583
+        },
+        "keyAccentLanguage": "ilonde"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Alfredo Neves",
+        "location": {
+          "lat": 11.8814236,
+          "lng": -15.6626189
+        },
+        "keyAccentLanguage": "ponta_alfredo_neves"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dorce",
+        "location": {
+          "lat": 11.810994,
+          "lng": -15.899111
+        },
+        "keyAccentLanguage": "dorce"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bissauzinho",
+        "location": {
+          "lat": 11.9254318,
+          "lng": -15.806875
+        },
+        "keyAccentLanguage": "bissauzinho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cumano",
+        "location": {
+          "lat": 12.003173,
+          "lng": -15.663965
+        },
+        "keyAccentLanguage": "cumano"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bissaquil",
+        "location": {
+          "lat": 11.898984,
+          "lng": -15.6483029
+        },
+        "keyAccentLanguage": "bissaquil"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bejila",
+        "location": {
+          "lat": 42.4548309,
+          "lng": 18.6551875
+        },
+        "keyAccentLanguage": "bejila"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Crato",
+        "location": {
+          "lat": -7.229957199999999,
+          "lng": -39.4122984
+        },
+        "keyAccentLanguage": "ponta_crato"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Janglar",
+        "location": {
+          "lat": 11.970661,
+          "lng": -15.78195
+        },
+        "keyAccentLanguage": "janglar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta California",
+        "location": {
+          "lat": 36.778261,
+          "lng": -119.4179324
+        },
+        "keyAccentLanguage": "ponta_california"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Imbassina",
+        "location": {
+          "lat": 11.9323219,
+          "lng": -15.619923
+        },
+        "keyAccentLanguage": "imbassina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ondame",
+        "location": {
+          "lat": 11.7725326,
+          "lng": -15.9307252
+        },
+        "keyAccentLanguage": "ondame"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pefine",
+        "location": {
+          "lat": 11.851039,
+          "lng": -15.691389
+        },
+        "keyAccentLanguage": "pefine"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Cabral",
+        "location": {
+          "lat": 11.966667,
+          "lng": -15.85
+        },
+        "keyAccentLanguage": "ponta_cabral"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Prabis",
+        "location": {
+          "lat": 11.7999009,
+          "lng": -15.7439194
+        },
+        "keyAccentLanguage": "prabis"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Petora",
+        "location": {
+          "lat": 11.935856,
+          "lng": -15.71315
+        },
+        "keyAccentLanguage": "petora"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Safim",
+        "location": {
+          "lat": 11.9438068,
+          "lng": -15.6441852
+        },
+        "keyAccentLanguage": "safim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pinhossenol",
+        "location": {
+          "lat": 11.933333,
+          "lng": -15.8
+        },
+        "keyAccentLanguage": "pinhossenol"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Gardete",
+        "location": {
+          "lat": 11.8276068,
+          "lng": -15.6691136
+        },
+        "keyAccentLanguage": "ponta_gardete"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Quinhamel",
+        "location": {
+          "lat": 11.8942426,
+          "lng": -15.8508054
+        },
+        "keyAccentLanguage": "quinhamel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Boa Esperanca",
+        "location": {
+          "lat": 12.416667,
+          "lng": -15.083333
+        },
+        "keyAccentLanguage": "ponta_boa_esperanca"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ome",
+        "location": {
+          "lat": 11.9568619,
+          "lng": -15.785322
+        },
+        "keyAccentLanguage": "ome"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Adolfo Ramos",
+        "location": {
+          "lat": 11.973839,
+          "lng": -15.688983
+        },
+        "keyAccentLanguage": "ponta_adolfo_ramos"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ensalma",
+        "location": {
+          "lat": 11.982227,
+          "lng": -15.637295
+        },
+        "keyAccentLanguage": "ensalma"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cupedo",
+        "location": {
+          "lat": 11.833,
+          "lng": -15.9
+        },
+        "keyAccentLanguage": "cupedo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bunau",
+        "location": {
+          "lat": 11.817,
+          "lng": -15.717
+        },
+        "keyAccentLanguage": "bunau"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Brene Papel",
+        "location": {
+          "lat": 11.883,
+          "lng": -15.65
+        },
+        "keyAccentLanguage": "brene_papel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Petate",
+        "location": {
+          "lat": 11.8,
+          "lng": -15.75
+        },
+        "keyAccentLanguage": "petate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bele",
+        "location": {
+          "lat": 11.833,
+          "lng": -15.767
+        },
+        "keyAccentLanguage": "bele"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Impele",
+        "location": {
+          "lat": 11.983,
+          "lng": -15.65
+        },
+        "keyAccentLanguage": "impele"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Blom",
+        "location": {
+          "lat": 11.783,
+          "lng": -15.9
+        },
+        "keyAccentLanguage": "blom"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Canom",
+        "location": {
+          "lat": 11.867,
+          "lng": -15.65
+        },
+        "keyAccentLanguage": "canom"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Butafete",
+        "location": {
+          "lat": 11.833,
+          "lng": -15.767
+        },
+        "keyAccentLanguage": "butafete"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Joao Carlos",
+        "location": {
+          "lat": 11.85,
+          "lng": -15.75
+        },
+        "keyAccentLanguage": "ponta_joao_carlos"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Goto",
+        "location": {
+          "lat": 11.833,
+          "lng": -15.767
+        },
+        "keyAccentLanguage": "goto"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Rocha",
+        "location": {
+          "lat": 11.933,
+          "lng": -15.65
+        },
+        "keyAccentLanguage": "ponta_rocha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Paixao",
+        "location": {
+          "lat": 11.85,
+          "lng": -15.667
+        },
+        "keyAccentLanguage": "ponta_paixao"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Brene Mancanha",
+        "location": {
+          "lat": 11.883,
+          "lng": -15.667
+        },
+        "keyAccentLanguage": "brene_mancanha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Sanha",
+        "location": {
+          "lat": 11.883,
+          "lng": -15.683
+        },
+        "keyAccentLanguage": "ponta_sanha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Adelino",
+        "location": {
+          "lat": 11.883,
+          "lng": -15.65
+        },
+        "keyAccentLanguage": "ponta_adelino"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta da Negado",
+        "location": {
+          "lat": 11.883,
+          "lng": -15.8
+        },
+        "keyAccentLanguage": "ponta_da_negado"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Com",
+        "location": {
+          "lat": 11.817,
+          "lng": -15.717
+        },
+        "keyAccentLanguage": "com"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pandim",
+        "location": {
+          "lat": 11.883,
+          "lng": -15.9
+        },
+        "keyAccentLanguage": "pandim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Jose da Silva",
+        "location": {
+          "lat": 11.883,
+          "lng": -15.717
+        },
+        "keyAccentLanguage": "ponta_jose_da_silva"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Isaac",
+        "location": {
+          "lat": 11.85,
+          "lng": -15.817
+        },
+        "keyAccentLanguage": "ponta_isaac"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Benjamim Correia",
+        "location": {
+          "lat": 11.817,
+          "lng": -15.717
+        },
+        "keyAccentLanguage": "ponta_benjamim_correia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Augusto Soares",
+        "location": {
+          "lat": 11.917,
+          "lng": -15.733
+        },
+        "keyAccentLanguage": "ponta_augusto_soares"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Prite",
+        "location": {
+          "lat": 11.833,
+          "lng": -15.767
+        },
+        "keyAccentLanguage": "prite"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mua",
+        "location": {
+          "lat": 11.8,
+          "lng": -15.733
+        },
+        "keyAccentLanguage": "mua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Ricardo Soares",
+        "location": {
+          "lat": 11.9,
+          "lng": -15.783
+        },
+        "keyAccentLanguage": "ponta_ricardo_soares"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Adriano",
+        "location": {
+          "lat": 11.967,
+          "lng": -15.633
+        },
+        "keyAccentLanguage": "ponta_adriano"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Insiquil",
+        "location": {
+          "lat": 11.817,
+          "lng": -15.767
+        },
+        "keyAccentLanguage": "insiquil"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Carango",
+        "location": {
+          "lat": 11.85,
+          "lng": -15.667
+        },
+        "keyAccentLanguage": "carango"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pasta",
+        "location": {
+          "lat": 11.833,
+          "lng": -15.767
+        },
+        "keyAccentLanguage": "pasta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Buta",
+        "location": {
+          "lat": 11.833,
+          "lng": -15.75
+        },
+        "keyAccentLanguage": "buta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Oco",
+        "location": {
+          "lat": 11.8,
+          "lng": -15.7
+        },
+        "keyAccentLanguage": "oco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponte Movel",
+        "location": {
+          "lat": 11.983,
+          "lng": -15.633
+        },
+        "keyAccentLanguage": "ponte_movel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jogro",
+        "location": {
+          "lat": 11.85,
+          "lng": -15.767
+        },
+        "keyAccentLanguage": "jogro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abigna",
+        "location": {
+          "lat": 11.883,
+          "lng": -15.783
+        },
+        "keyAccentLanguage": "abigna"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Enchude",
+        "location": {
+          "lat": 11.883,
+          "lng": -15.75
+        },
+        "keyAccentLanguage": "enchude"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Binar",
+        "location": {
+          "lat": 11.95,
+          "lng": -15.7
+        },
+        "keyAccentLanguage": "binar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Plaque",
+        "location": {
+          "lat": 11.883,
+          "lng": -15.65
+        },
+        "keyAccentLanguage": "plaque"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Rapaz",
+        "location": {
+          "lat": 11.883,
+          "lng": -15.717
+        },
+        "keyAccentLanguage": "ponta_rapaz"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Engenegane",
+        "location": {
+          "lat": 11.95,
+          "lng": -15.667
+        },
+        "keyAccentLanguage": "engenegane"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Blimate",
+        "location": {
+          "lat": 11.883,
+          "lng": -15.733
+        },
+        "keyAccentLanguage": "blimate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cubisseco",
+        "location": {
+          "lat": 11.833,
+          "lng": -15.667
+        },
+        "keyAccentLanguage": "cubisseco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Blimblim",
+        "location": {
+          "lat": 11.783,
+          "lng": -15.933
+        },
+        "keyAccentLanguage": "blimblim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gomine",
+        "location": {
+          "lat": 11.85,
+          "lng": -15.717
+        },
+        "keyAccentLanguage": "gomine"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Ondi Vieira",
+        "location": {
+          "lat": 11.9,
+          "lng": -15.733
+        },
+        "keyAccentLanguage": "ponta_ondi_vieira"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Vermelha",
+        "location": {
+          "lat": 11.817,
+          "lng": -15.833
+        },
+        "keyAccentLanguage": "ponta_vermelha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Inticlim",
+        "location": {
+          "lat": 11.983,
+          "lng": -15.667
+        },
+        "keyAccentLanguage": "inticlim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bunglar",
+        "location": {
+          "lat": 11.8,
+          "lng": -15.717
+        },
+        "keyAccentLanguage": "bunglar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Honorio",
+        "location": {
+          "lat": 11.817,
+          "lng": -15.833
+        },
+        "keyAccentLanguage": "ponta_honorio"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Enterramento",
+        "location": {
+          "lat": 11.867,
+          "lng": -15.65
+        },
+        "keyAccentLanguage": "enterramento"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Picete",
+        "location": {
+          "lat": 11.817,
+          "lng": -15.717
+        },
+        "keyAccentLanguage": "picete"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Joaquim Pereira",
+        "location": {
+          "lat": 11.817,
+          "lng": -15.683
+        },
+        "keyAccentLanguage": "ponta_joaquim_pereira"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Incumba",
+        "location": {
+          "lat": 11.8,
+          "lng": -15.75
+        },
+        "keyAccentLanguage": "incumba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Corrente",
+        "location": {
+          "lat": 11.9,
+          "lng": -15.783
+        },
+        "keyAccentLanguage": "ponta_corrente"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Petoro",
+        "location": {
+          "lat": 11.867,
+          "lng": -15.65
+        },
+        "keyAccentLanguage": "petoro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pequeje",
+        "location": {
+          "lat": 11.85,
+          "lng": -15.767
+        },
+        "keyAccentLanguage": "pequeje"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Betesga",
+        "location": {
+          "lat": 11.833,
+          "lng": -15.75
+        },
+        "keyAccentLanguage": "betesga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gorse",
+        "location": {
+          "lat": 11.9,
+          "lng": -15.85
+        },
+        "keyAccentLanguage": "gorse"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Branco",
+        "location": {
+          "lat": 11.8,
+          "lng": -15.75
+        },
+        "keyAccentLanguage": "branco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Compito",
+        "location": {
+          "lat": 11.817,
+          "lng": -15.833
+        },
+        "keyAccentLanguage": "ponta_compito"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Monte Cristo",
+        "location": {
+          "lat": 11.95,
+          "lng": -15.633
+        },
+        "keyAccentLanguage": "ponta_monte_cristo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gua",
+        "location": {
+          "lat": 11.9,
+          "lng": -15.633
+        },
+        "keyAccentLanguage": "gua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pacaque",
+        "location": {
+          "lat": 11.817,
+          "lng": -15.767
+        },
+        "keyAccentLanguage": "pacaque"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Vicente de Mata",
+        "location": {
+          "lat": 11.933,
+          "lng": -15.7
+        },
+        "keyAccentLanguage": "ponta_vicente_de_mata"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Marim",
+        "location": {
+          "lat": 11.85,
+          "lng": -15.667
+        },
+        "keyAccentLanguage": "marim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Augusto Correia",
+        "location": {
+          "lat": 11.9,
+          "lng": -15.733
+        },
+        "keyAccentLanguage": "ponta_augusto_correia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Piniz",
+        "location": {
+          "lat": 11.917,
+          "lng": -15.683
+        },
+        "keyAccentLanguage": "ponta_piniz"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Blunde",
+        "location": {
+          "lat": 11.8,
+          "lng": -15.733
+        },
+        "keyAccentLanguage": "blunde"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Quecene",
+        "location": {
+          "lat": 11.883,
+          "lng": -15.917
+        },
+        "keyAccentLanguage": "quecene"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Naga",
+        "location": {
+          "lat": 11.817,
+          "lng": -15.683
+        },
+        "keyAccentLanguage": "naga"
+      }
+    ],
+    "enNameLanguage": "Biombo",
+    "keyAccentLanguage": "biombo"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 11.8816553,
+      "lng": -15.6177942
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Quetene",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "quetene"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Querique",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "querique"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cuio",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "cuio"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Impatemane Papel",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "impatemane_papel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Empanja",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "empanja"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Gomes",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "ponta_gomes"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Achada do Burro",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "achada_do_burro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Caliquir",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "caliquir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Coco",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "coco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bono",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "bono"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Insa",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "insa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dutebor",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "dutebor"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cassina Papel",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "cassina_papel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cassina Mancanha",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "cassina_mancanha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bra",
+        "location": {
+          "lat": 11.8687948,
+          "lng": -15.6251246
+        },
+        "keyAccentLanguage": "bra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Penha",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "penha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bissau",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "bissau"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Crim",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "crim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dutebandim",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "dutebandim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Buqueje",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "buqueje"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jolo Papel",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "jolo_papel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bambadinca Balanta",
+        "location": {
+          "lat": 12.0116969,
+          "lng": -14.8688126
+        },
+        "keyAccentLanguage": "bambadinca_balanta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jolo Balanta",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "jolo_balanta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Campo Antigo",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "campo_antigo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Piana",
+        "location": {
+          "lat": 42.23826469999999,
+          "lng": 8.6366351
+        },
+        "keyAccentLanguage": "piana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Taquir",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "taquir"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pedreira",
+        "location": {
+          "lat": 11.87468,
+          "lng": -15.588109
+        },
+        "keyAccentLanguage": "pedreira"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Amorim",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "ponta_amorim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Vasconcelos",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "ponta_vasconcelos"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pabijaro",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "pabijaro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bambadinca Mancanha",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "bambadinca_mancanha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Querim",
+        "location": {
+          "lat": 15.717681,
+          "lng": 73.7052968
+        },
+        "keyAccentLanguage": "querim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cupelao",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "cupelao"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Reino de Intim",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "reino_de_intim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nova Co",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "nova_co"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cajila",
+        "location": {
+          "lat": 11.886449,
+          "lng": -15.6139869
+        },
+        "keyAccentLanguage": "cajila"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Teixeira",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "ponta_teixeira"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Bernardo Soares",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "ponta_bernardo_soares"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Amancio",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "ponta_amancio"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Manuel das Aguas",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "ponta_manuel_das_aguas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ga Beafada",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "ga_beafada"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Reino de Antula",
+        "location": {
+          "lat": 11.8969747,
+          "lng": -15.5914071
+        },
+        "keyAccentLanguage": "reino_de_antula"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Luis Gomes",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "ponta_luis_gomes"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Augusto Rosario",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "ponta_augusto_rosario"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Praca de Bandim",
+        "location": {
+          "lat": 11.8510814,
+          "lng": -15.5958047
+        },
+        "keyAccentLanguage": "praca_de_bandim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ponta Mariano",
+        "location": {
+          "lat": 11.8807108,
+          "lng": -15.620895
+        },
+        "keyAccentLanguage": "ponta_mariano"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Querunguel Papel",
+        "location": {
+          "lat": 11.8632196,
+          "lng": -15.5843227
+        },
+        "keyAccentLanguage": "querunguel_papel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Quelele",
+        "location": {
+          "lat": 11.8492701,
+          "lng": -15.6280569
+        },
+        "keyAccentLanguage": "quelele"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Impatemane Balanta",
+        "location": {
+          "lat": 11.8835073,
+          "lng": -15.620037
+        },
+        "keyAccentLanguage": "impatemane_balanta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mindara",
+        "location": {
+          "lat": 11.8572635,
+          "lng": -15.5965376
+        },
+        "keyAccentLanguage": "mindara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Reino de Bandim",
+        "location": {
+          "lat": 11.8510814,
+          "lng": -15.5958047
+        },
+        "keyAccentLanguage": "reino_de_bandim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Contumo",
+        "location": {
+          "lat": -38.01645269999999,
+          "lng": -73.2311031
+        },
+        "keyAccentLanguage": "contumo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Querunguel Mancanha",
+        "location": {
+          "lat": 11.8813926,
+          "lng": -15.6280753
+        },
+        "keyAccentLanguage": "querunguel_mancanha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Santa Luzia",
+        "location": {
+          "lat": 11.8711807,
+          "lng": -15.5888419
+        },
+        "keyAccentLanguage": "santa_luzia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Reino de Bor",
+        "location": {
+          "lat": 11.85,
+          "lng": -15.633
+        },
+        "keyAccentLanguage": "reino_de_bor"
+      }
+    ],
+    "enNameLanguage": "Bissau",
+    "keyAccentLanguage": "bissau"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 11.5770712,
+      "lng": -15.4800382
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Etiogo",
+        "location": {
+          "lat": 11.5770712,
+          "lng": -15.4800382
+        },
+        "keyAccentLanguage": "etiogo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cuchame",
+        "location": {
+          "lat": 11.5770712,
+          "lng": -15.4800382
+        },
+        "keyAccentLanguage": "cuchame"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ametite",
+        "location": {
+          "lat": 11.484534,
+          "lng": -15.677127
+        },
+        "keyAccentLanguage": "ametite"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abene",
+        "location": {
+          "lat": 11.166667,
+          "lng": -15.966667
+        },
+        "keyAccentLanguage": "abene"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ampincha",
+        "location": {
+          "lat": 11.514154,
+          "lng": -16.177507
+        },
+        "keyAccentLanguage": "ampincha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acuno",
+        "location": {
+          "lat": 11.5770712,
+          "lng": -15.4800382
+        },
+        "keyAccentLanguage": "acuno"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amboje",
+        "location": {
+          "lat": 11.508777,
+          "lng": -16.179462
+        },
+        "keyAccentLanguage": "amboje"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Binte",
+        "location": {
+          "lat": 11.48607,
+          "lng": -16.238009
+        },
+        "keyAccentLanguage": "binte"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acajiriba",
+        "location": {
+          "lat": 11.5770712,
+          "lng": -15.4800382
+        },
+        "keyAccentLanguage": "acajiriba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acuminca",
+        "location": {
+          "lat": 11.530936,
+          "lng": -16.401103
+        },
+        "keyAccentLanguage": "acuminca"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Angumpa",
+        "location": {
+          "lat": 11.5770712,
+          "lng": -15.4800382
+        },
+        "keyAccentLanguage": "angumpa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bine",
+        "location": {
+          "lat": 11.5770712,
+          "lng": -15.4800382
+        },
+        "keyAccentLanguage": "bine"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anaburu",
+        "location": {
+          "lat": 11.5770712,
+          "lng": -15.4800382
+        },
+        "keyAccentLanguage": "anaburu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bissante",
+        "location": {
+          "lat": 11.5770712,
+          "lng": -15.4800382
+        },
+        "keyAccentLanguage": "bissante"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ameta",
+        "location": {
+          "lat": 11.213781,
+          "lng": -15.878366
+        },
+        "keyAccentLanguage": "ameta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bichau",
+        "location": {
+          "lat": 11.556583,
+          "lng": -16.287359
+        },
+        "keyAccentLanguage": "bichau"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anane",
+        "location": {
+          "lat": 11.2585,
+          "lng": -16.172717
+        },
+        "keyAccentLanguage": "anane"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cabua",
+        "location": {
+          "lat": 11.5770712,
+          "lng": -15.4800382
+        },
+        "keyAccentLanguage": "cabua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Areia Branca",
+        "location": {
+          "lat": -4.952417899999999,
+          "lng": -37.1278947
+        },
+        "keyAccentLanguage": "areia_branca"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bolama",
+        "location": {
+          "lat": 11.5770712,
+          "lng": -15.4800382
+        },
+        "keyAccentLanguage": "bolama"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ancopate",
+        "location": {
+          "lat": 11.5770712,
+          "lng": -15.4800382
+        },
+        "keyAccentLanguage": "ancopate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aniguna",
+        "location": {
+          "lat": 11.5770712,
+          "lng": -15.4800382
+        },
+        "keyAccentLanguage": "aniguna"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anga",
+        "location": {
+          "lat": 11.524286,
+          "lng": -15.998184
+        },
+        "keyAccentLanguage": "anga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ancaname",
+        "location": {
+          "lat": 11.5770712,
+          "lng": -15.4800382
+        },
+        "keyAccentLanguage": "ancaname"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ancoronho",
+        "location": {
+          "lat": 11.5770712,
+          "lng": -15.4800382
+        },
+        "keyAccentLanguage": "ancoronho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anor",
+        "location": {
+          "lat": 11.082072,
+          "lng": -16.226082
+        },
+        "keyAccentLanguage": "anor"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Auja",
+        "location": {
+          "lat": 11.5770712,
+          "lng": -15.4800382
+        },
+        "keyAccentLanguage": "auja"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambeno",
+        "location": {
+          "lat": 11.198342,
+          "lng": -15.745696
+        },
+        "keyAccentLanguage": "ambeno"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anecuene",
+        "location": {
+          "lat": 11.170527,
+          "lng": -16.0317839
+        },
+        "keyAccentLanguage": "anecuene"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ancajibe",
+        "location": {
+          "lat": 11.5770712,
+          "lng": -15.4800382
+        },
+        "keyAccentLanguage": "ancajibe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Angojiga",
+        "location": {
+          "lat": 11.281742,
+          "lng": -15.670441
+        },
+        "keyAccentLanguage": "angojiga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ancamona",
+        "location": {
+          "lat": 11.460011,
+          "lng": -16.032888
+        },
+        "keyAccentLanguage": "ancamona"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abu",
+        "location": {
+          "lat": 11.5770712,
+          "lng": -15.4800382
+        },
+        "keyAccentLanguage": "abu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acoco",
+        "location": {
+          "lat": 11.466667,
+          "lng": -15.916667
+        },
+        "keyAccentLanguage": "acoco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ancumbo",
+        "location": {
+          "lat": 11.310287,
+          "lng": -16.0902439
+        },
+        "keyAccentLanguage": "ancumbo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambereno",
+        "location": {
+          "lat": 11.5770712,
+          "lng": -15.4800382
+        },
+        "keyAccentLanguage": "ambereno"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bijana",
+        "location": {
+          "lat": 11.5770712,
+          "lng": -15.4800382
+        },
+        "keyAccentLanguage": "bijana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Calmancunda",
+        "location": {
+          "lat": 11.5770712,
+          "lng": -15.4800382
+        },
+        "keyAccentLanguage": "calmancunda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambacana",
+        "location": {
+          "lat": 11.450073,
+          "lng": -15.723588
+        },
+        "keyAccentLanguage": "ambacana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Botai",
+        "location": {
+          "lat": 11.583333,
+          "lng": -15.966667
+        },
+        "keyAccentLanguage": "botai"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bolama de Baixo",
+        "location": {
+          "lat": 11.5238808,
+          "lng": -15.6144956
+        },
+        "keyAccentLanguage": "bolama_de_baixo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bubaque",
+        "location": {
+          "lat": 11.3000636,
+          "lng": -15.830986
+        },
+        "keyAccentLanguage": "bubaque"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anhimango",
+        "location": {
+          "lat": 11.5770712,
+          "lng": -15.4800382
+        },
+        "keyAccentLanguage": "anhimango"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bedache",
+        "location": {
+          "lat": 11.5205559,
+          "lng": -16.366191
+        },
+        "keyAccentLanguage": "bedache"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Equinar",
+        "location": {
+          "lat": 11.5770712,
+          "lng": -15.4800382
+        },
+        "keyAccentLanguage": "equinar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Entomane",
+        "location": {
+          "lat": 11.5770712,
+          "lng": -15.4800382
+        },
+        "keyAccentLanguage": "entomane"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Betelhe",
+        "location": {
+          "lat": 11.50044,
+          "lng": -16.304876
+        },
+        "keyAccentLanguage": "betelhe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ancaninho",
+        "location": {
+          "lat": 11.5770712,
+          "lng": -15.4800382
+        },
+        "keyAccentLanguage": "ancaninho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acubede",
+        "location": {
+          "lat": 11.498106,
+          "lng": -16.293564
+        },
+        "keyAccentLanguage": "acubede"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ancopado",
+        "location": {
+          "lat": 11.041041,
+          "lng": -16.144211
+        },
+        "keyAccentLanguage": "ancopado"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambuduco",
+        "location": {
+          "lat": 11.2483419,
+          "lng": -15.729029
+        },
+        "keyAccentLanguage": "ambuduco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Angaura",
+        "location": {
+          "lat": 23.535919,
+          "lng": 90.78359259999999
+        },
+        "keyAccentLanguage": "angaura"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Egara",
+        "location": {
+          "lat": 11.297086,
+          "lng": -16.438584
+        },
+        "keyAccentLanguage": "egara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Catende",
+        "location": {
+          "lat": 11.45,
+          "lng": -15.983333
+        },
+        "keyAccentLanguage": "catende"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cuiane",
+        "location": {
+          "lat": 11.483478,
+          "lng": -16.012205
+        },
+        "keyAccentLanguage": "cuiane"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Casseque",
+        "location": {
+          "lat": 11.5628303,
+          "lng": -15.4818694
+        },
+        "keyAccentLanguage": "casseque"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Angodigo",
+        "location": {
+          "lat": 11.226546,
+          "lng": -16.198704
+        },
+        "keyAccentLanguage": "angodigo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cabuno",
+        "location": {
+          "lat": 11.23464,
+          "lng": -16.2358939
+        },
+        "keyAccentLanguage": "cabuno"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Angumba",
+        "location": {
+          "lat": 11.288792,
+          "lng": -15.683224
+        },
+        "keyAccentLanguage": "angumba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ancano",
+        "location": {
+          "lat": 11.461784,
+          "lng": -15.659304
+        },
+        "keyAccentLanguage": "ancano"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anipoco",
+        "location": {
+          "lat": 11.576476,
+          "lng": -16.282644
+        },
+        "keyAccentLanguage": "anipoco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Caboupa Cabral",
+        "location": {
+          "lat": 11.5733752,
+          "lng": -15.5225259
+        },
+        "keyAccentLanguage": "caboupa_cabral"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Caboupa Mendonca",
+        "location": {
+          "lat": 11.576409,
+          "lng": -15.5111705
+        },
+        "keyAccentLanguage": "caboupa_mendonca"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambiur",
+        "location": {
+          "lat": 11.5770712,
+          "lng": -15.4800382
+        },
+        "keyAccentLanguage": "ambiur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ancalhe",
+        "location": {
+          "lat": 11.317042,
+          "lng": -16.117952
+        },
+        "keyAccentLanguage": "ancalhe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eticoba",
+        "location": {
+          "lat": 11.357837,
+          "lng": -15.864696
+        },
+        "keyAccentLanguage": "eticoba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Acanho",
+        "location": {
+          "lat": 11.161039,
+          "lng": -15.928378
+        },
+        "keyAccentLanguage": "acanho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ancaquia",
+        "location": {
+          "lat": 11.136674,
+          "lng": -16.1061039
+        },
+        "keyAccentLanguage": "ancaquia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eticodeba",
+        "location": {
+          "lat": 11.172812,
+          "lng": -15.944739
+        },
+        "keyAccentLanguage": "eticodeba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agongo de Eguba",
+        "location": {
+          "lat": 11.3510519,
+          "lng": -16.0372309
+        },
+        "keyAccentLanguage": "agongo_de_eguba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Canema",
+        "location": {
+          "lat": 11.5582125,
+          "lng": -15.5349812
+        },
+        "keyAccentLanguage": "canema"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Canema Bijago",
+        "location": {
+          "lat": 11.5582125,
+          "lng": -15.5349812
+        },
+        "keyAccentLanguage": "canema_bijago"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambeduco",
+        "location": {
+          "lat": 11.28684,
+          "lng": -16.195765
+        },
+        "keyAccentLanguage": "ambeduco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anchorupe",
+        "location": {
+          "lat": 11.5770712,
+          "lng": -15.4800382
+        },
+        "keyAccentLanguage": "anchorupe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eguba",
+        "location": {
+          "lat": 11.3510519,
+          "lng": -16.0372309
+        },
+        "keyAccentLanguage": "eguba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ancagume",
+        "location": {
+          "lat": 11.107169,
+          "lng": -16.152228
+        },
+        "keyAccentLanguage": "ancagume"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Etinhoque",
+        "location": {
+          "lat": 11.0690139,
+          "lng": -16.160172
+        },
+        "keyAccentLanguage": "etinhoque"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Calege",
+        "location": {
+          "lat": 11.5223995,
+          "lng": -15.5816962
+        },
+        "keyAccentLanguage": "calege"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chedia",
+        "location": {
+          "lat": 11.567795,
+          "lng": -15.925561
+        },
+        "keyAccentLanguage": "chedia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eguebe",
+        "location": {
+          "lat": 11.349053,
+          "lng": -15.878901
+        },
+        "keyAccentLanguage": "eguebe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eticoga",
+        "location": {
+          "lat": 11.150102,
+          "lng": -16.128466
+        },
+        "keyAccentLanguage": "eticoga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bijante",
+        "location": {
+          "lat": 11.2848772,
+          "lng": -15.8338001
+        },
+        "keyAccentLanguage": "bijante"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cassucai",
+        "location": {
+          "lat": 11.569774,
+          "lng": -15.487363
+        },
+        "keyAccentLanguage": "cassucai"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bolama Nova",
+        "location": {
+          "lat": 11.583,
+          "lng": -15.483
+        },
+        "keyAccentLanguage": "bolama_nova"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ancadona",
+        "location": {
+          "lat": 11.233,
+          "lng": -16.183
+        },
+        "keyAccentLanguage": "ancadona"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ancabasse",
+        "location": {
+          "lat": 11.25,
+          "lng": -15.883
+        },
+        "keyAccentLanguage": "ancabasse"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arranja a Vida de Cima",
+        "location": {
+          "lat": 11.55,
+          "lng": -15.533
+        },
+        "keyAccentLanguage": "arranja_a_vida_de_cima"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Casa Nova",
+        "location": {
+          "lat": 11.583,
+          "lng": -15.483
+        },
+        "keyAccentLanguage": "casa_nova"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agongo de Coreto",
+        "location": {
+          "lat": 11.517,
+          "lng": -16.383
+        },
+        "keyAccentLanguage": "agongo_de_coreto"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ancadaque",
+        "location": {
+          "lat": 11.467,
+          "lng": -15.95
+        },
+        "keyAccentLanguage": "ancadaque"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cabanguna",
+        "location": {
+          "lat": 11.567,
+          "lng": -15.95
+        },
+        "keyAccentLanguage": "cabanguna"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eboco",
+        "location": {
+          "lat": 11.25,
+          "lng": -15.7
+        },
+        "keyAccentLanguage": "eboco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Caminhate",
+        "location": {
+          "lat": 11.45,
+          "lng": -15.917
+        },
+        "keyAccentLanguage": "caminhate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Uno",
+        "location": {
+          "lat": 11.252,
+          "lng": -16.174
+        },
+        "keyAccentLanguage": "uno"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arranja a Vida de Baixo",
+        "location": {
+          "lat": 11.55,
+          "lng": -15.517
+        },
+        "keyAccentLanguage": "arranja_a_vida_de_baixo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bruce",
+        "location": {
+          "lat": 11.233,
+          "lng": -15.867
+        },
+        "keyAccentLanguage": "bruce"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cane",
+        "location": {
+          "lat": 11.55,
+          "lng": -15.583
+        },
+        "keyAccentLanguage": "cane"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Caboupa Aguiar",
+        "location": {
+          "lat": 11.583,
+          "lng": -15.517
+        },
+        "keyAccentLanguage": "caboupa_aguiar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anonho",
+        "location": {
+          "lat": 11.233,
+          "lng": -16.15
+        },
+        "keyAccentLanguage": "anonho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cabicunda",
+        "location": {
+          "lat": 11.55,
+          "lng": -15.567
+        },
+        "keyAccentLanguage": "cabicunda"
+      }
+    ],
+    "enNameLanguage": "Bolama",
+    "keyAccentLanguage": "bolama"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 12.2732631,
+      "lng": -16.1669156
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barraca Bambore",
+        "location": {
+          "lat": 12.446982,
+          "lng": -16.202347
+        },
+        "keyAccentLanguage": "barraca_bambore"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barraca Tara",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "barraca_tara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Canchungo",
+        "location": {
+          "lat": 12.073469,
+          "lng": -16.0346285
+        },
+        "keyAccentLanguage": "canchungo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barraca Sancho",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "barraca_sancho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bassa",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "bassa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amone",
+        "location": {
+          "lat": 12.355625,
+          "lng": -15.947809
+        },
+        "keyAccentLanguage": "amone"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Badapal",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "badapal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Badigue",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "badigue"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arame",
+        "location": {
+          "lat": 12.294893,
+          "lng": -16.43206
+        },
+        "keyAccentLanguage": "arame"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bachile",
+        "location": {
+          "lat": 12.177279,
+          "lng": -16.054678
+        },
+        "keyAccentLanguage": "bachile"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afia",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "afia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bachute",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "bachute"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Babacha",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "babacha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bachetecor",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "bachetecor"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Babul",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "babul"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bacala",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "bacala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bafundade",
+        "location": {
+          "lat": 12.12008,
+          "lng": -16.181129
+        },
+        "keyAccentLanguage": "bafundade"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Babol",
+        "location": {
+          "lat": 12.172737,
+          "lng": -16.111172
+        },
+        "keyAccentLanguage": "babol"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bague",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "bague"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baraka Patata",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "baraka_patata"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Balil",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "balil"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barro Grande",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "barro_grande"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Babanda",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "babanda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Achinde",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "achinde"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Balombe",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "balombe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abul",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "abul"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bajame",
+        "location": {
+          "lat": 12.217483,
+          "lng": -16.110611
+        },
+        "keyAccentLanguage": "bajame"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bara",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "bara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bajenje",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "bajenje"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Apilho",
+        "location": {
+          "lat": 12.336041,
+          "lng": -15.943666
+        },
+        "keyAccentLanguage": "apilho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cacheu",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "cacheu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bame",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "bame"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bacar",
+        "location": {
+          "lat": 12.133773,
+          "lng": -15.809849
+        },
+        "keyAccentLanguage": "bacar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bajonga",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "bajonga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bajala",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "bajala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Co",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "co"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barraca",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "barraca"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Banou",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "banou"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barraca Lugar",
+        "location": {
+          "lat": 12.433719,
+          "lng": -16.16892
+        },
+        "keyAccentLanguage": "barraca_lugar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barrozinho",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "barrozinho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bagongo",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "bagongo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aquincha",
+        "location": {
+          "lat": 12.4,
+          "lng": -15.966667
+        },
+        "keyAccentLanguage": "aquincha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abulzinho",
+        "location": {
+          "lat": 12.383922,
+          "lng": -15.889207
+        },
+        "keyAccentLanguage": "abulzinho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Caio",
+        "location": {
+          "lat": 11.9325807,
+          "lng": -16.1977954
+        },
+        "keyAccentLanguage": "caio"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Apilho Balanta",
+        "location": {
+          "lat": 12.34237,
+          "lng": -15.932591
+        },
+        "keyAccentLanguage": "apilho_balanta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barme",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "barme"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bamal",
+        "location": {
+          "lat": 12.197638,
+          "lng": -16.052664
+        },
+        "keyAccentLanguage": "bamal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bachegue",
+        "location": {
+          "lat": 12.067934,
+          "lng": -16.074553
+        },
+        "keyAccentLanguage": "bachegue"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baniu Omua",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "baniu_omua"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barraca Cana",
+        "location": {
+          "lat": 12.441402,
+          "lng": -16.065931
+        },
+        "keyAccentLanguage": "barraca_cana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Varela",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "varela"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bagondante",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "bagondante"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barro",
+        "location": {
+          "lat": 12.3889681,
+          "lng": -15.6207263
+        },
+        "keyAccentLanguage": "barro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barraca Biro",
+        "location": {
+          "lat": 12.327178,
+          "lng": -15.910356
+        },
+        "keyAccentLanguage": "barraca_biro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bariapende",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "bariapende"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afanque",
+        "location": {
+          "lat": 12.433333,
+          "lng": -16.1
+        },
+        "keyAccentLanguage": "afanque"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Susana",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "susana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antotinha",
+        "location": {
+          "lat": 12.2789973,
+          "lng": -15.790872
+        },
+        "keyAccentLanguage": "antotinha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Utama",
+        "location": {
+          "lat": 12.0635328,
+          "lng": -16.2492724
+        },
+        "keyAccentLanguage": "utama"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barraca Batata",
+        "location": {
+          "lat": 12.0551416,
+          "lng": -16.0640179
+        },
+        "keyAccentLanguage": "barraca_batata"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bangomine",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "bangomine"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bada",
+        "location": {
+          "lat": 12.183333,
+          "lng": -15.8
+        },
+        "keyAccentLanguage": "bada"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bachile Fanho",
+        "location": {
+          "lat": 12.283333,
+          "lng": -16.033333
+        },
+        "keyAccentLanguage": "bachile_fanho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chanto",
+        "location": {
+          "lat": 12.08932,
+          "lng": -16.168421
+        },
+        "keyAccentLanguage": "chanto"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Balem",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "balem"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Badica",
+        "location": {
+          "lat": 12.07747,
+          "lng": -15.80951
+        },
+        "keyAccentLanguage": "badica"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antotinhamezinho",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "antotinhamezinho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barraca Poilao",
+        "location": {
+          "lat": 12.0551416,
+          "lng": -16.0640179
+        },
+        "keyAccentLanguage": "barraca_poilao"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baguingue",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "baguingue"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barraca Mandioca",
+        "location": {
+          "lat": 12.0551416,
+          "lng": -16.0640179
+        },
+        "keyAccentLanguage": "barraca_mandioca"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bajuaca",
+        "location": {
+          "lat": 12.017457,
+          "lng": -16.0627609
+        },
+        "keyAccentLanguage": "bajuaca"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baguendal",
+        "location": {
+          "lat": 12.183333,
+          "lng": -15.933333
+        },
+        "keyAccentLanguage": "baguendal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Balimbom",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "balimbom"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bajope",
+        "location": {
+          "lat": 12.111494,
+          "lng": -16.238321
+        },
+        "keyAccentLanguage": "bajope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bajique",
+        "location": {
+          "lat": 12.08614,
+          "lng": -15.838678
+        },
+        "keyAccentLanguage": "bajique"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Banhinda",
+        "location": {
+          "lat": 12.235996,
+          "lng": -16.035784
+        },
+        "keyAccentLanguage": "banhinda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bula",
+        "location": {
+          "lat": 12.1062929,
+          "lng": -15.7087128
+        },
+        "keyAccentLanguage": "bula"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barraca Begoa",
+        "location": {
+          "lat": 12.445417,
+          "lng": -16.12826
+        },
+        "keyAccentLanguage": "barraca_begoa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bachetebacute",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "bachetebacute"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Injante",
+        "location": {
+          "lat": 11.766948,
+          "lng": -16.051922
+        },
+        "keyAccentLanguage": "injante"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bachamor",
+        "location": {
+          "lat": 12.379013,
+          "lng": -16.226648
+        },
+        "keyAccentLanguage": "bachamor"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Biango",
+        "location": {
+          "lat": 12.18369,
+          "lng": -16.23576
+        },
+        "keyAccentLanguage": "biango"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barrunhe",
+        "location": {
+          "lat": -21.1910051,
+          "lng": -48.16039809999999
+        },
+        "keyAccentLanguage": "barrunhe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barraca Mampatas",
+        "location": {
+          "lat": 12.499853,
+          "lng": -15.513653
+        },
+        "keyAccentLanguage": "barraca_mampatas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Balenguerez",
+        "location": {
+          "lat": 12.161552,
+          "lng": -16.127649
+        },
+        "keyAccentLanguage": "balenguerez"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jolmete",
+        "location": {
+          "lat": 12.2210241,
+          "lng": -15.8569193
+        },
+        "keyAccentLanguage": "jolmete"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sao Domingos",
+        "location": {
+          "lat": 12.4100993,
+          "lng": -16.1963248
+        },
+        "keyAccentLanguage": "sao_domingos"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bassarel",
+        "location": {
+          "lat": 12.118606,
+          "lng": -16.181549
+        },
+        "keyAccentLanguage": "bassarel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bapeja",
+        "location": {
+          "lat": 12.214958,
+          "lng": -16.0942459
+        },
+        "keyAccentLanguage": "bapeja"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bigene",
+        "location": {
+          "lat": 12.4464407,
+          "lng": -15.5415755
+        },
+        "keyAccentLanguage": "bigene"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bassane",
+        "location": {
+          "lat": 12.059161,
+          "lng": -16.265204
+        },
+        "keyAccentLanguage": "bassane"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Banhima",
+        "location": {
+          "lat": 12.360725,
+          "lng": -15.736996
+        },
+        "keyAccentLanguage": "banhima"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pelundo",
+        "location": {
+          "lat": 12.1189589,
+          "lng": -15.9670501
+        },
+        "keyAccentLanguage": "pelundo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bajeto",
+        "location": {
+          "lat": 12.233333,
+          "lng": -16.216667
+        },
+        "keyAccentLanguage": "bajeto"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Banocle",
+        "location": {
+          "lat": 12.2732631,
+          "lng": -16.1669156
+        },
+        "keyAccentLanguage": "banocle"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Banhute",
+        "location": {
+          "lat": 12.1704899,
+          "lng": -16.058069
+        },
+        "keyAccentLanguage": "banhute"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Calequisse",
+        "location": {
+          "lat": 12.0652835,
+          "lng": -16.2198553
+        },
+        "keyAccentLanguage": "calequisse"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ingore",
+        "location": {
+          "lat": 12.4063777,
+          "lng": -15.7967419
+        },
+        "keyAccentLanguage": "ingore"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bamoial",
+        "location": {
+          "lat": 12.15,
+          "lng": -16.133333
+        },
+        "keyAccentLanguage": "bamoial"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bajope",
+        "location": {
+          "lat": 12.111494,
+          "lng": -16.238321
+        },
+        "keyAccentLanguage": "bajope"
+      }
+    ],
+    "enNameLanguage": "Cacheu",
+    "keyAccentLanguage": "cacheu"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 12.2850861,
+      "lng": -14.2337805
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afia Demba",
+        "location": {
+          "lat": 12.2836137,
+          "lng": -14.2251939
+        },
+        "keyAccentLanguage": "afia_demba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Banjulo",
+        "location": {
+          "lat": 12.383333,
+          "lng": -13.716667
+        },
+        "keyAccentLanguage": "banjulo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bacar Julere",
+        "location": {
+          "lat": 12.2836137,
+          "lng": -14.2251939
+        },
+        "keyAccentLanguage": "bacar_julere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andebe",
+        "location": {
+          "lat": 12.2836137,
+          "lng": -14.2251939
+        },
+        "keyAccentLanguage": "andebe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ama Seidi",
+        "location": {
+          "lat": 12.416667,
+          "lng": -14.233333
+        },
+        "keyAccentLanguage": "ama_seidi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bacar Chucael",
+        "location": {
+          "lat": 12.2836137,
+          "lng": -14.2251939
+        },
+        "keyAccentLanguage": "bacar_chucael"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Banta Foru",
+        "location": {
+          "lat": 11.816667,
+          "lng": -14.133333
+        },
+        "keyAccentLanguage": "banta_foru"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aliu Bure",
+        "location": {
+          "lat": 12.366667,
+          "lng": -14.316667
+        },
+        "keyAccentLanguage": "aliu_bure"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alia",
+        "location": {
+          "lat": 12.2836137,
+          "lng": -14.2251939
+        },
+        "keyAccentLanguage": "alia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Burquelem",
+        "location": {
+          "lat": 12.2836137,
+          "lng": -14.2251939
+        },
+        "keyAccentLanguage": "burquelem"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bajefa",
+        "location": {
+          "lat": 12.422141,
+          "lng": -14.252556
+        },
+        "keyAccentLanguage": "bajefa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bantanto Jaia",
+        "location": {
+          "lat": 12.193586,
+          "lng": -14.156228
+        },
+        "keyAccentLanguage": "bantanto_jaia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Balandugo",
+        "location": {
+          "lat": 11.85,
+          "lng": -13.733333
+        },
+        "keyAccentLanguage": "balandugo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bantanje Alimo",
+        "location": {
+          "lat": 12.2836137,
+          "lng": -14.2251939
+        },
+        "keyAccentLanguage": "bantanje_alimo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bufate",
+        "location": {
+          "lat": 12.2836137,
+          "lng": -14.2251939
+        },
+        "keyAccentLanguage": "bufate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bantanto Bato",
+        "location": {
+          "lat": 12.193586,
+          "lng": -14.156228
+        },
+        "keyAccentLanguage": "bantanto_bato"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bucure Mori",
+        "location": {
+          "lat": 12.311644,
+          "lng": -13.755069
+        },
+        "keyAccentLanguage": "bucure_mori"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cadam",
+        "location": {
+          "lat": 12.2836137,
+          "lng": -14.2251939
+        },
+        "keyAccentLanguage": "cadam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bajocunda",
+        "location": {
+          "lat": 12.6399064,
+          "lng": -14.0827096
+        },
+        "keyAccentLanguage": "bajocunda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bentem",
+        "location": {
+          "lat": 12.3,
+          "lng": -14.033333
+        },
+        "keyAccentLanguage": "bentem"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Burmeleu",
+        "location": {
+          "lat": 11.926005,
+          "lng": -14.283078
+        },
+        "keyAccentLanguage": "burmeleu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Camamudu",
+        "location": {
+          "lat": 12.2836137,
+          "lng": -14.2251939
+        },
+        "keyAccentLanguage": "camamudu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bantanquilim",
+        "location": {
+          "lat": 12.25,
+          "lng": -14.016667
+        },
+        "keyAccentLanguage": "bantanquilim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baidi",
+        "location": {
+          "lat": 12.65,
+          "lng": -14.266667
+        },
+        "keyAccentLanguage": "baidi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Boulouba",
+        "location": {
+          "lat": 6.8170942,
+          "lng": 22.2639246
+        },
+        "keyAccentLanguage": "boulouba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bacar Jau",
+        "location": {
+          "lat": 12.2836137,
+          "lng": -14.2251939
+        },
+        "keyAccentLanguage": "bacar_jau"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bide",
+        "location": {
+          "lat": 12.2836137,
+          "lng": -14.2251939
+        },
+        "keyAccentLanguage": "bide"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Binan Alimo",
+        "location": {
+          "lat": 12.2836137,
+          "lng": -14.2251939
+        },
+        "keyAccentLanguage": "binan_alimo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cabosare",
+        "location": {
+          "lat": 12.2836137,
+          "lng": -14.2251939
+        },
+        "keyAccentLanguage": "cabosare"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bufene",
+        "location": {
+          "lat": 12.2836137,
+          "lng": -14.2251939
+        },
+        "keyAccentLanguage": "bufene"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bantanto",
+        "location": {
+          "lat": 12.466667,
+          "lng": -13.783333
+        },
+        "keyAccentLanguage": "bantanto"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bufenage",
+        "location": {
+          "lat": 12.14442,
+          "lng": -13.92383
+        },
+        "keyAccentLanguage": "bufenage"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afia Demba Jamanca",
+        "location": {
+          "lat": 12.216667,
+          "lng": -14.366667
+        },
+        "keyAccentLanguage": "afia_demba_jamanca"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bucure Afia",
+        "location": {
+          "lat": 12.3145779,
+          "lng": -13.722707
+        },
+        "keyAccentLanguage": "bucure_afia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cael Jessel",
+        "location": {
+          "lat": 12.2836137,
+          "lng": -14.2251939
+        },
+        "keyAccentLanguage": "cael_jessel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bucure Concha",
+        "location": {
+          "lat": 12.2836137,
+          "lng": -14.2251939
+        },
+        "keyAccentLanguage": "bucure_concha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Caiera",
+        "location": {
+          "lat": 12.2836137,
+          "lng": -14.2251939
+        },
+        "keyAccentLanguage": "caiera"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Afia do Governador",
+        "location": {
+          "lat": 12.316667,
+          "lng": -14.4
+        },
+        "keyAccentLanguage": "afia_do_governador"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alafissa",
+        "location": {
+          "lat": 12.416667,
+          "lng": -13.933333
+        },
+        "keyAccentLanguage": "alafissa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bantanforu",
+        "location": {
+          "lat": 11.766667,
+          "lng": -14.333333
+        },
+        "keyAccentLanguage": "bantanforu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bantanja",
+        "location": {
+          "lat": 12.2836137,
+          "lng": -14.2251939
+        },
+        "keyAccentLanguage": "bantanja"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bilonco",
+        "location": {
+          "lat": 11.833333,
+          "lng": -14.216667
+        },
+        "keyAccentLanguage": "bilonco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bentem Jacabe",
+        "location": {
+          "lat": 12.3,
+          "lng": -14.033333
+        },
+        "keyAccentLanguage": "bentem_jacabe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Boe",
+        "location": {
+          "lat": 11.7431904,
+          "lng": -14.2134347
+        },
+        "keyAccentLanguage": "boe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Almane Fonsom",
+        "location": {
+          "lat": 12.05,
+          "lng": -14.016667
+        },
+        "keyAccentLanguage": "almane_fonsom"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ca Mamudo",
+        "location": {
+          "lat": 12.366667,
+          "lng": -14.416667
+        },
+        "keyAccentLanguage": "ca_mamudo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beli",
+        "location": {
+          "lat": 11.8474485,
+          "lng": -13.9361518
+        },
+        "keyAccentLanguage": "beli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Banim",
+        "location": {
+          "lat": 12.416667,
+          "lng": -14.4
+        },
+        "keyAccentLanguage": "banim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cabuca",
+        "location": {
+          "lat": 12.129392,
+          "lng": -14.0623854
+        },
+        "keyAccentLanguage": "cabuca"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bantanje",
+        "location": {
+          "lat": 12.2836137,
+          "lng": -14.2251939
+        },
+        "keyAccentLanguage": "bantanje"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Camajaba",
+        "location": {
+          "lat": 12.3726915,
+          "lng": -13.7673607
+        },
+        "keyAccentLanguage": "camajaba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baguia",
+        "location": {
+          "lat": 12.316667,
+          "lng": -13.75
+        },
+        "keyAccentLanguage": "baguia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bucure Dara",
+        "location": {
+          "lat": 12.2836137,
+          "lng": -14.2251939
+        },
+        "keyAccentLanguage": "bucure_dara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bonje",
+        "location": {
+          "lat": 12.3256219,
+          "lng": -14.352354
+        },
+        "keyAccentLanguage": "bonje"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Biricunda",
+        "location": {
+          "lat": 12.416667,
+          "lng": -14.166667
+        },
+        "keyAccentLanguage": "biricunda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Camane",
+        "location": {
+          "lat": 12.2836137,
+          "lng": -14.2251939
+        },
+        "keyAccentLanguage": "camane"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Camar",
+        "location": {
+          "lat": 12.2836137,
+          "lng": -14.2251939
+        },
+        "keyAccentLanguage": "camar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bessecunda",
+        "location": {
+          "lat": 12.483333,
+          "lng": -14.1
+        },
+        "keyAccentLanguage": "bessecunda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bodeel",
+        "location": {
+          "lat": 12.2836137,
+          "lng": -14.2251939
+        },
+        "keyAccentLanguage": "bodeel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cadeu",
+        "location": {
+          "lat": 12.2836137,
+          "lng": -14.2251939
+        },
+        "keyAccentLanguage": "cadeu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bucure Dadi",
+        "location": {
+          "lat": 44.4267674,
+          "lng": 26.1025384
+        },
+        "keyAccentLanguage": "bucure_dadi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Camori",
+        "location": {
+          "lat": 12.2836137,
+          "lng": -14.2251939
+        },
+        "keyAccentLanguage": "camori"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bundocuro",
+        "location": {
+          "lat": 11.69397,
+          "lng": -14.1174
+        },
+        "keyAccentLanguage": "bundocuro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Buruntuma",
+        "location": {
+          "lat": 12.4536227,
+          "lng": -13.6974889
+        },
+        "keyAccentLanguage": "buruntuma"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cadunco",
+        "location": {
+          "lat": 12.144724,
+          "lng": -14.383162
+        },
+        "keyAccentLanguage": "cadunco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cambojo",
+        "location": {
+          "lat": 12.2836137,
+          "lng": -14.2251939
+        },
+        "keyAccentLanguage": "cambojo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bugafal",
+        "location": {
+          "lat": 11.8500551,
+          "lng": -14.3833005
+        },
+        "keyAccentLanguage": "bugafal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Boual Caium",
+        "location": {
+          "lat": 12.2836137,
+          "lng": -14.2251939
+        },
+        "keyAccentLanguage": "boual_caium"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Camande",
+        "location": {
+          "lat": 12.2836137,
+          "lng": -14.2251939
+        },
+        "keyAccentLanguage": "camande"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Binan Sambael",
+        "location": {
+          "lat": 12.2836137,
+          "lng": -14.2251939
+        },
+        "keyAccentLanguage": "binan_sambael"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pirada",
+        "location": {
+          "lat": 12.6615335,
+          "lng": -14.1495096
+        },
+        "keyAccentLanguage": "pirada"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Camalija",
+        "location": {
+          "lat": 12.2836137,
+          "lng": -14.2251939
+        },
+        "keyAccentLanguage": "camalija"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pataque",
+        "location": {
+          "lat": 11.8962411,
+          "lng": -13.9622597
+        },
+        "keyAccentLanguage": "pataque"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sonaco",
+        "location": {
+          "lat": 12.3856963,
+          "lng": -14.492712
+        },
+        "keyAccentLanguage": "sonaco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Canquelifa",
+        "location": {
+          "lat": 12.5849502,
+          "lng": -13.8506109
+        },
+        "keyAccentLanguage": "canquelifa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cacandi",
+        "location": {
+          "lat": 12.458819,
+          "lng": -14.100669
+        },
+        "keyAccentLanguage": "cacandi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nemataba",
+        "location": {
+          "lat": 12.383407,
+          "lng": -14.381311
+        },
+        "keyAccentLanguage": "nemataba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cambaja",
+        "location": {
+          "lat": 12.297942,
+          "lng": -14.053168
+        },
+        "keyAccentLanguage": "cambaja"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Camabe",
+        "location": {
+          "lat": 12.2836137,
+          "lng": -14.2251939
+        },
+        "keyAccentLanguage": "camabe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Pitche",
+        "location": {
+          "lat": 12.3229135,
+          "lng": -13.9551779
+        },
+        "keyAccentLanguage": "pitche"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cabele",
+        "location": {
+          "lat": 12.2471789,
+          "lng": -14.392488
+        },
+        "keyAccentLanguage": "cabele"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bravracunda",
+        "location": {
+          "lat": 12.316667,
+          "lng": -14.333333
+        },
+        "keyAccentLanguage": "bravracunda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Camalija So",
+        "location": {
+          "lat": 12.519541,
+          "lng": -14.147792
+        },
+        "keyAccentLanguage": "camalija_so"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Camboido",
+        "location": {
+          "lat": 12.216911,
+          "lng": -14.101486
+        },
+        "keyAccentLanguage": "camboido"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Buma",
+        "location": {
+          "lat": 12.385197,
+          "lng": -14.295826
+        },
+        "keyAccentLanguage": "buma"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cheche",
+        "location": {
+          "lat": 11.9213801,
+          "lng": -14.2076222
+        },
+        "keyAccentLanguage": "cheche"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tabassi",
+        "location": {
+          "lat": 12.6297891,
+          "lng": -14.1146535
+        },
+        "keyAccentLanguage": "tabassi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Camidina",
+        "location": {
+          "lat": 12.270847,
+          "lng": -14.023749
+        },
+        "keyAccentLanguage": "camidina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cachaja",
+        "location": {
+          "lat": 12.519681,
+          "lng": -13.83297
+        },
+        "keyAccentLanguage": "cachaja"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mafanco",
+        "location": {
+          "lat": 12.2628051,
+          "lng": -14.4432179
+        },
+        "keyAccentLanguage": "mafanco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Oco Maunde",
+        "location": {
+          "lat": 12.2678402,
+          "lng": -14.1901859
+        },
+        "keyAccentLanguage": "oco_maunde"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cambor",
+        "location": {
+          "lat": 12.389948,
+          "lng": -13.931385
+        },
+        "keyAccentLanguage": "cambor"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Camanca",
+        "location": {
+          "lat": 12.409883,
+          "lng": -14.322245
+        },
+        "keyAccentLanguage": "camanca"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gabu",
+        "location": {
+          "lat": -6.9683597,
+          "lng": 110.4264151
+        },
+        "keyAccentLanguage": "gabu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Canjadude",
+        "location": {
+          "lat": 12.08196,
+          "lng": -14.2250605
+        },
+        "keyAccentLanguage": "canjadude"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Vendu Leidi",
+        "location": {
+          "lat": 11.7503994,
+          "lng": -13.7318129
+        },
+        "keyAccentLanguage": "vendu_leidi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Camalija Sori",
+        "location": {
+          "lat": 12.5388406,
+          "lng": -14.2011761
+        },
+        "keyAccentLanguage": "camalija_sori"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amora",
+        "location": {
+          "lat": 12.45,
+          "lng": -13.7
+        },
+        "keyAccentLanguage": "amora"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bugudu",
+        "location": {
+          "lat": 12.333,
+          "lng": -13.9
+        },
+        "keyAccentLanguage": "bugudu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barassia",
+        "location": {
+          "lat": 11.65,
+          "lng": -14.367
+        },
+        "keyAccentLanguage": "barassia"
+      }
+    ],
+    "enNameLanguage": "Gabú",
+    "keyAccentLanguage": "gabú"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 12.2760709,
+      "lng": -15.3131185
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beira Baixa",
+        "location": {
+          "lat": 40.4172871,
+          "lng": -82.90712300000001
+        },
+        "keyAccentLanguage": "beira_baixa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ca Grande",
+        "location": {
+          "lat": 36.778261,
+          "lng": -119.4179324
+        },
+        "keyAccentLanguage": "ca_grande"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Benifo",
+        "location": {
+          "lat": 12.124034,
+          "lng": -15.333921
+        },
+        "keyAccentLanguage": "benifo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ansonhe",
+        "location": {
+          "lat": 11.959005,
+          "lng": -15.27875
+        },
+        "keyAccentLanguage": "ansonhe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beracozinho",
+        "location": {
+          "lat": 12.307515,
+          "lng": -15.209928
+        },
+        "keyAccentLanguage": "beracozinho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bija",
+        "location": {
+          "lat": 12.323691,
+          "lng": -15.587445
+        },
+        "keyAccentLanguage": "bija"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bafata",
+        "location": {
+          "lat": 12.1720266,
+          "lng": -14.6568929
+        },
+        "keyAccentLanguage": "bafata"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bagadage",
+        "location": {
+          "lat": 12.366667,
+          "lng": -15.133333
+        },
+        "keyAccentLanguage": "bagadage"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Binaga",
+        "location": {
+          "lat": 12.333333,
+          "lng": -15.533333
+        },
+        "keyAccentLanguage": "binaga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Badem",
+        "location": {
+          "lat": 12.616667,
+          "lng": -15.116667
+        },
+        "keyAccentLanguage": "badem"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Assela",
+        "location": {
+          "lat": 12.158072,
+          "lng": -15.410546
+        },
+        "keyAccentLanguage": "assela"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amina Dala",
+        "location": {
+          "lat": 12.35,
+          "lng": -15.383333
+        },
+        "keyAccentLanguage": "amina_dala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bafatandim",
+        "location": {
+          "lat": 12.379448,
+          "lng": -15.350176
+        },
+        "keyAccentLanguage": "bafatandim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambum",
+        "location": {
+          "lat": 12.1,
+          "lng": -15.166667
+        },
+        "keyAccentLanguage": "ambum"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Biambifoi",
+        "location": {
+          "lat": 40.4172871,
+          "lng": -82.90712300000001
+        },
+        "keyAccentLanguage": "biambifoi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bambaia",
+        "location": {
+          "lat": 12.366667,
+          "lng": -15.066667
+        },
+        "keyAccentLanguage": "bambaia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Berecodim",
+        "location": {
+          "lat": 12.390773,
+          "lng": -15.24069
+        },
+        "keyAccentLanguage": "berecodim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Banhima",
+        "location": {
+          "lat": 12.433333,
+          "lng": -15.383333
+        },
+        "keyAccentLanguage": "banhima"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Buro",
+        "location": {
+          "lat": 12.583333,
+          "lng": -14.866667
+        },
+        "keyAccentLanguage": "buro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bantaja",
+        "location": {
+          "lat": 12.2757159,
+          "lng": -14.955912
+        },
+        "keyAccentLanguage": "bantaja"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alabato",
+        "location": {
+          "lat": 12.483333,
+          "lng": -15.35
+        },
+        "keyAccentLanguage": "alabato"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baite",
+        "location": {
+          "lat": 12.355812,
+          "lng": -15.167314
+        },
+        "keyAccentLanguage": "baite"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cumere",
+        "location": {
+          "lat": 11.9058043,
+          "lng": -15.5327831
+        },
+        "keyAccentLanguage": "cumere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Colicunda",
+        "location": {
+          "lat": 11.9311627,
+          "lng": -15.1756061
+        },
+        "keyAccentLanguage": "colicunda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Binar",
+        "location": {
+          "lat": 12.0960218,
+          "lng": -15.6221924
+        },
+        "keyAccentLanguage": "binar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Berecobato",
+        "location": {
+          "lat": 12.425174,
+          "lng": -15.055213
+        },
+        "keyAccentLanguage": "berecobato"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beraco",
+        "location": {
+          "lat": 42.8447488,
+          "lng": -71.3181257
+        },
+        "keyAccentLanguage": "beraco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Binta",
+        "location": {
+          "lat": 12.4230134,
+          "lng": -15.3218997
+        },
+        "keyAccentLanguage": "binta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Buduco",
+        "location": {
+          "lat": 12.283333,
+          "lng": -15.066667
+        },
+        "keyAccentLanguage": "buduco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bupe",
+        "location": {
+          "lat": 12.004707,
+          "lng": -15.566955
+        },
+        "keyAccentLanguage": "bupe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baradoulo",
+        "location": {
+          "lat": 12,
+          "lng": -15.05
+        },
+        "keyAccentLanguage": "baradoulo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belunja",
+        "location": {
+          "lat": 23.6918717,
+          "lng": 86.2742614
+        },
+        "keyAccentLanguage": "belunja"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bananto",
+        "location": {
+          "lat": 12.466667,
+          "lng": -15.066667
+        },
+        "keyAccentLanguage": "bananto"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bissancage",
+        "location": {
+          "lat": 12.316667,
+          "lng": -15.25
+        },
+        "keyAccentLanguage": "bissancage"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bancolene",
+        "location": {
+          "lat": 12.316667,
+          "lng": -15.433333
+        },
+        "keyAccentLanguage": "bancolene"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bucamere",
+        "location": {
+          "lat": 12.233366,
+          "lng": -15.418174
+        },
+        "keyAccentLanguage": "bucamere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Buborim",
+        "location": {
+          "lat": 12.4286359,
+          "lng": -15.41929
+        },
+        "keyAccentLanguage": "buborim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anha Futa-Fula",
+        "location": {
+          "lat": 12.066667,
+          "lng": -15.25
+        },
+        "keyAccentLanguage": "anha_futa-fula"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ca Quebo",
+        "location": {
+          "lat": 12.298882,
+          "lng": -15.234816
+        },
+        "keyAccentLanguage": "ca_quebo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bricama",
+        "location": {
+          "lat": 12.490955,
+          "lng": -15.155875
+        },
+        "keyAccentLanguage": "bricama"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Blasse",
+        "location": {
+          "lat": 11.937262,
+          "lng": -15.221106
+        },
+        "keyAccentLanguage": "blasse"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Buara",
+        "location": {
+          "lat": 12.366667,
+          "lng": -15.45
+        },
+        "keyAccentLanguage": "buara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bindoro",
+        "location": {
+          "lat": 11.982441,
+          "lng": -15.3511736
+        },
+        "keyAccentLanguage": "bindoro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Braia",
+        "location": {
+          "lat": 12.099904,
+          "lng": -15.35405
+        },
+        "keyAccentLanguage": "braia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bucaur",
+        "location": {
+          "lat": 12.318424,
+          "lng": -15.482462
+        },
+        "keyAccentLanguage": "bucaur"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ca Cumba",
+        "location": {
+          "lat": 12.244073,
+          "lng": -15.062188
+        },
+        "keyAccentLanguage": "ca_cumba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Biribao",
+        "location": {
+          "lat": 12.428819,
+          "lng": -15.193704
+        },
+        "keyAccentLanguage": "biribao"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bissora",
+        "location": {
+          "lat": 12.223392,
+          "lng": -15.450303
+        },
+        "keyAccentLanguage": "bissora"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Blafechuro",
+        "location": {
+          "lat": 12.0523,
+          "lng": -15.47103
+        },
+        "keyAccentLanguage": "blafechuro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bucancadi",
+        "location": {
+          "lat": 12.266667,
+          "lng": -15.616667
+        },
+        "keyAccentLanguage": "bucancadi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Brufa",
+        "location": {
+          "lat": 12.292271,
+          "lng": -15.66224
+        },
+        "keyAccentLanguage": "brufa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Binibaque",
+        "location": {
+          "lat": 12.046629,
+          "lng": -15.401366
+        },
+        "keyAccentLanguage": "binibaque"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mansaba",
+        "location": {
+          "lat": 12.2922048,
+          "lng": -15.1756061
+        },
+        "keyAccentLanguage": "mansaba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Burume",
+        "location": {
+          "lat": 12.229581,
+          "lng": -15.704226
+        },
+        "keyAccentLanguage": "burume"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cuntima",
+        "location": {
+          "lat": 12.663908,
+          "lng": -15.0119105
+        },
+        "keyAccentLanguage": "cuntima"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nhacra",
+        "location": {
+          "lat": 11.960848,
+          "lng": -15.5386447
+        },
+        "keyAccentLanguage": "nhacra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bessia",
+        "location": {
+          "lat": 12.45,
+          "lng": -15.166667
+        },
+        "keyAccentLanguage": "bessia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ca Sanima",
+        "location": {
+          "lat": 12.41003,
+          "lng": -15.081762
+        },
+        "keyAccentLanguage": "ca_sanima"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Berendinto",
+        "location": {
+          "lat": 12.583333,
+          "lng": -15.3
+        },
+        "keyAccentLanguage": "berendinto"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bissari",
+        "location": {
+          "lat": 12.55,
+          "lng": -15.233333
+        },
+        "keyAccentLanguage": "bissari"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Blassar",
+        "location": {
+          "lat": 12.258834,
+          "lng": -15.496532
+        },
+        "keyAccentLanguage": "blassar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bolumbato",
+        "location": {
+          "lat": 12.52401,
+          "lng": -15.179629
+        },
+        "keyAccentLanguage": "bolumbato"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cutia",
+        "location": {
+          "lat": 12.1835895,
+          "lng": -15.2282571
+        },
+        "keyAccentLanguage": "cutia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cabele Nhado",
+        "location": {
+          "lat": 40.4172871,
+          "lng": -82.90712300000001
+        },
+        "keyAccentLanguage": "cabele_nhado"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Porto Gole",
+        "location": {
+          "lat": 11.9666864,
+          "lng": -15.1346669
+        },
+        "keyAccentLanguage": "porto_gole"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bissum",
+        "location": {
+          "lat": 12.2266164,
+          "lng": -15.6661806
+        },
+        "keyAccentLanguage": "bissum"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ca Mamadu",
+        "location": {
+          "lat": 12.052822,
+          "lng": -15.073788
+        },
+        "keyAccentLanguage": "ca_mamadu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Buro Gela",
+        "location": {
+          "lat": 37.0737611,
+          "lng": 14.2411467
+        },
+        "keyAccentLanguage": "buro_gela"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Encheia",
+        "location": {
+          "lat": 12.060207,
+          "lng": -15.469719
+        },
+        "keyAccentLanguage": "encheia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Biambe",
+        "location": {
+          "lat": 12.133333,
+          "lng": -15.516667
+        },
+        "keyAccentLanguage": "biambe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Farim",
+        "location": {
+          "lat": 12.4877272,
+          "lng": -15.2136302
+        },
+        "keyAccentLanguage": "farim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Enxale",
+        "location": {
+          "lat": 11.9896555,
+          "lng": -14.9680914
+        },
+        "keyAccentLanguage": "enxale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Olossato",
+        "location": {
+          "lat": 12.311049,
+          "lng": -15.3336087
+        },
+        "keyAccentLanguage": "olossato"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mansoa",
+        "location": {
+          "lat": 12.0679748,
+          "lng": -15.3180402
+        },
+        "keyAccentLanguage": "mansoa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bironque",
+        "location": {
+          "lat": 12.361,
+          "lng": -15.202
+        },
+        "keyAccentLanguage": "bironque"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bajanacunda",
+        "location": {
+          "lat": 12.517,
+          "lng": -15.217
+        },
+        "keyAccentLanguage": "bajanacunda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bantandim",
+        "location": {
+          "lat": 12.5,
+          "lng": -15.217
+        },
+        "keyAccentLanguage": "bantandim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Binaco",
+        "location": {
+          "lat": 12.433,
+          "lng": -15.267
+        },
+        "keyAccentLanguage": "binaco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Badancar",
+        "location": {
+          "lat": 12.567,
+          "lng": -15.333
+        },
+        "keyAccentLanguage": "badancar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Berecoba",
+        "location": {
+          "lat": 12.4,
+          "lng": -15.233
+        },
+        "keyAccentLanguage": "berecoba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Birla",
+        "location": {
+          "lat": 11.933,
+          "lng": -15.55
+        },
+        "keyAccentLanguage": "birla"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bessunha",
+        "location": {
+          "lat": 11.983,
+          "lng": -15.1
+        },
+        "keyAccentLanguage": "bessunha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Binhome",
+        "location": {
+          "lat": 12.1,
+          "lng": -15.65
+        },
+        "keyAccentLanguage": "binhome"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bissajar",
+        "location": {
+          "lat": 12.324,
+          "lng": -15.402
+        },
+        "keyAccentLanguage": "bissajar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Budo",
+        "location": {
+          "lat": 12.269,
+          "lng": -15.531
+        },
+        "keyAccentLanguage": "budo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bairro Balanta",
+        "location": {
+          "lat": 12.217,
+          "lng": -15.433
+        },
+        "keyAccentLanguage": "bairro_balanta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anha",
+        "location": {
+          "lat": 12.05,
+          "lng": -15.267
+        },
+        "keyAccentLanguage": "anha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bera",
+        "location": {
+          "lat": 12.043,
+          "lng": -15.6
+        },
+        "keyAccentLanguage": "bera"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bajingara",
+        "location": {
+          "lat": 12.65,
+          "lng": -14.983
+        },
+        "keyAccentLanguage": "bajingara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arria",
+        "location": {
+          "lat": 12.083,
+          "lng": -15.317
+        },
+        "keyAccentLanguage": "arria"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Banjara",
+        "location": {
+          "lat": 12.317,
+          "lng": -14.967
+        },
+        "keyAccentLanguage": "banjara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bantasso",
+        "location": {
+          "lat": 12.392,
+          "lng": -15.34
+        },
+        "keyAccentLanguage": "bantasso"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bantanto Buluto",
+        "location": {
+          "lat": 12.517,
+          "lng": -15.25
+        },
+        "keyAccentLanguage": "bantanto_buluto"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bissajarindim",
+        "location": {
+          "lat": 12.317,
+          "lng": -15.4
+        },
+        "keyAccentLanguage": "bissajarindim"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Benajar",
+        "location": {
+          "lat": 12.217,
+          "lng": -15.667
+        },
+        "keyAccentLanguage": "benajar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Algodao",
+        "location": {
+          "lat": 12.45,
+          "lng": -15.217
+        },
+        "keyAccentLanguage": "algodao"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bara",
+        "location": {
+          "lat": 11.95,
+          "lng": -15.3
+        },
+        "keyAccentLanguage": "bara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Caame",
+        "location": {
+          "lat": 12.35,
+          "lng": -15.567
+        },
+        "keyAccentLanguage": "caame"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bija",
+        "location": {
+          "lat": 12.323691,
+          "lng": -15.587445
+        },
+        "keyAccentLanguage": "bija"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Binar",
+        "location": {
+          "lat": 12.0960218,
+          "lng": -15.6221924
+        },
+        "keyAccentLanguage": "binar"
+      }
+    ],
+    "enNameLanguage": "Oio",
+    "keyAccentLanguage": "oio"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 5.3811371,
+      "lng": 103.0938843
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Brandao",
+        "location": {
+          "lat": 11.7296548,
+          "lng": -15.3160455
+        },
+        "keyAccentLanguage": "brandao"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antuane",
+        "location": {
+          "lat": 11.522528,
+          "lng": -15.079395
+        },
+        "keyAccentLanguage": "antuane"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bambuti",
+        "location": {
+          "lat": 11.533333,
+          "lng": -15.033333
+        },
+        "keyAccentLanguage": "bambuti"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Buba",
+        "location": {
+          "lat": 11.5920466,
+          "lng": -14.9943814
+        },
+        "keyAccentLanguage": "buba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bantael Sila",
+        "location": {
+          "lat": 11.4348889,
+          "lng": -15.0411298
+        },
+        "keyAccentLanguage": "bantael_sila"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barraca",
+        "location": {
+          "lat": 11.7904668,
+          "lng": -15.2662931
+        },
+        "keyAccentLanguage": "barraca"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Binhal",
+        "location": {
+          "lat": 39.0031999,
+          "lng": 117.71071
+        },
+        "keyAccentLanguage": "binhal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bigine",
+        "location": {
+          "lat": 11.440894,
+          "lng": -15.40175
+        },
+        "keyAccentLanguage": "bigine"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Biassa",
+        "location": {
+          "lat": 11.573978,
+          "lng": -15.216261
+        },
+        "keyAccentLanguage": "biassa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Buio",
+        "location": {
+          "lat": 11.7904668,
+          "lng": -15.2662931
+        },
+        "keyAccentLanguage": "buio"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beja",
+        "location": {
+          "lat": 11.55,
+          "lng": -15.166667
+        },
+        "keyAccentLanguage": "beja"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Buba Tombo",
+        "location": {
+          "lat": 11.65,
+          "lng": -15.016667
+        },
+        "keyAccentLanguage": "buba_tombo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bojol",
+        "location": {
+          "lat": 9.849991099999999,
+          "lng": 124.1435427
+        },
+        "keyAccentLanguage": "bojol"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aldeia Nova",
+        "location": {
+          "lat": 11.7904668,
+          "lng": -15.2662931
+        },
+        "keyAccentLanguage": "aldeia_nova"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Camaga",
+        "location": {
+          "lat": 11.433333,
+          "lng": -15.383333
+        },
+        "keyAccentLanguage": "camaga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "America",
+        "location": {
+          "lat": 11.7904668,
+          "lng": -15.2662931
+        },
+        "keyAccentLanguage": "america"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amizade",
+        "location": {
+          "lat": 11.7904668,
+          "lng": -15.2662931
+        },
+        "keyAccentLanguage": "amizade"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Biogate",
+        "location": {
+          "lat": 11.70705,
+          "lng": -15.422606
+        },
+        "keyAccentLanguage": "biogate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beafada",
+        "location": {
+          "lat": 11.616667,
+          "lng": -14.916667
+        },
+        "keyAccentLanguage": "beafada"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bijaba",
+        "location": {
+          "lat": 11.733333,
+          "lng": -15.15
+        },
+        "keyAccentLanguage": "bijaba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bissassema De Cima",
+        "location": {
+          "lat": 11.7603347,
+          "lng": -15.4624601
+        },
+        "keyAccentLanguage": "bissassema_de_cima"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Brambanda",
+        "location": {
+          "lat": 11.766667,
+          "lng": -15.416667
+        },
+        "keyAccentLanguage": "brambanda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bojol Balanta",
+        "location": {
+          "lat": 11.733333,
+          "lng": -14.966667
+        },
+        "keyAccentLanguage": "bojol_balanta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ancamba",
+        "location": {
+          "lat": 11.782299,
+          "lng": -15
+        },
+        "keyAccentLanguage": "ancamba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Calaba",
+        "location": {
+          "lat": 11.710611,
+          "lng": -15.181278
+        },
+        "keyAccentLanguage": "calaba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bissassema de Baixo",
+        "location": {
+          "lat": 11.7586435,
+          "lng": -15.456826
+        },
+        "keyAccentLanguage": "bissassema_de_baixo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Colonia de Cima",
+        "location": {
+          "lat": -4.31928,
+          "lng": -79.2352468
+        },
+        "keyAccentLanguage": "colonia_de_cima"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cancumba Beafada",
+        "location": {
+          "lat": 11.616667,
+          "lng": -14.916667
+        },
+        "keyAccentLanguage": "cancumba_beafada"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cantora",
+        "location": {
+          "lat": 11.7904668,
+          "lng": -15.2662931
+        },
+        "keyAccentLanguage": "cantora"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Canchuma Manjaco",
+        "location": {
+          "lat": 11.537556,
+          "lng": -15.247967
+        },
+        "keyAccentLanguage": "canchuma_manjaco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Canchuma",
+        "location": {
+          "lat": 11.537556,
+          "lng": -15.247967
+        },
+        "keyAccentLanguage": "canchuma"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Enxude",
+        "location": {
+          "lat": 11.8234491,
+          "lng": -15.4214515
+        },
+        "keyAccentLanguage": "enxude"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Canjabel",
+        "location": {
+          "lat": 11.715378,
+          "lng": -15.33955
+        },
+        "keyAccentLanguage": "canjabel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cambiro",
+        "location": {
+          "lat": -4.31928,
+          "lng": -79.2352468
+        },
+        "keyAccentLanguage": "cambiro"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belem",
+        "location": {
+          "lat": -1.4563432,
+          "lng": -48.501299
+        },
+        "keyAccentLanguage": "belem"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cabame",
+        "location": {
+          "lat": 11.716667,
+          "lng": -15.383333
+        },
+        "keyAccentLanguage": "cabame"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cahcoal",
+        "location": {
+          "lat": 11.430284,
+          "lng": -15.08505
+        },
+        "keyAccentLanguage": "cahcoal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Canchungozinho",
+        "location": {
+          "lat": 11.416667,
+          "lng": -15.316667
+        },
+        "keyAccentLanguage": "canchungozinho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Madina De Baixo",
+        "location": {
+          "lat": 11.402194,
+          "lng": -15.4507424
+        },
+        "keyAccentLanguage": "madina_de_baixo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Buba Inchengue",
+        "location": {
+          "lat": 11.5920466,
+          "lng": -14.9943814
+        },
+        "keyAccentLanguage": "buba_inchengue"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Buduco",
+        "location": {
+          "lat": 11.725966,
+          "lng": -15.296233
+        },
+        "keyAccentLanguage": "buduco"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Banjuno",
+        "location": {
+          "lat": 11.666667,
+          "lng": -15.2
+        },
+        "keyAccentLanguage": "banjuno"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ca Beafada",
+        "location": {
+          "lat": 11.616667,
+          "lng": -14.916667
+        },
+        "keyAccentLanguage": "ca_beafada"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Carantaba",
+        "location": {
+          "lat": 12.297976,
+          "lng": -14.081317
+        },
+        "keyAccentLanguage": "carantaba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cubajal",
+        "location": {
+          "lat": 11.85,
+          "lng": -15.15
+        },
+        "keyAccentLanguage": "cubajal"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Caur de Cima",
+        "location": {
+          "lat": 11.555722,
+          "lng": -15.139234
+        },
+        "keyAccentLanguage": "caur_de_cima"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Empada",
+        "location": {
+          "lat": 11.5409577,
+          "lng": -15.2282571
+        },
+        "keyAccentLanguage": "empada"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bambadinca Beafada",
+        "location": {
+          "lat": 11.816667,
+          "lng": -15.1
+        },
+        "keyAccentLanguage": "bambadinca_beafada"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cancumba Balanta",
+        "location": {
+          "lat": 12.104594,
+          "lng": -14.8980058
+        },
+        "keyAccentLanguage": "cancumba_balanta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cachobar",
+        "location": {
+          "lat": 11.45782,
+          "lng": -15.27846
+        },
+        "keyAccentLanguage": "cachobar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cantanha",
+        "location": {
+          "lat": 11.6859145,
+          "lng": -15.0498966
+        },
+        "keyAccentLanguage": "cantanha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ganjetra",
+        "location": {
+          "lat": 11.7760925,
+          "lng": -15.2253316
+        },
+        "keyAccentLanguage": "ganjetra"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tite",
+        "location": {
+          "lat": 11.7804788,
+          "lng": -15.3980224
+        },
+        "keyAccentLanguage": "tite"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Fulacunda",
+        "location": {
+          "lat": 11.7755299,
+          "lng": -15.1719504
+        },
+        "keyAccentLanguage": "fulacunda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jabada",
+        "location": {
+          "lat": 11.8774839,
+          "lng": -15.3453184
+        },
+        "keyAccentLanguage": "jabada"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Darsalame",
+        "location": {
+          "lat": 11.4491113,
+          "lng": -15.3980224
+        },
+        "keyAccentLanguage": "darsalame"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Caur de Baixo Balanta",
+        "location": {
+          "lat": 11.485222,
+          "lng": -15.241694
+        },
+        "keyAccentLanguage": "caur_de_baixo_balanta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Colonia de Baixo",
+        "location": {
+          "lat": 41.4871049,
+          "lng": -7.680244499999999
+        },
+        "keyAccentLanguage": "colonia_de_baixo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Batambali Beafada",
+        "location": {
+          "lat": 11.5210325,
+          "lng": -15.1356329
+        },
+        "keyAccentLanguage": "batambali_beafada"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jabada Beafada",
+        "location": {
+          "lat": 11.804611,
+          "lng": -15.302922
+        },
+        "keyAccentLanguage": "jabada_beafada"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cacheuzinho",
+        "location": {
+          "lat": 12.3665299,
+          "lng": -16.223602
+        },
+        "keyAccentLanguage": "cacheuzinho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ganjauara",
+        "location": {
+          "lat": 11.92971,
+          "lng": -15.0498966
+        },
+        "keyAccentLanguage": "ganjauara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Caur de Baixo Beafada",
+        "location": {
+          "lat": 11.507144,
+          "lng": -15.230739
+        },
+        "keyAccentLanguage": "caur_de_baixo_beafada"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aidara Beafada",
+        "location": {
+          "lat": 11.480726,
+          "lng": -15.1668326
+        },
+        "keyAccentLanguage": "aidara_beafada"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bojol Beafada",
+        "location": {
+          "lat": 11.616667,
+          "lng": -14.916667
+        },
+        "keyAccentLanguage": "bojol_beafada"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cancodea Beafada",
+        "location": {
+          "lat": 11.766222,
+          "lng": -14.911611
+        },
+        "keyAccentLanguage": "cancodea_beafada"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bunaussa",
+        "location": {
+          "lat": 11.733,
+          "lng": -15.433
+        },
+        "keyAccentLanguage": "bunaussa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belai",
+        "location": {
+          "lat": 11.65,
+          "lng": -15.35
+        },
+        "keyAccentLanguage": "belai"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cancasso",
+        "location": {
+          "lat": 11.483,
+          "lng": -15.067
+        },
+        "keyAccentLanguage": "cancasso"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Budampiol",
+        "location": {
+          "lat": 11.833,
+          "lng": -15.1
+        },
+        "keyAccentLanguage": "budampiol"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ca Balanta",
+        "location": {
+          "lat": 11.483,
+          "lng": -15.2
+        },
+        "keyAccentLanguage": "ca_balanta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cantene",
+        "location": {
+          "lat": 11.633,
+          "lng": -15.433
+        },
+        "keyAccentLanguage": "cantene"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Canhoga",
+        "location": {
+          "lat": 11.617,
+          "lng": -15.433
+        },
+        "keyAccentLanguage": "canhoga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bijene",
+        "location": {
+          "lat": 11.6,
+          "lng": -15.417
+        },
+        "keyAccentLanguage": "bijene"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cancodea Balanta",
+        "location": {
+          "lat": 11.767,
+          "lng": -14.95
+        },
+        "keyAccentLanguage": "cancodea_balanta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bani",
+        "location": {
+          "lat": 11.733,
+          "lng": -15.1
+        },
+        "keyAccentLanguage": "bani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bunhado",
+        "location": {
+          "lat": 11.533,
+          "lng": -15.167
+        },
+        "keyAccentLanguage": "bunhado"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Candebe",
+        "location": {
+          "lat": 11.483,
+          "lng": -15.467
+        },
+        "keyAccentLanguage": "candebe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Batambali Balanta",
+        "location": {
+          "lat": 11.517,
+          "lng": -15.167
+        },
+        "keyAccentLanguage": "batambali_balanta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belenquentem",
+        "location": {
+          "lat": 11.517,
+          "lng": -15.2
+        },
+        "keyAccentLanguage": "belenquentem"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beracolom",
+        "location": {
+          "lat": 11.633,
+          "lng": -15.383
+        },
+        "keyAccentLanguage": "beracolom"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bolola",
+        "location": {
+          "lat": 11.55,
+          "lng": -14.933
+        },
+        "keyAccentLanguage": "bolola"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bila",
+        "location": {
+          "lat": 11.767,
+          "lng": -15.333
+        },
+        "keyAccentLanguage": "bila"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belel",
+        "location": {
+          "lat": 11.733,
+          "lng": -15.467
+        },
+        "keyAccentLanguage": "belel"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Campirce",
+        "location": {
+          "lat": 11.633,
+          "lng": -15.267
+        },
+        "keyAccentLanguage": "campirce"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chancol",
+        "location": {
+          "lat": 11.567,
+          "lng": -15.25
+        },
+        "keyAccentLanguage": "chancol"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Brandaozinho",
+        "location": {
+          "lat": 11.733,
+          "lng": -15.45
+        },
+        "keyAccentLanguage": "brandaozinho"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Canconte",
+        "location": {
+          "lat": 11.733,
+          "lng": -14.85
+        },
+        "keyAccentLanguage": "canconte"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Capol",
+        "location": {
+          "lat": 11.467,
+          "lng": -15.4
+        },
+        "keyAccentLanguage": "capol"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Candicar",
+        "location": {
+          "lat": 11.567,
+          "lng": -15.2
+        },
+        "keyAccentLanguage": "candicar"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bambaia",
+        "location": {
+          "lat": 11.5,
+          "lng": -15.417
+        },
+        "keyAccentLanguage": "bambaia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Binhalom",
+        "location": {
+          "lat": 11.85,
+          "lng": -15.083
+        },
+        "keyAccentLanguage": "binhalom"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bichala",
+        "location": {
+          "lat": 11.467,
+          "lng": -15.133
+        },
+        "keyAccentLanguage": "bichala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Budom",
+        "location": {
+          "lat": 11.467,
+          "lng": -15.133
+        },
+        "keyAccentLanguage": "budom"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aidara Balanta",
+        "location": {
+          "lat": 11.5,
+          "lng": -15.167
+        },
+        "keyAccentLanguage": "aidara_balanta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cantamba",
+        "location": {
+          "lat": 11.4,
+          "lng": -15.4
+        },
+        "keyAccentLanguage": "cantamba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bulel Samba",
+        "location": {
+          "lat": 11.45,
+          "lng": -15.067
+        },
+        "keyAccentLanguage": "bulel_samba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ca Uere",
+        "location": {
+          "lat": 11.75,
+          "lng": -15.4
+        },
+        "keyAccentLanguage": "ca_uere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sao Joao",
+        "location": {
+          "lat": 11.595,
+          "lng": -15.451
+        },
+        "keyAccentLanguage": "sao_joao"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bianga",
+        "location": {
+          "lat": 11.783,
+          "lng": -15.2
+        },
+        "keyAccentLanguage": "bianga"
+      }
+    ],
+    "enNameLanguage": "Quinara",
+    "keyAccentLanguage": "quinara"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 11.3632696,
+      "lng": -14.9856176
+    },
+    "districtList": [],
+    "enNameLanguage": "Tombali",
+    "keyAccentLanguage": "tombali"
+  }
+]

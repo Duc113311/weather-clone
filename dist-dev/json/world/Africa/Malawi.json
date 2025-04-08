@@ -1,0 +1,2988 @@
+[
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agamonje",
+        "location": {
+          "lat": -13.517,
+          "lng": 33.867
+        },
+        "keyAccentLanguage": "agamonje"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alamu",
+        "location": {
+          "lat": -12.567,
+          "lng": 33.45
+        },
+        "keyAccentLanguage": "alamu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Antonio",
+        "location": {
+          "lat": -13.85,
+          "lng": 33.233
+        },
+        "keyAccentLanguage": "antonio"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amonis",
+        "location": {
+          "lat": -13.183,
+          "lng": 33.583
+        },
+        "keyAccentLanguage": "amonis"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abisai",
+        "location": {
+          "lat": -13.783,
+          "lng": 34.467
+        },
+        "keyAccentLanguage": "abisai"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amozi",
+        "location": {
+          "lat": -13.683,
+          "lng": 33.083
+        },
+        "keyAccentLanguage": "amozi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Balakas",
+        "location": {
+          "lat": -14.9,
+          "lng": 34.832
+        },
+        "keyAccentLanguage": "balakas"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andreya",
+        "location": {
+          "lat": -14.433,
+          "lng": 34.1
+        },
+        "keyAccentLanguage": "andreya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Augustino",
+        "location": {
+          "lat": -13.083,
+          "lng": 34.317
+        },
+        "keyAccentLanguage": "augustino"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agabu",
+        "location": {
+          "lat": -14.6,
+          "lng": 34.767
+        },
+        "keyAccentLanguage": "agabu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Biwi",
+        "location": {
+          "lat": -13.383,
+          "lng": 34.067
+        },
+        "keyAccentLanguage": "biwi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akubilila",
+        "location": {
+          "lat": -14.75,
+          "lng": 34.817
+        },
+        "keyAccentLanguage": "akubilila"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Biwi Mzamba",
+        "location": {
+          "lat": -14.133,
+          "lng": 33.733
+        },
+        "keyAccentLanguage": "biwi_mzamba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bokosi",
+        "location": {
+          "lat": -12.6,
+          "lng": 33.4
+        },
+        "keyAccentLanguage": "bokosi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Malomo",
+        "location": {
+          "lat": -13.16,
+          "lng": 33.814
+        },
+        "keyAccentLanguage": "malomo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bana",
+        "location": {
+          "lat": -12.4,
+          "lng": 34.117
+        },
+        "keyAccentLanguage": "bana"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Austeni",
+        "location": {
+          "lat": -14.767,
+          "lng": 34.917
+        },
+        "keyAccentLanguage": "austeni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lifupa",
+        "location": {
+          "lat": -13.102,
+          "lng": 33.027
+        },
+        "keyAccentLanguage": "lifupa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bang",
+        "location": {
+          "lat": -13.217,
+          "lng": 34.283
+        },
+        "keyAccentLanguage": "bang"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bisai",
+        "location": {
+          "lat": -14.179,
+          "lng": 33.963
+        },
+        "keyAccentLanguage": "bisai"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amon",
+        "location": {
+          "lat": -13.367,
+          "lng": 33.867
+        },
+        "keyAccentLanguage": "amon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amazi",
+        "location": {
+          "lat": -12.767,
+          "lng": 33.367
+        },
+        "keyAccentLanguage": "amazi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amenta",
+        "location": {
+          "lat": -14.2,
+          "lng": 33.983
+        },
+        "keyAccentLanguage": "amenta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bango",
+        "location": {
+          "lat": -12.55,
+          "lng": 33.417
+        },
+        "keyAccentLanguage": "bango"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "McHinji",
+        "location": {
+          "lat": -13.8,
+          "lng": 32.88
+        },
+        "keyAccentLanguage": "mchinji"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Asembe",
+        "location": {
+          "lat": -13.683,
+          "lng": 33.733
+        },
+        "keyAccentLanguage": "asembe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bilale",
+        "location": {
+          "lat": -13.05,
+          "lng": 33.383
+        },
+        "keyAccentLanguage": "bilale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Azimbare",
+        "location": {
+          "lat": -14.25,
+          "lng": 33.7
+        },
+        "keyAccentLanguage": "azimbare"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abindanjoke",
+        "location": {
+          "lat": -13.4,
+          "lng": 33.9
+        },
+        "keyAccentLanguage": "abindanjoke"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bikivai",
+        "location": {
+          "lat": -13.517,
+          "lng": 33.2
+        },
+        "keyAccentLanguage": "bikivai"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Andama",
+        "location": {
+          "lat": -13.667,
+          "lng": 33.233
+        },
+        "keyAccentLanguage": "andama"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Likuni",
+        "location": {
+          "lat": -14.023,
+          "lng": 33.707
+        },
+        "keyAccentLanguage": "likuni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dowa",
+        "location": {
+          "lat": -13.701,
+          "lng": 33.909
+        },
+        "keyAccentLanguage": "dowa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mponela",
+        "location": {
+          "lat": -13.545,
+          "lng": 33.74
+        },
+        "keyAccentLanguage": "mponela"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chisemphere",
+        "location": {
+          "lat": -12.629,
+          "lng": 33.527
+        },
+        "keyAccentLanguage": "chisemphere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amos Zakocera",
+        "location": {
+          "lat": -13.117,
+          "lng": 33.467
+        },
+        "keyAccentLanguage": "amos_zakocera"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cisinga",
+        "location": {
+          "lat": -12.62,
+          "lng": 33.329
+        },
+        "keyAccentLanguage": "cisinga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kamakule",
+        "location": {
+          "lat": -14.448,
+          "lng": 33.902
+        },
+        "keyAccentLanguage": "kamakule"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lilongwe",
+        "location": {
+          "lat": -13.983,
+          "lng": 33.774
+        },
+        "keyAccentLanguage": "lilongwe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Linthipe",
+        "location": {
+          "lat": -14.168,
+          "lng": 34.173
+        },
+        "keyAccentLanguage": "linthipe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anteu",
+        "location": {
+          "lat": -12.55,
+          "lng": 33.333
+        },
+        "keyAccentLanguage": "anteu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bondo",
+        "location": {
+          "lat": 5.283,
+          "lng": -1.133
+        },
+        "keyAccentLanguage": "bondo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nathenje",
+        "location": {
+          "lat": -14.078,
+          "lng": 33.954
+        },
+        "keyAccentLanguage": "nathenje"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Santhe",
+        "location": {
+          "lat": -13.467,
+          "lng": 33.401
+        },
+        "keyAccentLanguage": "santhe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mitundu",
+        "location": {
+          "lat": -14.263,
+          "lng": 33.873
+        },
+        "keyAccentLanguage": "mitundu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Banja",
+        "location": {
+          "lat": -13.217,
+          "lng": 34
+        },
+        "keyAccentLanguage": "banja"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bemberi",
+        "location": {
+          "lat": -13.767,
+          "lng": 33.533
+        },
+        "keyAccentLanguage": "bemberi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ntcheu",
+        "location": {
+          "lat": -14.819,
+          "lng": 34.657
+        },
+        "keyAccentLanguage": "ntcheu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Simlemba",
+        "location": {
+          "lat": -12.746,
+          "lng": 33.675
+        },
+        "keyAccentLanguage": "simlemba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tete",
+        "location": {
+          "lat": -14.302,
+          "lng": 34.08
+        },
+        "keyAccentLanguage": "tete"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chilanga",
+        "location": {
+          "lat": -13.172,
+          "lng": 33.507
+        },
+        "keyAccentLanguage": "chilanga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kapelula",
+        "location": {
+          "lat": -12.887,
+          "lng": 33.853
+        },
+        "keyAccentLanguage": "kapelula"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Billiate",
+        "location": {
+          "lat": -15.05,
+          "lng": 34.6
+        },
+        "keyAccentLanguage": "billiate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tiwi",
+        "location": {
+          "lat": -14.331,
+          "lng": 34.104
+        },
+        "keyAccentLanguage": "tiwi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bomombo",
+        "location": {
+          "lat": -12.733,
+          "lng": 33.65
+        },
+        "keyAccentLanguage": "bomombo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mbobo",
+        "location": {
+          "lat": -13.128,
+          "lng": 33.956
+        },
+        "keyAccentLanguage": "mbobo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abute",
+        "location": {
+          "lat": -13.75,
+          "lng": 33.1
+        },
+        "keyAccentLanguage": "abute"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Beni",
+        "location": {
+          "lat": -13.683,
+          "lng": 33.25
+        },
+        "keyAccentLanguage": "beni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kachulu",
+        "location": {
+          "lat": -13.612,
+          "lng": 34.523
+        },
+        "keyAccentLanguage": "kachulu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mtale",
+        "location": {
+          "lat": -15.021,
+          "lng": 34.756
+        },
+        "keyAccentLanguage": "mtale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lumbadzi",
+        "location": {
+          "lat": -13.772,
+          "lng": 33.814
+        },
+        "keyAccentLanguage": "lumbadzi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bonga",
+        "location": {
+          "lat": -14.6,
+          "lng": 34.55
+        },
+        "keyAccentLanguage": "bonga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kasungu",
+        "location": {
+          "lat": -13.04,
+          "lng": 33.485
+        },
+        "keyAccentLanguage": "kasungu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ali Kanyenda",
+        "location": {
+          "lat": -12.967,
+          "lng": 34.267
+        },
+        "keyAccentLanguage": "ali_kanyenda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bangani",
+        "location": {
+          "lat": -14.233,
+          "lng": 34.617
+        },
+        "keyAccentLanguage": "bangani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aldeia Bonga",
+        "location": {
+          "lat": -14.61,
+          "lng": 34.542
+        },
+        "keyAccentLanguage": "aldeia_bonga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ambale Phaso",
+        "location": {
+          "lat": -12.583,
+          "lng": 34.167
+        },
+        "keyAccentLanguage": "ambale_phaso"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Benula",
+        "location": {
+          "lat": -12.75,
+          "lng": 33.55
+        },
+        "keyAccentLanguage": "benula"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chipoka",
+        "location": {
+          "lat": -13.987,
+          "lng": 34.509
+        },
+        "keyAccentLanguage": "chipoka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bani",
+        "location": {
+          "lat": -14.417,
+          "lng": 34.133
+        },
+        "keyAccentLanguage": "bani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nambuma",
+        "location": {
+          "lat": -13.704,
+          "lng": 33.598
+        },
+        "keyAccentLanguage": "nambuma"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abele",
+        "location": {
+          "lat": -14.133,
+          "lng": 33.667
+        },
+        "keyAccentLanguage": "abele"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Namitete",
+        "location": {
+          "lat": -14.017,
+          "lng": 33.351
+        },
+        "keyAccentLanguage": "namitete"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kamphambale",
+        "location": {
+          "lat": -12.242,
+          "lng": 34.007
+        },
+        "keyAccentLanguage": "kamphambale"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nkhotakota",
+        "location": {
+          "lat": -12.929,
+          "lng": 34.296
+        },
+        "keyAccentLanguage": "nkhotakota"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bechani",
+        "location": {
+          "lat": -12.55,
+          "lng": 33.383
+        },
+        "keyAccentLanguage": "bechani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bande",
+        "location": {
+          "lat": -13.45,
+          "lng": 33.95
+        },
+        "keyAccentLanguage": "bande"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ben",
+        "location": {
+          "lat": -14.383,
+          "lng": 33.733
+        },
+        "keyAccentLanguage": "ben"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Malingunde",
+        "location": {
+          "lat": -14.171,
+          "lng": 33.622
+        },
+        "keyAccentLanguage": "malingunde"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Simeon",
+        "location": {
+          "lat": -14.339,
+          "lng": 33.736
+        },
+        "keyAccentLanguage": "simeon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mtakataka",
+        "location": {
+          "lat": -14.207,
+          "lng": 34.536
+        },
+        "keyAccentLanguage": "mtakataka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dwangwa",
+        "location": {
+          "lat": -12.503,
+          "lng": 34.115
+        },
+        "keyAccentLanguage": "dwangwa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Senga",
+        "location": {
+          "lat": -13.714,
+          "lng": 34.62
+        },
+        "keyAccentLanguage": "senga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abraham",
+        "location": {
+          "lat": -13.65,
+          "lng": 33.167
+        },
+        "keyAccentLanguage": "abraham"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bibi",
+        "location": {
+          "lat": -13.617,
+          "lng": 34.533
+        },
+        "keyAccentLanguage": "bibi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bimpi",
+        "location": {
+          "lat": -13.633,
+          "lng": 34
+        },
+        "keyAccentLanguage": "bimpi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dedza",
+        "location": {
+          "lat": -14.378,
+          "lng": 34.332
+        },
+        "keyAccentLanguage": "dedza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mpunzi",
+        "location": {
+          "lat": -14.375,
+          "lng": 34.199
+        },
+        "keyAccentLanguage": "mpunzi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bonda",
+        "location": {
+          "lat": -13.65,
+          "lng": 33.333
+        },
+        "keyAccentLanguage": "bonda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kasache",
+        "location": {
+          "lat": -13.499,
+          "lng": 33.959
+        },
+        "keyAccentLanguage": "kasache"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Benga",
+        "location": {
+          "lat": -13.367,
+          "lng": 34.283
+        },
+        "keyAccentLanguage": "benga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chitedze",
+        "location": {
+          "lat": -13.988,
+          "lng": 33.646
+        },
+        "keyAccentLanguage": "chitedze"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Besera",
+        "location": {
+          "lat": -13.65,
+          "lng": 33.883
+        },
+        "keyAccentLanguage": "besera"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lobi",
+        "location": {
+          "lat": -14.39,
+          "lng": 34.075
+        },
+        "keyAccentLanguage": "lobi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aldeia Forte Malanguene",
+        "location": {
+          "lat": -14.683,
+          "lng": 34.523
+        },
+        "keyAccentLanguage": "aldeia_forte_malanguene"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Salima",
+        "location": {
+          "lat": -13.781,
+          "lng": 34.458
+        },
+        "keyAccentLanguage": "salima"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bano",
+        "location": {
+          "lat": -13.117,
+          "lng": 33.533
+        },
+        "keyAccentLanguage": "bano"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mbabzi",
+        "location": {
+          "lat": -13.92,
+          "lng": 33.665
+        },
+        "keyAccentLanguage": "mbabzi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bingo",
+        "location": {
+          "lat": -13.767,
+          "lng": 34.417
+        },
+        "keyAccentLanguage": "bingo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Gumba",
+        "location": {
+          "lat": -13.366,
+          "lng": 33.13
+        },
+        "keyAccentLanguage": "gumba"
+      }
+    ],
+    "enNameLanguage": "Central Region",
+    "keyAccentLanguage": "central_region"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 9.543926899999999,
+      "lng": -0.9056623
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Abel Chunga",
+        "location": {
+          "lat": -12.167,
+          "lng": 33.483
+        },
+        "keyAccentLanguage": "abel_chunga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mwenechendo",
+        "location": {
+          "lat": -9.887,
+          "lng": 33.412
+        },
+        "keyAccentLanguage": "mwenechendo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Livingstonia",
+        "location": {
+          "lat": -10.656,
+          "lng": 34.04
+        },
+        "keyAccentLanguage": "livingstonia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bisa",
+        "location": {
+          "lat": -12.45,
+          "lng": 33.85
+        },
+        "keyAccentLanguage": "bisa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mlali",
+        "location": {
+          "lat": -10.173,
+          "lng": 34.042
+        },
+        "keyAccentLanguage": "mlali"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alick Ndawandawa",
+        "location": {
+          "lat": -11.933,
+          "lng": 33.55
+        },
+        "keyAccentLanguage": "alick_ndawandawa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Basikolo",
+        "location": {
+          "lat": -12.15,
+          "lng": 33.617
+        },
+        "keyAccentLanguage": "basikolo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bartumeyo Tembo",
+        "location": {
+          "lat": -12.15,
+          "lng": 33.4
+        },
+        "keyAccentLanguage": "bartumeyo_tembo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bolero",
+        "location": {
+          "lat": -10.971,
+          "lng": 33.739
+        },
+        "keyAccentLanguage": "bolero"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mwenewenya",
+        "location": {
+          "lat": -10.106,
+          "lng": 33.561
+        },
+        "keyAccentLanguage": "mwenewenya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Basopo Lungu",
+        "location": {
+          "lat": -11.767,
+          "lng": 33.433
+        },
+        "keyAccentLanguage": "basopo_lungu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kapoka",
+        "location": {
+          "lat": -9.709,
+          "lng": 33.347
+        },
+        "keyAccentLanguage": "kapoka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Biambiri Mramu",
+        "location": {
+          "lat": -11.467,
+          "lng": 33.717
+        },
+        "keyAccentLanguage": "biambiri_mramu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kafukule",
+        "location": {
+          "lat": -11.459,
+          "lng": 33.632
+        },
+        "keyAccentLanguage": "kafukule"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bawa Banda",
+        "location": {
+          "lat": -12.15,
+          "lng": 33.333
+        },
+        "keyAccentLanguage": "bawa_banda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Namatandala",
+        "location": {
+          "lat": -9.761,
+          "lng": 33.327
+        },
+        "keyAccentLanguage": "namatandala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Belekia",
+        "location": {
+          "lat": -12.167,
+          "lng": 33.817
+        },
+        "keyAccentLanguage": "belekia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bota",
+        "location": {
+          "lat": -11.267,
+          "lng": 33.4
+        },
+        "keyAccentLanguage": "bota"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Uzumara",
+        "location": {
+          "lat": -10.905,
+          "lng": 34.103
+        },
+        "keyAccentLanguage": "uzumara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chikangawa",
+        "location": {
+          "lat": -11.777,
+          "lng": 33.87
+        },
+        "keyAccentLanguage": "chikangawa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chelinda",
+        "location": {
+          "lat": -10.586,
+          "lng": 33.803
+        },
+        "keyAccentLanguage": "chelinda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chimpamba",
+        "location": {
+          "lat": -10.709,
+          "lng": 34.184
+        },
+        "keyAccentLanguage": "chimpamba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kapirinkonde",
+        "location": {
+          "lat": -10.274,
+          "lng": 33.566
+        },
+        "keyAccentLanguage": "kapirinkonde"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Banemula",
+        "location": {
+          "lat": -9.9,
+          "lng": 34.433
+        },
+        "keyAccentLanguage": "banemula"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kaporo",
+        "location": {
+          "lat": -9.731,
+          "lng": 33.888
+        },
+        "keyAccentLanguage": "kaporo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Luwawa",
+        "location": {
+          "lat": -12.08,
+          "lng": 33.713
+        },
+        "keyAccentLanguage": "luwawa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alick Cisi",
+        "location": {
+          "lat": -11.933,
+          "lng": 33.6
+        },
+        "keyAccentLanguage": "alick_cisi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chintheche",
+        "location": {
+          "lat": -11.824,
+          "lng": 34.17
+        },
+        "keyAccentLanguage": "chintheche"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Karonga",
+        "location": {
+          "lat": -9.927,
+          "lng": 33.942
+        },
+        "keyAccentLanguage": "karonga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bongoya",
+        "location": {
+          "lat": -12.167,
+          "lng": 33.4
+        },
+        "keyAccentLanguage": "bongoya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Aaron",
+        "location": {
+          "lat": -11.2,
+          "lng": 33.833
+        },
+        "keyAccentLanguage": "aaron"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mulembe",
+        "location": {
+          "lat": -10.046,
+          "lng": 33.354
+        },
+        "keyAccentLanguage": "mulembe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Engucwini",
+        "location": {
+          "lat": -11.197,
+          "lng": 33.823
+        },
+        "keyAccentLanguage": "engucwini"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kapika",
+        "location": {
+          "lat": -10.449,
+          "lng": 34.098
+        },
+        "keyAccentLanguage": "kapika"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amoni",
+        "location": {
+          "lat": -12.2,
+          "lng": 33.917
+        },
+        "keyAccentLanguage": "amoni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bokosi Kunga",
+        "location": {
+          "lat": -11.967,
+          "lng": 33.667
+        },
+        "keyAccentLanguage": "bokosi_kunga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Rumphi",
+        "location": {
+          "lat": -11.02,
+          "lng": 33.857
+        },
+        "keyAccentLanguage": "rumphi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chitimba",
+        "location": {
+          "lat": -10.607,
+          "lng": 34.109
+        },
+        "keyAccentLanguage": "chitimba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Banda",
+        "location": {
+          "lat": -12.633,
+          "lng": 33.667
+        },
+        "keyAccentLanguage": "banda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sungilo",
+        "location": {
+          "lat": -10.509,
+          "lng": 34.202
+        },
+        "keyAccentLanguage": "sungilo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Eutini",
+        "location": {
+          "lat": -11.463,
+          "lng": 33.424
+        },
+        "keyAccentLanguage": "eutini"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Iponga",
+        "location": {
+          "lat": -9.644,
+          "lng": 33.816
+        },
+        "keyAccentLanguage": "iponga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mzimba",
+        "location": {
+          "lat": -11.898,
+          "lng": 33.601
+        },
+        "keyAccentLanguage": "mzimba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Anoki Mkhere",
+        "location": {
+          "lat": -11.85,
+          "lng": 33.683
+        },
+        "keyAccentLanguage": "anoki_mkhere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Amon Munthali",
+        "location": {
+          "lat": -11.35,
+          "lng": 33.5
+        },
+        "keyAccentLanguage": "amon_munthali"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chisenga",
+        "location": {
+          "lat": -9.97,
+          "lng": 33.392
+        },
+        "keyAccentLanguage": "chisenga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mankhambira",
+        "location": {
+          "lat": -11.723,
+          "lng": 34.291
+        },
+        "keyAccentLanguage": "mankhambira"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Usisya",
+        "location": {
+          "lat": -11.235,
+          "lng": 34.218
+        },
+        "keyAccentLanguage": "usisya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Edingeni",
+        "location": {
+          "lat": -12.032,
+          "lng": 33.307
+        },
+        "keyAccentLanguage": "edingeni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chitipa",
+        "location": {
+          "lat": -9.699,
+          "lng": 33.276
+        },
+        "keyAccentLanguage": "chitipa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Katumbi",
+        "location": {
+          "lat": -10.811,
+          "lng": 33.524
+        },
+        "keyAccentLanguage": "katumbi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ekwendeni",
+        "location": {
+          "lat": -11.372,
+          "lng": 33.876
+        },
+        "keyAccentLanguage": "ekwendeni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Misuku",
+        "location": {
+          "lat": -9.667,
+          "lng": 33.525
+        },
+        "keyAccentLanguage": "misuku"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ruarwe",
+        "location": {
+          "lat": -11.12,
+          "lng": 34.226
+        },
+        "keyAccentLanguage": "ruarwe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mioli",
+        "location": {
+          "lat": -10.114,
+          "lng": 34.01
+        },
+        "keyAccentLanguage": "mioli"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bupigu",
+        "location": {
+          "lat": -9.51,
+          "lng": 33.281
+        },
+        "keyAccentLanguage": "bupigu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bokosi Dindi",
+        "location": {
+          "lat": -11.933,
+          "lng": 33.5
+        },
+        "keyAccentLanguage": "bokosi_dindi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lwazi",
+        "location": {
+          "lat": -11.514,
+          "lng": 34.15
+        },
+        "keyAccentLanguage": "lwazi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chiweta",
+        "location": {
+          "lat": -10.742,
+          "lng": 34.208
+        },
+        "keyAccentLanguage": "chiweta"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alikishani",
+        "location": {
+          "lat": -12.683,
+          "lng": 33.667
+        },
+        "keyAccentLanguage": "alikishani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bweteka",
+        "location": {
+          "lat": -11.262,
+          "lng": 34.214
+        },
+        "keyAccentLanguage": "bweteka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Matete",
+        "location": {
+          "lat": -10.37,
+          "lng": 34.21
+        },
+        "keyAccentLanguage": "matete"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chikwina",
+        "location": {
+          "lat": -11.398,
+          "lng": 34.172
+        },
+        "keyAccentLanguage": "chikwina"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Akoyo",
+        "location": {
+          "lat": -11.017,
+          "lng": 33.917
+        },
+        "keyAccentLanguage": "akoyo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Arfairyu",
+        "location": {
+          "lat": -9.617,
+          "lng": 33.333
+        },
+        "keyAccentLanguage": "arfairyu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nkhata Bay",
+        "location": {
+          "lat": -11.607,
+          "lng": 34.294
+        },
+        "keyAccentLanguage": "nkhata_bay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nthalire",
+        "location": {
+          "lat": -10.344,
+          "lng": 33.633
+        },
+        "keyAccentLanguage": "nthalire"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kafora",
+        "location": {
+          "lat": -9.607,
+          "lng": 33.264
+        },
+        "keyAccentLanguage": "kafora"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jenda Theo",
+        "location": {
+          "lat": -12.344,
+          "lng": 33.563
+        },
+        "keyAccentLanguage": "jenda_theo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Boghoyo",
+        "location": {
+          "lat": -11.1,
+          "lng": 34.233
+        },
+        "keyAccentLanguage": "boghoyo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barton Mzima",
+        "location": {
+          "lat": -11.217,
+          "lng": 33.817
+        },
+        "keyAccentLanguage": "barton_mzima"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chiwerewere",
+        "location": {
+          "lat": -10.727,
+          "lng": 34.039
+        },
+        "keyAccentLanguage": "chiwerewere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bandawe",
+        "location": {
+          "lat": -11.95,
+          "lng": 34.167
+        },
+        "keyAccentLanguage": "bandawe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mzuzu",
+        "location": {
+          "lat": -11.465,
+          "lng": 34.023
+        },
+        "keyAccentLanguage": "mzuzu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mwenitete",
+        "location": {
+          "lat": -9.843,
+          "lng": 33.88
+        },
+        "keyAccentLanguage": "mwenitete"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bwengu",
+        "location": {
+          "lat": -11.07,
+          "lng": 33.916
+        },
+        "keyAccentLanguage": "bwengu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Barton Jere",
+        "location": {
+          "lat": -11.217,
+          "lng": 33.883
+        },
+        "keyAccentLanguage": "barton_jere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ipenza",
+        "location": {
+          "lat": -9.459,
+          "lng": 33.094
+        },
+        "keyAccentLanguage": "ipenza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Loudon",
+        "location": {
+          "lat": -12.161,
+          "lng": 33.499
+        },
+        "keyAccentLanguage": "loudon"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baghaya",
+        "location": {
+          "lat": -11,
+          "lng": 33.917
+        },
+        "keyAccentLanguage": "baghaya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nyungwe",
+        "location": {
+          "lat": -10.288,
+          "lng": 34.105
+        },
+        "keyAccentLanguage": "nyungwe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bitoni Karuwa",
+        "location": {
+          "lat": -12.133,
+          "lng": 33.4
+        },
+        "keyAccentLanguage": "bitoni_karuwa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Linjika",
+        "location": {
+          "lat": -11.711,
+          "lng": 33.687
+        },
+        "keyAccentLanguage": "linjika"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kondowe",
+        "location": {
+          "lat": -10.588,
+          "lng": 34.168
+        },
+        "keyAccentLanguage": "kondowe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Emcisweni",
+        "location": {
+          "lat": -11.283,
+          "lng": 33.608
+        },
+        "keyAccentLanguage": "emcisweni"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chilumba",
+        "location": {
+          "lat": -10.433,
+          "lng": 34.247
+        },
+        "keyAccentLanguage": "chilumba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Agrippa Jere",
+        "location": {
+          "lat": -11.433,
+          "lng": 33.35
+        },
+        "keyAccentLanguage": "agrippa_jere"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Likoma",
+        "location": {
+          "lat": -12.065,
+          "lng": 34.738
+        },
+        "keyAccentLanguage": "likoma"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Muhuju",
+        "location": {
+          "lat": -10.865,
+          "lng": 33.993
+        },
+        "keyAccentLanguage": "muhuju"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ngara",
+        "location": {
+          "lat": -10.183,
+          "lng": 34.052
+        },
+        "keyAccentLanguage": "ngara"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Munyanja Ghabota",
+        "location": {
+          "lat": -11.198,
+          "lng": 33.466
+        },
+        "keyAccentLanguage": "munyanja_ghabota"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Uledi",
+        "location": {
+          "lat": -10.133,
+          "lng": 33.676
+        },
+        "keyAccentLanguage": "uledi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Adam",
+        "location": {
+          "lat": -9.517,
+          "lng": 33.217
+        },
+        "keyAccentLanguage": "adam"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Batamu Hande",
+        "location": {
+          "lat": -11.35,
+          "lng": 33.417
+        },
+        "keyAccentLanguage": "batamu_hande"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kameme",
+        "location": {
+          "lat": -9.564,
+          "lng": 33.095
+        },
+        "keyAccentLanguage": "kameme"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chiswamphira",
+        "location": {
+          "lat": -11.74,
+          "lng": 34.076
+        },
+        "keyAccentLanguage": "chiswamphira"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mzokoto",
+        "location": {
+          "lat": -10.922,
+          "lng": 34.005
+        },
+        "keyAccentLanguage": "mzokoto"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lupembe",
+        "location": {
+          "lat": -10.042,
+          "lng": 33.98
+        },
+        "keyAccentLanguage": "lupembe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kaseye",
+        "location": {
+          "lat": -9.649,
+          "lng": 33.364
+        },
+        "keyAccentLanguage": "kaseye"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chinyakula",
+        "location": {
+          "lat": -11.632,
+          "lng": 34.121
+        },
+        "keyAccentLanguage": "chinyakula"
+      }
+    ],
+    "enNameLanguage": "Northern Region",
+    "keyAccentLanguage": "northern_region"
+  },
+  {
+    "code": 0,
+    "type": "State",
+    "location": {
+      "lat": 0,
+      "lng": 0
+    },
+    "districtList": [
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alexander Liti",
+        "location": {
+          "lat": -15.333,
+          "lng": 35.417
+        },
+        "keyAccentLanguage": "alexander_liti"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Matope",
+        "location": {
+          "lat": -15.371,
+          "lng": 34.888
+        },
+        "keyAccentLanguage": "matope"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Domasi",
+        "location": {
+          "lat": -15.272,
+          "lng": 35.399
+        },
+        "keyAccentLanguage": "domasi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Muloza",
+        "location": {
+          "lat": -16.074,
+          "lng": 35.736
+        },
+        "keyAccentLanguage": "muloza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Balakasi",
+        "location": {
+          "lat": -15.483,
+          "lng": 35.35
+        },
+        "keyAccentLanguage": "balakasi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mimosa",
+        "location": {
+          "lat": -16.074,
+          "lng": 35.605
+        },
+        "keyAccentLanguage": "mimosa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chimanda",
+        "location": {
+          "lat": -14.707,
+          "lng": 35.801
+        },
+        "keyAccentLanguage": "chimanda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kanjedza",
+        "location": {
+          "lat": -16.025,
+          "lng": 34.86
+        },
+        "keyAccentLanguage": "kanjedza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Azyuda",
+        "location": {
+          "lat": -16.167,
+          "lng": 34.75
+        },
+        "keyAccentLanguage": "azyuda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bakhili",
+        "location": {
+          "lat": -14.683,
+          "lng": 35.817
+        },
+        "keyAccentLanguage": "bakhili"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Dzikolatha",
+        "location": {
+          "lat": -16.258,
+          "lng": 34.659
+        },
+        "keyAccentLanguage": "dzikolatha"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alumenda",
+        "location": {
+          "lat": -16.401,
+          "lng": 34.93
+        },
+        "keyAccentLanguage": "alumenda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Malemia",
+        "location": {
+          "lat": -14.366,
+          "lng": 35.168
+        },
+        "keyAccentLanguage": "malemia"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Blantyre",
+        "location": {
+          "lat": -15.793,
+          "lng": 34.994
+        },
+        "keyAccentLanguage": "blantyre"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alifandaka",
+        "location": {
+          "lat": -17.067,
+          "lng": 35.083
+        },
+        "keyAccentLanguage": "alifandaka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Migowi",
+        "location": {
+          "lat": -15.716,
+          "lng": 35.683
+        },
+        "keyAccentLanguage": "migowi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Luchenza",
+        "location": {
+          "lat": -16.002,
+          "lng": 35.309
+        },
+        "keyAccentLanguage": "luchenza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chiponde",
+        "location": {
+          "lat": -14.375,
+          "lng": 35.607
+        },
+        "keyAccentLanguage": "chiponde"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Magomero",
+        "location": {
+          "lat": -15.597,
+          "lng": 35.257
+        },
+        "keyAccentLanguage": "magomero"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Namwera",
+        "location": {
+          "lat": -14.371,
+          "lng": 35.539
+        },
+        "keyAccentLanguage": "namwera"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chantulo",
+        "location": {
+          "lat": -14.295,
+          "lng": 34.816
+        },
+        "keyAccentLanguage": "chantulo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cisitu",
+        "location": {
+          "lat": -15.991,
+          "lng": 35.437
+        },
+        "keyAccentLanguage": "cisitu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nkate",
+        "location": {
+          "lat": -16.152,
+          "lng": 34.957
+        },
+        "keyAccentLanguage": "nkate"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ulongwe",
+        "location": {
+          "lat": -14.845,
+          "lng": 35.169
+        },
+        "keyAccentLanguage": "ulongwe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bisenti",
+        "location": {
+          "lat": -16.983,
+          "lng": 35.3
+        },
+        "keyAccentLanguage": "bisenti"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nkungulu",
+        "location": {
+          "lat": -14.618,
+          "lng": 35.182
+        },
+        "keyAccentLanguage": "nkungulu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Matambi",
+        "location": {
+          "lat": -16.143,
+          "lng": 35.528
+        },
+        "keyAccentLanguage": "matambi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mwitiya",
+        "location": {
+          "lat": -14.612,
+          "lng": 35.741
+        },
+        "keyAccentLanguage": "mwitiya"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Malembo Mission",
+        "location": {
+          "lat": -14.226,
+          "lng": 34.82
+        },
+        "keyAccentLanguage": "malembo_mission"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Balaka",
+        "location": {
+          "lat": -14.981,
+          "lng": 34.956
+        },
+        "keyAccentLanguage": "balaka"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Likangala",
+        "location": {
+          "lat": -15.433,
+          "lng": 35.517
+        },
+        "keyAccentLanguage": "likangala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Jali",
+        "location": {
+          "lat": -15.486,
+          "lng": 35.47
+        },
+        "keyAccentLanguage": "jali"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kasupe",
+        "location": {
+          "lat": -15.171,
+          "lng": 35.3
+        },
+        "keyAccentLanguage": "kasupe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lunzu",
+        "location": {
+          "lat": -15.635,
+          "lng": 35.023
+        },
+        "keyAccentLanguage": "lunzu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Tomali",
+        "location": {
+          "lat": -16.178,
+          "lng": 34.777
+        },
+        "keyAccentLanguage": "tomali"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mwanjage",
+        "location": {
+          "lat": -14.176,
+          "lng": 35.211
+        },
+        "keyAccentLanguage": "mwanjage"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Makanjila",
+        "location": {
+          "lat": -13.715,
+          "lng": 35.025
+        },
+        "keyAccentLanguage": "makanjila"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sankulani",
+        "location": {
+          "lat": -16.453,
+          "lng": 35.254
+        },
+        "keyAccentLanguage": "sankulani"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nambazu",
+        "location": {
+          "lat": -15.527,
+          "lng": 35.835
+        },
+        "keyAccentLanguage": "nambazu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nkope Mission",
+        "location": {
+          "lat": -14.197,
+          "lng": 35.032
+        },
+        "keyAccentLanguage": "nkope_mission"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bile",
+        "location": {
+          "lat": -16.417,
+          "lng": 34.867
+        },
+        "keyAccentLanguage": "bile"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chiradzulu",
+        "location": {
+          "lat": -15.667,
+          "lng": 35.193
+        },
+        "keyAccentLanguage": "chiradzulu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Phalombe",
+        "location": {
+          "lat": -15.802,
+          "lng": 35.645
+        },
+        "keyAccentLanguage": "phalombe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ntaja",
+        "location": {
+          "lat": -14.868,
+          "lng": 35.525
+        },
+        "keyAccentLanguage": "ntaja"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bonongwe",
+        "location": {
+          "lat": -15.983,
+          "lng": 35.2
+        },
+        "keyAccentLanguage": "bonongwe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bitchilipa",
+        "location": {
+          "lat": -14.717,
+          "lng": 34.933
+        },
+        "keyAccentLanguage": "bitchilipa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kalinde",
+        "location": {
+          "lat": -15.646,
+          "lng": 35.734
+        },
+        "keyAccentLanguage": "kalinde"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sandama",
+        "location": {
+          "lat": -16.202,
+          "lng": 35.292
+        },
+        "keyAccentLanguage": "sandama"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Zomba",
+        "location": {
+          "lat": -15.383,
+          "lng": 35.31
+        },
+        "keyAccentLanguage": "zomba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Thyolo",
+        "location": {
+          "lat": -16.058,
+          "lng": 35.131
+        },
+        "keyAccentLanguage": "thyolo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bimbi",
+        "location": {
+          "lat": -15.3,
+          "lng": 35.483
+        },
+        "keyAccentLanguage": "bimbi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nankumba",
+        "location": {
+          "lat": -14.411,
+          "lng": 34.785
+        },
+        "keyAccentLanguage": "nankumba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Liwonde",
+        "location": {
+          "lat": -15.054,
+          "lng": 35.219
+        },
+        "keyAccentLanguage": "liwonde"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alufasi",
+        "location": {
+          "lat": -16.467,
+          "lng": 34.95
+        },
+        "keyAccentLanguage": "alufasi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lutwe",
+        "location": {
+          "lat": -17.084,
+          "lng": 35.11
+        },
+        "keyAccentLanguage": "lutwe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nazombe",
+        "location": {
+          "lat": -15.769,
+          "lng": 35.763
+        },
+        "keyAccentLanguage": "nazombe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nyasa",
+        "location": {
+          "lat": -16.107,
+          "lng": 35.087
+        },
+        "keyAccentLanguage": "nyasa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bangula",
+        "location": {
+          "lat": -16.554,
+          "lng": 35.145
+        },
+        "keyAccentLanguage": "bangula"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mpasa",
+        "location": {
+          "lat": -15.756,
+          "lng": 35.609
+        },
+        "keyAccentLanguage": "mpasa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nkulambe",
+        "location": {
+          "lat": -15.858,
+          "lng": 35.743
+        },
+        "keyAccentLanguage": "nkulambe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Malombe Court",
+        "location": {
+          "lat": -14.651,
+          "lng": 35.341
+        },
+        "keyAccentLanguage": "malombe_court"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Baquira",
+        "location": {
+          "lat": -13.9,
+          "lng": 35.183
+        },
+        "keyAccentLanguage": "baquira"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Limbe",
+        "location": {
+          "lat": -15.808,
+          "lng": 35.057
+        },
+        "keyAccentLanguage": "limbe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chiromo",
+        "location": {
+          "lat": -16.584,
+          "lng": 35.106
+        },
+        "keyAccentLanguage": "chiromo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Biti Kalanje",
+        "location": {
+          "lat": -14.283,
+          "lng": 35.25
+        },
+        "keyAccentLanguage": "biti_kalanje"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Kachulu",
+        "location": {
+          "lat": -15.362,
+          "lng": 35.579
+        },
+        "keyAccentLanguage": "kachulu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Balala",
+        "location": {
+          "lat": -16.45,
+          "lng": 34.95
+        },
+        "keyAccentLanguage": "balala"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Thunga",
+        "location": {
+          "lat": -15.984,
+          "lng": 35.072
+        },
+        "keyAccentLanguage": "thunga"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Phalula",
+        "location": {
+          "lat": -15.226,
+          "lng": 34.884
+        },
+        "keyAccentLanguage": "phalula"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Monkey Bay",
+        "location": {
+          "lat": -14.075,
+          "lng": 34.912
+        },
+        "keyAccentLanguage": "monkey_bay"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nchalo",
+        "location": {
+          "lat": -16.268,
+          "lng": 34.926
+        },
+        "keyAccentLanguage": "nchalo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sucoma",
+        "location": {
+          "lat": -16.261,
+          "lng": 34.89
+        },
+        "keyAccentLanguage": "sucoma"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ndinde",
+        "location": {
+          "lat": -14.125,
+          "lng": 35.39
+        },
+        "keyAccentLanguage": "ndinde"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mangochi",
+        "location": {
+          "lat": -14.478,
+          "lng": 35.264
+        },
+        "keyAccentLanguage": "mangochi"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bakali",
+        "location": {
+          "lat": -14.667,
+          "lng": 35.417
+        },
+        "keyAccentLanguage": "bakali"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mulanje",
+        "location": {
+          "lat": -16.025,
+          "lng": 35.525
+        },
+        "keyAccentLanguage": "mulanje"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bakile",
+        "location": {
+          "lat": -13.983,
+          "lng": 35.167
+        },
+        "keyAccentLanguage": "bakile"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nsanje",
+        "location": {
+          "lat": -16.921,
+          "lng": 35.262
+        },
+        "keyAccentLanguage": "nsanje"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chikwawa",
+        "location": {
+          "lat": -16.024,
+          "lng": 34.787
+        },
+        "keyAccentLanguage": "chikwawa"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Lirangwe",
+        "location": {
+          "lat": -15.524,
+          "lng": 35.029
+        },
+        "keyAccentLanguage": "lirangwe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Msinje",
+        "location": {
+          "lat": -13.51,
+          "lng": 34.871
+        },
+        "keyAccentLanguage": "msinje"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mwanza",
+        "location": {
+          "lat": -15.611,
+          "lng": 34.554
+        },
+        "keyAccentLanguage": "mwanza"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Timbenao",
+        "location": {
+          "lat": -16.089,
+          "lng": 34.637
+        },
+        "keyAccentLanguage": "timbenao"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Alimenda",
+        "location": {
+          "lat": -16.215,
+          "lng": 34.686
+        },
+        "keyAccentLanguage": "alimenda"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Ngabu",
+        "location": {
+          "lat": -16.467,
+          "lng": 34.911
+        },
+        "keyAccentLanguage": "ngabu"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Bongwe",
+        "location": {
+          "lat": -15.45,
+          "lng": 35.417
+        },
+        "keyAccentLanguage": "bongwe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Thuchila",
+        "location": {
+          "lat": -15.916,
+          "lng": 35.355
+        },
+        "keyAccentLanguage": "thuchila"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Blair",
+        "location": {
+          "lat": -16.083,
+          "lng": 35.1
+        },
+        "keyAccentLanguage": "blair"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Thondwe",
+        "location": {
+          "lat": -15.48,
+          "lng": 35.237
+        },
+        "keyAccentLanguage": "thondwe"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Chigumula",
+        "location": {
+          "lat": -15.877,
+          "lng": 35.064
+        },
+        "keyAccentLanguage": "chigumula"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Cholo",
+        "location": {
+          "lat": -16.071,
+          "lng": 35.15
+        },
+        "keyAccentLanguage": "cholo"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Singano",
+        "location": {
+          "lat": -16.289,
+          "lng": 35.059
+        },
+        "keyAccentLanguage": "singano"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Sande",
+        "location": {
+          "lat": -16.151,
+          "lng": 34.851
+        },
+        "keyAccentLanguage": "sande"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Mpemba",
+        "location": {
+          "lat": -15.868,
+          "lng": 34.969
+        },
+        "keyAccentLanguage": "mpemba"
+      },
+      {
+        "code": 0,
+        "type": "City",
+        "enNameLanguage": "Nayuci",
+        "location": {
+          "lat": -14.975,
+          "lng": 35.868
+        },
+        "keyAccentLanguage": "nayuci"
+      }
+    ],
+    "enNameLanguage": "Southern Region",
+    "keyAccentLanguage": "southern_region"
+  }
+]
