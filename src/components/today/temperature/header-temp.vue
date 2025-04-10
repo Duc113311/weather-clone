@@ -338,6 +338,12 @@ export default {
   }
 }
 
+@media (min-width: 992px) {
+  .temp-section-c {
+    border-right: 1px solid #ccc; // Adjust color as needed
+  }
+}
+
 .image-container {
   position: relative;
   width: 80px;

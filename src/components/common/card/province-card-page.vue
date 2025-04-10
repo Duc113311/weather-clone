@@ -1,41 +1,48 @@
 <template>
   <div class="cursor-pointer">
     <!--  -->
-    <div class="district-card-km cursor-pointer">
-      <div class="flex items-center justify-center p-1">
-        <component :is="IcCardProvinces"></component>
-      </div>
+    <div class="district-card-km cursor-pointer overflow-hidden">
+      <div v-if="objectProvince !== null" class="pad-district w-full">
+        <div class="flex items-center justify-center p-1">
+          <component :is="IcCardProvinces"></component>
+        </div>
 
-      <div class="text-center w-full">
-        <p
-          class="txt_medium_14 text-center"
-          v-if="breadcumsObject.country_key === 'vn'"
-        >
-          <span v-if="renderLanguage === 'vi'">
-            {{ objectProvince.viNameLanguage }}
-          </span>
-          <span v-else>
-            {{ convertToLowCase(objectProvince.keyAccentLanguage) }}
-          </span>
-        </p>
-        <p class="txt_medium_14 text-center" v-else>
-          {{ objectProvince.enNameLanguage }}
-        </p>
-      </div>
+        <div class="text-center w-full">
+          <p
+            class="txt_medium_14 text-center"
+            v-if="breadcumsObject.country_key === 'vn'"
+          >
+            <span v-if="renderLanguage === 'vi'">
+              {{ objectProvince.viNameLanguage }}
+            </span>
+            <span v-else>
+              {{ convertToLowCase(objectProvince.keyAccentLanguage) }}
+            </span>
+          </p>
+          <p class="txt_medium_14 text-center" v-else>
+            {{ objectProvince.enNameLanguage }}
+          </p>
+        </div>
 
-      <div class="txt_regular_12 color_BFBFBF">
-        <!-- <p>
+        <div class="txt_regular_12 color_BFBFBF">
+          <!-- <p>
             ({{ Math.round(calculateDistance(objectLocation.location))
             }}{{ unitSetting.activeDistance_save }} {{ $t("Away") }})
           </p> -->
-        <p v-if="Math.round(calculateDistance(objectProvince.location)) !== 0">
-          {{
-            $t(`{number}_{unit}_away`, {
-              number: Math.round(calculateDistance(objectProvince.location)),
-              unit: unitSetting.activeDistance_save,
-            })
-          }}
-        </p>
+          <p
+            v-if="Math.round(calculateDistance(objectProvince.location)) !== 0"
+          >
+            {{
+              $t(`{number}_{unit}_away`, {
+                number: Math.round(calculateDistance(objectProvince.location)),
+                unit: unitSetting.activeDistance_save,
+              })
+            }}
+          </p>
+        </div>
+      </div>
+      <div v-else class="w-full h-[112px]">
+        <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
       </div>
     </div>
   </div>
@@ -48,9 +55,14 @@ import { encodeBase64, urlEncodeString } from "@/utils/EncoderDecoderUtils";
 import { getDistance } from "geolib";
 import { markRaw } from "vue";
 import IcCardProvinces from "@/components/icons/IcCardProvinces.vue";
+import SkeletonLoader from "@/control-ui/SkeletonLoader/SkeletonLoader.vue";
 
 export default {
   name: "province-card-page",
+  components: {
+    IcCardProvinces,
+    SkeletonLoader,
+  },
 
   props: {
     objectProvince: {
@@ -200,6 +212,9 @@ export default {
     inset -50px -50px 100px 0px var(--bg-compo-2),
     inset 500px 500px 100px 0px var(--bg-compo-3);
   border-radius: 10px;
+}
+
+.pad-district {
   padding: 10px;
   text-align: center;
   height: 112px;

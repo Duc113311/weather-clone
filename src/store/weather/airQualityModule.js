@@ -38,7 +38,8 @@ const mutations = {
    * @param {*} data
    */
   setAirQuality(state, data) {
-    localStorage.setItem("airObject", data);
+    debugger;
+    localStorage.setItem("airObject", JSON.stringify(data));
 
     const newDataAir = data;
 

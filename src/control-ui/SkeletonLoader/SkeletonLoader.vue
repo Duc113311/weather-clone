@@ -1,6 +1,9 @@
 <template>
   <div :class="[bgClass, loaderClass, 'relative overflow-hidden']">
-    <div class="shimmer absolute top-0 right-0 bottom-0 left-0 z-40"></div>
+    <div
+      class="shimmer absolute top-0 right-0 bottom-0 left-0 z-40"
+      :style="shimmerStyle"
+    ></div>
     <slot />
   </div>
 </template>
@@ -9,11 +12,11 @@
 const LOADER_TYPES = { rectangle: "rectangle", circle: "circle" };
 
 const LOADER_CSS_CLASSES = {
-  [LOADER_TYPES.rectangle]: "bor-radios-big",
+  // [LOADER_TYPES.rectangle]: "bor-radios-big",
   [LOADER_TYPES.circle]: "rounded-full",
 };
 
-const SHIMMER_COLOR = "#ffffff";
+const SHIMMER_COLOR = "#4A7A9F";
 
 function isHexColor(hexColor) {
   const hex = hexColor.replace("#", "");

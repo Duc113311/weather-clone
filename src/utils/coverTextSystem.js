@@ -340,3 +340,64 @@ export async function getFromIndexedDB(dbName, storeName) {
     };
   });
 }
+
+export function findCityDataConvert(value, listCityVN) {
+  const replaceCity = convertToVietnamese(value.city).cityConvert;
+  for (let index = 0; index < listCityVN.length; index++) {
+    const element = listCityVN[index];
+    const provinceCityData = element.provinceCity;
+    const findData = provinceCityData.find(
+      (x) => x.keyAccentLanguage === replaceCity
+    );
+    if (findData) {
+      return findData;
+    }
+  }
+}
+
+export function findDistrictsDataConvert(value, listCityVN) {
+  debugger;
+  const replaceCity = convertToVietnamese(value.city).cityConvert;
+  const replaceDistrict = convertToConvertLowerCase(value.district);
+
+  const replaceApos = replaceApostropheWithUnderscore(replaceDistrict);
+  const findData = listCityVN.find((x) => x.keyAccentLanguage === replaceCity);
+
+  if (findData) {
+    const districtListData = findData.districtList;
+
+    // Kiểm tra districtListData có tồn tại và là mảng không
+    if (Array.isArray(districtListData)) {
+      for (let index = 0; index < districtListData.length; index++) {
+        const element = districtListData[index];
+
+        const checkSub = checkSubstring(
+          removeAccents(element.keyAccentLanguage),
+          replaceApos
+        );
+
+        if (checkSub) {
+          return element; // Trả về district nếu tìm thấy
+        }
+      }
+    } else {
+      console.error("districtListData không phải là mảng");
+    }
+  }
+
+  return null; // Trả về null nếu không tìm thấy district
+}
+
+export function capitalizeEachWord(text = "") {
+  if (typeof text !== "string") return "";
+
+  return text
+    .toLowerCase()
+    .normalize("NFD") // chuẩn hóa Unicode để giữ dấu
+    .split(" ")
+    .map((word) => {
+      if (!word) return "";
+      return word[0].toLocaleUpperCase() + word.slice(1);
+    })
+    .join(" ");
+}

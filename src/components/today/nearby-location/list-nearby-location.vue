@@ -372,21 +372,25 @@ export default {
 
     async getDataByCounty() {
       const countryKey = this.wardParam.country_key.toLowerCase();
-      debugger;
+
+      let cityName, cityDetail;
 
       if (countryKey === "vn") {
-        debugger;
-        const cityName = "Vietnamese";
-        const cityDetail = "vietnam";
-        const dataGet = await getFromIndexedDB(cityName, cityDetail);
-        return dataGet[0].data;
+        cityName = "Vietnamese";
+        cityDetail = "vietnam";
       } else {
-        const cityName = this.wardParam.country;
-        const cityDetail = this.wardParam.country_key;
-        const dataGet = await getFromIndexedDB(cityName, cityDetail);
-
-        return dataGet[0].data;
+        cityName = this.wardParam.country;
+        cityDetail = this.wardParam.country_key;
       }
+
+      const dataGet = await getFromIndexedDB(cityName, cityDetail);
+
+      if (!dataGet || dataGet.length === 0 || !dataGet[0]?.data) {
+        console.warn("⚠️ Không tìm thấy dữ liệu trong IndexedDB");
+        return null;
+      }
+
+      return dataGet[0].data;
     },
 
     convertToWorldStateMethod(value) {

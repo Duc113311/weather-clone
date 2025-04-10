@@ -5,10 +5,50 @@ vue-horizontal
       <template v-slot:header>
         <div class="flex items-center text-left gap-2">
           <IcUvIndex class="icon-svg"></IcUvIndex>
-          <p class="txt_medium_14">{{ $t("Daily Weather") }}</p>
+          <div class="txt_medium_14" v-if="wardParam.country_key === 'vn'">
+            <span v-if="wardParam?.city && !wardParam?.district">{{
+              $t(`Daily_Weather_{city}`, {
+                city: convertToLowCase(wardParam.city),
+              })
+            }}</span>
+            <span
+              v-if="wardParam?.city && wardParam?.district && !wardParam?.ward"
+              >{{
+                convertCapitalizeWords(
+                  $t(`Daily_Weather_{city}`, {
+                    city: convertToLowCase(wardParam.district),
+                  })
+                )
+              }}</span
+            >
+
+            <span
+              v-if="wardParam?.city && wardParam?.district && wardParam?.ward"
+              >{{
+                convertCapitalizeWords(
+                  $t(`Daily_Weather_{city}`, {
+                    city: convertToLowCase(wardParam.ward),
+                  })
+                )
+              }}</span
+            >
+          </div>
+          <div class="txt_medium_14" v-else>
+            <span v-if="wardParam?.state && !wardParam?.cities">{{
+              $t(`Daily_Weather_{city}`, {
+                city: $t(`${wardParam?.state}`),
+              })
+            }}</span>
+
+            <span v-if="wardParam?.state && wardParam?.cities">{{
+              $t(`Daily_Weather_{city}`, {
+                city: $t(`${wardParam?.cities}`),
+              })
+            }}</span>
+          </div>
         </div>
       </template>
-      <div class="w-full h-full">
+      <div v-if="dailyGettersData.length !== 0" class="w-full h-full">
         <div class="w-full h-full">
           <div class="w-full h-full relative">
             <vue-horizontal
@@ -19,7 +59,10 @@ vue-horizontal
             >
               <div class="w-full flex gap-4 h-full relative pl-2 pr-2">
                 <div v-for="(item, index) in dailyGettersData" :key="index">
-                  <div class="w-[169px] h-full flex flex-col gap-1 item-daily">
+                  <div
+                    v-if="item !== null"
+                    class="w-[169px] h-full flex flex-col gap-1 item-daily"
+                  >
                     <div class="w-full text-left">
                       <span class="txt_regular_14"
                         >{{ renderHourly(item).timestampValue }},
@@ -41,13 +84,12 @@ vue-horizontal
 
                       <div class="flex flex-col gap-1">
                         <div class="flex items-center gap-1">
-                          <IcTemptMax class="icon-svg"></IcTemptMax>
-                          {{ renderToCelsius(item.temperatureMax) }}
-                        </div>
-
-                        <div class="flex items-center gap-1">
                           <IcTemptMin class="icon-svg"></IcTemptMin>
                           {{ renderToCelsius(item.temperatureMin) }}
+                        </div>
+                        <div class="flex items-center gap-1">
+                          <IcTemptMax class="icon-svg"></IcTemptMax>
+                          {{ renderToCelsius(item.temperatureMax) }}
                         </div>
                       </div>
                     </div>
@@ -97,6 +139,9 @@ vue-horizontal
                       </div>
                     </div>
                   </div>
+                  <div v-else class="w-[169px] h-[230px]">
+                    <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
+                  </div>
                 </div>
               </div>
             </vue-horizontal>
@@ -109,9 +154,10 @@ vue-horizontal
 <script>
 import IcUvIndex from "@/components/icons/IcUvIndex.vue";
 import BaseComponent from "../baseComponent.vue";
-import { mapState } from "vuex";
+import { mapGetters, mapState } from "vuex";
 import VueHorizontal from "vue-horizontal";
 import {
+  capitalizeWords,
   codeToFind,
   convertCtoF,
   convertDayOfWeek,
@@ -128,6 +174,7 @@ import IcPrecipitation from "@/components/icons/IcPrecipitation.vue";
 import IcChanceOfRainSnow from "@/components/icons/IcChanceOfRainSnow.vue";
 import IcChanceOfRain from "@/components/icons/IcChanceOfRain.vue";
 import IcHumidity from "@/components/icons/IcHumidity.vue";
+import SkeletonLoader from "@/control-ui/SkeletonLoader/SkeletonLoader.vue";
 
 export default {
   name: "daily-page",
@@ -142,10 +189,15 @@ export default {
     IcChanceOfRainSnow,
     IcChanceOfRain,
     IcHumidity,
+    SkeletonLoader,
   },
 
   computed: {
     ...mapState("weatherModule", ["dailyDataGetters"]),
+    ...mapGetters("commonModule", [
+      "indexComponentGetters",
+      "breadcumsObjectGetters",
+    ]),
     languageParam() {
       const languageRouter = this.$route.params;
 
@@ -165,9 +217,30 @@ export default {
 
       return dailyData.slice(1);
     },
+
+    wardParam() {
+      const retrievedArray = JSON.parse(localStorage.getItem("objectBread"));
+      const resultData = retrievedArray
+        ? retrievedArray
+        : this.breadcumsObjectGetters;
+
+      return resultData;
+    },
   },
 
   methods: {
+    convertCapitalizeWords(value) {
+      return capitalizeWords(value);
+    },
+
+    convertToLowCase(value) {
+      const normalizedStr = value
+        .normalize("NFD") // Chuyển chuỗi sang dạng tổ hợp Unicode
+        .replace(/[\u0300-\u036f]/g, ""); // Loại bỏ các dấu
+
+      return normalizedStr;
+    },
+
     renderHourly(value) {
       const offsetValue = this.$store.state.weatherModule.locationOffset.offset;
 

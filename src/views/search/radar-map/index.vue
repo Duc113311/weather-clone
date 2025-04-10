@@ -99,25 +99,25 @@
 
         <div class="absolute right-0 top-36">
           <div class="flex flex-col">
-            <div class="p-2 bg-btn-map">
+            <div class="p-2 bg-btn-map" @click="onClickTempt()">
               <IcTempt class="icon-svg"></IcTempt>
             </div>
-            <div class="p-2 bg-btn-map">
+            <div class="p-2 bg-btn-map" @click="onClickPrecipitation()">
               <IcPrecipitation class="icon-svg"></IcPrecipitation>
             </div>
-            <div class="p-2 bg-btn-map">
+            <div class="p-2 bg-btn-map" @click="onClickRainMap()">
               <IcRainMap class="icon-svg"></IcRainMap>
             </div>
-            <div class="p-2 bg-btn-map">
+            <div class="p-2 bg-btn-map" @click="onClickCloudCover()">
               <IcTitleCloudCover class="icon-svg"></IcTitleCloudCover>
             </div>
-            <div class="p-2 bg-btn-map">
+            <div class="p-2 bg-btn-map" @click="onClickWindSpeed()">
               <IcTitleWindSpeed class="icon-svg"></IcTitleWindSpeed>
             </div>
-            <div class="p-2 bg-btn-map">
+            <div class="p-2 bg-btn-map" @click="onClickSnowMap()">
               <IcSnowMap class="icon-svg"></IcSnowMap>
             </div>
-            <div class="p-2 bg-btn-map">
+            <div class="p-2 bg-btn-map" @click="onClickHumidity()">
               <IcHumidity class="icon-svg"></IcHumidity>
             </div>
           </div>
@@ -227,11 +227,23 @@ export default {
     },
   },
 
+  beforeRouteLeave(to, from, next) {
+    // Đánh dấu trạng thái sắp rời khỏi radar-map
+    sessionStorage.setItem("justLeftRadarMap", "true");
+    next();
+  },
+
   mounted() {
     this.originalPosition = {
       latitude: this.wardParam.latitude,
       longitude: this.wardParam.longitude,
     };
+
+    if (sessionStorage.getItem("justLeftRadarMap") === "true") {
+      console.log("🔁 Reloading vì vừa thoát khỏi radar-map");
+      sessionStorage.removeItem("justLeftRadarMap");
+      window.location.reload();
+    }
   },
 
   methods: {
@@ -251,6 +263,7 @@ export default {
       const value = encodeBase64(urlParam);
       await this.getFormattedAddress(value);
 
+      debugger;
       const objectSearch = this.$store.state.weatherModule.newArray;
       const objectLatLong = objectSearch[0];
       if (objectLatLong) {
@@ -259,9 +272,36 @@ export default {
           longitude: objectLatLong.lng,
         };
         debugger;
-
         this.loading = false;
       }
+    },
+
+    onClickTempt() {
+      this.overlayValue = "temp";
+    },
+
+    onClickPrecipitation() {
+      this.overlayValue = "pressure";
+    },
+
+    onClickRainMap() {
+      this.overlayValue = "rain";
+    },
+
+    onClickCloudCover() {
+      this.overlayValue = "clouds";
+    },
+
+    onClickWindSpeed() {
+      this.overlayValue = "wind";
+    },
+
+    onClickSnowMap() {
+      this.overlayValue = "snow";
+    },
+
+    onClickHumidity() {
+      this.overlayValue = "humidity";
     },
 
     convertMetricWind(value) {

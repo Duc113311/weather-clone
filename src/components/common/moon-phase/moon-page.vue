@@ -1,13 +1,16 @@
 <template>
   <div class="w-full">
-    <BaseComponent>
+    <BaseComponent :isShowPad="false">
       <template v-slot:header>
         <div class="flex items-center text-left gap-2">
           <IcMoonphase class="icon-svg"></IcMoonphase>
           <p class="txt_medium_14">{{ $t("Moon_phase") }}</p>
         </div>
       </template>
-      <div class="w-full h-[183px]">
+      <div
+        v-if="currentlyData && Object.keys(currentlyData).length > 0"
+        class="w-full h-[210px] pad-big"
+      >
         <!--  -->
 
         <div
@@ -70,6 +73,9 @@
           </div>
         </div>
       </div>
+      <div v-else class="w-full h-[210px]">
+        <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
+      </div>
     </BaseComponent>
   </div>
 </template>
@@ -98,6 +104,8 @@ import IcThirdQuarter from "@/components/icons/moon-phase/IcThirdQuarter.vue";
 import IcWaningGibbous from "@/components/icons/moon-phase/IcWaningGibbous.vue";
 import IcWaxingCrescent from "@/components/icons/moon-phase/IcWaxingCrescent.vue";
 import IcWaxingGibbous from "@/components/icons/moon-phase/IcWaxingGibbous.vue";
+import { mapGetters } from "vuex";
+import SkeletonLoader from "@/control-ui/SkeletonLoader/SkeletonLoader.vue";
 
 export default {
   name: "moon-page",
@@ -105,6 +113,7 @@ export default {
     BaseComponent,
     IcMoonphase,
     // GlobalMoonIcon,
+    SkeletonLoader,
   },
 
   data() {
@@ -139,8 +148,13 @@ export default {
   },
 
   computed: {
+    ...mapGetters("weatherModule", ["currentlyGetters"]),
     renderPosition() {
       return this.$store.state.weatherModule.cityCountry;
+    },
+
+    currentlyData() {
+      return this.currentlyGetters;
     },
 
     languageParam() {

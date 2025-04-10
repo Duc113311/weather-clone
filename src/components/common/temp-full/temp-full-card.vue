@@ -68,7 +68,12 @@
           </div>
         </div>
       </template>
-      <InforFullCard></InforFullCard>
+      <InforFullCard
+        v-if="currentlyData && Object.keys(currentlyData).length < 0"
+      ></InforFullCard>
+      <div v-else class="w-full h-full">
+        <SkeletonLoader class="w-full h-[380px]"> </SkeletonLoader>
+      </div>
     </BaseComponent>
   </div>
 </template>
@@ -78,6 +83,7 @@ import InforFullCard from "./infor-full-card.vue";
 import { mapGetters } from "vuex";
 import { capitalizeWords } from "@/utils/converValue";
 import removeAccents from "remove-accents";
+import SkeletonLoader from "@/control-ui/SkeletonLoader/SkeletonLoader.vue";
 
 export default {
   name: "temp-full-card",
@@ -85,6 +91,7 @@ export default {
   components: {
     BaseComponent,
     InforFullCard,
+    SkeletonLoader,
   },
   data() {
     return {

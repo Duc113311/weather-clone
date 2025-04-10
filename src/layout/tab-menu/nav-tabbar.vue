@@ -23,7 +23,9 @@
                 'active-icon': activeTabGettersParam === index,
               }"
             />
-            <span class="txt_regular_14">{{ menu.label }}</span>
+            <span class="txt_regular_12">{{
+              capitalizeEachWord(menu.label)
+            }}</span>
           </div>
         </div>
       </div>
@@ -39,6 +41,7 @@ import IcCalendar from "@/components/icons/IcCalendar.vue";
 import IcOclock from "@/components/icons/IcOclock.vue";
 import IcRadar from "@/components/icons/IcRadar.vue";
 import {
+  capitalizeEachWord,
   convertLowerCase,
   removeWordAndAccents,
 } from "@/utils/coverTextSystem";
@@ -202,6 +205,10 @@ export default {
       "setIndexComponent",
       "setActiveTab",
     ]),
+
+    capitalizeEachWord(value) {
+      return capitalizeEachWord(value);
+    },
     convertToSlugCity(str) {
       const slug = removeAccents(str);
 
@@ -417,8 +424,8 @@ export default {
 </script>
 <style lang="scss">
 .weather-menu-item {
-  width: 163px;
-  height: 40px;
+  // width: 100%;
+  height: 36px;
   background-color: var(--bg-button);
   color: var(--color-txt);
 }

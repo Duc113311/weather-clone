@@ -44,9 +44,9 @@ export default {
     paramAirModule() {
       const storageAir = localStorage.getItem("airObject");
       if (storageAir) {
-        const airObject = decodeBase64(storageAir);
+        // const airObject = decodeBase64(storageAir);
 
-        const decodeAirObject = JSON.parse(airObject);
+        const decodeAirObject = JSON.parse(storageAir);
 
         return decodeAirObject.aqi ? decodeAirObject.aqi : 0;
       }

@@ -9,171 +9,170 @@
         >
           <TempPage :key="indexState + Math.random()"></TempPage>
         </div>
-        <div v-else class="w-full h-[800px]">
-          <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
-        </div>
       </div>
     </div>
 
     <!-- Body2 daily -->
 
-    <div
-      class="container local-d lg:flex block w-full justify-between gap-20-px md:pt-2 md:pb-2"
-    >
+    <div class="container lg:flex block w-full justify-between">
       <!--  -->
       <div
-        class="container h-[280px] local-d lg:flex block w-full justify-between gap-20-px md:pt-2 md:pb-2"
+        class="container local-d lg:flex block w-full justify-between gap-20-px md:pt-2 md:pb-2"
       >
         <div class="left-c w-full lg:w-[68%] gap-20-px">
-          <div
-            class="md:flex block justify-between lg:h-[260px] w-full gap-20-px"
-            v-if="currentlyData && Object.keys(currentlyData).length > 0"
-          >
-            <!--  -->
+          <div class="md:flex block justify-between h-[260px] w-full gap-20-px">
             <DailyPage></DailyPage>
-          </div>
-          <div v-else class="w-full h-[310px]">
-            <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
           </div>
         </div>
 
-        <div class="right-c lg:w-[32%] w-full">
+        <div class="right-c lg:w-[32%] w-full lg:mt-0 md:mt-10 mt-10">
           <!--  -->
-          <div
-            class="right-country lg:h-[260px] md:h-[243px] w-[100%]"
-            v-if="currentlyData && Object.keys(currentlyData).length > 0"
-          >
+          <div class="right-country lg:h-[260px] md:h-[243px] w-[100%]">
             <RadarPage :key="indexState + Math.random()"></RadarPage>
-          </div>
-          <div v-else class="w-full h-[310px]">
-            <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
           </div>
         </div>
       </div>
     </div>
 
-    <!-- Body3 Option-current -->
+    <!-- Desktop -->
     <div
-      class="container local-d lg:flex block w-full justify-between gap-20-px md:pt-2 md:pb-2 mt-4"
+      class="container local-d lg:block hidden w-full justify-between lg:mt-8 md:mt-8"
     >
       <!--  -->
       <div class="md:flex block justify-between w-full gap-20-px">
-        <div class="left-c md:w-[50%] w-full flex flex-col gap-20-px">
+        <div class="left-c md:w-[50%] w-full flex flex-col">
           <!--  -->
-          <div
-            class="w-full"
-            v-if="currentlyData && Object.keys(currentlyData).length > 0"
-          >
+          <div class="w-full">
             <SunPage :key="indexState + Math.random()"></SunPage>
           </div>
-          <div v-else class="w-full h-[230px] md:mt-4 mt-2">
-            <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
-          </div>
-          <div
-            class="w-full"
-            v-if="currentlyData && Object.keys(currentlyData).length > 0"
-          >
+
+          <div class="w-full">
             <MoonPage :key="indexState + Math.random()"></MoonPage>
           </div>
-          <div v-else class="w-full h-[230px] md:mt-1">
-            <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
-          </div>
-
-          <!-- <div
-            class="w-full"
-            v-if="currentlyData && Object.keys(currentlyData).length > 0"
-          >
-            <PreciptationPage></PreciptationPage>
-          </div>
-          <div v-else class="w-full h-[240px] md:mt-1">
-            <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
-          </div> -->
         </div>
 
-        <div class="center-c md:w-[50%] w-full flex flex-col gap-20-px">
+        <div class="center-c md:w-[50%] w-full flex flex-col">
           <!--  -->
-          <div
-            class="w-full"
-            v-if="currentlyData && Object.keys(currentlyData).length > 0"
-          >
+          <div class="w-full">
             <UvPage :key="indexState + Math.random()"></UvPage>
           </div>
-          <div v-else class="w-full h-[230px] mt-4">
-            <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
-          </div>
 
-          <div
-            class="w-full"
-            v-if="currentlyData && Object.keys(currentlyData).length > 0"
-          >
+          <div class="w-full">
             <AirQualityPage :key="indexState + Math.random()"></AirQualityPage>
           </div>
-          <div v-else class="w-full h-[230px] md:mt-1">
-            <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
-          </div>
-
-          <!-- <div
-            class="w-full"
-            v-if="currentlyData && Object.keys(currentlyData).length > 0"
-          >
-            <CloudCoverPage :key="indexState + Math.random()"></CloudCoverPage>
-          </div>
-          <div v-else class="w-full h-[240px] md:mt-1">
-            <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
-          </div> -->
         </div>
 
-        <div class="center-c md:w-[50%] w-full flex flex-col gap-20-px">
-          <div
-            class="w-full"
-            v-if="currentlyData && Object.keys(currentlyData).length > 0"
-          >
+        <div class="center-c md:w-[50%] w-full flex flex-col items-center">
+          <div class="w-full">
             <CloudCoverPage :key="indexState + Math.random()"></CloudCoverPage>
           </div>
-          <div v-else class="w-full h-[240px] mt-4">
-            <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
-          </div>
 
-          <div
-            class="w-full"
-            v-if="currentlyData && Object.keys(currentlyData).length > 0"
-          >
+          <div class="w-full">
             <PreciptationPage
               :key="indexState + Math.random()"
             ></PreciptationPage>
           </div>
-          <div v-else class="w-full h-[240px] md:mt-1">
-            <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
+        </div>
+      </div>
+    </div>
+
+    <!-- Tablet -->
+    <div
+      class="container local-d lg:hidden md:block hidden w-full justify-between lg:mt-8 md:mt-8"
+    >
+      <!--  -->
+      <div class="lg:flex block justify-between w-full gap-20-px">
+        <div class="flex items-center w-full gap-20-px">
+          <div class="left-c md:w-[50%] w-full flex flex-col">
+            <!--  -->
+            <div class="w-full">
+              <SunPage :key="indexState + Math.random()"></SunPage>
+            </div>
+
+            <div class="w-full">
+              <MoonPage :key="indexState + Math.random()"></MoonPage>
+            </div>
           </div>
 
-          <!-- <div
-            class="w-full"
-            v-if="currentlyData && Object.keys(currentlyData).length > 0"
-          >
-            <VisibilityPage :key="indexState + Math.random()"></VisibilityPage>
+          <div class="center-c md:w-[50%] w-full flex flex-col">
+            <!--  -->
+            <div class="w-full">
+              <UvPage :key="indexState + Math.random()"></UvPage>
+            </div>
+
+            <div class="w-full">
+              <AirQualityPage
+                :key="indexState + Math.random()"
+              ></AirQualityPage>
+            </div>
           </div>
-          <div v-else class="w-full h-[240px] md:mt-1">
-            <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
-          </div> -->
+        </div>
+
+        <div class="center-c lg:w-[50%] w-full flex lg:flex-col gap-20-px">
+          <div class="w-full">
+            <CloudCoverPage :key="indexState + Math.random()"></CloudCoverPage>
+          </div>
+
+          <div class="w-full">
+            <PreciptationPage
+              :key="indexState + Math.random()"
+            ></PreciptationPage>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Mobile -->
+    <div
+      class="container local-d lg:hidden block w-full justify-between lg:mt-8 md:mt-8"
+    >
+      <!--  -->
+      <div class="md:flex block justify-between w-full gap-20-px">
+        <div class="left-c md:w-[50%] w-full flex flex-col">
+          <!--  -->
+          <div class="w-full">
+            <SunPage :key="indexState + Math.random()"></SunPage>
+          </div>
+
+          <div class="w-full">
+            <MoonPage :key="indexState + Math.random()"></MoonPage>
+          </div>
+        </div>
+
+        <div class="center-c md:w-[50%] w-full flex flex-col">
+          <!--  -->
+          <div class="w-full">
+            <UvPage :key="indexState + Math.random()"></UvPage>
+          </div>
+
+          <div class="w-full">
+            <AirQualityPage :key="indexState + Math.random()"></AirQualityPage>
+          </div>
+        </div>
+
+        <div class="center-c md:w-[50%] w-full flex flex-col items-center">
+          <div class="w-full">
+            <CloudCoverPage :key="indexState + Math.random()"></CloudCoverPage>
+          </div>
+
+          <div class="w-full">
+            <PreciptationPage
+              :key="indexState + Math.random()"
+            ></PreciptationPage>
+          </div>
         </div>
       </div>
     </div>
 
     <!-- Body4 City around -->
     <div class="container local-c w-full md:flex gap-20-px">
-      <div
-        class="left-location w-[100%]"
-        v-if="currentlyData && Object.keys(currentlyData).length > 0"
-      >
+      <div class="left-location w-[100%]">
         <!--  -->
         <ListNearbyLocation
           :key="indexState + Math.random()"
         ></ListNearbyLocation>
 
         <ListCountryPage :key="indexState + Math.random()"></ListCountryPage>
-      </div>
-      <div v-else class="w-full h-[300px] md:mt-4 mt-2">
-        <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
       </div>
     </div>
 
@@ -206,7 +205,6 @@ import SkeletonLoader from "@/control-ui/SkeletonLoader/SkeletonLoader.vue";
 import { mapGetters, mapMutations } from "vuex";
 import { markRaw } from "vue";
 import DailyPage from "@/components/common/daily-week/daily-page.vue";
-// import PreciptationPage from "@/components/common/preciptation/preciptation-page.vue";
 import CloudCoverPage from "@/components/common/cloud-cover/cloud-cover-page.vue";
 import WindSpeedPage from "@/components/common/wind/wind-speed-page.vue";
 import VisibilityPage from "@/components/common/visibility/visibility.page.vue";
@@ -225,7 +223,6 @@ export default {
     MoonPage,
     UvPage,
     AirQualityPage,
-    SkeletonLoader,
     DailyPage,
     // PreciptationPage,
     CloudCoverPage,
@@ -265,6 +262,20 @@ export default {
       debugger;
       return this.$store.state.commonModule.indexComponent;
     },
+
+    paramAirModule() {
+      const storageAir = localStorage.getItem("airObject");
+      if (storageAir) {
+        // const airObject = decodeBase64(storageAir);
+
+        const decodeAirObject = JSON.parse(storageAir);
+
+        return decodeAirObject.aqi ? decodeAirObject.aqi : 0;
+      }
+      return this.$store.state.airQualityModule.airObject.aqi
+        ? this.$store.state.airQualityModule.airObject.aqi
+        : 0;
+    },
   },
 
   mounted() {
@@ -278,6 +289,7 @@ export default {
   methods: {
     ...mapMutations("commonModule", ["setActiveTab"]),
   },
+
   // beforeRouteLeave(to, from, next) {
   //   window.location.replace(to.fullPath);
   //   next(); // Cho phép chuyển route

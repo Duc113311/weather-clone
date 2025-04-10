@@ -37,11 +37,15 @@
           ></iframe>
         </div>
       </div>
+      <div v-else class="w-full h-[100%]">
+        <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
+      </div>
     </BaseComponent>
   </div>
 </template>
 <script>
 import BaseComponent from "@/components/common/baseComponent.vue";
+import SkeletonLoader from "@/control-ui/SkeletonLoader/SkeletonLoader.vue";
 import { mapGetters } from "vuex";
 
 export default {
@@ -49,6 +53,7 @@ export default {
 
   components: {
     BaseComponent,
+    SkeletonLoader,
   },
 
   data() {

@@ -1,13 +1,16 @@
 <template>
   <div class="w-full">
-    <BaseComponent>
+    <BaseComponent :isShowPad="false">
       <template v-slot:header>
         <div class="flex items-center text-left gap-2">
           <IcTitleCloudCover class="icon-svg"></IcTitleCloudCover>
           <p class="txt_medium_14">{{ $t("Cloud_cover") }}</p>
         </div>
       </template>
-      <div class="w-full h-[182px]">
+      <div
+        class="w-full h-[211px] pad-big"
+        v-if="dailyOneData && Object.keys(dailyOneData).length > 0"
+      >
         <!--  -->
         <div class="w-full h-full flex justify-between gap-2">
           <div class="text-left h-[100px]">
@@ -32,6 +35,9 @@
           </div>
         </div>
       </div>
+      <div v-else class="w-full h-[211px]">
+        <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
+      </div>
     </BaseComponent>
   </div>
 </template>
@@ -41,6 +47,7 @@ import BaseComponent from "../baseComponent.vue";
 import IcCloudyHome from "@/components/icons/IcCloudyHome.vue";
 import { mapGetters } from "vuex";
 import { capitalizeWords, getTitleIconByHouse } from "@/utils/converValue";
+import SkeletonLoader from "@/control-ui/SkeletonLoader/SkeletonLoader.vue";
 
 export default {
   name: "cloud-cover-page",
@@ -49,6 +56,7 @@ export default {
     IcTitleCloudCover,
     BaseComponent,
     IcCloudyHome,
+    SkeletonLoader,
   },
 
   computed: {

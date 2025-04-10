@@ -5,14 +5,7 @@
       <div class="header-h h-full w-full lg:flex block gap-20-px">
         <div class="left-hourly lg:w-[67%] w-full">
           <!--  -->
-          <ChartAvgWeather
-            :key="indexState + Math.random()"
-            v-if="currentlyData && Object.keys(currentlyData).length > 0"
-          >
-          </ChartAvgWeather>
-          <div v-else class="w-full h-full">
-            <SkeletonLoader class="w-full h-[450px]"> </SkeletonLoader>
-          </div>
+          <ChartAvgWeather :key="indexState + Math.random()"> </ChartAvgWeather>
         </div>
 
         <div class="right-hourly lg:w-[31%] w-full lg:mt-0 md:mt-0">

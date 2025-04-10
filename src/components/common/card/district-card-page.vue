@@ -1,67 +1,68 @@
 <template>
   <div class="cursor-pointer">
     <!--  -->
-    <div class="district-card-km">
-      <div class="flex items-center justify-center p-1">
-        <component :is="IcCardCity"></component>
-      </div>
+    <div class="district-card-km overflow-hidden cursor-pointer">
+      <div class="pad-district w-full" v-if="objectLocation !== null">
+        <div class="flex items-center justify-center p-1">
+          <component :is="IcCardCity"></component>
+        </div>
 
-      <div
-        class="text-center txt_medium_14"
-        v-if="breadcumsObject.country_key === 'vn'"
-      >
-        <span v-if="languageParam !== 'vi'">
-          {{
-            splitLocationName(
-              convertCapitalizeWords(
-                removeWordAndAccents(
-                  $t(
-                    `${convertToConvert(
-                      breadcumsObject.city
-                    )}.${convertToConvert(
-                      breadcumsObject.city
-                    )}_${renderLanguage}.${objectLocation.keyAccentLanguage}`
-                  )
-                )
-              )
-            ).name
-          }}
-
-          {{
-            $t(
-              `${
-                splitLocationName(
-                  convertCapitalizeWords(
-                    removeWordAndAccents(
-                      $t(
-                        `${convertToConvert(
-                          breadcumsObject.city
-                        )}.${convertToConvert(
-                          breadcumsObject.city
-                        )}_${renderLanguage}.${
-                          objectLocation.keyAccentLanguage
-                        }`
-                      )
+        <div
+          class="text-center txt_medium_14"
+          v-if="breadcumsObject.country_key === 'vn'"
+        >
+          <span v-if="languageParam !== 'vi'">
+            {{
+              splitLocationName(
+                convertCapitalizeWords(
+                  removeWordAndAccents(
+                    $t(
+                      `${convertToConvert(
+                        breadcumsObject.city
+                      )}.${convertToConvert(
+                        breadcumsObject.city
+                      )}_${renderLanguage}.${objectLocation.keyAccentLanguage}`
                     )
                   )
-                ).types
-              }`
-            )
-          }}
-        </span>
-        <span v-if="languageParam === 'vi'">
-          {{
-            $t(
-              `${convertToConvert(breadcumsObject.city)}.${convertToConvert(
-                breadcumsObject.city
-              )}_${languageParam}.${objectLocation.keyAccentLanguage}`
-            )
-          }}
-        </span>
-      </div>
+                )
+              ).name
+            }}
 
-      <div class="text-center txt_medium_14" v-else>
-        <!-- {{
+            {{
+              $t(
+                `${
+                  splitLocationName(
+                    convertCapitalizeWords(
+                      removeWordAndAccents(
+                        $t(
+                          `${convertToConvert(
+                            breadcumsObject.city
+                          )}.${convertToConvert(
+                            breadcumsObject.city
+                          )}_${renderLanguage}.${
+                            objectLocation.keyAccentLanguage
+                          }`
+                        )
+                      )
+                    )
+                  ).types
+                }`
+              )
+            }}
+          </span>
+          <span v-if="languageParam === 'vi'">
+            {{
+              $t(
+                `${convertToConvert(breadcumsObject.city)}.${convertToConvert(
+                  breadcumsObject.city
+                )}_${languageParam}.${objectLocation.keyAccentLanguage}`
+              )
+            }}
+          </span>
+        </div>
+
+        <div class="text-center txt_medium_14" v-else>
+          <!-- {{
           removeWordAndAccents(
             $t(
               `${convertToConvert(breadcumsObject.city)}.${convertToConvert(
@@ -71,28 +72,35 @@
             "District"
           )
         }} -->
-        <span class="overflow-hidden">{{
-          splitLocationName(objectLocation.enNameLanguage).name
-        }}</span>
-        <span
-          v-if="splitLocationName(objectLocation.enNameLanguage).types !== 0"
-          >{{ splitLocationName(objectLocation.enNameLanguage).types }}</span
-        >
-      </div>
+          <span class="overflow-hidden">{{
+            splitLocationName(objectLocation.enNameLanguage).name
+          }}</span>
+          <span
+            v-if="splitLocationName(objectLocation.enNameLanguage).types !== 0"
+            >{{ splitLocationName(objectLocation.enNameLanguage).types }}</span
+          >
+        </div>
 
-      <div class="txt_regular_12 color_BFBFBF">
-        <!-- <p>
+        <div class="txt_regular_12 color_BFBFBF">
+          <!-- <p>
           ({{ Math.round(calculateDistance(objectLocation.location))
           }}{{ unitSetting.activeDistance_save }} {{ $t("Away") }})
         </p> -->
-        <p v-if="Math.round(calculateDistance(objectLocation.location)) !== 0">
-          {{
-            $t(`{number}_{unit}_away`, {
-              number: Math.round(calculateDistance(objectLocation.location)),
-              unit: unitSetting.activeDistance_save,
-            })
-          }}
-        </p>
+          <p
+            v-if="Math.round(calculateDistance(objectLocation.location)) !== 0"
+          >
+            {{
+              $t(`{number}_{unit}_away`, {
+                number: Math.round(calculateDistance(objectLocation.location)),
+                unit: unitSetting.activeDistance_save,
+              })
+            }}
+          </p>
+        </div>
+      </div>
+
+      <div v-else class="w-full h-[112px]">
+        <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
       </div>
     </div>
   </div>
@@ -105,9 +113,15 @@ import { encodeBase64, urlEncodeString } from "@/utils/EncoderDecoderUtils";
 import { getDistance } from "geolib";
 import IcCardCity from "@/components/icons/IcCardCity.vue";
 import { markRaw } from "vue";
+import SkeletonLoader from "@/control-ui/SkeletonLoader/SkeletonLoader.vue";
 
 export default {
   name: "district-card-page",
+
+  components: {
+    IcCardCity,
+    SkeletonLoader,
+  },
 
   props: {
     objectLocation: {
@@ -254,6 +268,9 @@ export default {
     inset -50px -50px 100px 0px var(--bg-compo-2),
     inset 500px 500px 100px 0px var(--bg-compo-3);
   border-radius: 10px;
+}
+
+.pad-district {
   padding: 10px;
   text-align: center;
   height: 112px;

@@ -23,7 +23,7 @@
           <p class="txt_medium_14">{{ $t("Air_quality") }}</p>
         </div>
       </template>
-      <div class="w-full h-[211px]">
+      <div v-if="apiValue > 0" class="w-full h-[211px]">
         <!--  -->
         <div class="text-left pad-big">
           <div class="flex justify-between items-start">
@@ -86,6 +86,9 @@
           </div>
         </div>
       </div>
+      <div v-else class="w-full h-[211px]">
+        <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
+      </div>
     </BaseComponent>
   </div>
 </template>
@@ -100,11 +103,13 @@ import {
 } from "@/utils/converValue";
 import { mapGetters } from "vuex";
 import { useStore } from "vuex"; // Nhập useStore từ vuex
+import SkeletonLoader from "@/control-ui/SkeletonLoader/SkeletonLoader.vue";
 
 export default {
   name: "air-quality-page",
   components: {
     BaseComponent,
+    SkeletonLoader,
   },
 
   data() {

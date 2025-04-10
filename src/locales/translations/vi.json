@@ -353,11 +353,13 @@
   "Weather_Moon_for_{district}_{city}_{country}": "{district} {city} {country} Thời tiết pha trăng",
   "AM": "SA",
   "PM": "CH",
-  "Max":"Cao",
-  "Min":"Thấp",
-  "In_next_24h":"Trong 24h tới",
-  "Search_your_address":"Địa chỉ, Thành phố",
-  "Recent":"Gần đây",
-  "No_results_found":"Không tìm thấy kết quả nào",
-  "Try_searching_for_a_city_district":"Hãy thử tìm kiếm một thành phố, quận"
+  "Max": "Cao",
+  "Min": "Thấp",
+  "In_next_24h": "Thời tiết hàng ngày",
+  "Daily_Weather_{city}": "Thời gian trong những ngày tới tại {city}",
+  "Search_your_address": "Địa chỉ, Thành phố",
+  "Recent": "Gần đây",
+  "No_results_found": "Không tìm thấy kết quả nào",
+  "Try_searching_for_a_city_district": "Hãy thử tìm kiếm một thành phố, quận",
+  "Tide": "Thủy triều"
 }

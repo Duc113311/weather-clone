@@ -230,17 +230,39 @@ export default {
     async getDataByCounty() {
       const countryCode = this.objectBreadParam.country_key.toLowerCase();
 
-      debugger;
-      if (countryCode === "vn") {
-        const cityName = "Vietnamese";
-        const cityDetail = "vietnam";
-        const dataGet = await getFromIndexedDB(cityName, cityDetail);
+      let cityName, cityDetail;
 
-        for (const element of dataGet[1].data) {
-          const listCity = element.provinceCity;
+      if (countryCode === "vn") {
+        cityName = "Vietnamese";
+        cityDetail = "vietnam";
+      } else {
+        cityName = this.objectBreadParam.country;
+        cityDetail = this.objectBreadParam.country_key;
+      }
+
+      const dataGet = await getFromIndexedDB(cityName, cityDetail);
+
+      // ❗ Kiểm tra dataGet tồn tại và có ít nhất 1 phần tử
+      if (!dataGet || !Array.isArray(dataGet) || dataGet.length === 0) {
+        console.warn(
+          "⚠️ Không tìm thấy dữ liệu trong IndexedDB:",
+          cityName,
+          cityDetail
+        );
+        this.listCityState = [];
+        return;
+      }
+
+      if (countryCode === "vn") {
+        const provinceList = dataGet[1]?.data ?? [];
+
+        for (const element of provinceList) {
+          const listCity = element.provinceCity ?? [];
+
           const findExistData = listCity.filter(
             (x) => x.keyAccentLanguage === this.objectBreadParam.city_key
           );
+
           if (findExistData.length > 0) {
             const findExistNew = listCity.filter(
               (x) => x.keyAccentLanguage !== this.objectBreadParam.city_key
@@ -249,11 +271,11 @@ export default {
             return;
           }
         }
+
+        this.listCityState = [];
+        return;
       } else {
-        const cityName = this.objectBreadParam.country;
-        const cityDetail = this.objectBreadParam.country_key;
-        const dataGet = await getFromIndexedDB(cityName, cityDetail);
-        this.listCityState = dataGet[0].data;
+        this.listCityState = dataGet[0]?.data ?? [];
         return;
       }
     },

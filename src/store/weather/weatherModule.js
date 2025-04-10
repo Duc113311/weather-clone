@@ -198,39 +198,147 @@ const mutations = {
         (objectPush.address = element.formatted_address),
           (objectPush.lat = element.geometry.location.lat),
           (objectPush.lng = element.geometry.location.lng);
-      } else {
-        // Các bang
-        const nameState = element.address_components.find((x) =>
+      }
+
+      // else {
+      //   // Các bang
+      //   const nameState = element.address_components.find((x) =>
+      //     ["administrative_area_level_1", "political"].every((type) =>
+      //       x.types.includes(type)
+      //     )
+      //   ) || { long_name: "" };
+
+      //   // County - quận
+
+      //   const nameArea = element.address_components.find((x) =>
+      //     ["administrative_area_level_2", "political"].every((type) =>
+      //       x.types.includes(type)
+      //     )
+      //   ) || { long_name: "" };
+
+      //   // Thành phố
+      //   const nameCity = element.address_components.find((x) =>
+      //     ["locality", "political"].every((type) => x.types.includes(type))
+      //   ) || { long_name: "" };
+
+      //   if (valueCountry.long_name.length !== 0) {
+      //     objectPush.country = valueCountry.long_name;
+      //     objectPush.country_key = valueCountry.short_name.toLowerCase();
+      //     objectPush.state = nameState.long_name; // bang
+      //     objectPush.state_key = nameState.short_name.toLowerCase(); // key bang
+      //     // objectPush.county = nameArea.long_name; // quận - county
+      //     objectPush.cities = nameCity.long_name; // thành phố
+      //     (objectPush.address = element.formatted_address),
+      //       (objectPush.lat = element.geometry.location.lat),
+      //       (objectPush.lng = element.geometry.location.lng);
+      //   }
+      // }
+
+      state.newArray.push(objectPush);
+    }
+  },
+
+  setAddressRadarMap(state, data) {
+    debugger;
+
+    const jsonValue = data;
+    if (!jsonValue) {
+      return;
+    }
+
+    const listResultAddress = jsonValue;
+
+    const addressResult = listResultAddress.results;
+    debugger;
+    state.newArray = [];
+    for (let index = 0; index < addressResult.length; index++) {
+      const element = addressResult[index];
+
+      // const lastElement =
+      //   element.address_components[element.address_components.length - 1];
+
+      let objectPush = {};
+      const valueCountry = element.address_components.find((x) =>
+        ["country", "political"].every((type) => x.types.includes(type))
+      ) || { long_name: "" };
+
+      if (valueCountry.short_name === "VN") {
+        const nameCity = element.address_components.find((x) =>
           ["administrative_area_level_1", "political"].every((type) =>
             x.types.includes(type)
           )
         ) || { long_name: "" };
-
-        // County - quận
-
-        const nameArea = element.address_components.find((x) =>
+        const nameDistrict = element.address_components.find((x) =>
           ["administrative_area_level_2", "political"].every((type) =>
             x.types.includes(type)
           )
-        ) || { long_name: "" };
+        ) ||
+          element.address_components.find((x) =>
+            ["locality", "political"].every((type) => x.types.includes(type))
+          ) || { long_name: "" };
 
-        // Thành phố
-        const nameCity = element.address_components.find((x) =>
-          ["locality", "political"].every((type) => x.types.includes(type))
-        ) || { long_name: "" };
+        const nameWard = element.address_components.find((x) =>
+          ["administrative_area_level_3", "political"].every((type) =>
+            x.types.includes(type)
+          )
+        ) ||
+          element.address_components.find((x) =>
+            ["neighborhood", "political"].every((type) =>
+              x.types.includes(type)
+            )
+          ) ||
+          element.address_components.find((x) =>
+            ["political", "sublocality", "sublocality_level_1"].every((type) =>
+              x.types.includes(type)
+            )
+          ) || { long_name: "" };
 
-        if (valueCountry.long_name.length !== 0) {
-          objectPush.country = valueCountry.long_name;
-          objectPush.country_key = valueCountry.short_name.toLowerCase();
-          objectPush.state = nameState.long_name; // bang
-          objectPush.state_key = nameState.short_name.toLowerCase(); // key bang
-          // objectPush.county = nameArea.long_name; // quận - county
-          objectPush.cities = nameCity.long_name; // thành phố
-          (objectPush.address = element.formatted_address),
-            (objectPush.lat = element.geometry.location.lat),
-            (objectPush.lng = element.geometry.location.lng);
-        }
+        objectPush.country = valueCountry.long_name;
+        objectPush.country_key = valueCountry.short_name;
+        objectPush.city = nameCity.long_name;
+        objectPush.district = removeWordAndAccents(
+          nameDistrict.long_name,
+          "District"
+        );
+        objectPush.ward = nameWard.long_name;
+        (objectPush.address = element.formatted_address),
+          (objectPush.lat = element.geometry.location.lat),
+          (objectPush.lng = element.geometry.location.lng);
       }
+
+      // else {
+      //   // Các bang
+      //   const nameState = element.address_components.find((x) =>
+      //     ["administrative_area_level_1", "political"].every((type) =>
+      //       x.types.includes(type)
+      //     )
+      //   ) || { long_name: "" };
+
+      //   // County - quận
+
+      //   const nameArea = element.address_components.find((x) =>
+      //     ["administrative_area_level_2", "political"].every((type) =>
+      //       x.types.includes(type)
+      //     )
+      //   ) || { long_name: "" };
+
+      //   // Thành phố
+      //   const nameCity = element.address_components.find((x) =>
+      //     ["locality", "political"].every((type) => x.types.includes(type))
+      //   ) || { long_name: "" };
+
+      //   if (valueCountry.long_name.length !== 0) {
+      //     objectPush.country = valueCountry.long_name;
+      //     objectPush.country_key = valueCountry.short_name.toLowerCase();
+      //     objectPush.state = nameState.long_name; // bang
+      //     objectPush.state_key = nameState.short_name.toLowerCase(); // key bang
+      //     // objectPush.county = nameArea.long_name; // quận - county
+      //     objectPush.cities = nameCity.long_name; // thành phố
+      //     (objectPush.address = element.formatted_address),
+      //       (objectPush.lat = element.geometry.location.lat),
+      //       (objectPush.lng = element.geometry.location.lng);
+      //   }
+      // }
 
       state.newArray.push(objectPush);
     }
@@ -247,7 +355,6 @@ const mutations = {
   setDataTop100City(state, data) {
     state.suggestionsTop100 = data;
   },
-
   // Widget
 
   setWeatherByWidget(state, data) {
@@ -324,6 +431,12 @@ const actions = {
   async getFormattedAddress({ commit }, locationCode) {
     const data = await getWeatherData(locationCode);
     if (data) commit("setFormattedAddress", data);
+  },
+
+  // Lấy thông tin cho radar-map
+  async getAddressRadarMap({ commit }, locationCode) {
+    const data = await getWeatherData(locationCode);
+    if (data) commit("setAddressRadarMap", data);
   },
 
   /**

@@ -1,13 +1,16 @@
 <template>
   <div class="w-full">
-    <BaseComponent>
+    <BaseComponent :isShowPad="false">
       <template v-slot:header>
         <div class="flex items-center text-left gap-2">
           <IcUvIndex class="icon-svg"></IcUvIndex>
           <p class="txt_medium_14">{{ $t("UV") }}</p>
         </div>
       </template>
-      <div class="w-full h-[183px]">
+      <div
+        v-if="currentlyData && Object.keys(currentlyData).length > 0"
+        class="w-full h-[210px] pad-big"
+      >
         <!--  -->
         <div class="text-left h-[100px]">
           <div class="txt_bold_24">
@@ -37,6 +40,9 @@
             </div>
           </div>
         </div>
+      </div>
+      <div v-else class="w-full h-[211px]">
+        <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
       </div>
     </BaseComponent>
   </div>
@@ -75,12 +81,14 @@ Chart.register(
 );
 
 import ChartDataLabels from "chartjs-plugin-datalabels";
+import SkeletonLoader from "@/control-ui/SkeletonLoader/SkeletonLoader.vue";
 
 export default {
   name: "uv-page",
   components: {
     BaseComponent,
     IcUvIndex,
+    SkeletonLoader,
   },
 
   data() {

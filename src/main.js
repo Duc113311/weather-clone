@@ -27,6 +27,7 @@ const app = createApp(App);
 app.use(VueApexCharts);
 console.log("i18n-data", i18n);
 
+
 app.use(store);
 app.use(router);
 app.use(ElementPlus);

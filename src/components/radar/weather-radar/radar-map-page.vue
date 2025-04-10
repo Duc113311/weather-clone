@@ -59,6 +59,7 @@
 import BaseComponent from "@/components/common/baseComponent.vue";
 import IcFullScream from "@/components/icons/radar/IcFullScream.vue";
 import IcLocateFixed from "@/components/icons/radar/IcLocateFixed.vue";
+import { convertLowerCase } from "@/utils/coverTextSystem";
 import { markRaw } from "vue";
 import { mapGetters, mapMutations } from "vuex";
 export default {
@@ -89,7 +90,12 @@ export default {
   computed: {
     ...mapGetters("weatherModule", ["cityCountryGetters"]),
     ...mapGetters("commonModule", ["breadcumsObjectGetters"]),
-
+    languageParam() {
+      const languageRouter = this.$route.params;
+      return Object.keys(languageRouter).length !== 0
+        ? languageRouter.language
+        : this.$i18n.locale;
+    },
     wardParam() {
       const retrievedArray = JSON.parse(localStorage.getItem("objectBread"));
       const resultData = retrievedArray
@@ -156,15 +162,20 @@ export default {
     },
 
     toggleFullScreen() {
-      // const iframe = this.$el.querySelector("iframe");
-      // if (iframe) {
-      //   if (!document.fullscreenElement) {
-      //     iframe.requestFullscreen().catch((err) => {});
-      //   } else {
-      //     document.exitFullscreen();
-      //   }
-      // }
-      this.$router.push("");
+      this.$router
+        .push({
+          name: "radar-map",
+          params: {
+            language: this.languageParam,
+            location: [
+              this.wardParam.country_key.toLowerCase(),
+              convertLowerCase(this.wardParam.city),
+            ],
+          },
+        })
+        .then(() => {
+          window.location.reload(); // ✅ Reload sau khi push xong
+        });
     },
 
     moveToPosition(position) {

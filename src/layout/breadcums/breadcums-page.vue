@@ -2,7 +2,7 @@
   <div class="w-full items-center text-left color_f9f9f9 pad-t-b mt-2">
     <div class="container">
       <div class="flex justify-between items-center">
-        <div class="flex items-center gap-2 txt_regular_17">
+        <div class="flex items-center gap-2 txt_regular_14">
           <div class="cursor-pointer" @click="onClickHome()">
             {{ $t("Home") }}
           </div>

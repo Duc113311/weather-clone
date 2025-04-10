@@ -1,13 +1,16 @@
 <template>
   <div class="w-full">
-    <BaseComponent>
+    <BaseComponent :isShowPad="false">
       <template v-slot:header>
         <div class="flex items-center text-left gap-2">
           <IcPrecipitation class="icon-svg"></IcPrecipitation>
           <p class="txt_medium_14">{{ $t("Precipitation") }}</p>
         </div>
       </template>
-      <div class="w-full h-[184px]">
+      <div
+        v-if="currentlyData && Object.keys(currentlyData).length > 0"
+        class="w-full h-[212px] pad-big"
+      >
         <div class="w-full h-full flex justify-between gap-2">
           <div class="text-left h-[100px]">
             <p class="txt_bold_24">
@@ -48,6 +51,9 @@
           </div>
         </div>
       </div>
+      <div v-else class="w-full h-[212px]">
+        <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
+      </div>
     </BaseComponent>
   </div>
 </template>
@@ -65,6 +71,7 @@ import {
 } from "@/utils/converValue";
 import IcChanceOfRainSnow from "@/components/icons/IcChanceOfRainSnow.vue";
 import IcChanceOfRain from "@/components/icons/IcChanceOfRain.vue";
+import SkeletonLoader from "@/control-ui/SkeletonLoader/SkeletonLoader.vue";
 // import IcPrecipitation from "@/components/icons/IcPrecipitation.vue";
 
 export default {
@@ -77,6 +84,7 @@ export default {
     IcPrecipitationHome,
     IcChanceOfRain,
     IcChanceOfRainSnow,
+    SkeletonLoader,
   },
 
   computed: {

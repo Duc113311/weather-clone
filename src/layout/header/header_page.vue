@@ -302,11 +302,14 @@ import {
   convertToWorldState,
   convertToWourldState,
   decryptData,
+  findCityDataConvert,
+  findDistrictsDataConvert,
   getFromIndexedDB,
   removeWordAndAccents,
   replaceApostropheWithUnderscore,
   saveToIndexedDB,
 } from "@/utils/coverTextSystem";
+import { loadProvinceWould } from "@/helpers/indexedDb";
 
 export default {
   name: "header_page",
@@ -505,6 +508,9 @@ export default {
       "getFormattedAddress",
     ]),
 
+    /**
+     * Get data search
+     */
     async onSearch() {
       const currentInput = this.searchQuery;
       debugger;
@@ -624,54 +630,14 @@ export default {
      * @param queryString
      * @param cb
      */
-    async handleFocus() {
-      this.isShowProgress = true;
-
-      const useCurrentLocation = {
-        isFallback: true,
-        address: "",
-        country: "",
-      };
-
-      if (!this.valueSearch) {
-        this.suggestions = [useCurrentLocation];
-        return;
-      }
-
-      try {
-        const urlParam = `version=1&type=4&app_id=amobi.weather.forecast.radar.rain&request=https://maps.googleapis.com/maps/api/geocode/json?address=${urlEncodeString(
-          this.valueSearch
-        )}&key=TOH_KEY`;
-
-        const encoded = encodeBase64(urlParam);
-        await this.getFormattedAddress(encoded);
-
-        const resultFromStore = this.$store.state.weatherModule.newArray || [];
-        this.suggestions = [useCurrentLocation, ...resultFromStore];
-      } catch (error) {
-        console.error("❌ Lỗi fetch gợi ý:", error);
-        this.suggestions = [useCurrentLocation];
-      }
-    },
-
-    splitStingWard(inputString) {
-      return inputString.split("_").slice(1).join("_");
-    },
 
     findCityData(value) {
       const listCityVN = decryptData(this.objectCityByLocationData);
+      const resultData = findCityDataConvert(value, listCityVN);
+      debugger;
+      console.log("resultData", resultData);
 
-      const replaceCity = convertToVietnamese(value.city).cityConvert;
-      for (let index = 0; index < listCityVN.length; index++) {
-        const element = listCityVN[index];
-        const provinceCityData = element.provinceCity;
-        const findData = provinceCityData.find(
-          (x) => x.keyAccentLanguage === replaceCity
-        );
-        if (findData) {
-          return findData;
-        }
-      }
+      return resultData;
     },
 
     renderToCelsiusAndUnit(value) {
@@ -690,50 +656,16 @@ export default {
     findDistrictsData(value) {
       const listCityVN = decryptData(this.listCityAllData);
 
-      const replaceCity = convertToVietnamese(value.city).cityConvert;
-      const replaceDistrict = convertToConvertLowerCase(value.district);
+      const resultData = findDistrictsDataConvert(value, listCityVN);
 
-      const replaceApos = replaceApostropheWithUnderscore(replaceDistrict);
-      const findData = listCityVN.find(
-        (x) => x.keyAccentLanguage === replaceCity
-      );
-
-      if (findData) {
-        const districtListData = findData.districtList;
-
-        // Kiểm tra districtListData có tồn tại và là mảng không
-        if (Array.isArray(districtListData)) {
-          for (let index = 0; index < districtListData.length; index++) {
-            const element = districtListData[index];
-
-            const checkSub = checkSubstring(
-              removeAccents(element.keyAccentLanguage),
-              replaceApos
-            );
-
-            if (checkSub) {
-              return element; // Trả về district nếu tìm thấy
-            }
-          }
-        } else {
-          console.error("districtListData không phải là mảng");
-        }
-      }
-
-      return null; // Trả về null nếu không tìm thấy district
+      return resultData; // Trả về null nếu không tìm thấy district
     },
-    // async handleEnter(event) {
-    //   const matchedItem = this.suggestions[1];
-    //   if (matchedItem) {
-    //     await this.handleSelect(matchedItem); // Gọi handleSelect khi nhấn Enter
-    //   } else {
-    //     console.log("No matching item found");
-    //   }
-    // },
 
     async handleSelect(item) {
       this.searchQuery = "";
       this.suggestions = [];
+
+      debugger;
       if (item?.country_key?.toLowerCase() === "vn") {
         await this.loadAllFileJson().then(async (x) => {
           const cityName = "Vietnamese";
@@ -742,7 +674,7 @@ export default {
           console.log("dataGet", dataGet);
         });
       } else {
-        await this.loadProvinceWould(item).then(async (x) => {
+        await loadProvinceWould(item).then(async (x) => {
           const cityName = item.country;
           const cityDetail = item.country_key;
           const dataGet = await getFromIndexedDB(cityName, cityDetail);
@@ -780,6 +712,7 @@ export default {
 
         this.setBreadcumsNotAllowLocation(objectBread);
 
+        debugger;
         // tồn tại thành phố
         if (
           objectBread.city.length !== 0 &&
@@ -924,32 +857,6 @@ export default {
       return convertToWorldState(value);
     },
 
-    async loadProvinceWould(value) {
-      const formattedCountry = value.country;
-
-      const cityName = value.country;
-      const cityDetail = value.country_key;
-      try {
-        const response = await fetch(
-          `/json/world/common/${formattedCountry}.json`
-        );
-        if (!response.ok)
-          throw new Error(
-            `Failed to fetch data: ${response.status} ${response.statusText}`
-          );
-        const provinceData = await response.json(); // Parse JSON data
-
-        const objectState = {
-          id: formattedCountry,
-          data: provinceData,
-        };
-        // this.setObjectFormattesLocation(objectState);
-        await saveToIndexedDB([objectState], cityName, cityDetail);
-      } catch (error) {
-        console.error("Error loading file:", error.message);
-      }
-    },
-
     async loadAllFileJson() {
       let provinces = [];
 
@@ -1085,7 +992,7 @@ export default {
           // console.log("dataGet", dataGet);
         });
       } else {
-        await this.loadProvinceWould(objectBreadValue).then(async (x) => {
+        await loadProvinceWould(objectBreadValue).then(async (x) => {
           const cityName = objectBreadValue.country;
           const cityDetail = objectBreadValue.country_key;
           // const dataGet = await getFromIndexedDB(cityName, cityDetail);
@@ -1253,7 +1160,7 @@ export default {
           // console.log("dataGet", dataGet);
         });
       } else {
-        await this.loadProvinceWould(objectBreadValue).then(async (x) => {
+        await loadProvinceWould(objectBreadValue).then(async (x) => {
           const cityName = objectBreadValue.country;
           const cityDetail = objectBreadValue.country_key;
           // const dataGet = await getFromIndexedDB(cityName, cityDetail);

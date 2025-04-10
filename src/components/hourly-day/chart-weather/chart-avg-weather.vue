@@ -1,10 +1,7 @@
 <template>
   <div class="w-full">
     <div class="lg:flex items-center gap-20-px w-full h-full">
-      <div
-        class="left-i w-full"
-        v-if="currentlyData && Object.keys(currentlyData).length > 0"
-      >
+      <div class="left-i w-full">
         <BaseComponent :isShowPad="false">
           <template v-slot:header>
             <div class="flex items-center text-left gap-2">
@@ -81,17 +78,20 @@
           </template>
 
           <div class="w-full">
-            <div class="w-auto h-[380px] pl-4 pr-4">
+            <div
+              v-if="currentlyData && Object.keys(currentlyData).length < 0"
+              class="w-auto h-[380px] pl-4 pr-4"
+            >
               <!-- <ChartTempRain></ChartTempRain> -->
               <ChartSyntheticHourly></ChartSyntheticHourly>
+            </div>
+            <div v-else class="l w-full h-[380px]">
+              <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
             </div>
 
             <!--  -->
           </div>
         </BaseComponent>
-      </div>
-      <div v-else class="lg:w-[566px] w-full h-[480px]">
-        <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
       </div>
     </div>
   </div>

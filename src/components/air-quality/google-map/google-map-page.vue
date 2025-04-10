@@ -71,8 +71,8 @@ export default {
     renderAir() {
       const storageAir = localStorage.getItem("airObject");
       if (storageAir) {
-        const airObject = decodeBase64(storageAir);
-        const decodeAirObject = JSON.parse(airObject);
+        // const airObject = decodeBase64(storageAir);
+        const decodeAirObject = JSON.parse(storageAir);
         return decodeAirObject.nearest ? decodeAirObject.nearest : [];
       }
       return this.$store.state.airQualityModule.airObject.nearest

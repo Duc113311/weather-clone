@@ -22,9 +22,11 @@
           </svg>
           <div class="txt_medium_14" v-if="wardParam.country_key === 'vn'">
             <span v-if="wardParam?.city && !wardParam?.district">{{
-              $t(`Current_weather_in_{city}`, {
-                city: convertToLowCase(wardParam.city),
-              })
+              capitalizeEachWord(
+                $t(`Current_weather_in_{city}`, {
+                  city: convertToLowCase(wardParam.city),
+                })
+              )
             }}</span>
             <span
               v-if="wardParam?.city && wardParam?.district && !wardParam?.ward"
@@ -72,7 +74,10 @@
         <!--  -->
         <TabNavigation @onChangeTabChart="onChangeTabChart"></TabNavigation>
         <!--  -->
-        <div class="w-full h-[378px] pad-l-r">
+        <div
+          v-if="currentlyData && Object.keys(currentlyData).length > 0"
+          class="w-full h-[378px] pad-l-r"
+        >
           <ChartTempRain
             :key="indexKey + Math.random()"
             v-show="indexChart === 0"
@@ -96,6 +101,9 @@
             v-show="indexChart === 4"
           ></PressureChartPage>
         </div>
+        <div v-else class="w-full h-[378px]">
+          <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
+        </div>
 
         <!--  -->
       </div>
@@ -114,6 +122,8 @@ import HumidChartPage from "../humid-chart/humid-chart-page.vue";
 import PressureChartPage from "../pressure-chart/pressure-chart-page.vue";
 import removeAccents from "remove-accents";
 import { capitalizeWords } from "@/utils/converValue";
+import SkeletonLoader from "@/control-ui/SkeletonLoader/SkeletonLoader.vue";
+import { capitalizeEachWord } from "@/utils/coverTextSystem";
 
 export default {
   name: "temp-page",
@@ -127,6 +137,7 @@ export default {
     WindChartPage,
     HumidChartPage,
     PressureChartPage,
+    SkeletonLoader,
   },
 
   computed: {
@@ -180,6 +191,10 @@ export default {
 
   methods: {
     ...mapMutations("commonModule", ["setIndexComponent"]),
+
+    capitalizeEachWord(value) {
+      return capitalizeEachWord(value);
+    },
     convertCapitalizeWords(value) {
       return capitalizeWords(value);
     },

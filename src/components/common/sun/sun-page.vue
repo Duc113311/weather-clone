@@ -7,7 +7,10 @@
           <p class="txt_medium_14">{{ $t("Suns") }}</p>
         </div>
       </template>
-      <div class="w-full lg:h-[212px] h-[210px]">
+      <div
+        v-if="paramDailyOne && Object.keys(paramDailyOne).length > 0"
+        class="w-full lg:h-[212px] h-[210px]"
+      >
         <!--  -->
         <div class="sun-rise-progression w-full relative">
           <div
@@ -55,6 +58,9 @@
           ></canvas>
         </div>
       </div>
+      <div v-else class="w-full h-[211px]">
+        <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
+      </div>
     </BaseComponent>
   </div>
 </template>
@@ -73,11 +79,13 @@ import {
   convertTimestampToHoursMinutes12,
 } from "../../../utils/converValue.js";
 import IcTitleSun from "@/components/icons/IcTitleSun.vue";
+import SkeletonLoader from "@/control-ui/SkeletonLoader/SkeletonLoader.vue";
 export default {
   name: "sun-page",
   components: {
     BaseComponent,
     IcTitleSun,
+    SkeletonLoader,
   },
 
   data() {
@@ -152,8 +160,22 @@ export default {
       }
     },
     async createProgressionSin() {
+      if (
+        !this.paramDailyOne ||
+        Object.keys(this.paramDailyOne).length === 0 ||
+        !this.timeHourly ||
+        !this.imgTop ||
+        !this.imgBottom
+      ) {
+        console.warn("🚫 Thiếu dữ liệu, không vẽ canvas");
+        return;
+      }
       // Lấy canvas gốc và context của nó
       var canvas = document.getElementById("draw_progression");
+      if (!canvas) {
+        console.warn("🚫 Không tìm thấy canvas");
+        return;
+      }
       var ctx = canvas.getContext("2d");
 
       // Khởi tạo tiếp 2 thằng con
