@@ -79,7 +79,7 @@
 
           <div class="w-full">
             <div
-              v-if="currentlyData && Object.keys(currentlyData).length < 0"
+              v-if="currentlyData && Object.keys(currentlyData).length > 0"
               class="w-auto h-[380px] pl-4 pr-4"
             >
               <!-- <ChartTempRain></ChartTempRain> -->

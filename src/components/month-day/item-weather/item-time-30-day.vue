@@ -94,7 +94,7 @@
       <transition-group name="fade" tag="div">
         <div class="gap-4 flex flex-col cursor-pointer">
           <BaseList v-for="(item, index) in displayedItems" :key="item.time">
-            <div class="w-full">
+            <div v-if="item === null" class="w-full">
               <!--  -->
               <div
                 @click="onClickShowDetailCard(index)"
@@ -363,6 +363,9 @@
                 </div>
               </div>
             </div>
+            <div v-else class="w-full mt-4">
+              <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
+            </div>
           </BaseList>
         </div>
       </transition-group>
@@ -437,6 +440,7 @@ import IcHumidity from "@/components/icons/IcHumidity.vue";
 import IcChanceOfRainSnow from "@/components/icons/IcChanceOfRainSnow.vue";
 import IcTitleOzone3 from "@/components/icons/IcTitleOzone3.vue";
 import IcTitleWindGust from "@/components/icons/IcTitleWindGust.vue";
+import SkeletonLoader from "@/control-ui/SkeletonLoader/SkeletonLoader.vue";
 
 export default {
   name: "item-time-30-day",
@@ -461,6 +465,7 @@ export default {
     IcChanceOfRainSnow,
     IcTitleOzone3,
     IcTitleWindGust,
+    SkeletonLoader,
   },
   data() {
     return {

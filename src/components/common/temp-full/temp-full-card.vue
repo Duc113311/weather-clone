@@ -69,7 +69,7 @@
         </div>
       </template>
       <InforFullCard
-        v-if="currentlyData && Object.keys(currentlyData).length < 0"
+        v-if="currentlyData && Object.keys(currentlyData).length > 0"
       ></InforFullCard>
       <div v-else class="w-full h-full">
         <SkeletonLoader class="w-full h-[380px]"> </SkeletonLoader>

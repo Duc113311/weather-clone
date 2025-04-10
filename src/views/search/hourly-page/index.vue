@@ -9,13 +9,7 @@
         </div>
 
         <div class="right-hourly lg:w-[31%] w-full lg:mt-0 md:mt-0">
-          <TempFullCard
-            :key="indexState + Math.random()"
-            v-if="currentlyData && Object.keys(currentlyData).length > 0"
-          ></TempFullCard>
-          <div v-else class="w-full h-full mt-4">
-            <SkeletonLoader class="w-full h-[400px]"> </SkeletonLoader>
-          </div>
+          <TempFullCard :key="indexState + Math.random()"></TempFullCard>
         </div>
       </div>
     </div>
@@ -25,81 +19,40 @@
       <div class="lg:flex w-full h-full mt-1 gap-20-px">
         <div class="left-hourly h-full lg:w-[68%] w-full">
           <!--  -->
-          <ItemTime24h
-            :key="indexState + Math.random()"
-            v-if="currentlyData && Object.keys(currentlyData).length > 0"
-          ></ItemTime24h>
-          <div v-else class="w-full h-[860px] mt-4">
-            <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
-          </div>
+          <ItemTime24h :key="indexState + Math.random()"></ItemTime24h>
 
-          <div
-            class="left-hourly w-[100%] lg:mt-0 md:mt-10"
-            v-if="currentlyData && Object.keys(currentlyData).length > 0"
-          >
+          <div class="left-hourly w-[100%] lg:mt-0 md:mt-10">
             <ListNearbyLocation
               :key="indexState + Math.random()"
             ></ListNearbyLocation>
           </div>
-          <div v-else class="w-full h-[380px] mt-5">
-            <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
-          </div>
 
-          <div
-            class="left-hourly w-[100%] lg:mt-0"
-            v-if="currentlyData && Object.keys(currentlyData).length > 0"
-          >
+          <div class="left-hourly w-[100%] lg:mt-0">
             <ListCountryPage
               :key="indexState + Math.random()"
             ></ListCountryPage>
-          </div>
-          <div v-else class="w-full h-[380px] mt-5">
-            <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
           </div>
         </div>
 
         <div
           class="right-hourly lg:w-[32%] w-full md:grid md:grid-cols-2 gap-5 lg:block"
         >
-          <SunPage
-            :key="indexState + Math.random()"
-            v-if="currentlyData && Object.keys(currentlyData).length > 0"
-          ></SunPage>
-          <div v-else class="w-full h-[260px] md:mt-5">
-            <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
-          </div>
-          <MoonPage
-            :key="indexState + Math.random()"
-            v-if="currentlyData && Object.keys(currentlyData).length > 0"
-          ></MoonPage>
-          <div v-else class="w-full h-[260px] md:mt-5">
-            <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
-          </div>
+          <SunPage :key="indexState + Math.random()"></SunPage>
+
+          <MoonPage :key="indexState + Math.random()"></MoonPage>
+
           <UvPage
             class="lg:mt-0 md:mt-6"
             :key="indexState + Math.random()"
-            v-if="currentlyData && Object.keys(currentlyData).length > 0"
           ></UvPage>
-          <div v-else class="w-full h-[260px] md:mt-5">
-            <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
-          </div>
+
           <AirQualityPage
             class="lg:mt-0 md:mt-6"
             :key="indexState + Math.random()"
-            v-if="currentlyData && Object.keys(currentlyData).length > 0"
           ></AirQualityPage>
-          <div v-else class="w-full h-[260px] md:mt-5">
-            <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
-          </div>
 
-          <div
-            class="right-hourly lg:h-[243px] w-[100%]"
-            v-if="currentlyData && Object.keys(currentlyData).length > 0"
-          >
+          <div class="right-hourly lg:h-[243px] w-[100%]">
             <RadarPage :key="indexState + Math.random()"></RadarPage>
-          </div>
-          <div v-else class="w-full h-[380px] mt-5">
-            <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
           </div>
         </div>
       </div>
@@ -133,7 +86,7 @@ export default {
     SunPage,
     MoonPage,
     AirQualityPage,
-    SkeletonLoader,
+    // SkeletonLoader,
     ListNearbyLocation,
     UvPage,
     TempFullCard,

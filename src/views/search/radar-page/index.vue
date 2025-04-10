@@ -5,13 +5,8 @@
       <div class="header-m h-full lg:flex w-full gap-20-px">
         <div class="left-hourly lg:w-[70%] w-full">
           <!--  -->
-          <RadarMapPage
-            v-if="currentlyData && Object.keys(currentlyData).length > 0"
-            :overlayValue="overlayValue"
-          ></RadarMapPage>
-          <div v-else class="w-full h-[510px]">
-            <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
-          </div>
+          <RadarMapPage :overlayValue="overlayValue"></RadarMapPage>
+
           <!--  -->
         </div>
 
@@ -19,12 +14,8 @@
           <!--  -->
           <TempFullCard
             :key="indexState + Math.random()"
-            v-if="currentlyData && Object.keys(currentlyData).length > 0"
             :title="titleParam"
           ></TempFullCard>
-          <div v-else class="w-full h-[510px]">
-            <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
-          </div>
         </div>
       </div>
     </div>
@@ -63,7 +54,7 @@ export default {
     TempFullCard,
     RadarMapPage,
     OptionMapRadarPage,
-    SkeletonLoader,
+    // SkeletonLoader,
   },
   data() {
     return {

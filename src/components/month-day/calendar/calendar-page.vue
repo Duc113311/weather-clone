@@ -29,7 +29,7 @@
         </div>
       </template>
 
-      <div class="w-full gap-4 grid">
+      <div v-if="adjustedCalendar.length >= 10" class="w-full gap-4 grid">
         <div class="w-full">
           <div class="calendar">
             <ul class="weeks bor-bottom bg-title-calender p-2">
@@ -157,6 +157,9 @@
 
         <!--  -->
       </div>
+      <div v-else class="w-full h-[460px]">
+        <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
+      </div>
     </BaseComponent>
   </div>
   <el-drawer
@@ -180,6 +183,8 @@ import IcChanceOfRain from "@/components/icons/IcChanceOfRain.vue";
 import { markRaw } from "vue";
 import IcTemptMax from "@/components/icons/IcTemptMax.vue";
 import IcTemptMin from "@/components/icons/IcTemptMin.vue";
+import SkeletonLoader from "@/control-ui/SkeletonLoader/SkeletonLoader.vue";
+
 export default {
   name: "calendar-page",
 
@@ -188,6 +193,7 @@ export default {
     PopupCalendarDetail,
     IcTemptMax,
     IcTemptMin,
+    SkeletonLoader,
   },
   data() {
     return {

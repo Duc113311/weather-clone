@@ -97,7 +97,7 @@
           :uniqueKey="item.time"
           :key="item.time"
         >
-          <div class="w-full cursor-pointer">
+          <div v-if="item !== null" class="w-full cursor-pointer">
             <!--  -->
             <div
               @click="onClickShowDetailCard(index)"
@@ -317,6 +317,9 @@
               </div>
             </div>
           </div>
+          <div v-else class="w-full mt-4">
+            <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
+          </div>
         </BaseList>
         <!-- Đã thêm key -->
       </transition-group>
@@ -389,6 +392,7 @@ import IcHumidity from "@/components/icons/IcHumidity.vue";
 import IcChanceOfRainSnow from "@/components/icons/IcChanceOfRainSnow.vue";
 import IcTitleOzone3 from "@/components/icons/IcTitleOzone3.vue";
 import IcTitleWindGust from "@/components/icons/IcTitleWindGust.vue";
+import SkeletonLoader from "@/control-ui/SkeletonLoader/SkeletonLoader.vue";
 
 export default {
   name: "item-time-24h",
@@ -413,6 +417,7 @@ export default {
     IcChanceOfRainSnow,
     IcTitleWindGust,
     IcTitleOzone3,
+    SkeletonLoader,
   },
   data() {
     return {

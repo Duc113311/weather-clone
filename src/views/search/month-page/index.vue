@@ -5,13 +5,7 @@
       <div class="header-m flex w-full gap-20-px h-full">
         <div class="left-hourly w-full">
           <!--  -->
-          <CalendarPage
-            :key="indexState + Math.random()"
-            v-if="currentlyData && Object.keys(currentlyData).length > 0"
-          ></CalendarPage>
-          <div v-else class="w-full h-full">
-            <SkeletonLoader class="w-full h-[600px]"> </SkeletonLoader>
-          </div>
+          <CalendarPage :key="indexState + Math.random()"></CalendarPage>
         </div>
       </div>
     </div>
@@ -20,27 +14,15 @@
       <div class="header-b ld:block lg:flex w-full gap-20-px h-full">
         <div class="left-hourly lg:w-[67%] w-full">
           <!--  -->
-          <ChartMonthPage
-            :key="indexState + Math.random()"
-            v-if="listDaily30DayData && listDaily30DayData.length > 0"
-          ></ChartMonthPage>
-          <div v-else class="w-full h-full mt-6">
-            <SkeletonLoader class="w-full h-[460px]"> </SkeletonLoader>
-          </div>
+          <ChartMonthPage :key="indexState + Math.random()"></ChartMonthPage>
         </div>
 
         <div class="right-hourly lg:w-[31%] w-full lg:h-[439px]">
           <!--  -->
           <TempFullCard
             :key="indexState + Math.random()"
-            v-if="currentlyData && Object.keys(currentlyData).length > 0"
             :title="title"
           ></TempFullCard>
-
-          <div v-else class="w-full h-full">
-            <SkeletonLoader class="w-full h-[600px]"> </SkeletonLoader>
-          </div>
-          <!--  -->
         </div>
       </div>
     </div>
@@ -50,80 +32,39 @@
         <div class="left-hourly lg:w-[68%] w-full">
           <!--  -->
 
-          <ItemTime30Day
-            :key="indexState + Math.random()"
-            v-if="currentlyData && Object.keys(currentlyData).length > 0"
-          ></ItemTime30Day>
-          <div v-else class="w-full h-full mt-6">
-            <SkeletonLoader class="w-full h-[960px]"> </SkeletonLoader>
-          </div>
+          <ItemTime30Day :key="indexState + Math.random()"></ItemTime30Day>
 
-          <div
-            class="left-hourly w-[100%] lg:mt-0 md:mt-10"
-            v-if="currentlyData && Object.keys(currentlyData).length > 0"
-          >
+          <div class="left-hourly w-[100%] lg:mt-0 md:mt-10">
             <ListNearbyLocation
               :key="indexState + Math.random()"
             ></ListNearbyLocation>
           </div>
-          <div v-else class="w-full h-[380px] mt-5">
-            <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
-          </div>
 
-          <div
-            class="right-hourly w-[100%]"
-            v-if="currentlyData && Object.keys(currentlyData).length > 0"
-          >
+          <div class="right-hourly w-[100%]">
             <ListCountryPage
               :key="indexState + Math.random()"
             ></ListCountryPage>
-          </div>
-          <div v-else class="w-full h-[380px] mt-5">
-            <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
           </div>
         </div>
 
         <div
           class="right-hourly lg:w-[32%] w-full md:grid md:grid-cols-2 gap-5 lg:block"
         >
-          <RadarPage
-            class="lg:h-[200px]"
-            v-if="currentlyData && Object.keys(currentlyData).length > 0"
-          ></RadarPage>
-          <div v-else class="w-full h-[260px] md:mt-5">
-            <SkeletonLoader class="w-full h-[260px]"> </SkeletonLoader>
-          </div>
-          <SunPage
-            class="mt-10"
-            :key="indexState + Math.random()"
-            v-if="currentlyData && Object.keys(currentlyData).length > 0"
-          ></SunPage>
-          <div v-else class="w-full h-[260px] md:mt-5">
-            <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
-          </div>
-          <MoonPage
-            :key="indexState + Math.random()"
-            v-if="currentlyData && Object.keys(currentlyData).length > 0"
-          ></MoonPage>
-          <div v-else class="w-full h-[260px] md:mt-5">
-            <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
-          </div>
+          <RadarPage class="lg:h-[200px]"></RadarPage>
+
+          <SunPage class="mt-10" :key="indexState + Math.random()"></SunPage>
+
+          <MoonPage :key="indexState + Math.random()"></MoonPage>
+
           <UvPage
             class="lg:mt-0 md:mt-6"
             :key="indexState + Math.random()"
-            v-if="currentlyData && Object.keys(currentlyData).length > 0"
           ></UvPage>
-          <div v-else class="w-full h-[260px] md:mt-5">
-            <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
-          </div>
+
           <AirQualityPage
             class="lg:mt-0 md:mt-6"
             :key="indexState + Math.random()"
-            v-if="currentlyData && Object.keys(currentlyData).length > 0"
           ></AirQualityPage>
-          <div v-else class="w-full h-[260px] md:mt-5">
-            <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
-          </div>
         </div>
       </div>
     </div>
@@ -160,7 +101,7 @@ export default {
     MoonPage,
     UvPage,
     AirQualityPage,
-    SkeletonLoader,
+    // SkeletonLoader,
     ListNearbyLocation,
     ListCountryPage,
   },

@@ -67,7 +67,7 @@
         </div>
       </template>
 
-      <div class="w-full gap-4">
+      <div v-if="paramMonth.length >= 10" class="w-full gap-4">
         <div class="w-auto h-[380px] pl-4 pr-4">
           <!-- <ChartTempRain></ChartTempRain> -->
           <div class="w-full relative h-full">
@@ -138,6 +138,9 @@
 
         <!--  -->
       </div>
+      <div v-else class="w-full h-[380px]">
+        <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
+      </div>
     </BaseComponent>
   </div>
 </template>
@@ -155,6 +158,7 @@ import ChartChanceOfRainBarMonth from "./chart-chance-of-rain-bar-month.vue";
 import ChartTitleTempMaxMin from "./chart-title-temp-max-min.vue";
 import ChartTitleChanceOfRain from "@/components/common/chart/chart-title-chance-of-rain.vue";
 import ChartTitleChanceOfRainMonth from "./chart-title-chance-of-rain-month.vue";
+import SkeletonLoader from "@/control-ui/SkeletonLoader/SkeletonLoader.vue";
 
 export default {
   name: "chart-month-page",
@@ -169,6 +173,7 @@ export default {
     ChartPrecipitation,
     ChartChanceOfRainBarMonth,
     ChartTitleChanceOfRainMonth,
+    SkeletonLoader,
   },
   data() {
     return {

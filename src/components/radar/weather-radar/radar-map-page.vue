@@ -23,7 +23,7 @@
         </div>
       </template>
 
-      <div class="w-full h-[380px]">
+      <div v-if="renderRadar" class="w-full h-[380px]">
         <div class="w-full h-full relative">
           <iframe
             ref="radarIframe"
@@ -52,6 +52,9 @@
           </div>
         </div>
       </div>
+      <div v-else class="w-full h-[380px]">
+        <SkeletonLoader class="w-full h-full"> </SkeletonLoader>
+      </div>
     </BaseComponent>
   </div>
 </template>
@@ -62,11 +65,14 @@ import IcLocateFixed from "@/components/icons/radar/IcLocateFixed.vue";
 import { convertLowerCase } from "@/utils/coverTextSystem";
 import { markRaw } from "vue";
 import { mapGetters, mapMutations } from "vuex";
+import SkeletonLoader from "@/control-ui/SkeletonLoader/SkeletonLoader.vue";
+
 export default {
   name: "radar-map-page",
 
   components: {
     BaseComponent,
+    SkeletonLoader,
   },
 
   data() {
